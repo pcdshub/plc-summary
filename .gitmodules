@@ -1,0 +1,45 @@
+[submodule "lcls-plc-crixs-motion"]
+	path = lcls-plc-crixs-motion
+	url = git@github.com:pcdshub/lcls-plc-crixs-motion
+[submodule "lcls-plc-crixs-vac"]
+	path = lcls-plc-crixs-vac
+	url = git@github.com:pcdshub/lcls-plc-crixs-vac
+[submodule "lcls-plc-kfe-gmd-vac"]
+	path = lcls-plc-kfe-gmd-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-gmd-vac
+[submodule "lcls-plc-kfe-motion"]
+	path = lcls-plc-kfe-motion
+	url = git@github.com:pcdshub/lcls-plc-kfe-motion
+[submodule "lcls-plc-kfe-rix-motion"]
+	path = lcls-plc-kfe-rix-motion
+	url = git@github.com:pcdshub/lcls-plc-kfe-rix-motion
+[submodule "lcls-plc-kfe-rix-vac"]
+	path = lcls-plc-kfe-rix-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-rix-vac
+[submodule "lcls-plc-kfe-vac"]
+	path = lcls-plc-kfe-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-vac
+[submodule "lcls-plc-kfe-xgmd-vac"]
+	path = lcls-plc-kfe-xgmd-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-xgmd-vac
+[submodule "lcls-plc-lamp-vac"]
+	path = lcls-plc-lamp-vac
+	url = git@github.com:pcdshub/lcls-plc-lamp-vac
+[submodule "lcls-plc-lfe-motion"]
+	path = lcls-plc-lfe-motion
+	url = git@github.com:pcdshub/lcls-plc-lfe-motion
+[submodule "lcls-plc-lfe-vac"]
+	path = lcls-plc-lfe-vac
+	url = git@github.com:pcdshub/lcls-plc-lfe-vac
+[submodule "lcls-plc-tmo-motion"]
+	path = lcls-plc-tmo-motion
+	url = git@github.com:pcdshub/lcls-plc-tmo-motion
+[submodule "lcls-plc-tmo-vac"]
+	path = lcls-plc-tmo-vac
+	url = git@github.com:pcdshub/lcls-plc-tmo-vac
+[submodule "lcls-plc-vls-vac"]
+	path = lcls-plc-vls-vac
+	url = git@github.com:pcdshub/lcls-plc-vls-vac
+[submodule "lcls-plc-vonhamos-motion"]
+	path = lcls-plc-vonhamos-motion
+	url = git@github.com:pcdshub/lcls-plc-vonhamos-motion
