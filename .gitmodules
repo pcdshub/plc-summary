@@ -43,3 +43,12 @@
 [submodule "lcls-plc-vonhamos-motion"]
 	path = lcls-plc-vonhamos-motion
 	url = git@github.com:pcdshub/lcls-plc-vonhamos-motion
+[submodule "lcls-plc-rix-motion"]
+	path = lcls-plc-rix-motion
+	url = git@github.com:pcdshub/lcls-plc-rix-motion
+[submodule "lcls-plc-rixs-optics"]
+	path = lcls-plc-rixs-optics
+	url = git@github.com:pcdshub/lcls-plc-rixs-optics
+[submodule "lcls-plc-mfx-be-lens-interlock"]
+	path = lcls-plc-mfx-be-lens-interlock
+	url = git@github.com:pcdshub/lcls-plc-mfx-be-lens-interlock
