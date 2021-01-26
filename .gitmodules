@@ -52,3 +52,24 @@
 [submodule "lcls-plc-mfx-be-lens-interlock"]
 	path = lcls-plc-mfx-be-lens-interlock
 	url = git@github.com:pcdshub/lcls-plc-mfx-be-lens-interlock
+[submodule "lcls-plc-kfe-arbiter"]
+	path = lcls-plc-kfe-arbiter
+	url = git@github.com:pcdshub/lcls-plc-kfe-arbiter
+[submodule "lcls-plc-lfe-arbiter"]
+	path = lcls-plc-lfe-arbiter
+	url = git@github.com:pcdshub/lcls-plc-lfe-arbiter
+[submodule "lcls-plc-lfe-gem"]
+	path = lcls-plc-lfe-gem
+	url = git@github.com:pcdshub/lcls-plc-lfe-gem
+[submodule "lcls-plc-lfe-motion-kmono"]
+	path = lcls-plc-lfe-motion-kmono
+	url = git@github.com:pcdshub/lcls-plc-lfe-motion-kmono
+[submodule "lcls-plc-lfe-optics"]
+	path = lcls-plc-lfe-optics
+	url = git@github.com:pcdshub/lcls-plc-lfe-optics
+[submodule "lcls-plc-roving-spectrometer"]
+	path = lcls-plc-roving-spectrometer
+	url = git@github.com:pcdshub/lcls-plc-roving-spectrometer
+[submodule "lcls-plc-tmo-optics"]
+	path = lcls-plc-tmo-optics
+	url = git@github.com:pcdshub/lcls-plc-tmo-optics
