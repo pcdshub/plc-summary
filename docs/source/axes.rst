@@ -1,18 +1,28 @@
 Projects
 --------
 
-- lcls-plc-kfe-motion/plc-kfe-motion/plc-kfe-motion.tsproj
-- lcls-plc-tmo-motion/plc-tmo-motion/plc-tmo-motion.tsproj
-- lcls-plc-kfe-rix-motion/plc-kfe-rix-motion/plc-kfe-rix-motion.tsproj
-- lcls-plc-kfe-xgmd-vac/plc/plc-kfe-xgmd-vac/plc_kfe_xgmd_vac.tsproj
-- lcls-plc-kfe-gmd-vac/plc/plc-kfe-gmd-vac/plc-kfe-gmd-vac.tsproj
-- lcls-plc-lfe-motion/plc-lfe-motion/plc-lfe-motion.tsproj
-- lcls-plc-tmo-vac/plc-tmo-vac/plc-tmo-vac.tsproj
-- lcls-plc-lamp-vac/plc-lamp-vac/plc-lamp-vac/plc-lamp-vac.tsproj
-- lcls-plc-lfe-vac/plc_lfe_vac/plc_lfe_vac/plc_lfe_vac.tsproj
-- lcls-plc-vonhamos-motion/lcls-plc-hxx-vonhamos/lcls-plc-hxx-vonhamos.tsproj
-- lcls-plc-kfe-vac/plc/plc-kfe-vac/plc-kfe-vac.tsproj
-- lcls-plc-kfe-rix-vac/plc-kfe-rix-vac/plc-kfe-rix-vac.tsproj
+- plc-kfe-motion
+- plc-tmo-motion
+- plc-kfe-rix-motion
+- Arbiter
+- plc-kfe-rix-motion
+- plc_kfe_xgmd_vac
+- plc-kfe-gmd-vac
+- plc-lfe-motion
+- lcls-plc-roving-spectrometer
+- plc-tmo-vac
+- MFX
+- plc-lamp-vac
+- Arbiter
+- plc-lfe-motion-kmono
+- plc_lfe_vac
+- lcls-plc-tmo-optics
+- plc-lfe-gem
+- lcls-plc-rixs-optics
+- lcls-plc-hxx-vonhamos
+- lcls-plc-lfe-optics
+- plc-kfe-vac
+- plc-kfe-rix-vac
 
 Axes
 ----
@@ -25,114 +35,198 @@ Axes
       - plc-kfe-motion
       - plc-tmo-motion
       - plc-kfe-rix-motion
+      - plc-kfe-rix-motion
       - plc_kfe_xgmd_vac
       - plc-kfe-gmd-vac
       - plc-lfe-motion
+      - lcls-plc-roving-spectrometer
+      - plc-lfe-motion-kmono
+      - lcls-plc-tmo-optics
+      - lcls-plc-rixs-optics
       - lcls-plc-hxx-vonhamos
+      - lcls-plc-lfe-optics
 
     * - Axis 1
       - Axis 1 IM1K0-XTES-MMS
       - Axis 1 AL1K4-L2SI-MMS
       - Axis 1 IM1K1-PPM-MMS
+      - Axis 1 IM1K1-PPM-MMS
       - VGP_50
       - 
       - Axis 1
+      - ALL_H
+      - XTAL ANGLE X
+      - M1K4-Yup
+      - M1K2-Yleft
       - VonHamosY
+      - M1L0-Yup
     * - Axis 2
       - Axis 2 IM1K0-XTES-CLZ
       - Axis 2
       - Axis 2 IM2K1-PPM-MMS
+      - Axis 2 IM2K1-PPM-MMS
       - 
       - 
       - Axis 2
+      - ALL_V
+      - XTAL VERT Y
+      - M1K4-Ydwn
+      - M1K2-Yright
       - Axis 2 (Spare)
+      - M1L0-Ydwn
     * - Axis 3
       - Axis 3 IM1K0-XTES-CLF
       - Axis 3
       - Axis 3 ST1K1-ZOS-MMS
+      - Axis 3 ST1K1-ZOS-MMS
       - 
       - VGP_40
       - Axis 3
+      - XTAL_TH
+      - RETICLE HORIZ X
+      - M1K4-Xup
+      - M1K2-Xup
       - Axis 3 (Spare)
+      - M1L0-Xup
     * - Axis 4
       - Axis 4 IM1K3-PPM-MMS
       - Axis 4
-      - 
+      - Axis 4 IM1K2-PPM-MMS
+      - Axis 4 IM1K2-PPM-MMS
       - 
       - 
       - Axis 4
+      - XTAL_TTH
+      - RETICLE VERT Y
+      - M1K4-Xdwn
+      - M1K2-Xdwn
       - Axis 4 (Spare)
+      - M1L0-Xdwn
     * - Axis 5
       - Axis 5 IM2K0-XTES-MMS
       - Axis 5
       - 
       - 
       - 
-      - Axis 5
       - 
+      - Axis 5
+      - XTAL_H
+      - DIODE HORIZ X
+      - M1K4-Pitch
+      - M1K2-Pitch
+      - 
+      - M1L0-Pitch
     * - Axis 6
       - Axis 6 IM2K0-XTES-CLZ
       - Axis 6 IM1K4-XTES-MMS
       - 
       - 
       - 
-      - Axis 6
       - 
+      - Axis 6
+      - XTAL_V
+      - DIODE VERT Y
+      - M1K4-Bender
+      - m_pi
+      - 
+      - M1L0-Bender
     * - Axis 7
       - Axis 7 IM2K0-XTES-CLF
       - Axis 7 IM1K4-XTES-CLZ
       - 
       - 
       - 
-      - Axis 7
       - 
+      - Axis 7
+      - DET_H
+      - 
+      - M2K4-X
+      - g_pi
+      - 
+      - M2L0-Yup
     * - Axis 8
       - Axis 8 PF1K0-WFS-MMS-Y
       - Axis 8 IM1K4-XTES-CLF
       - 
       - 
       - 
-      - Axis 8
       - 
+      - Axis 8
+      - DET_V
+      - 
+      - M2K4-Y
+      - m_h
+      - 
+      - M2L0-Ydwn
     * - Axis 9
       - Axis 9 PF1K0-WFS-MMS-Z
       - Axis 9 IM2K4-PPM-MMS
       - 
       - 
       - 
+      - 
       - Axis 9
       - 
+      - 
+      - M2K4-rY
+      - g_h
+      - 
+      - M2L0-Xup
     * - Axis 10
       - Axis 10
       - SL1K4-BOTTOM-M10
       - 
       - 
       - 
+      - 
       - Axis 10
       - 
+      - 
+      - M2K4-BEND-US
+      - s_io
+      - 
+      - M2L0-Xdwn
     * - Axis 11
       - Axis 11
       - SL1K4-TOP-M11
       - 
       - 
       - 
+      - 
       - Axis 11
       - 
+      - 
+      - M2K4-BEND-DS
+      - s_r
+      - 
+      - M2L0-Pitch
     * - Axis 12
       - Axis 12
       - SL1K4-NORTH-M12
       - 
       - 
       - 
+      - 
       - Axis 12
       - 
+      - 
+      - M3K4-X
+      - M1K1-Yup
+      - 
+      - M2L0-Bender
     * - Axis 13
       - Axis 13
       - SL1K4-SOUTH-M13
       - 
       - 
       - 
+      - 
       - Axis 13
+      - 
+      - 
+      - M3K4-Y
+      - M1K1-Ydwn
+      - 
       - 
     * - Axis 14
       - Axis 14
@@ -140,7 +234,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 14
+      - 
+      - 
+      - M3K4-rX
+      - M1K1-Xup
+      - 
       - 
     * - Axis 15
       - Axis 15
@@ -148,7 +248,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 15
+      - 
+      - 
+      - M3K4-BEND-US
+      - M1K1-Xdwn
+      - 
       - 
     * - Axis 16
       - Axis 16
@@ -156,7 +262,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 16
+      - 
+      - 
+      - M3K4-BEND-DS
+      - M1K1-Pitch
+      - 
       - 
     * - Axis 17
       - Axis 17
@@ -164,7 +276,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 17
+      - 
+      - 
+      - 
+      - M1K1-BEND-US
+      - 
       - 
     * - Axis 18
       - SL1K0-SOUTH-M18
@@ -172,7 +290,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 18
+      - 
+      - 
+      - 
+      - M1K1-BEND-DS
+      - 
       - 
     * - Axis 19
       - SL1K0-TOP-M19
@@ -180,7 +304,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 19
+      - 
+      - 
+      - 
+      - SL1K2-Pitch-M19
+      - 
       - 
     * - Axis 20
       - SL1K0-NORTH-M20
@@ -188,7 +318,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 20 IM1L0-XTES-MMS
+      - 
+      - 
+      - 
+      - SL1K2-Vert-M20
+      - 
       - 
     * - Axis 21
       - SL1K0-BOTTOM-M21
@@ -196,7 +332,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 21 IM1L0-XTES-CLZ
+      - 
+      - 
+      - 
+      - SL1K2-Roll-M21
+      - 
       - 
     * - Axis 22
       - SL2K0-SOUTH-M22
@@ -204,7 +346,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 22 IM1L0-XTES-CLF
+      - 
+      - 
+      - 
+      - SL1K2-CrystalGap-M22
+      - 
       - 
     * - Axis 23
       - SL2K0-TOP-M23
@@ -212,7 +360,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 23 IM1L1-PPM-MMS
+      - 
+      - 
+      - 
+      - SL1K2-YAG-M23
+      - 
       - 
     * - Axis 24
       - SL2K0-NORTH-M24
@@ -220,7 +374,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 24 IM2L0-XTES-MMS
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 25
       - SL2K0-BOTTOM-M25
@@ -228,39 +388,69 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 25 IM2L0-XTES-CLZ
       - 
+      - 
+      - 
+      - 
+      - 
+      - 
     * - Axis 26
-      - Axis 26
+      - Axis 26 AT1K4-SOLID-01 MMS-01
       - SL2K4-SOUTH-M26
+      - 
       - 
       - 
       - 
       - Axis 26 IM2L0-XTES-CLF
       - 
+      - 
+      - 
+      - 
+      - 
+      - 
     * - Axis 27
-      - Axis 27
+      - Axis 27 AT1K4-SOLID-02 MMS-02
+      - 
       - 
       - 
       - 
       - 
       - Axis 27 IM3L0-PPM-MMS
       - 
+      - 
+      - 
+      - 
+      - 
+      - 
     * - Axis 28
-      - Axis 28
+      - Axis 28 AT1K4-SOLID-03 MMS-03
+      - 
       - 
       - 
       - 
       - 
       - Axis 28 IM4L0-XTES-MMS
       - 
+      - 
+      - 
+      - 
+      - 
+      - 
     * - Axis 29
-      - Axis 29
+      - Axis 29 AT1K4-SOLID-04 MMS-04
+      - 
       - 
       - 
       - 
       - 
       - Axis 29 IM4L0-XTES-CLZ
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 30
       - Axis 30 IM1K4-XTES-MMS
@@ -268,7 +458,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 30 IM4L0-XTES-CLF
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 31
       - Axis 31 IM1K4-XTES-CLZ
@@ -276,7 +472,13 @@ Axes
       - 
       - 
       - 
+      - 
       - PF1L0-WFS-MMS-01
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 32
       - Axis 32 IM1K4-XTES-CLF
@@ -284,7 +486,13 @@ Axes
       - 
       - 
       - 
+      - 
       - PF1L0-WFS-MMS-02
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 33
       - ST1K4-TEST
@@ -292,7 +500,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 33
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 34
       - 
@@ -300,7 +514,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 34
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 35
       - 
@@ -308,7 +528,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 35
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 36
       - 
@@ -316,7 +542,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 36
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 37
       - 
@@ -324,7 +556,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 37
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 38
       - 
@@ -332,7 +570,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 38
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 39
       - 
@@ -340,7 +584,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 39
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 40
       - 
@@ -348,7 +598,13 @@ Axes
       - 
       - 
       - 
+      - 
       - Axis 40
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 41
       - 
@@ -356,7 +612,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL1L0-BOTTOM-M41
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 42
       - 
@@ -364,7 +626,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL1L0-SOUTH-M42
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 43
       - 
@@ -372,7 +640,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL1L0-TOP-M43
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 44
       - 
@@ -380,7 +654,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL1L0-NORTH-M44
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 45
       - 
@@ -388,7 +668,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL2L0-BOTTOM-M45
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 46
       - 
@@ -396,7 +682,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL2L0-SOUTH-M46
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 47
       - 
@@ -404,7 +696,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL2L0-TOP-M47
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 48
       - 
@@ -412,7 +710,13 @@ Axes
       - 
       - 
       - 
+      - 
       - SL2L0-NORTH-M48
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 49
       - 
@@ -420,7 +724,13 @@ Axes
       - 
       - 
       - 
+      - 
       - XTAL ANGLE X
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 50
       - 
@@ -428,7 +738,13 @@ Axes
       - 
       - 
       - 
+      - 
       - XTAL VERT Y
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 51
       - 
@@ -436,7 +752,13 @@ Axes
       - 
       - 
       - 
+      - 
       - RETICLE HORIZ X
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 52
       - 
@@ -444,7 +766,13 @@ Axes
       - 
       - 
       - 
+      - 
       - RETICLE VERT Y
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 53
       - 
@@ -452,7 +780,13 @@ Axes
       - 
       - 
       - 
+      - 
       - DIODE HORIZ X
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
     * - Axis 54
       - 
@@ -460,6 +794,2084 @@ Axes
       - 
       - 
       - 
+      - 
       - DIODE VERT Y
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 55
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 56
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 57
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 58
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 59
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 60
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 61
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 62
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 63
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 64
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 65
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 66
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 67
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 68
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 69
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 70
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 71
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 72
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 73
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 74
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 75
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 76
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 77
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 78
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 79
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 80
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 81
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 82
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 83
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 84
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 85
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 86
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 87
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 88
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 89
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 90
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 91
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 92
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 93
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 94
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 95
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 96
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 97
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 98
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 99
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 100
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 101
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 102
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 103
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 104
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 105
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 106
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 107
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 108
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 109
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 110
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 111
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 112
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 113
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 114
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 115
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 116
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 117
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 118
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 119
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 120
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 121
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 122
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 123
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 124
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 125
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 126
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 127
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 128
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 129
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 130
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 131
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 132
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 133
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 134
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 135
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 136
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 137
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 138
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 139
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 140
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 141
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 142
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 143
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 144
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 145
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 146
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 147
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 148
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 149
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 150
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 151
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 152
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 153
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 154
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 155
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 156
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 157
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 158
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 159
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 160
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 161
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 162
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 163
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 164
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 165
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 166
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 167
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 168
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 169
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 170
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 171
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 172
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 173
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 174
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 175
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 176
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 177
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 178
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 179
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 180
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 181
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 182
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 183
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 184
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 185
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 186
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 187
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 188
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 189
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 190
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 191
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 192
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 193
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 194
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 195
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 196
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 197
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 198
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 199
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Axis 200
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - enc_mpi_up
+      - 
+      - 
+    * - Axis 201
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - enc_gpi_up
+      - 
+      - 
+    * - Axis 202
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - g_h_enc-axis
+      - 
       - 
 

@@ -7,6 +7,7 @@ PLC Summary
     :glob:
 
     axes
+    versions
 
 
 Indices and tables

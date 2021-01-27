@@ -1,12 +1,12 @@
-Projects
---------
+Project Listing
+===============
 
 {% for name, project in projects.items() %}
 - {{ name.stem }}
 {% endfor %}
 
 Axes
-----
+====
 
 {% set nc_counts = [] %}
 {% for name, project in projects.items() %}
