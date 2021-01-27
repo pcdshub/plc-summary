@@ -73,3 +73,6 @@
 [submodule "lcls-plc-tmo-optics"]
 	path = lcls-plc-tmo-optics
 	url = git@github.com:pcdshub/lcls-plc-tmo-optics
+[submodule "lcls-plc-cvmi-vac"]
+	path = lcls-plc-cvmi-vac
+	url = git@github.com:pcdshub/lcls-plc-cvmi-vac

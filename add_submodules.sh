@@ -7,6 +7,7 @@ add_submodule() {
 
 add_submodule lcls-plc-crixs-motion
 add_submodule lcls-plc-crixs-vac
+add_submodule lcls-plc-cvmi-vac
 add_submodule lcls-plc-kfe-arbiter
 add_submodule lcls-plc-kfe-gmd-vac
 add_submodule lcls-plc-kfe-motion
