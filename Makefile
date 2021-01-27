@@ -15,4 +15,10 @@ update_remotes:
 docs:
 	make -C docs html
 
+gh-pages:
+	master_commit=$$(git rev-parse --short HEAD) && \
+		git checkout gh-pages && \
+		cp -R docs/build/html/ . && \
+		git commit -am "Regenerated docs for commit $$master_commit"
+
 .PHONY: all docs initialize update_remotes
