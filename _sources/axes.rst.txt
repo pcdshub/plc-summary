@@ -1,10 +1,10 @@
-Projects
---------
+Project Listing
+===============
 
 - plc-kfe-motion
 - plc-tmo-motion
-- plc-kfe-rix-motion
 - Arbiter
+- SDS
 - plc-kfe-rix-motion
 - plc_kfe_xgmd_vac
 - plc-kfe-gmd-vac
@@ -19,13 +19,15 @@ Projects
 - lcls-plc-tmo-optics
 - plc-lfe-gem
 - lcls-plc-rixs-optics
+- lcls-plc-las-bts
 - lcls-plc-hxx-vonhamos
+- plc-cvmi-vac
 - lcls-plc-lfe-optics
 - plc-kfe-vac
 - plc-kfe-rix-vac
 
 Axes
-----
+====
 
 
 .. list-table:: Axis Names
@@ -34,7 +36,7 @@ Axes
     * - PLC / Axis
       - plc-kfe-motion
       - plc-tmo-motion
-      - plc-kfe-rix-motion
+      - SDS
       - plc-kfe-rix-motion
       - plc_kfe_xgmd_vac
       - plc-kfe-gmd-vac
@@ -49,7 +51,7 @@ Axes
     * - Axis 1
       - Axis 1 IM1K0-XTES-MMS
       - Axis 1 AL1K4-L2SI-MMS
-      - Axis 1 IM1K1-PPM-MMS
+      - 
       - Axis 1 IM1K1-PPM-MMS
       - VGP_50
       - 
@@ -63,7 +65,7 @@ Axes
     * - Axis 2
       - Axis 2 IM1K0-XTES-CLZ
       - Axis 2
-      - Axis 2 IM2K1-PPM-MMS
+      - 
       - Axis 2 IM2K1-PPM-MMS
       - 
       - 
@@ -77,7 +79,7 @@ Axes
     * - Axis 3
       - Axis 3 IM1K0-XTES-CLF
       - Axis 3
-      - Axis 3 ST1K1-ZOS-MMS
+      - ALI_X
       - Axis 3 ST1K1-ZOS-MMS
       - 
       - VGP_40
@@ -91,7 +93,7 @@ Axes
     * - Axis 4
       - Axis 4 IM1K3-PPM-MMS
       - Axis 4
-      - Axis 4 IM1K2-PPM-MMS
+      - ALI_Y
       - Axis 4 IM1K2-PPM-MMS
       - 
       - 
@@ -105,7 +107,7 @@ Axes
     * - Axis 5
       - Axis 5 IM2K0-XTES-MMS
       - Axis 5
-      - 
+      - ALI_Z
       - 
       - 
       - 
@@ -119,7 +121,7 @@ Axes
     * - Axis 6
       - Axis 6 IM2K0-XTES-CLZ
       - Axis 6 IM1K4-XTES-MMS
-      - 
+      - ALI_PropValve
       - 
       - 
       - 
