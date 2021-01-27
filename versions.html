@@ -1,0 +1,4177 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Dependencies &mdash; plc-summary  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Projects" href="axes.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> plc-summary
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">PLCs</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="axes.html">Projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="axes.html#axes">Axes</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Dependencies</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#by-plc">By PLC</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#arbiterplc">ArbiterPLC</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id1">ArbiterPLC</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#hxx-vonhamos">hxx_vonhamos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#kfe-motion">kfe_motion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#kfe-rix-motion">kfe_rix_motion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls-plc-roving-spectrometer">lcls_plc_roving_spectrometer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lfe-motion">lfe_motion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lfe-optics">lfe_optics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#mfx-plc">MFX-PLC</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-gmd-vac">plc_kfe_gmd_vac</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-gmd-vac-sim">plc_kfe_gmd_vac_sim</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-rix-vac">plc_kfe_rix_vac</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-rix-vac-fs">plc_kfe_rix_vac_fs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-vac">plc_kfe_vac</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-vac-sim">plc_kfe_vac_sim</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-xgmd-vac">plc_kfe_xgmd_vac</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-kfe-xgmd-vac-sim">plc_kfe_xgmd_vac_sim</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-lamp-vac">plc_lamp_vac</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-lfe-gem">plc_lfe_gem</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-lfe-motion-kmono">plc_lfe_motion_kmono</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-lfe-vac">plc_lfe_vac</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-lfe-vac-fs">plc_lfe_vac_fs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-tmo-vac">PLC_TMO_VAC</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#plc-tmo-vac-fs">PLC_TMO_VAC_FS</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#rixs-optics">rixs_optics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tmo-motion">tmo_motion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tmo-optics">tmo_optics</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#by-library">By Library</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#l2si-vacuum-library">L2SI Vacuum Library</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls-general">LCLS General</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls-vacuum">LCLS Vacuum</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-motion">lcls-twincat-motion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-optics">lcls-twincat-optics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls2-cc-lib">lcls2-cc-lib</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lclsvacuumlib">LCLSVacuumLib</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lclsvacuumserialdriverlib">LCLSVacuumSerialDriverLib</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#pmps">PMPS</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#sysfile">SysFile</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-controllertoolbox">Tc2_ControllerToolbox</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-ethercat">Tc2_EtherCAT</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-iofunctions">Tc2_IoFunctions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-math">Tc2_Math</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-mc2">Tc2_MC2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-modbussrv">Tc2_ModbusSrv</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-serialcom">Tc2_SerialCom</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-standard">Tc2_Standard</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-system">Tc2_System</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-systemcx">Tc2_SystemCX</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-tcpip">Tc2_TcpIp</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc2-utilities">Tc2_Utilities</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc3-eventlogger">Tc3_EventLogger</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc3-interfaces">Tc3_Interfaces</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc3-jsonxml">Tc3_JsonXml</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tc3-module">Tc3_Module</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tcunit">TcUnit</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#vacuum-system-simulator-library">Vacuum System Simulator Library</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visudialogs">VisuDialogs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuelem3dpath">VisuElem3DPath</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuelemmeter">VisuElemMeter</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuelems">VisuElems</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuelemsspecialcontrols">VisuElemsSpecialControls</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuelemswincontrols">VisuElemsWinControls</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuelemtexteditor">VisuElemTextEditor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visuinputs">visuinputs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visunativecontrol">VisuNativeControl</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">plc-summary</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Dependencies</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/versions.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="dependencies">
+<h1>Dependencies<a class="headerlink" href="#dependencies" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="by-plc">
+<h2>By PLC<a class="headerlink" href="#by-plc" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="arbiterplc">
+<h3>ArbiterPLC<a class="headerlink" href="#arbiterplc" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id2">
+<caption><span class="caption-text">lcls-plc-kfe-arbiter/Arbiter</span><a class="headerlink" href="#id2" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SystemCX</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="id1">
+<h3>ArbiterPLC<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id3">
+<caption><span class="caption-text">lcls-plc-lfe-arbiter/Arbiter</span><a class="headerlink" href="#id3" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.14.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_EtherCAT</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_IoFunctions</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.11.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.37.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Math</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_ModbusSrv</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_SystemCX</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_TcpIp</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_EventLogger</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_JsonXml</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code> Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="hxx-vonhamos">
+<h3>hxx_vonhamos<a class="headerlink" href="#hxx-vonhamos" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id4">
+<caption><span class="caption-text">lcls-plc-vonhamos-motion/lcls-plc-hxx-vonhamos</span><a class="headerlink" href="#id4" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.3.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="kfe-motion">
+<h3>kfe_motion<a class="headerlink" href="#kfe-motion" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id5">
+<caption><span class="caption-text">lcls-plc-kfe-motion/plc-kfe-motion</span><a class="headerlink" href="#id5" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls2-cc-lib</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code> SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="kfe-rix-motion">
+<h3>kfe_rix_motion<a class="headerlink" href="#kfe-rix-motion" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id6">
+<caption><span class="caption-text">lcls-plc-kfe-rix-motion/plc-kfe-rix-motion</span><a class="headerlink" href="#id6" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls2-cc-lib</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code> SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lcls-plc-roving-spectrometer">
+<h3>lcls_plc_roving_spectrometer<a class="headerlink" href="#lcls-plc-roving-spectrometer" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id7">
+<caption><span class="caption-text">lcls-plc-roving-spectrometer/lcls-plc-roving-spectrometer</span><a class="headerlink" href="#id7" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lfe-motion">
+<h3>lfe_motion<a class="headerlink" href="#lfe-motion" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id8">
+<caption><span class="caption-text">lcls-plc-lfe-motion/plc-lfe-motion</span><a class="headerlink" href="#id8" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls2-cc-lib</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code> SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lfe-optics">
+<h3>lfe_optics<a class="headerlink" href="#lfe-optics" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id9">
+<caption><span class="caption-text">lcls-plc-lfe-optics/lcls-plc-lfe-optics</span><a class="headerlink" href="#id9" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_ControllerToolbox</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuDialogs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemMeter</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.0</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemTextEditor</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.10</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuElems</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.40</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemsSpecialControls</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.0</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemsWinControls</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.40</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuNativeControl</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.40</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>visuinputs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.0</span></code> system</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="mfx-plc">
+<h3>MFX-PLC<a class="headerlink" href="#mfx-plc" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id10">
+<caption><span class="caption-text">Repos/plc-summary</span><a class="headerlink" href="#id10" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLSVacuumLib</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_ModbusSrv</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code> Beckhoff</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Interfaces</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuElem3DPath</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemMeter</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemTextEditor</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElems</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.10</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemsSpecialControls</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.10</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemsWinControls</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.10</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>VisuNativeControl</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code> System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>visuinputs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code> system</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-gmd-vac">
+<h3>plc_kfe_gmd_vac<a class="headerlink" href="#plc-kfe-gmd-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id11">
+<caption><span class="caption-text">plc-summary/lcls-plc-kfe-gmd-vac</span><a class="headerlink" href="#id11" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_ControllerToolbox</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-gmd-vac-sim">
+<h3>plc_kfe_gmd_vac_sim<a class="headerlink" href="#plc-kfe-gmd-vac-sim" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id12">
+<caption><span class="caption-text">plc-summary/lcls-plc-kfe-gmd-vac</span><a class="headerlink" href="#id12" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Vacuum System Simulator Library</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemMeter</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemTextEditor</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-even"><td><p>VisuElems</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemsSpecialControls</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemsWinControls</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>VisuNativeControl</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-rix-vac">
+<h3>plc_kfe_rix_vac<a class="headerlink" href="#plc-kfe-rix-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id13">
+<caption><span class="caption-text">lcls-plc-kfe-rix-vac/plc-kfe-rix-vac</span><a class="headerlink" href="#id13" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.4</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_TcpIp</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-rix-vac-fs">
+<h3>plc_kfe_rix_vac_fs<a class="headerlink" href="#plc-kfe-rix-vac-fs" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id14">
+<caption><span class="caption-text">lcls-plc-kfe-rix-vac/plc-kfe-rix-vac</span><a class="headerlink" href="#id14" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-vac">
+<h3>plc_kfe_vac<a class="headerlink" href="#plc-kfe-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id15">
+<caption><span class="caption-text">plc-summary/lcls-plc-kfe-vac</span><a class="headerlink" href="#id15" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-vac-sim">
+<h3>plc_kfe_vac_sim<a class="headerlink" href="#plc-kfe-vac-sim" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id16">
+<caption><span class="caption-text">plc-summary/lcls-plc-kfe-vac</span><a class="headerlink" href="#id16" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Vacuum System Simulator Library</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-xgmd-vac">
+<h3>plc_kfe_xgmd_vac<a class="headerlink" href="#plc-kfe-xgmd-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id17">
+<caption><span class="caption-text">plc-summary/lcls-plc-kfe-xgmd-vac</span><a class="headerlink" href="#id17" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_ControllerToolbox</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-kfe-xgmd-vac-sim">
+<h3>plc_kfe_xgmd_vac_sim<a class="headerlink" href="#plc-kfe-xgmd-vac-sim" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id18">
+<caption><span class="caption-text">plc-summary/lcls-plc-kfe-xgmd-vac</span><a class="headerlink" href="#id18" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Vacuum System Simulator Library</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemMeter</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemTextEditor</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-even"><td><p>VisuElems</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>VisuElemsSpecialControls</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-even"><td><p>VisuElemsWinControls</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>VisuNativeControl</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-lamp-vac">
+<h3>plc_lamp_vac<a class="headerlink" href="#plc-lamp-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id19">
+<caption><span class="caption-text">plc-summary/lcls-plc-lamp-vac</span><a class="headerlink" href="#id19" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>LCLSVacuumSerialDriverLib</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.2</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-lfe-gem">
+<h3>plc_lfe_gem<a class="headerlink" href="#plc-lfe-gem" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id20">
+<caption><span class="caption-text">Repos/plc-summary</span><a class="headerlink" href="#id20" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>L2SI Vacuum Library</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.2.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>SysFile</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.9.0</span></code> System</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_ControllerToolbox</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.1.4</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_EtherCAT</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.37.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Math</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_ModbusSrv</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_TcpIp</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_EventLogger</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_JsonXml</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code> Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-lfe-motion-kmono">
+<h3>plc_lfe_motion_kmono<a class="headerlink" href="#plc-lfe-motion-kmono" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id21">
+<caption><span class="caption-text">lcls-plc-lfe-motion-kmono/plc-lfe-motion-kmono</span><a class="headerlink" href="#id21" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-lfe-vac">
+<h3>plc_lfe_vac<a class="headerlink" href="#plc-lfe-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id22">
+<caption><span class="caption-text">plc-summary/lcls-plc-lfe-vac</span><a class="headerlink" href="#id22" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.3.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.13.0</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_EtherCAT</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_IoFunctions</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.11.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_ModbusSrv</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_TcpIp</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_EventLogger</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_JsonXml</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code> Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-lfe-vac-fs">
+<h3>plc_lfe_vac_fs<a class="headerlink" href="#plc-lfe-vac-fs" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id23">
+<caption><span class="caption-text">plc_lfe_vac/plc_lfe_vac</span><a class="headerlink" href="#id23" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.4</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.4</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.7.1</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.7.1</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-tmo-vac">
+<h3>PLC_TMO_VAC<a class="headerlink" href="#plc-tmo-vac" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id24">
+<caption><span class="caption-text">lcls-plc-tmo-vac/plc-tmo-vac</span><a class="headerlink" href="#id24" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS Vacuum</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>LCLSVacuumSerialDriverLib</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.2</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="plc-tmo-vac-fs">
+<h3>PLC_TMO_VAC_FS<a class="headerlink" href="#plc-tmo-vac-fs" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id25">
+<caption><span class="caption-text">lcls-plc-tmo-vac/plc-tmo-vac</span><a class="headerlink" href="#id25" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>L2SI Vacuum Library</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="rixs-optics">
+<h3>rixs_optics<a class="headerlink" href="#rixs-optics" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id26">
+<caption><span class="caption-text">lcls-plc-rixs-optics/lcls-plc-rixs-optics</span><a class="headerlink" href="#id26" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code> SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls2-cc-lib</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tmo-motion">
+<h3>tmo_motion<a class="headerlink" href="#tmo-motion" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id27">
+<caption><span class="caption-text">lcls-plc-tmo-motion/plc-tmo-motion</span><a class="headerlink" href="#id27" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>SysFile</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.9.0</span></code> System</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_EtherCAT</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_IoFunctions</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.11.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.37.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Math</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_ModbusSrv</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_TcpIp</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_EventLogger</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>Tc3_JsonXml</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code> Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>TcUnit</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.0.1.0</span></code> www.tcunit.org</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls2-cc-lib</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tmo-optics">
+<h3>tmo_optics<a class="headerlink" href="#tmo-optics" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default" id="id28">
+<caption><span class="caption-text">lcls-plc-tmo-optics/lcls-plc-tmo-optics</span><a class="headerlink" href="#id28" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dependency</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>PMPS</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_SerialCom</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-twincat-motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-twincat-optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.2</span></code> SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="section" id="by-library">
+<h2>By Library<a class="headerlink" href="#by-library" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="l2si-vacuum-library">
+<h3>L2SI Vacuum Library<a class="headerlink" href="#l2si-vacuum-library" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC_FS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lcls-general">
+<h3>LCLS General<a class="headerlink" href="#lcls-general" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc_lfe_vac/plc_lfe_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-vac/PLC_TMO_VAC_FS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lcls-vacuum">
+<h3>LCLS Vacuum<a class="headerlink" href="#lcls-vacuum" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.4</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.3.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc_lfe_vac/plc_lfe_vac_fs</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.4</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.4</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.2</span></code>, SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lcls-twincat-motion">
+<h3>lcls-twincat-motion<a class="headerlink" href="#lcls-twincat-motion" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-hxx-vonhamos/hxx_vonhamos</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.3.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-roving-spectrometer/lcls_plc_roving_spectrometer</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion-kmono/plc_lfe_motion_kmono</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lcls-twincat-optics">
+<h3>lcls-twincat-optics<a class="headerlink" href="#lcls-twincat-optics" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lcls2-cc-lib">
+<h3>lcls2-cc-lib<a class="headerlink" href="#lcls2-cc-lib" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.1.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lclsvacuumlib">
+<h3>LCLSVacuumLib<a class="headerlink" href="#lclsvacuumlib" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.4.1</span></code>, SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="lclsvacuumserialdriverlib">
+<h3>LCLSVacuumSerialDriverLib<a class="headerlink" href="#lclsvacuumserialdriverlib" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.2</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.2.2</span></code>, SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="pmps">
+<h3>PMPS<a class="headerlink" href="#pmps" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.14.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.2.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">newest</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.13.0</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc_lfe_vac/plc_lfe_vac_fs</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.7.1</span></code>, SLAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.7.1</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC_FS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.17.0</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.15.2</span></code>, SLAC</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="sysfile">
+<h3>SysFile<a class="headerlink" href="#sysfile" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.9.0</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.9.0</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-controllertoolbox">
+<h3>Tc2_ControllerToolbox<a class="headerlink" href="#tc2-controllertoolbox" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.1.4</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-ethercat">
+<h3>Tc2_EtherCAT<a class="headerlink" href="#tc2-ethercat" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.13.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-iofunctions">
+<h3>Tc2_IoFunctions<a class="headerlink" href="#tc2-iofunctions" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.11.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.11.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.11.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-math">
+<h3>Tc2_Math<a class="headerlink" href="#tc2-math" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-mc2">
+<h3>Tc2_MC2<a class="headerlink" href="#tc2-mc2" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.37.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.37.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.37.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-modbussrv">
+<h3>Tc2_ModbusSrv<a class="headerlink" href="#tc2-modbussrv" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.1.0</span></code>, Beckhoff</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-serialcom">
+<h3>Tc2_SerialCom<a class="headerlink" href="#tc2-serialcom" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-standard">
+<h3>Tc2_Standard<a class="headerlink" href="#tc2-standard" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-hxx-vonhamos/hxx_vonhamos</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-roving-spectrometer/lcls_plc_roving_spectrometer</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-vac/plc_kfe_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-lfe-motion-kmono/plc_lfe_motion_kmono</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc_lfe_vac/plc_lfe_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC_FS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.2.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-system">
+<h3>Tc2_System<a class="headerlink" href="#tc2-system" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-hxx-vonhamos/hxx_vonhamos</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-roving-spectrometer/lcls_plc_roving_spectrometer</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-vac/plc_kfe_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-lfe-motion-kmono/plc_lfe_motion_kmono</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc_lfe_vac/plc_lfe_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC_FS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.4.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-systemcx">
+<h3>Tc2_SystemCX<a class="headerlink" href="#tc2-systemcx" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-tcpip">
+<h3>Tc2_TcpIp<a class="headerlink" href="#tc2-tcpip" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc2-utilities">
+<h3>Tc2_Utilities<a class="headerlink" href="#tc2-utilities" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-vac/plc_kfe_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.35.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc3-eventlogger">
+<h3>Tc3_EventLogger<a class="headerlink" href="#tc3-eventlogger" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.1.22.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc3-interfaces">
+<h3>Tc3_Interfaces<a class="headerlink" href="#tc3-interfaces" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc3-jsonxml">
+<h3>Tc3_JsonXml<a class="headerlink" href="#tc3-jsonxml" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.6.0</span></code>, Beckhoff</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tc3-module">
+<h3>Tc3_Module<a class="headerlink" href="#tc3-module" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Arbiter/ArbiterPLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-hxx-vonhamos/hxx_vonhamos</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-motion/kfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-motion/kfe_rix_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-roving-spectrometer/lcls_plc_roving_spectrometer</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-lfe-motion/lfe_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-kfe-rix-vac/plc_kfe_rix_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-vac/plc_kfe_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-lamp-vac/plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-summary/plc_lfe_gem</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc-lfe-motion-kmono/plc_lfe_motion_kmono</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-lfe-vac/plc_lfe_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-odd"><td><p>plc_lfe_vac/plc_lfe_vac_fs</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>plc-tmo-vac/PLC_TMO_VAC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-vac/PLC_TMO_VAC_FS</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-rixs-optics/rixs_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.3.21.0</span></code>, Beckhoff</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-tmo-optics/tmo_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, Beckhoff</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="tcunit">
+<h3>TcUnit<a class="headerlink" href="#tcunit" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-tmo-motion/tmo_motion</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">1.0.1.0</span></code>, www.tcunit.org</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="vacuum-system-simulator-library">
+<h3>Vacuum System Simulator Library<a class="headerlink" href="#vacuum-system-simulator-library" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-vac/plc_kfe_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visudialogs">
+<h3>VisuDialogs<a class="headerlink" href="#visudialogs" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuelem3dpath">
+<h3>VisuElem3DPath<a class="headerlink" href="#visuelem3dpath" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code>, System</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuelemmeter">
+<h3>VisuElemMeter<a class="headerlink" href="#visuelemmeter" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.0</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuelems">
+<h3>VisuElems<a class="headerlink" href="#visuelems" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.40</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.10</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuelemsspecialcontrols">
+<h3>VisuElemsSpecialControls<a class="headerlink" href="#visuelemsspecialcontrols" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.0</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.10</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuelemswincontrols">
+<h3>VisuElemsWinControls<a class="headerlink" href="#visuelemswincontrols" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.40</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.10</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuelemtexteditor">
+<h3>VisuElemTextEditor<a class="headerlink" href="#visuelemtexteditor" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.10</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visuinputs">
+<h3>visuinputs<a class="headerlink" href="#visuinputs" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.0</span></code>, system</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code>, system</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="visunativecontrol">
+<h3>VisuNativeControl<a class="headerlink" href="#visunativecontrol" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>lcls-plc-lfe-optics/lfe_optics</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.10.40</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>plc-summary/MFX-PLC</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">3.5.4.0</span></code>, System</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+<tr class="row-odd"><td><p>lcls-plc-kfe-xgmd-vac/plc_kfe_xgmd_vac_sim</p></td>
+<td></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, System</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="axes.html" class="btn btn-neutral float-left" title="Projects" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2021, SLAC National Accelerator Laboratory
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
