@@ -21,4 +21,4 @@ gh-pages:
 		cp -R docs/build/html/ . && \
 		git commit -am "Regenerated docs for commit $$master_commit"
 
-.PHONY: all docs initialize update_remotes
+.PHONY: all docs initialize update_remotes gh-pages
