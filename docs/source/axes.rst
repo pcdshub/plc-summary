@@ -11,7 +11,7 @@ Project Listing
 - plc-lfe-motion
 - lcls-plc-roving-spectrometer
 - plc-tmo-vac
-- MFX
+- TFS_MPS
 - plc-lamp-vac
 - Arbiter
 - plc-lfe-motion-kmono
@@ -108,7 +108,7 @@ Axes
       - Axis 5 IM2K0-XTES-MMS
       - Axis 5
       - ALI_Z
-      - 
+      - Axis 5 TM1K2-MMS-Y
       - 
       - 
       - Axis 5
@@ -122,7 +122,7 @@ Axes
       - Axis 6 IM2K0-XTES-CLZ
       - Axis 6 IM1K4-XTES-MMS
       - ALI_PropValve
-      - 
+      - Axis 6 TM1K2-MMS-X
       - 
       - 
       - Axis 6

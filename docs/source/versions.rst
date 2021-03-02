@@ -92,7 +92,7 @@ ArbiterPLC
       -
 
     * - PMPS
-      - ``0.14.0`` SLAC
+      - ``0.17.0`` SLAC
 
       -
 
@@ -300,7 +300,7 @@ kfe_motion
 
       - ``*`` SLAC
 
-      - ``1.4.1`` SLAC
+      - ``1.4.4`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -554,7 +554,7 @@ lfe_motion
 
       - ``*`` SLAC
 
-      - ``1.4.1`` SLAC
+      - ``1.4.4`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -687,14 +687,14 @@ lfe_optics
       -
 
     * - lcls-twincat-motion
-      - ``1.4.1`` SLAC
+      - ``1.4.2`` SLAC
 
       -
 
       -
 
     * - lcls-twincat-optics
-      - ``0.0.2`` SLAC
+      - ``0.1.1`` SLAC
 
       -
 
@@ -707,23 +707,16 @@ lfe_optics
 
       -
 
-MFX-PLC
-^^^^^^^
+MFX_BE_LENS_INTERLOCK
+^^^^^^^^^^^^^^^^^^^^^
 
-.. list-table:: Repos/plc-summary
+.. list-table:: klauer/Repos
     :header-rows: 1
 
     * - Dependency
       - Library
       - Placeholder
       - Resolution
-
-    * - LCLSVacuumLib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.4.1`` SLAC
 
     * - Tc2_ModbusSrv
       - ``3.3.1.0`` Beckhoff
@@ -760,62 +753,6 @@ MFX-PLC
 
       -
 
-    * - VisuElem3DPath
-      -
-
-      - ``3.5.4.0`` System
-
-      -
-
-    * - VisuElemMeter
-      -
-
-      - ``3.5.4.0`` System
-
-      -
-
-    * - VisuElemTextEditor
-      -
-
-      - ``3.5.4.0`` System
-
-      -
-
-    * - VisuElems
-      -
-
-      - ``3.5.4.10`` System
-
-      -
-
-    * - VisuElemsSpecialControls
-      -
-
-      - ``3.5.4.10`` System
-
-      -
-
-    * - VisuElemsWinControls
-      -
-
-      - ``3.5.4.10`` System
-
-      -
-
-    * - VisuNativeControl
-      -
-
-      - ``3.5.4.0`` System
-
-      -
-
-    * - visuinputs
-      -
-
-      - ``3.5.4.0`` system
-
-      -
-
 plc_cvmi_vac
 ^^^^^^^^^^^^
 
@@ -839,7 +776,7 @@ plc_cvmi_vac
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
+      - ``1.4.3`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -1174,21 +1111,21 @@ plc_kfe_vac
 
       - ``*`` SLAC
 
-      -
+      - ``2.4.2`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      -
+      - ``1.4.2`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      -
+      - ``0.17.0`` SLAC
 
     * - Tc2_Standard
       -
@@ -1507,7 +1444,7 @@ plc_lfe_gem
     * - L2SI Vacuum Library
       -
 
-      - ``*`` SLAC
+      -
 
       - ``0.0.0`` SLAC
 
@@ -1516,14 +1453,28 @@ plc_lfe_gem
 
       - ``*`` SLAC
 
+      - ``2.4.1`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
       - ``0.0.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      -
+
+      - ``1.1.4`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``0.2.0`` SLAC
+      - ``0.0.0`` SLAC
 
     * - SysFile
       -
@@ -1539,12 +1490,26 @@ plc_lfe_gem
 
       - ``3.4.1.4`` Beckhoff
 
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
     * - Tc2_EtherCAT
       -
 
       -
 
       - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
 
     * - Tc2_MC2
       -
@@ -1609,6 +1574,13 @@ plc_lfe_gem
 
       - ``3.1.22.0`` Beckhoff
 
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
     * - Tc3_JsonXml
       -
 
@@ -1622,6 +1594,13 @@ plc_lfe_gem
       - ``*`` Beckhoff
 
       - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.1.0`` www.tcunit.org
 
 plc_lfe_motion_kmono
 ^^^^^^^^^^^^^^^^^^^^
@@ -1861,7 +1840,7 @@ PLC_TMO_VAC
 
       - ``*`` SLAC
 
-      - ``0.15.2`` SLAC
+      - ``0.17.0`` SLAC
 
     * - Tc2_SerialCom
       -
@@ -1869,59 +1848,6 @@ PLC_TMO_VAC
       - ``*`` Beckhoff
 
       -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-PLC_TMO_VAC_FS
-^^^^^^^^^^^^^^
-
-.. list-table:: lcls-plc-tmo-vac/plc-tmo-vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - L2SI Vacuum Library
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
 
     * - Tc2_Standard
       -
@@ -2185,7 +2111,7 @@ tmo_motion
 
       - ``*`` SLAC
 
-      - ``1.4.1`` SLAC
+      - ``1.4.4`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -2314,21 +2240,13 @@ L2SI Vacuum Library
     * - plc-summary/plc_lfe_gem
       -
 
-      - ``*``, SLAC
+      -
 
       - ``0.0.0``, SLAC
 
 
 
 
-
-
-    * - plc-tmo-vac/PLC_TMO_VAC_FS
-      -
-
-      - ``*``, SLAC
-
-      - ``*``, SLAC
 
 
 
@@ -2458,7 +2376,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      -
+      - ``2.4.2``, SLAC
 
 
 
@@ -2491,7 +2409,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``2.4.1``, SLAC
 
 
 
@@ -2517,14 +2435,6 @@ LCLS General
       - ``*``, SLAC
 
       - ``2.4.2``, SLAC
-
-
-    * - plc-tmo-vac/PLC_TMO_VAC_FS
-      -
-
-      - ``*``, SLAC
-
-      - ``*``, SLAC
 
 
     * - lcls-plc-rixs-optics/rixs_optics
@@ -2593,7 +2503,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``1.4.3``, SLAC
 
 
     * - lcls-plc-kfe-gmd-vac/plc_kfe_gmd_vac
@@ -2626,7 +2536,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      -
+      - ``1.4.2``, SLAC
 
 
 
@@ -2646,6 +2556,13 @@ LCLS Vacuum
 
       - ``1.4.0``, SLAC
 
+
+    * - plc-summary/plc_lfe_gem
+      -
+
+      - ``*``, SLAC
+
+      - ``0.0.0``, SLAC
 
 
 
@@ -2671,7 +2588,6 @@ LCLS Vacuum
       - ``*``, SLAC
 
       - ``1.4.2``, SLAC
-
 
 
 
@@ -2705,7 +2621,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.4.1``, SLAC
+      - ``1.4.4``, SLAC
 
 
     * - plc-kfe-rix-motion/kfe_rix_motion
@@ -2730,11 +2646,11 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.4.1``, SLAC
+      - ``1.4.4``, SLAC
 
 
     * - lcls-plc-lfe-optics/lfe_optics
-      - ``1.4.1``, SLAC
+      - ``1.4.2``, SLAC
 
       -
 
@@ -2764,7 +2680,6 @@ lcls-twincat-motion
 
 
 
-
     * - lcls-plc-rixs-optics/rixs_optics
       - ``newest``, SLAC
 
@@ -2779,7 +2694,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.4.1``, SLAC
+      - ``1.4.4``, SLAC
 
 
     * - lcls-plc-tmo-optics/tmo_optics
@@ -2811,12 +2726,11 @@ lcls-twincat-optics
 
 
     * - lcls-plc-lfe-optics/lfe_optics
-      - ``0.0.2``, SLAC
+      - ``0.1.1``, SLAC
 
       -
 
       -
-
 
 
 
@@ -2911,7 +2825,6 @@ lcls2-cc-lib
 
 
 
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -2927,55 +2840,6 @@ lcls2-cc-lib
       - ``*``, SLAC
 
       - ``1.1.2``, SLAC
-
-
-
-
-LCLSVacuumLib
-^^^^^^^^^^^^^
-
-.. list-table::
-    :header-rows: 1
-
-    * - Project
-      - Library
-      - Placeholder
-      - Resolution
-
-
-
-
-
-
-
-
-
-
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``*``, SLAC
-
-      - ``1.4.1``, SLAC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3032,6 +2896,13 @@ LCLSVacuumSerialDriverLib
       - ``0.0.0``, SLAC
 
 
+    * - plc-summary/plc_lfe_gem
+      -
+
+      -
+
+      - ``1.1.4``, SLAC
+
 
 
 
@@ -3042,7 +2913,6 @@ LCLSVacuumSerialDriverLib
       - ``*``, SLAC
 
       - ``1.2.2``, SLAC
-
 
 
 
@@ -3070,7 +2940,7 @@ PMPS
 
 
     * - Arbiter/ArbiterPLC
-      - ``0.14.0``, SLAC
+      - ``0.17.0``, SLAC
 
       -
 
@@ -3151,7 +3021,7 @@ PMPS
 
       - ``*``, SLAC
 
-      -
+      - ``0.17.0``, SLAC
 
 
 
@@ -3170,7 +3040,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``0.2.0``, SLAC
+      - ``0.0.0``, SLAC
 
 
 
@@ -3195,15 +3065,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``0.15.2``, SLAC
-
-
-    * - plc-tmo-vac/PLC_TMO_VAC_FS
-      -
-
-      - ``*``, SLAC
-
-      - ``*``, SLAC
+      - ``0.17.0``, SLAC
 
 
     * - lcls-plc-rixs-optics/rixs_optics
@@ -3269,7 +3131,6 @@ SysFile
       -
 
       - ``3.5.9.0``, System
-
 
 
 
@@ -3350,6 +3211,53 @@ Tc2_ControllerToolbox
 
 
 
+Tc2_DataExchange
+^^^^^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * - plc-summary/plc_lfe_gem
+      -
+
+      -
+
+      - ``3.3.2.0``, Beckhoff
+
+
+
+
+
+
+
+
+
+
 
 Tc2_EtherCAT
 ^^^^^^^^^^^^
@@ -3409,7 +3317,6 @@ Tc2_EtherCAT
 
 
 
-
     * - sdsPLC/SDSPLC
       - ``3.3.13.0``, Beckhoff
 
@@ -3459,6 +3366,13 @@ Tc2_IoFunctions
 
 
 
+    * - plc-summary/plc_lfe_gem
+      -
+
+      -
+
+      - ``3.3.11.0``, Beckhoff
+
 
 
     * - lcls-plc-lfe-vac/plc_lfe_vac
@@ -3467,7 +3381,6 @@ Tc2_IoFunctions
       -
 
       - ``3.3.11.0``, Beckhoff
-
 
 
 
@@ -3521,7 +3434,6 @@ Tc2_Math
       -
 
       - ``3.3.1.0``, Beckhoff
-
 
 
 
@@ -3625,7 +3537,6 @@ Tc2_MC2
 
 
 
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -3686,7 +3597,7 @@ Tc2_ModbusSrv
 
 
 
-    * - plc-summary/MFX-PLC
+    * - Repos/MFX_BE_LENS_INTERLOCK
       - ``3.3.1.0``, Beckhoff
 
       -
@@ -3719,7 +3630,6 @@ Tc2_ModbusSrv
       -
 
       - ``3.3.2.0``, Beckhoff
-
 
 
 
@@ -3842,7 +3752,6 @@ Tc2_SerialCom
       -
 
 
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -3959,7 +3868,7 @@ Tc2_Standard
       -
 
 
-    * - plc-summary/MFX-PLC
+    * - Repos/MFX_BE_LENS_INTERLOCK
       -
 
       - ``*``, Beckhoff
@@ -4087,14 +3996,6 @@ Tc2_Standard
       -
 
 
-    * - plc-tmo-vac/PLC_TMO_VAC_FS
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -4138,7 +4039,6 @@ Tc2_SUPS
       - Library
       - Placeholder
       - Resolution
-
 
 
 
@@ -4260,7 +4160,7 @@ Tc2_System
       -
 
 
-    * - plc-summary/MFX-PLC
+    * - Repos/MFX_BE_LENS_INTERLOCK
       -
 
       - ``*``, Beckhoff
@@ -4388,14 +4288,6 @@ Tc2_System
       -
 
 
-    * - plc-tmo-vac/PLC_TMO_VAC_FS
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -4454,7 +4346,6 @@ Tc2_SystemCX
       - ``*``, Beckhoff
 
       - ``3.3.6.0``, Beckhoff
-
 
 
 
@@ -4545,7 +4436,6 @@ Tc2_TcpIp
       -
 
       - ``3.3.6.0``, Beckhoff
-
 
 
 
@@ -4675,7 +4565,6 @@ Tc2_Utilities
 
 
 
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -4771,7 +4660,6 @@ Tc3_EventLogger
 
 
 
-
 Tc3_Interfaces
 ^^^^^^^^^^^^^^
 
@@ -4792,7 +4680,7 @@ Tc3_Interfaces
 
 
 
-    * - plc-summary/MFX-PLC
+    * - Repos/MFX_BE_LENS_INTERLOCK
       -
 
       - ``*``, Beckhoff
@@ -4810,6 +4698,12 @@ Tc3_Interfaces
 
 
 
+    * - plc-summary/plc_lfe_gem
+      -
+
+      -
+
+      - ``3.4.3.0``, Beckhoff
 
 
 
@@ -4874,7 +4768,6 @@ Tc3_JsonXml
       -
 
       - ``3.3.6.0``, Beckhoff
-
 
 
 
@@ -4967,7 +4860,7 @@ Tc3_Module
       -
 
 
-    * - plc-summary/MFX-PLC
+    * - Repos/MFX_BE_LENS_INTERLOCK
       -
 
       - ``*``, Beckhoff
@@ -5095,14 +4988,6 @@ Tc3_Module
       -
 
 
-    * - plc-tmo-vac/PLC_TMO_VAC_FS
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - lcls-plc-rixs-optics/rixs_optics
       -
 
@@ -5133,6 +5018,54 @@ Tc3_Module
       - ``*``, Beckhoff
 
       -
+
+
+
+TcUnit
+^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * - plc-summary/plc_lfe_gem
+      -
+
+      -
+
+      - ``1.0.1.0``, www.tcunit.org
+
+
+
+
+
+
+
+
 
 
 
@@ -5198,7 +5131,6 @@ Vacuum System Simulator Library
 
 
 
-
 VisuDialogs
 ^^^^^^^^^^^
 
@@ -5222,56 +5154,6 @@ VisuDialogs
       -
 
       - ``*``, System
-
-      -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VisuElem3DPath
-^^^^^^^^^^^^^^
-
-.. list-table::
-    :header-rows: 1
-
-    * - Project
-      - Library
-      - Placeholder
-      - Resolution
-
-
-
-
-
-
-
-
-
-
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.0``, System
 
       -
 
@@ -5324,13 +5206,6 @@ VisuElemMeter
       -
 
 
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.0``, System
-
-      -
-
 
 
 
@@ -5353,7 +5228,6 @@ VisuElemMeter
       -
 
       - ``*``, System
-
 
 
 
@@ -5394,13 +5268,6 @@ VisuElems
       -
 
 
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.10``, System
-
-      -
-
 
 
 
@@ -5423,7 +5290,6 @@ VisuElems
       -
 
       - ``*``, System
-
 
 
 
@@ -5464,13 +5330,6 @@ VisuElemsSpecialControls
       -
 
 
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.10``, System
-
-      -
-
 
 
 
@@ -5493,7 +5352,6 @@ VisuElemsSpecialControls
       -
 
       - ``*``, System
-
 
 
 
@@ -5534,13 +5392,6 @@ VisuElemsWinControls
       -
 
 
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.10``, System
-
-      -
-
 
 
 
@@ -5563,7 +5414,6 @@ VisuElemsWinControls
       -
 
       - ``*``, System
-
 
 
 
@@ -5604,13 +5454,6 @@ VisuElemTextEditor
       -
 
 
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.0``, System
-
-      -
-
 
 
 
@@ -5633,7 +5476,6 @@ VisuElemTextEditor
       -
 
       - ``*``, System
-
 
 
 
@@ -5670,14 +5512,6 @@ visuinputs
       -
 
       - ``3.5.10.0``, system
-
-      -
-
-
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.0``, system
 
       -
 
@@ -5730,13 +5564,6 @@ VisuNativeControl
       -
 
 
-    * - plc-summary/MFX-PLC
-      -
-
-      - ``3.5.4.0``, System
-
-      -
-
 
 
 
@@ -5759,7 +5586,6 @@ VisuNativeControl
       -
 
       - ``*``, System
-
 
 
 
