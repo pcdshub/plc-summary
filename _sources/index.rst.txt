@@ -26,10 +26,10 @@ PLC Summary
       - `v0.1.1-4-g8226a5e <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/8226a5eaf8408689d796ffd3a373b78cb2114ff5>`_
       - `pcdshub/lcls-plc-kfe-gmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-gmd-vac>`_
     * - `pcdshub/lcls-plc-kfe-motion <https://github.com/pcdshub/lcls-plc-kfe-motion>`_
-      - `v1.3.1-28-gd86661a <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/d86661a5ec6f8077c1a24650bdb60b059d0a99d0>`_
+      - `v1.3.4~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/d86661a5ec6f8077c1a24650bdb60b059d0a99d0>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
-      - `f06352c <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/f06352c40f403abf1818a6f33bfb53b95bc4c3bd>`_
+      - `v1.0.2~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/f06352c40f403abf1818a6f33bfb53b95bc4c3bd>`_
       - `pcdshub/lcls-plc-kfe-rix-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-vac <https://github.com/pcdshub/lcls-plc-kfe-rix-vac>`_
       - `a74c679 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/a74c6792331060d227388b5f1de778e20c2e132a>`_
@@ -56,7 +56,7 @@ PLC Summary
       - `v0.1.0 <https://github.com/pcdshub/lcls-plc-lfe-gem/tree/059964e1ef4fa45161e8fa8bdd643198c1305f14>`_
       - `pcdshub/lcls-plc-lfe-gem Docs <https://pcdshub.github.io/lcls-plc-lfe-gem>`_
     * - `pcdshub/lcls-plc-lfe-motion <https://github.com/pcdshub/lcls-plc-lfe-motion>`_
-      - `v1.2.1-6-g35f16a1 <https://github.com/pcdshub/lcls-plc-lfe-motion/tree/35f16a1fa3db8ddd00f220b798242a23d32fc992>`_
+      - `v1.2.3~1 <https://github.com/pcdshub/lcls-plc-lfe-motion/tree/35f16a1fa3db8ddd00f220b798242a23d32fc992>`_
       - `pcdshub/lcls-plc-lfe-motion Docs <https://pcdshub.github.io/lcls-plc-lfe-motion>`_
     * - `pcdshub/lcls-plc-lfe-motion-kmono <https://github.com/pcdshub/lcls-plc-lfe-motion-kmono>`_
       - `ef27946 <https://github.com/pcdshub/lcls-plc-lfe-motion-kmono/tree/ef27946f0ead2bb991978de0c4395d0758c7855f>`_
