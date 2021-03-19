@@ -1,40 +1,41 @@
-Project Listing
+{%- macro chapter(title) %}
+{{ title | title_fill("=") }}
+{{ title }}
+{{ title | title_fill("=") }}{% endmacro -%}
+
+{%- macro section(title) %}
+{{ title }}
+{{ title | title_fill("-") }}{% endmacro -%}
+
+{%- macro subsection(title) %}
+{{ title }}
+{{ title | title_fill("^") }}{% endmacro -%}
+
+{%- macro subsubsection(title) %}
+{{ title }}
+{{ title | title_fill('"') }}{% endmacro -%}
+
+Axes by Project
 ===============
 
-{% for name, project in projects.items() %}
-- {{ name.stem }}
-{% endfor %}
-
-Axes
-====
-
-{% set nc_counts = [] %}
-{% for name, project in projects.items() %}
+{% for project in projects.values() | sort(attribute="git_info.repo_slug") %}
 {% set nc = get_nc(project) %}
-{% if nc %}
-{% set _ = nc_counts.append(max(nc.axis_by_id or [0])) %}
-{% endif %}
-{% endfor %}
+{% set nc_count = max(nc.axis_by_id or [0]) %}
 
-{% if nc_counts %}
-.. list-table:: Axis Names
+{{ section(project.git_info.repo_slug) }}
+
+{% if nc_count == 0 %}
+No NC axes.
+{% else %}
+.. list-table:: {{ project.git_info.repo_slug }} Axes
     :header-rows: 1
 
-    * - PLC / Axis
-{% for name, project in projects.items() %}
-{% set nc = get_nc(project) %}
-{% if nc.axis_by_id %}
-      - {{ name.stem }}
-{% endif %}
-{% endfor %}
+    * - Axis ID
+      - Axis Name
 
-{% for axis_number in range(1, max(nc_counts) + 1) %}
-    * - Axis {{ axis_number }}
-{% for name, project in projects.items() %}
-{% set nc = get_nc(project) %}
-{% if nc %}
-      - {{ nc.axis_by_id.get(axis_number, '').name }}
-{% endif %}
-{% endfor %}
+{% for axis_id, axis in nc.axis_by_id.items() | sort() %}
+    * - Axis {{ axis_id }}
+      - {{ axis.name }}
 {% endfor %}
 {% endif %}
+{% endfor %}

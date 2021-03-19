@@ -1,7 +1,7 @@
 TSPROJ=$(shell find . -name '*.tsproj')
 # TSPROJ=lcls-plc-tmo-vac/plc-tmo-vac/plc-tmo-vac.tsproj lcls-plc-lfe-motion/plc-lfe-motion/plc-lfe-motion.tsproj
 
-all: axes.rst versions.rst docs
+all: index.rst axes.rst versions.rst docs
 
 %.rst:
 	pytmc template --template templates/$@ $(TSPROJ) > docs/source/$@

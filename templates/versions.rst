@@ -25,23 +25,27 @@
 {% endfor %}
 
 {% set all_plcs = [] %}
+{% set plc_to_project = {} %}
 {% for project_path, project in projects.items() %}
     {% for plc in project.plcs %}
         {% set _ = all_plcs.append(plc) %}
+        {% set _ = plc_to_project.update({plc: project}) %}
     {% endfor %}
 {% endfor %}
 
 Dependencies
 ============
 
-By PLC
-------
+By PLC Project
+--------------
 
-{% for plc in all_plcs | sort(attribute='name') %}
-{{ subsection(plc.name) }}
+{% for project in projects.values() | sort(attribute="git_info.repo_slug") %}
+{% for plc in project.plcs | sort(attribute="name") %}
+
+{{ subsection(project.git_info.repo_slug + ": " + plc.name) }}
 
 {% set plc_versions = get_library_versions(plc) %}
-.. list-table:: {{ plc.filename.parts[-5:-3] | join('/') }}
+.. list-table:: {{ project.git_info.repo_slug }}: {{plc.name}}
     :header-rows: 1
 
     * - Dependency
@@ -59,6 +63,7 @@ By PLC
       -
 
     {% endif %}
+{% endfor %}
 {% endfor %}
 {% endfor %}
 {% endfor %}
@@ -81,7 +86,7 @@ By Library
 {% for plc in all_plcs | sort(attribute='name') %}
 {% set plc_versions = get_library_versions(plc) %}
 {% if ref_name in plc_versions %}
-    * - {{ plc.filename.parts[-4:-3] | join('/') }}/{{ plc.name }}
+    * - {{ plc_to_project[plc].git_info.repo_slug }}:{{ plc.name }}
 {% for category in ["LibraryReference", "PlaceholderReference", "PlaceholderResolution"] %}
     {% if category in plc_versions[ref_name] %}
       - ``{{ plc_versions[ref_name][category].version }}``, {{ plc_versions[ref_name][category].vendor_short }}
