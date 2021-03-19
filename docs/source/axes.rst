@@ -2,15 +2,91 @@ Axes by Project
 ===============
 
 
+pcdshub/lcls-plc-cvmi-motion
+----------------------------
+
+.. list-table:: pcdshub/lcls-plc-cvmi-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - GasJetX
+    * - Axis 2
+      - GasJetY
+    * - Axis 3
+      - GasJetZ
+    * - Axis 4
+      - GasNeedleX
+    * - Axis 5
+      - GasNeedleY
+    * - Axis 6
+      - GasNeedleZ
+    * - Axis 7
+      - SamplePaddle
+    * - Axis 8
+      - KTOF_X
+    * - Axis 9
+      - KTOF_Y
+    * - Axis 10
+      - KTOF_Z
+
 pcdshub/lcls-plc-cvmi-vac
 -------------------------
 
 No NC axes.
 
+pcdshub/lcls-plc-hxx-vonhamos
+-----------------------------
+
+.. list-table:: pcdshub/lcls-plc-hxx-vonhamos Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - VonHamosY
+    * - Axis 2
+      - Axis 2 (Spare)
+    * - Axis 3
+      - Axis 3 (Spare)
+    * - Axis 4
+      - Axis 4 (Spare)
+
 pcdshub/lcls-plc-kfe-arbiter
 ----------------------------
 
 No NC axes.
+
+pcdshub/lcls-plc-kfe-gatt
+-------------------------
+
+.. list-table:: pcdshub/lcls-plc-kfe-gatt Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - MA_1_X
+    * - Axis 2
+      - MA_1_Y
+    * - Axis 3
+      - MA_2_X
+    * - Axis 4
+      - MA_2_Y
+    * - Axis 5
+      - MA_3_X
+    * - Axis 6
+      - MA_3_Y
+    * - Axis 7
+      - MA_4_X
+    * - Axis 8
+      - MA_4_Y
+    * - Axis 9
+      - VGP_80
 
 pcdshub/lcls-plc-kfe-gmd-vac
 ----------------------------
@@ -118,9 +194,29 @@ pcdshub/lcls-plc-kfe-rix-motion
     * - Axis 4
       - Axis 4 IM1K2-PPM-MMS
     * - Axis 5
-      - Axis 5 TM1K2-MMS-Y
+      - Axis 5 AL1K2-L2SI-MMS
     * - Axis 6
-      - Axis 6 TM1K2-MMS-X
+      - Axis 6 IM2K2-PPM-MMS
+    * - Axis 7
+      - Axis 7 IM3K2-PPM-MMS
+    * - Axis 8
+      - Axis 8 IM4K2-PPM-MMS
+    * - Axis 9
+      - Axis 9 TM1K2-MMS-Y
+    * - Axis 10
+      - Axis 10 TM1K2-MMS-X
+    * - Axis 11
+      - Axis 11 LI2K2-K2A_OUT-MMS
+    * - Axis 12
+      - Axis 12 PF1K2-WFS-MMS-Y
+    * - Axis 13
+      - Axis 13 PF1K2-WFS-MMS-Z
+    * - Axis 14
+      - Axis 14 IM5K2-PPM-MMS
+    * - Axis 15
+      - Axis 15 TM2K2-MMS-Y
+    * - Axis 16
+      - Axis 16 TM2K2-MMS-X
 
 pcdshub/lcls-plc-kfe-rix-vac
 ----------------------------
@@ -143,6 +239,34 @@ pcdshub/lcls-plc-kfe-xgmd-vac
 
     * - Axis 1
       - VGP_50
+
+pcdshub/lcls-plc-lamp-motion
+----------------------------
+
+.. list-table:: pcdshub/lcls-plc-lamp-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - GasJetX
+    * - Axis 2
+      - GasJetY
+    * - Axis 3
+      - GasJetZ
+    * - Axis 4
+      - GasNeedleX
+    * - Axis 5
+      - GasNeedleY
+    * - Axis 6
+      - GasNeedleZ
+    * - Axis 7
+      - SamplePaddleX
+    * - Axis 8
+      - SamplePaddleY
+    * - Axis 9
+      - SamplePaddleZ
 
 pcdshub/lcls-plc-lamp-vac
 -------------------------
@@ -544,6 +668,36 @@ pcdshub/lcls-plc-tmo-vac
 ------------------------
 
 No NC axes.
+
+pcdshub/lcls-plc-txi-optics
+---------------------------
+
+.. list-table:: pcdshub/lcls-plc-txi-optics Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1K3-Yup
+    * - Axis 2
+      - M1K3-Ydwn
+    * - Axis 3
+      - M1K3-Xup
+    * - Axis 4
+      - M1K3-Xdwn
+    * - Axis 5
+      - M1K3-Pitch
+    * - Axis 6
+      - M2K3-Yup
+    * - Axis 7
+      - M2K3-Ydwn
+    * - Axis 8
+      - M2K3-Xup
+    * - Axis 9
+      - M2K3-Xdwn
+    * - Axis 10
+      - M2K3-Pitch
 
 pcdshub/lcls-plc-vonhamos-motion
 --------------------------------

@@ -10,6 +10,7 @@ initialize:
 	git submodule update --init --recursive
 
 update_remotes:
+	git submodule foreach --recursive 'git fetch --tags'
 	git submodule update --init --recursive --remote
 
 docs:
