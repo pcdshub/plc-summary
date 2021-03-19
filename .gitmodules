@@ -82,3 +82,21 @@
 [submodule "sample-delivery-system"]
 	path = sample-delivery-system
 	url = git@github.com:pcdshub/sample-delivery-system
+[submodule "lcls-plc-cvmi-motion"]
+	path = lcls-plc-cvmi-motion
+	url = git@github.com:pcdshub/lcls-plc-cvmi-motion
+[submodule "lcls-plc-hxx-vonhamos"]
+	path = lcls-plc-hxx-vonhamos
+	url = git@github.com:pcdshub/lcls-plc-hxx-vonhamos
+[submodule "lcls-plc-kfe-gatt"]
+	path = lcls-plc-kfe-gatt
+	url = git@github.com:pcdshub/lcls-plc-kfe-gatt
+[submodule "lcls-plc-lamp-motion"]
+	path = lcls-plc-lamp-motion
+	url = git@github.com:pcdshub/lcls-plc-lamp-motion
+[submodule "lcls-plc-mrco-motion"]
+	path = lcls-plc-mrco-motion
+	url = git@github.com:pcdshub/lcls-plc-mrco-motion
+[submodule "lcls-plc-txi-optics"]
+	path = lcls-plc-txi-optics
+	url = git@github.com:pcdshub/lcls-plc-txi-optics
