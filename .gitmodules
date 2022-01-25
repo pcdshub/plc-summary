@@ -100,3 +100,39 @@
 [submodule "lcls-plc-txi-optics"]
 	path = lcls-plc-txi-optics
 	url = git@github.com:pcdshub/lcls-plc-txi-optics
+[submodule "lcls-plc-lamp-lv17-motion"]
+	path = lcls-plc-lamp-lv17-motion
+	url = git@github.com:pcdshub/lcls-plc-lamp-lv17-motion
+[submodule "lcls-plc-lamp-lv17-vac"]
+	path = lcls-plc-lamp-lv17-vac
+	url = git@github.com:pcdshub/lcls-plc-lamp-lv17-vac
+[submodule "lcls-plc-mfx-motion"]
+	path = lcls-plc-mfx-motion
+	url = git@github.com:pcdshub/lcls-plc-mfx-motion
+[submodule "lcls-plc-mrco-vac"]
+	path = lcls-plc-mrco-vac
+	url = git@github.com:pcdshub/lcls-plc-mrco-vac
+[submodule "lcls-plc-qrix-motion"]
+	path = lcls-plc-qrix-motion
+	url = git@github.com:pcdshub/lcls-plc-qrix-motion
+[submodule "lcls-plc-qrix-vac"]
+	path = lcls-plc-qrix-vac
+	url = git@github.com:pcdshub/lcls-plc-qrix-vac
+[submodule "lcls-plc-rix-sds-injector"]
+	path = lcls-plc-rix-sds-injector
+	url = git@github.com:pcdshub/lcls-plc-rix-sds-injector
+[submodule "lcls-plc-tmo-spectrometer-motion"]
+	path = lcls-plc-tmo-spectrometer-motion
+	url = git@github.com:pcdshub/lcls-plc-tmo-spectrometer-motion
+[submodule "lcls-plc-xcs-liquid-jet"]
+	path = lcls-plc-xcs-liquid-jet
+	url = git@github.com:pcdshub/lcls-plc-xcs-liquid-jet
+[submodule "lcls-plc-xcs-per-vac"]
+	path = lcls-plc-xcs-per-vac
+	url = git@github.com:pcdshub/lcls-plc-xcs-per-vac
+[submodule "lcls-plc-xpp-jjslit-motion"]
+	path = lcls-plc-xpp-jjslit-motion
+	url = git@github.com:pcdshub/lcls-plc-xpp-jjslit-motion
+[submodule "lcls-plc-xrt-optics"]
+	path = lcls-plc-xrt-optics
+	url = git@github.com:pcdshub/lcls-plc-xrt-optics
