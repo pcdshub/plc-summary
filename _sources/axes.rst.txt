@@ -2,6 +2,52 @@ Axes by Project
 ===============
 
 
+pcdshub/HOMS_XRT
+----------------
+
+.. list-table:: pcdshub/HOMS_XRT Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1L3-Yup
+    * - Axis 2
+      - M1L3-Ydwn
+    * - Axis 3
+      - M1L3-Xup
+    * - Axis 4
+      - M1L3-Xdwn
+    * - Axis 5
+      - M1L3-Pitch
+    * - Axis 6
+      - M1L3-Bender
+    * - Axis 7
+      - M1L4-Yup
+    * - Axis 8
+      - M1L4-Ydwn
+    * - Axis 9
+      - M1L4-Xup
+    * - Axis 10
+      - M1L4-Xdwn
+    * - Axis 11
+      - M1L4-Pitch
+    * - Axis 12
+      - M1L4-Bender
+    * - Axis 13
+      - M2L3-Yup
+    * - Axis 14
+      - M2L3-Ydwn
+    * - Axis 15
+      - M2L3-Xup
+    * - Axis 16
+      - M2L3-Xdwn
+    * - Axis 17
+      - M2L3-Pitch
+    * - Axis 18
+      - M2L3-Bender
+
 pcdshub/lcls-plc-crixs-motion
 -----------------------------
 

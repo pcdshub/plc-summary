@@ -7,6 +7,165 @@ By PLC Project
 --------------
 
 
+pcdshub/HOMS_XRT: HOMS_XRT_PLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/HOMS_XRT: HOMS_XRT_PLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``2.4.2`` SLAC
+
+      -
+
+      -
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
+
+    * - Tc2_ControllerToolbox
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.1.4`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - VisuDialogs
+      -
+
+      - ``*`` System
+
+      -
+
+    * - VisuElemMeter
+      -
+
+      - ``3.5.10.0`` System
+
+      -
+
+    * - VisuElemTextEditor
+      -
+
+      - ``3.5.10.10`` System
+
+      -
+
+    * - VisuElems
+      -
+
+      - ``3.5.10.40`` System
+
+      -
+
+    * - VisuElemsSpecialControls
+      -
+
+      - ``3.5.10.0`` System
+
+      -
+
+    * - VisuElemsWinControls
+      -
+
+      - ``3.5.10.40`` System
+
+      -
+
+    * - VisuNativeControl
+      -
+
+      - ``3.5.10.40`` System
+
+      -
+
+    * - VisuUserMgmt
+      -
+
+      - ``*`` System
+
+      -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``1.5.1`` SLAC
+
+    * - lcls-twincat-optics
+      -
+
+      - ``*`` SLAC
+
+      - ``0.2.1`` SLAC
+
+    * - visuinputs
+      -
+
+      - ``3.5.10.0`` system
+
+      -
+
+
 pcdshub/lcls-plc-crixs-motion: PLC_CRIX_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -4496,6 +4655,7 @@ L2SI Vacuum Library
 
 
 
+
     * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
@@ -4539,6 +4699,14 @@ LCLS General
 
       -
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      - ``2.4.2``, SLAC
+
+      -
+
+      -
 
 
 
@@ -4835,6 +5003,7 @@ LCLS Vacuum
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       - ``1.5.0``, SLAC
 
@@ -4996,6 +5165,14 @@ lcls-twincat-motion
       -
 
       -
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, SLAC
+
+      - ``1.5.1``, SLAC
 
 
     * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
@@ -5209,6 +5386,14 @@ lcls-twincat-optics
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, SLAC
+
+      - ``0.2.1``, SLAC
+
+
 
 
 
@@ -5303,6 +5488,7 @@ lcls-twincat-physics
 
 
 
+
     * - pcdshub/lcls-plc-kfe-motion:kfe_motion
       -
 
@@ -5376,6 +5562,7 @@ lcls2-cc-lib
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -5519,6 +5706,7 @@ LCLSVacuumLib
 
 
 
+
     * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``1.12.0``, SLAC
 
@@ -5539,6 +5727,7 @@ LCLSVacuumSerialDriverLib
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -5688,6 +5877,14 @@ PMPS
 
       - ``2.1.0``, SLAC
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, SLAC
+
+      - ``2.0.0``, SLAC
 
 
 
@@ -5956,6 +6153,7 @@ SysDir
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
@@ -6088,6 +6286,7 @@ SysFile
       -
 
       - ``3.5.9.0``, System
+
 
 
 
@@ -6246,6 +6445,14 @@ Tc2_ControllerToolbox
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.4.1.4``, Beckhoff
+
+
 
 
 
@@ -6342,6 +6549,7 @@ Tc2_DataExchange
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -6491,6 +6699,14 @@ Tc2_EtherCAT
 
       - ``3.3.13.0``, Beckhoff
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
 
 
 
@@ -6668,6 +6884,7 @@ Tc2_IoFunctions
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
@@ -6821,6 +7038,7 @@ Tc2_Math
       -
 
       - ``3.3.1.0``, Beckhoff
+
 
 
 
@@ -6986,6 +7204,14 @@ Tc2_MC2
 
 
     * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
       -
 
       - ``*``, Beckhoff
@@ -7245,6 +7471,7 @@ Tc2_ModbusSrv
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
@@ -7413,6 +7640,14 @@ Tc2_SerialCom
 
       - ``3.3.6.0``, Beckhoff
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
 
 
 
@@ -7652,6 +7887,14 @@ Tc2_Standard
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
 
 
     * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
@@ -8048,6 +8291,7 @@ Tc2_SUPS
 
 
 
+
     * - pcdshub/sample-delivery-system:SDSPLC
       - ``3.3.6.0``, Beckhoff
 
@@ -8088,6 +8332,14 @@ Tc2_System
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
 
 
     * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
@@ -8459,6 +8711,7 @@ Tc2_SystemCX
 
 
 
+
     * - pcdshub/lcls-plc-kfe-arbiter:KFEArbiter
       -
 
@@ -8523,6 +8776,7 @@ Tc2_TcpIp
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -8700,6 +8954,14 @@ Tc2_Utilities
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
 
 
 
@@ -8954,6 +9216,7 @@ Tc3_EventLogger
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
@@ -9109,6 +9372,7 @@ Tc3_Interfaces
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
@@ -9255,6 +9519,7 @@ Tc3_JsonXml
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -9425,6 +9690,14 @@ Tc3_Module
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
 
 
     * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
@@ -9798,6 +10071,7 @@ TcUnit
 
 
 
+
     * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
@@ -10016,6 +10290,7 @@ UML Statechart Types
 
 
 
+
     * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
@@ -10036,6 +10311,7 @@ Vacuum System Simulator Library
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -10117,6 +10393,14 @@ VisuDialogs
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, System
+
+      -
+
+
 
 
 
@@ -10179,6 +10463,14 @@ VisuElemMeter
       - Placeholder
       - Resolution
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.0``, System
+
+      -
 
 
 
@@ -10259,6 +10551,14 @@ VisuElems
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.40``, System
+
+      -
+
+
 
 
 
@@ -10335,6 +10635,14 @@ VisuElemsSpecialControls
       - Placeholder
       - Resolution
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.0``, System
+
+      -
 
 
 
@@ -10415,6 +10723,14 @@ VisuElemsWinControls
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.40``, System
+
+      -
+
+
 
 
 
@@ -10491,6 +10807,14 @@ VisuElemTextEditor
       - Placeholder
       - Resolution
 
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.10``, System
+
+      -
 
 
 
@@ -10571,6 +10895,14 @@ visuinputs
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.0``, system
+
+      -
+
+
 
 
 
@@ -10635,6 +10967,14 @@ VisuNativeControl
 
 
 
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``3.5.10.40``, System
+
+      -
+
+
 
 
 
@@ -10679,6 +11019,71 @@ VisuNativeControl
       -
 
       - ``*``, System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VisuUserMgmt
+^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+    * - pcdshub/HOMS_XRT:HOMS_XRT_PLC
+      -
+
+      - ``*``, System
+
+      -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
