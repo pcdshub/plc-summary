@@ -7,6 +7,9 @@ PLC Summary
     * - PLC
       - Version
       - Documentation
+    * - `pcdshub/HOMS_XRT <https://github.com/pcdshub/HOMS_XRT>`_
+      - `v1.2.0-68-g40468b9 <https://github.com/pcdshub/HOMS_XRT/tree/40468b94463bae91881ebac37f999d2f4624afc9>`_
+      - `pcdshub/HOMS_XRT Docs <https://pcdshub.github.io/HOMS_XRT>`_
     * - `pcdshub/lcls-plc-crixs-motion <https://github.com/pcdshub/lcls-plc-crixs-motion>`_
       - `145ed9c <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/145ed9c5c5add5f9c0505094ef7bdce87f243625>`_
       - `pcdshub/lcls-plc-crixs-motion Docs <https://pcdshub.github.io/lcls-plc-crixs-motion>`_

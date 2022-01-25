@@ -10,6 +10,7 @@ add_submodule() {
     fi
 }
 
+add_submodule HOMS_XRT
 add_submodule lcls-plc-crixs-motion
 add_submodule lcls-plc-crixs-vac
 add_submodule lcls-plc-cvmi-motion

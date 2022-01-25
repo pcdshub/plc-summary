@@ -136,3 +136,6 @@
 [submodule "lcls-plc-xrt-optics"]
 	path = lcls-plc-xrt-optics
 	url = git@github.com:pcdshub/lcls-plc-xrt-optics
+[submodule "HOMS_XRT"]
+	path = HOMS_XRT
+	url = git@github.com:pcdshub/HOMS_XRT
