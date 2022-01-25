@@ -2,6 +2,119 @@ Axes by Project
 ===============
 
 
+pcdshub/lcls-plc-crixs-motion
+-----------------------------
+
+.. list-table:: pcdshub/lcls-plc-crixs-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1 - Diagnostic Paddle X
+    * - Axis 2
+      - Axis 2 - Diagnostic Paddle Y
+    * - Axis 3
+      - Axis 3 - Diagnostic Paddle Z
+    * - Axis 4
+      - Axis 4 - Objectives X
+    * - Axis 5
+      - Axis 5 - Objectives Y
+    * - Axis 6
+      - Axis 6 - Objectives Z
+    * - Axis 7
+      - Axis 7 - Point Detector Y
+    * - Axis 8
+      - Axis 8 - Point Detector Rotation
+    * - Axis 9
+      - Axis 9 - Illumination X
+    * - Axis 10
+      - Axis 10 - Illumination Y
+    * - Axis 11
+      - Axis 11 - Illumination Z
+    * - Axis 12
+      - Axis 12 - Questar X
+    * - Axis 13
+      - Axis 13 - Questar Y
+    * - Axis 14
+      - Axis 14 - SPARE 1
+    * - Axis 15
+      - Axis 15 - SPARE 2
+    * - Axis 16
+      - Axis 16 - SDS Injector X
+    * - Axis 17
+      - Axis 17 - SDS Injectory Y
+    * - Axis 18
+      - Axis 18 - SDS Injector Z
+    * - Axis 19
+      - Axis 19 - SDS Rotation Y
+    * - Axis 20
+      - Axis 20 - SDS Shroud Rotation
+    * - Axis 21
+      - Axis 21 - Questar Focus
+    * - Axis 22
+      - Cryo X
+    * - Axis 23
+      - Cryo Y
+    * - Axis 24
+      - Cryo Z
+    * - Axis 25
+      - Cryo rY
+    * - Axis 26
+      - RCI X
+    * - Axis 27
+      - RCI Y
+    * - Axis 28
+      - RCI Z
+    * - Axis 29
+      - RCI RX
+    * - Axis 30
+      - Beam X
+    * - Axis 31
+      - Beam Y
+    * - Axis 32
+      - Beam Z
+    * - Axis 33
+      - Camera X
+    * - Axis 34
+      - Camera Y
+    * - Axis 35
+      - Axis 35 - Outcoupling Lens Y
+    * - Axis 36
+      - Axis 36 - SDS Z Encoder
+    * - Axis 37
+      - M37-X
+    * - Axis 38
+      - M38-Y
+    * - Axis 39
+      - M39-Z
+    * - Axis 40
+      - M40-VLS-Slit-Top
+    * - Axis 41
+      - M41-VLS-Slit-Bottom
+    * - Axis 42
+      - M42-VLS-Slit-Right
+    * - Axis 43
+      - M43-VLS-Slit-Left
+    * - Axis 44
+      - M44-VLS-Mirror-Pitch
+    * - Axis 45
+      - M45-VLS-Grating-Pitch
+    * - Axis 46
+      - M46-VLS-Camera-Pitch
+    * - Axis 47
+      - M47-VLS-Camera-Dist
+    * - Axis 48
+      - M48- Cryopump Y10
+    * - Axis 49
+      - M49- Cryopump Y11
+
+pcdshub/lcls-plc-crixs-vac
+--------------------------
+
+No NC axes.
+
 pcdshub/lcls-plc-cvmi-motion
 ----------------------------
 
@@ -25,12 +138,6 @@ pcdshub/lcls-plc-cvmi-motion
       - GasNeedleZ
     * - Axis 7
       - SamplePaddle
-    * - Axis 8
-      - KTOF_X
-    * - Axis 9
-      - KTOF_Y
-    * - Axis 10
-      - KTOF_Z
 
 pcdshub/lcls-plc-cvmi-vac
 -------------------------
@@ -120,9 +227,9 @@ pcdshub/lcls-plc-kfe-motion
     * - Axis 5
       - Axis 5 IM2K0-XTES-MMS
     * - Axis 6
-      - Axis 6 IM2K0-XTES-CLZ
+      - Axis 6 IM2K0-XTES-CLZ (Removed)
     * - Axis 7
-      - Axis 7 IM2K0-XTES-CLF
+      - Axis 7 IM2K0-XTES-CLF (Removed)
     * - Axis 8
       - Axis 8 PF1K0-WFS-MMS-Y
     * - Axis 9
@@ -190,7 +297,7 @@ pcdshub/lcls-plc-kfe-rix-motion
     * - Axis 2
       - Axis 2 IM2K1-PPM-MMS
     * - Axis 3
-      - Axis 3 ST1K1-ZOS-MMS
+      - Axis 3 SPARE
     * - Axis 4
       - Axis 4 IM1K2-PPM-MMS
     * - Axis 5
@@ -217,6 +324,22 @@ pcdshub/lcls-plc-kfe-rix-motion
       - Axis 15 TM2K2-MMS-Y
     * - Axis 16
       - Axis 16 TM2K2-MMS-X
+    * - Axis 17
+      - Axis 17 AT2K2-SOLID-MMS-01
+    * - Axis 18
+      - Axis 18 AT2K2-SOLID-MMS-02
+    * - Axis 19
+      - Axis 19 AT2K2-SOLID-MMS-03
+    * - Axis 20
+      - Axis 20 AT2K2-SOLID-MMS-04
+    * - Axis 21
+      - Axis 21 LI3K2-K2B-MMS
+    * - Axis 22
+      - Axis 22 PF2K2-WFS-MMS-Y
+    * - Axis 23
+      - Axis 23 PF2K2-WFS-MMS-Z
+    * - Axis 24
+      - Axis 24 IM6K2-PPM-MMS
 
 pcdshub/lcls-plc-kfe-rix-vac
 ----------------------------
@@ -267,6 +390,14 @@ pcdshub/lcls-plc-lamp-motion
       - SamplePaddleY
     * - Axis 9
       - SamplePaddleZ
+    * - Axis 10
+      - FlowCellX
+    * - Axis 11
+      - FlowCellY
+    * - Axis 12
+      - FlowCellZ
+    * - Axis 13
+      - FlowCellTheta
 
 pcdshub/lcls-plc-lamp-vac
 -------------------------
@@ -472,6 +603,94 @@ pcdshub/lcls-plc-mfx-be-lens-interlock
 
 No NC axes.
 
+pcdshub/lcls-plc-mfx-motion
+---------------------------
+
+.. list-table:: pcdshub/lcls-plc-mfx-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1 MFX-ATM-MMS-Y
+    * - Axis 2
+      - Axis 2 MFX-ATM-MMS-X
+    * - Axis 3
+      - Axis 3 MFX-LIB-MMS-01
+    * - Axis 4
+      - Axis 4 MFX-LIB-MMS-02
+    * - Axis 5
+      - Axis 5 MFX-LIB-MMS-03
+    * - Axis 6
+      - Axis 6 MFX-LIB-MMS-04
+
+pcdshub/lcls-plc-mrco-motion
+----------------------------
+
+.. list-table:: pcdshub/lcls-plc-mrco-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - GasNozzleX
+    * - Axis 2
+      - GasNozzleY
+    * - Axis 3
+      - GasNozzleZ
+    * - Axis 4
+      - SamplePaddleX
+    * - Axis 5
+      - SamplePaddleY
+    * - Axis 6
+      - SamplePaddleZ
+
+pcdshub/lcls-plc-mrco-vac
+-------------------------
+
+No NC axes.
+
+pcdshub/lcls-plc-qrix-motion
+----------------------------
+
+.. list-table:: pcdshub/lcls-plc-qrix-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1 - SSL Sliding seal
+
+pcdshub/lcls-plc-qrix-vac
+-------------------------
+
+No NC axes.
+
+pcdshub/lcls-plc-rix-sds-injector
+---------------------------------
+
+.. list-table:: pcdshub/lcls-plc-rix-sds-injector Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1 - X
+    * - Axis 2
+      - Axis 2 - Y
+    * - Axis 3
+      - Axis 3 - Z
+    * - Axis 4
+      - Axis 4 - rY
+    * - Axis 5
+      - Axis 5 - Shroud
+    * - Axis 6
+      - Axis 6 - ZEnc
+
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
@@ -527,6 +746,34 @@ pcdshub/lcls-plc-rixs-optics
       - SL1K2-CrystalGap-M22
     * - Axis 23
       - SL1K2-YAG-M23
+    * - Axis 24
+      - Axis 24 ST1K1-ZOS-MMS
+    * - Axis 25
+      - M2K2 X
+    * - Axis 26
+      - M2K2 Y
+    * - Axis 27
+      - M2K2 rX
+    * - Axis 28
+      - M3K2 X
+    * - Axis 29
+      - M3K2 Y
+    * - Axis 30
+      - M3K2 rY
+    * - Axis 31
+      - M3K2-BEND-US
+    * - Axis 32
+      - M3K2-BEND-DS
+    * - Axis 33
+      - M4K2 X
+    * - Axis 34
+      - M4K2 Y
+    * - Axis 35
+      - M4K2 rX
+    * - Axis 36
+      - M4K2-BEND-US
+    * - Axis 37
+      - M4K2-BEND-DS
     * - Axis 200
       - enc_mpi_up
     * - Axis 201
@@ -664,6 +911,34 @@ pcdshub/lcls-plc-tmo-optics
     * - Axis 16
       - M3K4-BEND-DS
 
+pcdshub/lcls-plc-tmo-spectrometer-motion
+----------------------------------------
+
+.. list-table:: pcdshub/lcls-plc-tmo-spectrometer-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - LensX
+    * - Axis 2
+      - FoilX
+    * - Axis 3
+      - ZonePlateX
+    * - Axis 4
+      - ZonePlateY
+    * - Axis 5
+      - ZonePlateZ
+    * - Axis 6
+      - YagX
+    * - Axis 7
+      - YagY
+    * - Axis 8
+      - YagZ
+    * - Axis 9
+      - YagTheta
+
 pcdshub/lcls-plc-tmo-vac
 ------------------------
 
@@ -716,6 +991,59 @@ pcdshub/lcls-plc-vonhamos-motion
       - Axis 3 (Spare)
     * - Axis 4
       - Axis 4 (Spare)
+
+pcdshub/lcls-plc-xcs-liquid-jet
+-------------------------------
+
+.. list-table:: pcdshub/lcls-plc-xcs-liquid-jet Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - SS_TOP_X_MOT
+    * - Axis 2
+      - SS_TOP_Y_MOT
+    * - Axis 3
+      - SS_BOT_X_MOT
+    * - Axis 4
+      - SS_BOT_Y_MOT
+    * - Axis 5
+      - JET_X_MOT
+    * - Axis 6
+      - JET_Y_MOT
+    * - Axis 7
+      - JET_Z_MOT
+    * - Axis 8
+      - VH_EPIX_X_MOT
+
+pcdshub/lcls-plc-xcs-per-vac
+----------------------------
+
+No NC axes.
+
+pcdshub/lcls-plc-xrt-optics
+---------------------------
+
+.. list-table:: pcdshub/lcls-plc-xrt-optics Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - XRTM1-Yup
+    * - Axis 2
+      - XRTM1-Ydwn
+    * - Axis 3
+      - XRTM1-Xup
+    * - Axis 4
+      - XRTM1-Xdwn
+    * - Axis 5
+      - XRTM1-Pitch
+    * - Axis 6
+      - XRTM1-Bender
 
 pcdshub/sample-delivery-system
 ------------------------------
