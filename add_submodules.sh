@@ -2,6 +2,11 @@ add_submodule() {
     SUBMOD=$1
     if [ ! -d "$SUBMOD" ]; then
         git submodule add git@github.com:pcdshub/$SUBMOD
+    else
+        pushd $SUBMOD || exit 1
+        git fetch
+        git reset --hard origin/master || echo "Failed to update $SUBMOD"
+        popd > /dev/null
     fi
 }
 
@@ -29,7 +34,6 @@ add_submodule lcls-plc-lfe-motion
 add_submodule lcls-plc-lfe-motion-kmono
 add_submodule lcls-plc-lfe-optics
 add_submodule lcls-plc-lfe-vac
-add_submodule lcls-plc-liquid-jet
 add_submodule lcls-plc-mfx-be-lens-interlock
 add_submodule lcls-plc-mfx-motion
 add_submodule lcls-plc-mrco-motion
@@ -54,6 +58,9 @@ add_submodule sample-delivery-system
 
 # Test/source projects:
 # add_submodule lcls-plc-sxr-satt
+
+# Aliases:
+# add_submodule lcls-plc-liquid-jet (-> lcls-plc-xcs-liquid-jet)
 
 # Supporting modules:
 # add_submodule lcls-twincat-motion
