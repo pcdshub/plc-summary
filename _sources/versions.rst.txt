@@ -4333,26 +4333,33 @@ pcdshub/sample-delivery-system: SDSPLC
       - Placeholder
       - Resolution
 
-    * - L2SI Vacuum Library
-      - ``1.1.1`` SLAC
-
-      -
-
-      -
-
     * - LCLS General
-      - ``2.3.4`` SLAC
+      - ``2.4.2`` SLAC
 
       -
 
       -
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
 
     * - Tc2_EtherCAT
       - ``3.3.13.0`` Beckhoff
 
       -
 
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
       -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
 
     * - Tc2_MC2
       - ``3.3.37.0`` Beckhoff
@@ -4361,12 +4368,19 @@ pcdshub/sample-delivery-system: SDSPLC
 
       -
 
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
     * - Tc2_ModbusSrv
       - ``3.3.1.0`` Beckhoff
 
       -
 
-      -
+      - ``3.3.2.0`` Beckhoff
 
     * - Tc2_SUPS
       - ``3.3.6.0`` Beckhoff
@@ -4380,35 +4394,63 @@ pcdshub/sample-delivery-system: SDSPLC
 
       -
 
-      -
+      - ``3.3.6.0`` Beckhoff
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      - ``*`` Beckhoff
+      - ``3.3.2.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      - ``*`` Beckhoff
+      - ``3.4.22.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
 
     * - Tc2_Utilities
       - ``3.3.35.0`` Beckhoff
 
       -
 
+      - ``3.3.35.0`` Beckhoff
+
+    * - Tc3_EventLogger
       -
+
+      -
+
+      - ``3.1.22.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      - ``*`` Beckhoff
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.1.0`` www.tcunit.org
 
 
 By Library
@@ -4470,13 +4512,6 @@ L2SI Vacuum Library
 
 
 
-
-    * - pcdshub/sample-delivery-system:SDSPLC
-      - ``1.1.1``, SLAC
-
-      -
-
-      -
 
 
 
@@ -4739,7 +4774,7 @@ LCLS General
 
 
     * - pcdshub/sample-delivery-system:SDSPLC
-      - ``2.3.4``, SLAC
+      - ``2.4.2``, SLAC
 
       -
 
@@ -6183,6 +6218,13 @@ SysFile
 
 
 
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``3.5.9.0``, System
+
 
 
 
@@ -6590,7 +6632,7 @@ Tc2_EtherCAT
 
       -
 
-      -
+      - ``3.3.13.0``, Beckhoff
 
 
 
@@ -6747,6 +6789,13 @@ Tc2_IoFunctions
 
 
 
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``3.3.11.0``, Beckhoff
+
 
 
 
@@ -6901,6 +6950,13 @@ Tc2_Math
 
 
 
+
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``3.3.1.0``, Beckhoff
 
 
 
@@ -7322,7 +7378,7 @@ Tc2_ModbusSrv
 
       -
 
-      -
+      - ``3.3.2.0``, Beckhoff
 
 
 
@@ -7533,7 +7589,7 @@ Tc2_SerialCom
 
       -
 
-      -
+      - ``3.3.6.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-motion:tmo_motion
@@ -7891,7 +7947,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      - ``*``, Beckhoff
+      - ``3.3.2.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-motion:tmo_motion
@@ -8327,7 +8383,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``*``, Beckhoff
+      - ``3.4.22.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-motion:tmo_motion
@@ -8604,6 +8660,13 @@ Tc2_TcpIp
 
 
 
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -8834,7 +8897,7 @@ Tc2_Utilities
 
       -
 
-      -
+      - ``3.3.35.0``, Beckhoff
 
 
 
@@ -9011,6 +9074,13 @@ Tc3_EventLogger
 
 
 
+
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``3.1.22.0``, Beckhoff
 
 
 
@@ -9314,6 +9384,13 @@ Tc3_JsonXml
 
 
 
+
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``3.3.6.0``, Beckhoff
 
 
 
@@ -9643,7 +9720,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      - ``*``, Beckhoff
+      - ``3.3.21.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-motion:tmo_motion
@@ -9855,6 +9932,13 @@ TcUnit
       - ``1.0.1.0``, www.tcunit.org
 
 
+
+    * - pcdshub/sample-delivery-system:SDSPLC
+      -
+
+      -
+
+      - ``1.0.1.0``, www.tcunit.org
 
 
     * - pcdshub/lcls-plc-tmo-motion:tmo_motion
