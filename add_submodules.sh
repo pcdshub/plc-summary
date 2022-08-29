@@ -10,11 +10,13 @@ add_submodule() {
     fi
 }
 
-add_submodule HOMS_XRT
+
+add_submodule lcls-plc-bergmann-kohzu
 add_submodule lcls-plc-crixs-motion
 add_submodule lcls-plc-crixs-vac
 add_submodule lcls-plc-cvmi-motion
 add_submodule lcls-plc-cvmi-vac
+add_submodule lcls-plc-dream-vac
 add_submodule lcls-plc-hxx-vonhamos
 add_submodule lcls-plc-kfe-arbiter
 add_submodule lcls-plc-kfe-gatt
@@ -29,6 +31,7 @@ add_submodule lcls-plc-lamp-lv17-vac
 add_submodule lcls-plc-lamp-motion
 add_submodule lcls-plc-lamp-vac
 add_submodule lcls-plc-las-bts
+add_submodule lcls-plc-las-lps-01
 add_submodule lcls-plc-lfe-arbiter
 add_submodule lcls-plc-lfe-gem
 add_submodule lcls-plc-lfe-motion
@@ -48,20 +51,43 @@ add_submodule lcls-plc-tmo-motion
 add_submodule lcls-plc-tmo-optics
 add_submodule lcls-plc-tmo-spectrometer-motion
 add_submodule lcls-plc-tmo-vac
+add_submodule lcls-plc-txi-hxr-vac
 add_submodule lcls-plc-txi-optics
+add_submodule lcls-plc-txi-sxr-vac
 add_submodule lcls-plc-vls-vac
-add_submodule lcls-plc-vonhamos-motion
 add_submodule lcls-plc-xcs-liquid-jet
 add_submodule lcls-plc-xcs-per-vac
 add_submodule lcls-plc-xpp-jjslit-motion
 add_submodule lcls-plc-xrt-optics
+add_submodule lcls-tmo-plc-led-test
+add_submodule lcls_plc_kfe_gatt
+
+# Oddly named ones:
+add_submodule HOMS_XRT
 add_submodule sample-delivery-system
+add_submodule TMO_SQ1_PLC_files
 
 # Test/source projects:
 # add_submodule lcls-plc-sxr-satt
+# add_submodule pmps-dev-subsysplc
+
+# Template projects:
+# VAC-PLC-TEMPLATE
 
 # Aliases:
 # add_submodule lcls-plc-liquid-jet (-> lcls-plc-xcs-liquid-jet)
 
 # Supporting modules:
 # add_submodule lcls-twincat-motion
+# add_submodule lcls-twincat-general
+# add_submodule lcls-twincat-motion
+# add_submodule lcls-twincat-motion-example
+# add_submodule lcls-twincat-optics
+# add_submodule lcls-twincat-physics
+# add_submodule lcls-twincat-pmps
+# add_submodule lcls-twincat-review
+# add_submodule lcls-twincat-template-project
+# add_submodule lcls-twincat-vacuum
+# add_submodule lcls-twincat-vacuum-old
+# add_submodule lcls-twincat-vacuum-serialdrivers
+# add_submodule lcls-twincat-vacuum-system-simulator

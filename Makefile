@@ -22,4 +22,7 @@ gh-pages:
 		cp -R docs/build/html/ . && \
 		git commit -am "Regenerated docs for commit $$master_commit"
 
+all_repos.txt:
+	gh repo list pcdshub --limit=1000 --json="name" --jq=".[].name" | sort > all_repos.txt
+
 .PHONY: all docs initialize update_remotes gh-pages
