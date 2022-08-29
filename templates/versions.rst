@@ -16,7 +16,7 @@
 {{ title | title_fill('"') }}{% endmacro -%}
 
 {% set all_references = [] %}
-{% for project_path, project in projects.items() %}
+{% for project in projects.values() | sort(attribute="git_info.repo_slug") %}
     {% for name in get_library_versions(project) %}
         {% if name not in all_references %}
             {% set _ = all_references.append(name) %}
@@ -26,7 +26,7 @@
 
 {% set all_plcs = [] %}
 {% set plc_to_project = {} %}
-{% for project_path, project in projects.items() %}
+{% for project in projects.values() | sort(attribute="git_info.repo_slug") %}
     {% for plc in project.plcs %}
         {% set _ = all_plcs.append(plc) %}
         {% set _ = plc_to_project.update({plc: project}) %}

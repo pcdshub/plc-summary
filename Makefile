@@ -1,10 +1,14 @@
 TSPROJ=$(shell find . -name '*.tsproj')
 # TSPROJ=lcls-plc-tmo-vac/plc-tmo-vac/plc-tmo-vac.tsproj lcls-plc-lfe-motion/plc-lfe-motion/plc-lfe-motion.tsproj
 
-all: index.rst axes.rst versions.rst docs
+all: generate-docs docs
 
-%.rst:
-	pytmc template --template templates/$@ $(TSPROJ) > docs/source/$@
+generate-docs:
+	pytmc template \
+		--template templates/index.rst:docs/source/index.rst \
+		--template templates/axes.rst:docs/source/axes.rst \
+		--template templates/versions.rst:docs/source/versions.rst \
+		$(TSPROJ)
 
 initialize:
 	git submodule update --init --recursive
@@ -25,4 +29,4 @@ gh-pages:
 all_repos.txt:
 	gh repo list pcdshub --limit=1000 --json="name" --jq=".[].name" | sort > all_repos.txt
 
-.PHONY: all docs initialize update_remotes gh-pages
+.PHONY: all generate-docs docs initialize update_remotes gh-pages
