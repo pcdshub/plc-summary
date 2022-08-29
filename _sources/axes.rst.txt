@@ -48,6 +48,32 @@ pcdshub/HOMS_XRT
     * - Axis 18
       - M2L3-Bender
 
+pcdshub/lcls-plc-bergmann-kohzu
+-------------------------------
+
+.. list-table:: pcdshub/lcls-plc-bergmann-kohzu Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - XTAL_SAMPLE_Y
+    * - Axis 2
+      - XTAL1_X
+    * - Axis 3
+      - XTAL1_CHI
+    * - Axis 4
+      - XTAL1_TH
+    * - Axis 5
+      - XTA2L_CHI
+    * - Axis 6
+      - XTA2L_TH
+    * - Axis 7
+      - XTAL3_CHI
+    * - Axis 8
+      - XTAL3_TH
+
 pcdshub/lcls-plc-crixs-motion
 -----------------------------
 
@@ -155,6 +181,14 @@ pcdshub/lcls-plc-crixs-motion
       - M48- Cryopump Y10
     * - Axis 49
       - M49- Cryopump Y11
+    * - Axis 50
+      - SL2K2-BOTTOM-M50
+    * - Axis 51
+      - SL2K2-TOP-M51
+    * - Axis 52
+      - SL2K2-NORTH-M52
+    * - Axis 53
+      - SL2K2-SOUTH-M53
 
 pcdshub/lcls-plc-crixs-vac
 --------------------------
@@ -184,9 +218,20 @@ pcdshub/lcls-plc-cvmi-motion
       - GasNeedleZ
     * - Axis 7
       - SamplePaddle
+    * - Axis 8
+      - KTOF_X
+    * - Axis 9
+      - KTOF_Y
+    * - Axis 10
+      - KTOF_Z
 
 pcdshub/lcls-plc-cvmi-vac
 -------------------------
+
+No NC axes.
+
+pcdshub/lcls-plc-dream-vac
+--------------------------
 
 No NC axes.
 
@@ -709,6 +754,80 @@ pcdshub/lcls-plc-qrix-motion
 
     * - Axis 1
       - M1 - SSL Sliding seal
+    * - Axis 2
+      - M2 - 2Theta Stepper
+    * - Axis 3
+      - M3 - XS1
+    * - Axis 4
+      - M4 - XS2
+    * - Axis 5
+      - M5 - YS1
+    * - Axis 6
+      - M6 - YS2
+    * - Axis 7
+      - M7 - YG1
+    * - Axis 8
+      - M8 - YG2
+    * - Axis 9
+      - M9 - YG3
+    * - Axis 10
+      - M10 - RxG
+    * - Axis 11
+      - M11 - XG
+    * - Axis 12
+      - M12 - XPM1
+    * - Axis 13
+      - M13 - XPM2
+    * - Axis 14
+      - M14 - RzPM
+    * - Axis 15
+      - M15 - YDF1
+    * - Axis 16
+      - M16 - YDF2
+    * - Axis 17
+      - M17 - YDF3
+    * - Axis 18
+      - M18 - XSDC1
+    * - Axis 19
+      - M19 - XSDC2
+    * - Axis 20
+      - M20 - YSDC1
+    * - Axis 21
+      - M21 - YSDC2
+    * - Axis 22
+      - M22 - XDC
+    * - Axis 23
+      - M23 - RyDC
+    * - Axis 24
+      - M24 - ZDC
+    * - Axis 25
+      - M25 - YF1
+    * - Axis 26
+      - M26 - YF2
+    * - Axis 27
+      - M27 - ZF
+    * - Axis 28
+      - M28 - Diff X
+    * - Axis 29
+      - M29 - Diff Y
+    * - Axis 30
+      - M30 - Diff Z
+    * - Axis 31
+      - M31 - Diff 2Theta Y
+    * - Axis 32
+      - M32 - Diff Phi
+    * - Axis 33
+      - M33 - Diff Chi
+    * - Axis 34
+      - M34 - Diff Theta
+    * - Axis 35
+      - M35 - Diff 2Theta
+    * - Axis 36
+      - M36 - LAS IR VIS
+    * - Axis 37
+      - M37 - LAS IR H
+    * - Axis 38
+      - M38 - LAS IR V
 
 pcdshub/lcls-plc-qrix-vac
 -------------------------
@@ -914,6 +1033,16 @@ pcdshub/lcls-plc-tmo-motion
       - SL2K4-NORTH-M25
     * - Axis 26
       - SL2K4-SOUTH-M26
+    * - Axis 27
+      - Axis 27 IM6K4-PPM-MMS
+    * - Axis 28
+      - Axis 28 PF2K4-WFS_TARGET-MMS-Y
+    * - Axis 29
+      - Axis 29 PF2K4-WFS_TARGET-MMS-Z
+    * - Axis 30
+      - Axis 30 TM2K4-MMS-Y
+    * - Axis 31
+      - Axis 31 TM2K4-MMS-X
 
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
@@ -956,6 +1085,22 @@ pcdshub/lcls-plc-tmo-optics
       - M3K4-BEND-US
     * - Axis 16
       - M3K4-BEND-DS
+    * - Axis 17
+      - M4K4 X
+    * - Axis 18
+      - M4K4 Y
+    * - Axis 19
+      - M4K4 Z
+    * - Axis 20
+      - M4K4 rX
+    * - Axis 21
+      - M5K4 X
+    * - Axis 22
+      - M5K4 Y
+    * - Axis 23
+      - M5K4 Z
+    * - Axis 24
+      - M5K4 rY
 
 pcdshub/lcls-plc-tmo-spectrometer-motion
 ----------------------------------------
@@ -1069,6 +1214,48 @@ pcdshub/lcls-plc-xcs-per-vac
 
 No NC axes.
 
+pcdshub/lcls-plc-xpp-jjslit-motion
+----------------------------------
+
+.. list-table:: pcdshub/lcls-plc-xpp-jjslit-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - JJ_1_V_Gap
+    * - Axis 2
+      - JJ_1_V_Offset
+    * - Axis 3
+      - JJ_1_H_Gap
+    * - Axis 4
+      - JJ_1_H_Offset
+    * - Axis 5
+      - JJ_2_V_Gap
+    * - Axis 6
+      - JJ_2_V_Offset
+    * - Axis 7
+      - JJ_2_H_Gap
+    * - Axis 8
+      - JJ_2_H_Offset
+    * - Axis 9
+      - JJ_3_V_Gap
+    * - Axis 10
+      - JJ_3_V_Offset
+    * - Axis 11
+      - JJ_3_H_Gap
+    * - Axis 12
+      - JJ_3_H_Offset
+    * - Axis 13
+      - JJ_4_V_Gap
+    * - Axis 14
+      - JJ_4_V_Offset
+    * - Axis 15
+      - JJ_4_H_Gap
+    * - Axis 16
+      - JJ_4_H_Offset
+
 pcdshub/lcls-plc-xrt-optics
 ---------------------------
 
@@ -1090,6 +1277,34 @@ pcdshub/lcls-plc-xrt-optics
       - XRTM1-Pitch
     * - Axis 6
       - XRTM1-Bender
+
+pcdshub/lcls_plc_kfe_gatt
+-------------------------
+
+.. list-table:: pcdshub/lcls_plc_kfe_gatt Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - MA_1_X
+    * - Axis 2
+      - MA_1_Y
+    * - Axis 3
+      - MA_2_X
+    * - Axis 4
+      - MA_2_Y
+    * - Axis 5
+      - MA_3_X
+    * - Axis 6
+      - MA_3_Y
+    * - Axis 7
+      - MA_4_X
+    * - Axis 8
+      - MA_4_Y
+    * - Axis 9
+      - VGP_80
 
 pcdshub/sample-delivery-system
 ------------------------------
