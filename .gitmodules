@@ -139,3 +139,27 @@
 [submodule "HOMS_XRT"]
 	path = HOMS_XRT
 	url = git@github.com:pcdshub/HOMS_XRT
+[submodule "lcls-plc-bergmann-kohzu"]
+	path = lcls-plc-bergmann-kohzu
+	url = git@github.com:pcdshub/lcls-plc-bergmann-kohzu
+[submodule "lcls-plc-dream-vac"]
+	path = lcls-plc-dream-vac
+	url = git@github.com:pcdshub/lcls-plc-dream-vac
+[submodule "lcls-plc-las-lps-01"]
+	path = lcls-plc-las-lps-01
+	url = git@github.com:pcdshub/lcls-plc-las-lps-01
+[submodule "lcls-plc-txi-hxr-vac"]
+	path = lcls-plc-txi-hxr-vac
+	url = git@github.com:pcdshub/lcls-plc-txi-hxr-vac
+[submodule "lcls-plc-txi-sxr-vac"]
+	path = lcls-plc-txi-sxr-vac
+	url = git@github.com:pcdshub/lcls-plc-txi-sxr-vac
+[submodule "lcls-tmo-plc-led-test"]
+	path = lcls-tmo-plc-led-test
+	url = git@github.com:pcdshub/lcls-tmo-plc-led-test
+[submodule "lcls_plc_kfe_gatt"]
+	path = lcls_plc_kfe_gatt
+	url = git@github.com:pcdshub/lcls_plc_kfe_gatt
+[submodule "TMO_SQ1_PLC_files"]
+	path = TMO_SQ1_PLC_files
+	url = git@github.com:pcdshub/TMO_SQ1_PLC_files
