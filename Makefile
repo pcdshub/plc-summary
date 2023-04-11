@@ -8,6 +8,7 @@ generate-docs:
 		--template templates/index.rst:docs/source/index.rst \
 		--template templates/axes.rst:docs/source/axes.rst \
 		--template templates/versions.rst:docs/source/versions.rst \
+		--template templates/ethercat.rst:docs/source/ethercat.rst \
 		$(TSPROJ)
 
 initialize:

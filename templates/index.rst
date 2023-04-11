@@ -19,6 +19,7 @@ PLC Summary
     :glob:
 
     axes
+    ethercat
     versions
 
 

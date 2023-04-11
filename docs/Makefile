@@ -8,6 +8,18 @@ SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = source
 BUILDDIR      = build
 
+html: generate
+
+update_remotes:
+	$(MAKE) -C ../ update_remotes
+
+generate: update_remotes
+	$(MAKE) update_remotes
+	if ! command -v pytmc 2>/dev/null; then \
+		echo "pytmc not found; installing requirements."; \
+		python -m pip install -r requirements.txt; \
+	fi
+
 # Put it first so that "make" without argument is like "make help".
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
