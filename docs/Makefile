@@ -15,16 +15,16 @@ update_remotes:
 
 generate: update_remotes
 	$(MAKE) update_remotes
-	if ! command -v pytmc 2>/dev/null; then \
-		echo "pytmc not found; installing requirements."; \
-		python -m pip install -r requirements.txt; \
-	fi
+	# if ! command -v pytmc 2>/dev/null; then \
+	# 	echo "pytmc not found; installing requirements."; \
+	# 	python -m pip install -r requirements.txt; \
+	# fi
 	pytmc template \
 		--template ../templates/index.rst:source/index.rst \
 		--template ../templates/axes.rst:source/axes.rst \
 		--template ../templates/versions.rst:source/versions.rst \
 		--template ../templates/ethercat.rst:source/ethercat.rst \
-		$(shell find .. -name '*.tsproj')
+		$(shell find ../plcs -name '*.tsproj')
 
 # Put it first so that "make" without argument is like "make help".
 help:

@@ -1,15 +1,7 @@
 TSPROJ=$(shell find . -name '*.tsproj')
 # TSPROJ=lcls-plc-tmo-vac/plc-tmo-vac/plc-tmo-vac.tsproj lcls-plc-lfe-motion/plc-lfe-motion/plc-lfe-motion.tsproj
 
-all: generate-docs docs
-
-generate-docs:
-	pytmc template \
-		--template templates/index.rst:docs/source/index.rst \
-		--template templates/axes.rst:docs/source/axes.rst \
-		--template templates/versions.rst:docs/source/versions.rst \
-		--template templates/ethercat.rst:docs/source/ethercat.rst \
-		$(TSPROJ)
+all: docs
 
 initialize:
 	git submodule update --init --recursive

@@ -9,7 +9,7 @@ add_submodule() {
     if [ -n "$DEST" ]; then
       DEST="./$DEST/$SUBMOD"
     else
-      DEST="./$SUBMOD"
+      DEST="./plcs/$SUBMOD"
     fi
 
     if [ ! -d "$SUBMOD" ]; then
