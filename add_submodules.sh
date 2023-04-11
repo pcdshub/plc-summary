@@ -1,12 +1,24 @@
+#!/bin/bash
+
 add_submodule() {
+    local SUBMOD
+    local DEST
     SUBMOD=$1
-    if [ ! -d "$SUBMOD" ]; then
-        git submodule add git@github.com:pcdshub/$SUBMOD
+    DEST=$2
+
+    if [ -n "$DEST" ]; then
+      DEST="./$DEST/$SUBMOD"
     else
-        pushd $SUBMOD || exit 1
-        git fetch
+      DEST="./$SUBMOD"
+    fi
+
+    if [ ! -d "$SUBMOD" ]; then
+        git submodule add "git@github.com:pcdshub/$SUBMOD" "$DEST"
+    else
+        pushd "$DEST" || exit 1
+        git fetch origin
         git reset --hard origin/master || echo "Failed to update $SUBMOD"
-        popd > /dev/null
+        popd > /dev/null || return
     fi
 }
 
@@ -16,9 +28,9 @@ add_submodule lcls-plc-crixs-vac
 add_submodule lcls-plc-cvmi-motion
 add_submodule lcls-plc-cvmi-vac
 add_submodule lcls-plc-cxi-fms
-add_submodule lcls-plc-dev-pmps
-add_submodule lcls-plc-dev-pmps-subsystem
-add_submodule lcls-plc-dev-xrt-optics
+# add_submodule lcls-plc-dev-pmps
+# add_submodule lcls-plc-dev-pmps-subsystem
+# add_submodule lcls-plc-dev-xrt-optics
 add_submodule lcls-plc-dream-motion
 add_submodule lcls-plc-dream-vac
 # add_submodule lcls-plc-example-motion
@@ -60,8 +72,8 @@ add_submodule lcls-plc-rixs-optics
 add_submodule lcls-plc-roving-spectrometer
 add_submodule lcls-plc-sample-delivery-system
 add_submodule lcls-plc-sxr-satt
-add_submodule lcls-plc-template-twincat-project
-add_submodule lcls-plc-template-vacuum
+# add_submodule lcls-plc-template-twincat-project
+# add_submodule lcls-plc-template-vacuum
 # add_submodule lcls-plc-test-ads
 # add_submodule lcls-plc-test-btps-prototype
 # add_submodule lcls-plc-test-el2212-evaluation
@@ -92,15 +104,14 @@ add_submodule lcls-plc-xrt-optics
 # add_submodule lcls-tmo-ptm-test-vac
 
 # Supporting modules:
-add_submodule lcls-twincat-common-components
-add_submodule lcls-twincat-general
-add_submodule lcls-twincat-motion
-add_submodule lcls-twincat-optics
-add_submodule lcls-twincat-physics
-add_submodule lcls-twincat-pmps
-# add_submodule lcls-twincat-review
-add_submodule lcls-twincat-vacuum
-# add_submodule lcls-twincat-vacuum-old
-add_submodule lcls-twincat-vacuum-serialdrivers
-add_submodule lcls-twincat-vacuum-sim
-add_submodule lcls-twincat-vacuum-system-simulator
+SUPPORT=./support
+add_submodule lcls-twincat-common-components "${SUPPORT}"
+add_submodule lcls-twincat-general "${SUPPORT}"
+add_submodule lcls-twincat-motion "${SUPPORT}"
+add_submodule lcls-twincat-optics "${SUPPORT}"
+add_submodule lcls-twincat-physics "${SUPPORT}"
+add_submodule lcls-twincat-pmps "${SUPPORT}"
+add_submodule lcls-twincat-vacuum "${SUPPORT}"
+add_submodule lcls-twincat-vacuum-serialdrivers "${SUPPORT}"
+# add_submodule lcls-twincat-vacuum-sim "${SUPPORT}"
+# add_submodule lcls-twincat-vacuum-system-simulator "${SUPPORT}"

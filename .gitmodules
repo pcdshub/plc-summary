@@ -1,0 +1,198 @@
+[submodule "lcls-plc-bergmann-kohzu"]
+	path = lcls-plc-bergmann-kohzu
+	url = git@github.com:pcdshub/lcls-plc-bergmann-kohzu
+[submodule "lcls-plc-crixs-motion"]
+	path = lcls-plc-crixs-motion
+	url = git@github.com:pcdshub/lcls-plc-crixs-motion
+[submodule "lcls-plc-crixs-vac"]
+	path = lcls-plc-crixs-vac
+	url = git@github.com:pcdshub/lcls-plc-crixs-vac
+[submodule "lcls-plc-cvmi-motion"]
+	path = lcls-plc-cvmi-motion
+	url = git@github.com:pcdshub/lcls-plc-cvmi-motion
+[submodule "lcls-plc-cvmi-vac"]
+	path = lcls-plc-cvmi-vac
+	url = git@github.com:pcdshub/lcls-plc-cvmi-vac
+[submodule "lcls-plc-dream-motion"]
+	path = lcls-plc-dream-motion
+	url = git@github.com:pcdshub/lcls-plc-dream-motion
+[submodule "lcls-plc-dream-vac"]
+	path = lcls-plc-dream-vac
+	url = git@github.com:pcdshub/lcls-plc-dream-vac
+[submodule "lcls-plc-ftl-leak-det"]
+	path = lcls-plc-ftl-leak-det
+	url = git@github.com:pcdshub/lcls-plc-ftl-leak-det
+[submodule "lcls-plc-hxx-vonhamos"]
+	path = lcls-plc-hxx-vonhamos
+	url = git@github.com:pcdshub/lcls-plc-hxx-vonhamos
+[submodule "lcls-plc-kfe-arbiter"]
+	path = lcls-plc-kfe-arbiter
+	url = git@github.com:pcdshub/lcls-plc-kfe-arbiter
+[submodule "lcls-plc-kfe-gatt"]
+	path = lcls-plc-kfe-gatt
+	url = git@github.com:pcdshub/lcls-plc-kfe-gatt
+[submodule "lcls-plc-kfe-gmd-vac"]
+	path = lcls-plc-kfe-gmd-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-gmd-vac
+[submodule "lcls-plc-kfe-motion"]
+	path = lcls-plc-kfe-motion
+	url = git@github.com:pcdshub/lcls-plc-kfe-motion
+[submodule "lcls-plc-kfe-rix-motion"]
+	path = lcls-plc-kfe-rix-motion
+	url = git@github.com:pcdshub/lcls-plc-kfe-rix-motion
+[submodule "lcls-plc-kfe-rix-vac"]
+	path = lcls-plc-kfe-rix-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-rix-vac
+[submodule "lcls-plc-kfe-vac"]
+	path = lcls-plc-kfe-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-vac
+[submodule "lcls-plc-kfe-xgmd-vac"]
+	path = lcls-plc-kfe-xgmd-vac
+	url = git@github.com:pcdshub/lcls-plc-kfe-xgmd-vac
+[submodule "lcls-plc-lamp-lv17-motion"]
+	path = lcls-plc-lamp-lv17-motion
+	url = git@github.com:pcdshub/lcls-plc-lamp-lv17-motion
+[submodule "lcls-plc-lamp-vac"]
+	path = lcls-plc-lamp-vac
+	url = git@github.com:pcdshub/lcls-plc-lamp-vac
+[submodule "lcls-plc-lamp-vac-1"]
+	path = lcls-plc-lamp-vac-1
+	url = git@github.com:pcdshub/lcls-plc-lamp-vac-1
+[submodule "lcls-plc-las-bts"]
+	path = lcls-plc-las-bts
+	url = git@github.com:pcdshub/lcls-plc-las-bts
+[submodule "lcls-plc-las-lps-01"]
+	path = lcls-plc-las-lps-01
+	url = git@github.com:pcdshub/lcls-plc-las-lps-01
+[submodule "lcls-plc-lfe-arbiter"]
+	path = lcls-plc-lfe-arbiter
+	url = git@github.com:pcdshub/lcls-plc-lfe-arbiter
+[submodule "lcls-plc-lfe-gem"]
+	path = lcls-plc-lfe-gem
+	url = git@github.com:pcdshub/lcls-plc-lfe-gem
+[submodule "lcls-plc-lfe-motion"]
+	path = lcls-plc-lfe-motion
+	url = git@github.com:pcdshub/lcls-plc-lfe-motion
+[submodule "lcls-plc-lfe-motion-kmono"]
+	path = lcls-plc-lfe-motion-kmono
+	url = git@github.com:pcdshub/lcls-plc-lfe-motion-kmono
+[submodule "lcls-plc-lfe-optics"]
+	path = lcls-plc-lfe-optics
+	url = git@github.com:pcdshub/lcls-plc-lfe-optics
+[submodule "lcls-plc-lfe-vac"]
+	path = lcls-plc-lfe-vac
+	url = git@github.com:pcdshub/lcls-plc-lfe-vac
+[submodule "lcls-plc-mfx-be-lens-interlock"]
+	path = lcls-plc-mfx-be-lens-interlock
+	url = git@github.com:pcdshub/lcls-plc-mfx-be-lens-interlock
+[submodule "lcls-plc-mfx-motion"]
+	path = lcls-plc-mfx-motion
+	url = git@github.com:pcdshub/lcls-plc-mfx-motion
+[submodule "lcls-plc-mfx-spectrometer"]
+	path = lcls-plc-mfx-spectrometer
+	url = git@github.com:pcdshub/lcls-plc-mfx-spectrometer
+[submodule "lcls-plc-mini-powermeter-calib"]
+	path = lcls-plc-mini-powermeter-calib
+	url = git@github.com:pcdshub/lcls-plc-mini-powermeter-calib
+[submodule "lcls-plc-mrco-motion"]
+	path = lcls-plc-mrco-motion
+	url = git@github.com:pcdshub/lcls-plc-mrco-motion
+[submodule "lcls-plc-mrco-vac"]
+	path = lcls-plc-mrco-vac
+	url = git@github.com:pcdshub/lcls-plc-mrco-vac
+[submodule "lcls-plc-qrix-motion"]
+	path = lcls-plc-qrix-motion
+	url = git@github.com:pcdshub/lcls-plc-qrix-motion
+[submodule "lcls-plc-qrix-vac"]
+	path = lcls-plc-qrix-vac
+	url = git@github.com:pcdshub/lcls-plc-qrix-vac
+[submodule "lcls-plc-rix-sds-injector"]
+	path = lcls-plc-rix-sds-injector
+	url = git@github.com:pcdshub/lcls-plc-rix-sds-injector
+[submodule "lcls-plc-rixs-optics"]
+	path = lcls-plc-rixs-optics
+	url = git@github.com:pcdshub/lcls-plc-rixs-optics
+[submodule "lcls-plc-roving-spectrometer"]
+	path = lcls-plc-roving-spectrometer
+	url = git@github.com:pcdshub/lcls-plc-roving-spectrometer
+[submodule "lcls-plc-sample-delivery-system"]
+	path = lcls-plc-sample-delivery-system
+	url = git@github.com:pcdshub/lcls-plc-sample-delivery-system
+[submodule "lcls-plc-sxr-satt"]
+	path = lcls-plc-sxr-satt
+	url = git@github.com:pcdshub/lcls-plc-sxr-satt
+[submodule "lcls-plc-tmo-motion"]
+	path = lcls-plc-tmo-motion
+	url = git@github.com:pcdshub/lcls-plc-tmo-motion
+[submodule "lcls-plc-tmo-optics"]
+	path = lcls-plc-tmo-optics
+	url = git@github.com:pcdshub/lcls-plc-tmo-optics
+[submodule "lcls-plc-tmo-spectrometer-motion"]
+	path = lcls-plc-tmo-spectrometer-motion
+	url = git@github.com:pcdshub/lcls-plc-tmo-spectrometer-motion
+[submodule "lcls-plc-tmo-vac"]
+	path = lcls-plc-tmo-vac
+	url = git@github.com:pcdshub/lcls-plc-tmo-vac
+[submodule "lcls-plc-txi-hxr-motion"]
+	path = lcls-plc-txi-hxr-motion
+	url = git@github.com:pcdshub/lcls-plc-txi-hxr-motion
+[submodule "lcls-plc-txi-hxr-vac"]
+	path = lcls-plc-txi-hxr-vac
+	url = git@github.com:pcdshub/lcls-plc-txi-hxr-vac
+[submodule "lcls-plc-txi-optics"]
+	path = lcls-plc-txi-optics
+	url = git@github.com:pcdshub/lcls-plc-txi-optics
+[submodule "lcls-plc-txi-sxr-mot"]
+	path = lcls-plc-txi-sxr-mot
+	url = git@github.com:pcdshub/lcls-plc-txi-sxr-mot
+[submodule "lcls-plc-txi-sxr-vac"]
+	path = lcls-plc-txi-sxr-vac
+	url = git@github.com:pcdshub/lcls-plc-txi-sxr-vac
+[submodule "lcls-plc-vhs-01"]
+	path = lcls-plc-vhs-01
+	url = git@github.com:pcdshub/lcls-plc-vhs-01
+[submodule "lcls-plc-vls-vac"]
+	path = lcls-plc-vls-vac
+	url = git@github.com:pcdshub/lcls-plc-vls-vac
+[submodule "lcls-plc-xcs-liquid-jet"]
+	path = lcls-plc-xcs-liquid-jet
+	url = git@github.com:pcdshub/lcls-plc-xcs-liquid-jet
+[submodule "lcls-plc-xcs-per-vac"]
+	path = lcls-plc-xcs-per-vac
+	url = git@github.com:pcdshub/lcls-plc-xcs-per-vac
+[submodule "lcls-plc-xpp-jjslit-motion"]
+	path = lcls-plc-xpp-jjslit-motion
+	url = git@github.com:pcdshub/lcls-plc-xpp-jjslit-motion
+[submodule "lcls-plc-xrt-optics"]
+	path = lcls-plc-xrt-optics
+	url = git@github.com:pcdshub/lcls-plc-xrt-optics
+[submodule "support/lcls-twincat-common-components"]
+	path = support/lcls-twincat-common-components
+	url = git@github.com:pcdshub/lcls-twincat-common-components
+[submodule "support/lcls-twincat-general"]
+	path = support/lcls-twincat-general
+	url = git@github.com:pcdshub/lcls-twincat-general
+[submodule "support/lcls-twincat-motion"]
+	path = support/lcls-twincat-motion
+	url = git@github.com:pcdshub/lcls-twincat-motion
+[submodule "support/lcls-twincat-optics"]
+	path = support/lcls-twincat-optics
+	url = git@github.com:pcdshub/lcls-twincat-optics
+[submodule "support/lcls-twincat-physics"]
+	path = support/lcls-twincat-physics
+	url = git@github.com:pcdshub/lcls-twincat-physics
+[submodule "support/lcls-twincat-pmps"]
+	path = support/lcls-twincat-pmps
+	url = git@github.com:pcdshub/lcls-twincat-pmps
+[submodule "support/lcls-twincat-vacuum"]
+	path = support/lcls-twincat-vacuum
+	url = git@github.com:pcdshub/lcls-twincat-vacuum
+[submodule "support/lcls-twincat-vacuum-serialdrivers"]
+	path = support/lcls-twincat-vacuum-serialdrivers
+	url = git@github.com:pcdshub/lcls-twincat-vacuum-serialdrivers
+[submodule "lcls-plc-lamp-lv17-vac"]
+	path = lcls-plc-lamp-lv17-vac
+	url = git@github.com:pcdshub/lcls-plc-lamp-lv17-vac
+[submodule "lcls-plc-lamp-motion"]
+	path = lcls-plc-lamp-motion
+	url = git@github.com:pcdshub/lcls-plc-lamp-motion
