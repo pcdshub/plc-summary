@@ -19,6 +19,12 @@ generate: update_remotes
 		echo "pytmc not found; installing requirements."; \
 		python -m pip install -r requirements.txt; \
 	fi
+	pytmc template \
+		--template ../templates/index.rst:source/index.rst \
+		--template ../templates/axes.rst:source/axes.rst \
+		--template ../templates/versions.rst:source/versions.rst \
+		--template ../templates/ethercat.rst:source/ethercat.rst \
+		$(shell find .. -name '*.tsproj')
 
 # Put it first so that "make" without argument is like "make help".
 help:
