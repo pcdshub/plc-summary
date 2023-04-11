@@ -838,6 +838,10 @@ pcdshub/lcls-plc-qrix-motion
       - M37 - LAS IR H
     * - Axis 38
       - M38 - LAS IR V
+    * - Axis 39
+      - M39 - SDS X
+    * - Axis 40
+      - M40 - SDS Y
 
 pcdshub/lcls-plc-qrix-vac
 -------------------------
@@ -1214,6 +1218,16 @@ pcdshub/lcls-plc-txi-hxr-motion
 
     * - Axis 1
       - Axis 1 IM2L1-PPM-MMS
+    * - Axis 5
+      - Axis 2 AL1L1-L2SI-MMS
+    * - Axis 50
+      - SL3L1-BOTTOM-M50
+    * - Axis 51
+      - SL3L1-TOP-M51
+    * - Axis 52
+      - SL3L1-NORTH-M52
+    * - Axis 53
+      - SL3L1-SOUTH-M53
 
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
@@ -1435,72 +1449,4 @@ pcdshub/lcls-plc-xrt-optics
       - M2L3-Pitch
     * - Axis 18
       - M2L3-Bender
-
-pcdshub/lcls-twincat-common-components
---------------------------------------
-
-No NC axes.
-
-pcdshub/lcls-twincat-general
-----------------------------
-
-No NC axes.
-
-pcdshub/lcls-twincat-motion
----------------------------
-
-.. list-table:: pcdshub/lcls-twincat-motion Axes
-    :header-rows: 1
-
-    * - Axis ID
-      - Axis Name
-
-    * - Axis 4
-      - Library 1
-    * - Axis 5
-      - Library 2
-
-pcdshub/lcls-twincat-optics
----------------------------
-
-.. list-table:: pcdshub/lcls-twincat-optics Axes
-    :header-rows: 1
-
-    * - Axis ID
-      - Axis Name
-
-    * - Axis 1
-      - Axis 1
-    * - Axis 2
-      - TestPitch_LimitSwitches
-    * - Axis 3
-      - Axis 2
-    * - Axis 4
-      - Axis 3
-    * - Axis 5
-      - Axis 4
-    * - Axis 6
-      - Axis 5
-    * - Axis 7
-      - Axis 6
-
-pcdshub/lcls-twincat-physics
-----------------------------
-
-No NC axes.
-
-pcdshub/lcls-twincat-pmps
--------------------------
-
-No NC axes.
-
-pcdshub/lcls-twincat-vacuum
----------------------------
-
-No NC axes.
-
-pcdshub/lcls-twincat-vacuum-serialdrivers
------------------------------------------
-
-No NC axes.
 

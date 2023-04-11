@@ -107,7 +107,7 @@ PLC Summary
       - `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2a2004fbf454453e21dd1d1c4c771>`_
       - `pcdshub/lcls-plc-mrco-vac Docs <https://pcdshub.github.io/lcls-plc-mrco-vac>`_
     * - `pcdshub/lcls-plc-qrix-motion <https://github.com/pcdshub/lcls-plc-qrix-motion>`_
-      - `081521b <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/081521bcc4ead4380c1cb442e5f4b0459dfa179c>`_
+      - `4c66779 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/4c66779acf4711991de369d0a03a43016f6607d0>`_
       - `pcdshub/lcls-plc-qrix-motion Docs <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
     * - `pcdshub/lcls-plc-qrix-vac <https://github.com/pcdshub/lcls-plc-qrix-vac>`_
       - `v0.0.0-9-g742b43b <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/742b43ba553028ee28a1f74c153e244bebc83fa9>`_
@@ -140,7 +140,7 @@ PLC Summary
       - `829cf26 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/829cf264481215d0cad4bc39481aab3edb76056c>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
-      - `b243de0 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/b243de0e0eedcac21ffd032b07f0faf8960911a2>`_
+      - `e2304a8 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/e2304a8c333d26ce0d2f14ced7c9c1218548b522>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
       - `dea57ec <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dea57ec384d4d48fec3520c3f946bf272ce2f1e8>`_
@@ -169,30 +169,6 @@ PLC Summary
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
       - `v1.2.0-122-gda46653 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/da466536e76b22197849d5d4202a9fb7cd2176d7>`_
       - `pcdshub/lcls-plc-xrt-optics Docs <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
-    * - `pcdshub/lcls-twincat-common-components <https://github.com/pcdshub/lcls-twincat-common-components>`_
-      - `47addc1 <https://github.com/pcdshub/lcls-twincat-common-components/tree/47addc177f8c9516ccb68cf7bf78c8e10e7aef19>`_
-      - `pcdshub/lcls-twincat-common-components Docs <https://pcdshub.github.io/lcls-twincat-common-components>`_
-    * - `pcdshub/lcls-twincat-general <https://github.com/pcdshub/lcls-twincat-general>`_
-      - `v2.8.1~1 <https://github.com/pcdshub/lcls-twincat-general/tree/645da03cd87a19ce14b2181612f08c6cc8615937>`_
-      - `pcdshub/lcls-twincat-general Docs <https://pcdshub.github.io/lcls-twincat-general>`_
-    * - `pcdshub/lcls-twincat-motion <https://github.com/pcdshub/lcls-twincat-motion>`_
-      - `v2.2.0~1 <https://github.com/pcdshub/lcls-twincat-motion/tree/7ed79934840b38b71bb126255fefcf97422d1e71>`_
-      - `pcdshub/lcls-twincat-motion Docs <https://pcdshub.github.io/lcls-twincat-motion>`_
-    * - `pcdshub/lcls-twincat-optics <https://github.com/pcdshub/lcls-twincat-optics>`_
-      - `v0.5.0~1 <https://github.com/pcdshub/lcls-twincat-optics/tree/4d34c1fd72b6a377ba1ebfeeae4ba98671fe13d5>`_
-      - `pcdshub/lcls-twincat-optics Docs <https://pcdshub.github.io/lcls-twincat-optics>`_
-    * - `pcdshub/lcls-twincat-physics <https://github.com/pcdshub/lcls-twincat-physics>`_
-      - `0f1ed80 <https://github.com/pcdshub/lcls-twincat-physics/tree/0f1ed800aa0a25ad03f41d523eb902cab1d7753e>`_
-      - `pcdshub/lcls-twincat-physics Docs <https://pcdshub.github.io/lcls-twincat-physics>`_
-    * - `pcdshub/lcls-twincat-pmps <https://github.com/pcdshub/lcls-twincat-pmps>`_
-      - `v1.1.0-61-g2947894 <https://github.com/pcdshub/lcls-twincat-pmps/tree/294789452e90c3b9b46a28b103f3e16f56fe198d>`_
-      - `pcdshub/lcls-twincat-pmps Docs <https://pcdshub.github.io/lcls-twincat-pmps>`_
-    * - `pcdshub/lcls-twincat-vacuum <https://github.com/pcdshub/lcls-twincat-vacuum>`_
-      - `v1.3.3a-147-g1dd255c <https://github.com/pcdshub/lcls-twincat-vacuum/tree/1dd255c15177c024b0bbbfd5b90f7a9f3443ac3e>`_
-      - `pcdshub/lcls-twincat-vacuum Docs <https://pcdshub.github.io/lcls-twincat-vacuum>`_
-    * - `pcdshub/lcls-twincat-vacuum-serialdrivers <https://github.com/pcdshub/lcls-twincat-vacuum-serialdrivers>`_
-      - `v1.2.0-14-g4d15105 <https://github.com/pcdshub/lcls-twincat-vacuum-serialdrivers/tree/4d1510564eb97e658e464ded98e7bb4e7a7d009e>`_
-      - `pcdshub/lcls-twincat-vacuum-serialdrivers Docs <https://pcdshub.github.io/lcls-twincat-vacuum-serialdrivers>`_
 
 .. toctree::
     :maxdepth: 3
