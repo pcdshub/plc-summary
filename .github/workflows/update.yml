@@ -12,7 +12,7 @@ jobs:
     name: "Documentation"
     uses: pcdshub/pcds-ci-helpers/.github/workflows/python-docs.yml@master
     with:
-      deploy: ${{ github.repository_owner == "pcdshub" && (github.ref == 'refs/heads/master' || startsWith(github.ref, 'refs/tags')) }}
+      deploy: ${{ github.repository_owner == 'pcdshub' && (github.ref == 'refs/heads/master' || startsWith(github.ref, 'refs/tags')) }}
       # There's no package to install here:
       package-name: ""
       install-package: false
