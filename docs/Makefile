@@ -24,7 +24,7 @@ generate:
 		--template ../templates/axes.rst:source/axes.rst \
 		--template ../templates/versions.rst:source/versions.rst \
 		--template ../templates/ethercat.rst:source/ethercat.rst \
-		$(shell find ../plcs -name '*.tsproj')
+		$(shell find $(PWD)/../plcs -name '*.tsproj')
 
 # Put it first so that "make" without argument is like "make help".
 help:
