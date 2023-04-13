@@ -184,6 +184,11 @@ pcdshub/lcls-plc-cvmi-vac
 
 No NC axes.
 
+pcdshub/lcls-plc-cxi-fms
+------------------------
+
+No NC axes.
+
 pcdshub/lcls-plc-dream-motion
 -----------------------------
 
@@ -1217,9 +1222,9 @@ pcdshub/lcls-plc-txi-hxr-motion
       - Axis Name
 
     * - Axis 1
-      - Axis 1 IM2L1-PPM-MMS
-    * - Axis 5
-      - Axis 2 AL1L1-L2SI-MMS
+      - Axis 1 AL1L1-L2SI-MMS
+    * - Axis 2
+      - Axis 2 IM2L1-PPM-MMS
     * - Axis 50
       - SL3L1-BOTTOM-M50
     * - Axis 51

@@ -47,6 +47,151 @@ pcdshub/lcls-plc-bergmann-kohzu: lcls_plc_bergmann_kohzu
       -
 
 
+pcdshub/lcls-plc-crixs-motion: PLC_CRIX_MOT
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-crixs-motion: PLC_CRIX_MOT
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.14`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.8.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.15.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.10.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.1.33.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.14.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.2.0.0`` www.tcunit.org
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.1`` SLAC
+
+
 pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -213,6 +358,280 @@ pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
       - ``1.1.0.0`` www.tcunit.org
 
 
+pcdshub/lcls-plc-cvmi-motion: cvmi_motion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-cvmi-motion: cvmi_motion
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      - ``newest`` SLAC
+
+      -
+
+      -
+
+
+pcdshub/lcls-plc-cvmi-vac: plc_cvmi_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-cvmi-vac: plc_cvmi_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.1.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      - ``*`` SLAC
+
+      - ``1.2.2`` SLAC
+
+    * - PMPS
+      -
+
+      -
+
+      - ``2.0.0`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.8.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.5.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.15.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.24.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.14.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.1.0.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-cxi-fms: fms_cxi_plc_01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-cxi-fms: fms_cxi_plc_01
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_BABasic
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+
 pcdshub/lcls-plc-dream-motion: lcls_dream_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -249,6 +668,266 @@ pcdshub/lcls-plc-dream-motion: lcls_dream_motion
       -
 
       - ``*`` Beckhoff
+
+      -
+
+
+pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      -
+
+      - ``2.6.0`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.1.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      - ``*`` SLAC
+
+      - ``1.2.2`` SLAC
+
+    * - PMPS
+      -
+
+      -
+
+      - ``2.2.3`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.12.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.5.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.15.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.24.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.14.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.1.0.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-ftl-leak-det: plc_ftl_leak_det
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-ftl-leak-det: plc_ftl_leak_det
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_BABasic
+      -
+
+      - ``*`` Beckhoff
+
+      - ``*`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+
+pcdshub/lcls-plc-hxx-vonhamos: hxx_vonhamos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-hxx-vonhamos: hxx_vonhamos
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      - ``1.3.2`` SLAC
+
+      -
 
       -
 
@@ -396,6 +1075,186 @@ pcdshub/lcls-plc-kfe-arbiter: KFEArbiter
       -
 
       - ``1.1.0.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-kfe-gatt: plc_kfe_gatt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-kfe-gatt: plc_kfe_gatt
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.7.0`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      -
+
+      - ``1.1.5`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.13`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.8.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_ControllerToolbox
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.1.4`` Beckhoff
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.37.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.22.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.35.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.22.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      - ``*`` www.tcunit.org
+
+      - ``1.0.1.0`` www.tcunit.org
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.1`` SLAC
 
 
 pcdshub/lcls-plc-kfe-gmd-vac: plc_kfe_gmd_vac
@@ -985,6 +1844,280 @@ pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
       - ``2.0.0`` SLAC
 
 
+pcdshub/lcls-plc-kfe-rix-vac: plc_kfe_rix_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-kfe-rix-vac: plc_kfe_rix_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.1.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      -
+
+      - ``1.2.2`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.14`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.12.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.5.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.15.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.24.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.14.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.0.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-kfe-vac: plc_kfe_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-kfe-vac: plc_kfe_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.4.2`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``1.9.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+
+pcdshub/lcls-plc-kfe-vac: plc_kfe_vac_sim
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-kfe-vac: plc_kfe_vac_sim
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Vacuum System Simulator Library
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+
 pcdshub/lcls-plc-kfe-xgmd-vac: plc_kfe_xgmd_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1308,6 +2441,406 @@ pcdshub/lcls-plc-lamp-motion: lamp_motion
       -
 
 
+pcdshub/lcls-plc-lamp-vac: plc_lamp_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lamp-vac: plc_lamp_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.4.2`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``0.0.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      - ``*`` SLAC
+
+      - ``0.0.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``2.2.1`` SLAC
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+
+pcdshub/lcls-plc-lamp-vac-1: plc_lamp_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lamp-vac-1: plc_lamp_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.4.2`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.1.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      - ``*`` SLAC
+
+      - ``0.0.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``2.2.1`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.8.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.5.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.15.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.24.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.14.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.1.0.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-las-bts: las_bts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-las-bts: las_bts
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``2.4.2`` SLAC
+
+      -
+
+      - ``2.4.2`` SLAC
+
+    * - LCLS Vacuum
+      - ``2.0.1`` SLAC
+
+      -
+
+      - ``2.0.1`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      - ``*`` SLAC
+
+      - ``1.2.2`` SLAC
+
+    * - PMPS
+      - ``2.2.1`` SLAC
+
+      -
+
+      - ``2.2.1`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.12.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.5.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.15.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.24.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.14.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      - ``*`` www.tcunit.org
+
+      - ``1.1.0.0`` www.tcunit.org
+
+
 pcdshub/lcls-plc-las-lps-01: opcpa_lps_plc_01
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1360,6 +2893,324 @@ pcdshub/lcls-plc-las-lps-01: opcpa_lps_plc_01
       - ``*`` Beckhoff
 
       - ``3.3.21.0`` Beckhoff
+
+
+pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``2.6.0`` SLAC
+
+      -
+
+      -
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.2`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.8.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.37.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.22.0`` Beckhoff
+
+    * - Tc2_SystemCX
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.35.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.22.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.1.0.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-lfe-gem: plc_lfe_gem
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lfe-gem: plc_lfe_gem
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - L2SI Vacuum Library
+      -
+
+      -
+
+      - ``0.0.0`` SLAC
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.3.0`` SLAC
+
+    * - LCLSVacuumSerialDriverLib
+      -
+
+      -
+
+      - ``1.1.4`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.0`` SLAC
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_ControllerToolbox
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.1.4`` Beckhoff
+
+    * - Tc2_DataExchange
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.37.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.22.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.35.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.22.0`` Beckhoff
+
+    * - Tc3_Interfaces
+      -
+
+      -
+
+      - ``3.4.3.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.1.0`` www.tcunit.org
 
 
 pcdshub/lcls-plc-lfe-motion: lfe_motion
@@ -1444,6 +3295,336 @@ pcdshub/lcls-plc-lfe-motion: lfe_motion
       - ``1.1.2`` SLAC
 
 
+pcdshub/lcls-plc-lfe-motion-kmono: plc_lfe_motion_kmono
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lfe-motion-kmono: plc_lfe_motion_kmono
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      - ``0.0.0`` SLAC
+
+      -
+
+      -
+
+
+pcdshub/lcls-plc-lfe-optics: lfe_optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lfe-optics: lfe_optics
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - PMPS
+      - ``3.0.0`` SLAC
+
+      -
+
+      - ``3.0.0`` SLAC
+
+    * - Tc2_ControllerToolbox
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - VisuDialogs
+      -
+
+      - ``*`` System
+
+      -
+
+    * - VisuElemMeter
+      -
+
+      - ``3.5.10.0`` System
+
+      -
+
+    * - VisuElemTextEditor
+      -
+
+      - ``3.5.10.10`` System
+
+      -
+
+    * - VisuElems
+      -
+
+      - ``3.5.10.40`` System
+
+      -
+
+    * - VisuElemsSpecialControls
+      -
+
+      - ``3.5.10.0`` System
+
+      -
+
+    * - VisuElemsWinControls
+      -
+
+      - ``3.5.10.40`` System
+
+      -
+
+    * - VisuNativeControl
+      -
+
+      - ``3.5.10.40`` System
+
+      -
+
+    * - lcls-twincat-motion
+      - ``1.8.0`` SLAC
+
+      -
+
+      - ``1.8.0`` SLAC
+
+    * - lcls-twincat-optics
+      - ``0.4.1`` SLAC
+
+      -
+
+      -
+
+    * - visuinputs
+      -
+
+      - ``3.5.10.0`` system
+
+      -
+
+
+pcdshub/lcls-plc-lfe-vac: plc_lfe_vac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-lfe-vac: plc_lfe_vac
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - LCLS Vacuum
+      -
+
+      - ``*`` SLAC
+
+      - ``2.3.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.0`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.8.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.22.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.35.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.22.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.0.0`` www.tcunit.org
+
+
 pcdshub/lcls-plc-mfx-be-lens-interlock: MFX_BE_LENS_INTERLOCK
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1489,6 +3670,205 @@ pcdshub/lcls-plc-mfx-be-lens-interlock: MFX_BE_LENS_INTERLOCK
       - ``*`` Beckhoff
 
       -
+
+
+pcdshub/lcls-plc-mfx-motion: mfx_motion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-mfx-motion: mfx_motion
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.8.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``2.2.3`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.12.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.48.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.10.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.26.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.54.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.33.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.18.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.2.0.0`` www.tcunit.org
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``1.8.0`` SLAC
+
+    * - lcls2-cc-lib
+      -
+
+      - ``*`` SLAC
+
+      - ``1.1.3`` SLAC
+
+
+pcdshub/lcls-plc-mini-powermeter-calib: mini_powermeter_calib
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-mini-powermeter-calib: mini_powermeter_calib
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.6.0`` SLAC
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls2-cc-lib
+      -
+
+      - ``*`` SLAC
+
+      - ``1.1.3`` SLAC
 
 
 pcdshub/lcls-plc-mrco-motion: mrco_motion
@@ -2034,6 +4414,109 @@ pcdshub/lcls-plc-rix-sds-injector: sdsinjector
       - ``*`` SLAC
 
 
+pcdshub/lcls-plc-rixs-optics: rixs_optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-rixs-optics: rixs_optics
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.7.0`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.14`` SLAC
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.1.0.0`` www.tcunit.org
+
+    * - lcls-twincat-motion
+      - ``2.0.1`` SLAC
+
+      -
+
+      - ``2.0.1`` SLAC
+
+    * - lcls-twincat-optics
+      - ``0.2.1`` SLAC
+
+      -
+
+      -
+
+    * - lcls2-cc-lib
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
+
+
 pcdshub/lcls-plc-roving-spectrometer: lcls_plc_roving_spectrometer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2070,6 +4553,254 @@ pcdshub/lcls-plc-roving-spectrometer: lcls_plc_roving_spectrometer
       - ``1.2.0`` SLAC
 
       -
+
+      -
+
+
+pcdshub/lcls-plc-sample-delivery-system: SDSPLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-sample-delivery-system: SDSPLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``2.4.2`` SLAC
+
+      -
+
+      -
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      - ``3.3.13.0`` Beckhoff
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.11.0`` Beckhoff
+
+    * - Tc2_MC2
+      - ``3.3.37.0`` Beckhoff
+
+      -
+
+      -
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      - ``3.3.1.0`` Beckhoff
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SUPS
+      - ``3.3.6.0`` Beckhoff
+
+      -
+
+      -
+
+    * - Tc2_SerialCom
+      - ``3.3.6.0`` Beckhoff
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.22.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      - ``3.3.35.0`` Beckhoff
+
+      -
+
+      - ``3.3.35.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.22.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.1.0`` www.tcunit.org
+
+
+pcdshub/lcls-plc-sxr-satt: SolidAttenuatorPLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-sxr-satt: SolidAttenuatorPLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``0.0.0`` SLAC
+
+      -
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - VisuDialogs
+      -
+
+      - ``*`` System
+
+      -
+
+    * - VisuElemMeter
+      -
+
+      - ``3.5.13.0`` System
+
+      -
+
+    * - VisuElemTextEditor
+      -
+
+      - ``3.5.13.0`` System
+
+      -
+
+    * - VisuElems
+      -
+
+      - ``3.5.13.40`` System
+
+      - ``3.5.13.40`` System
+
+    * - VisuElemsSpecialControls
+      -
+
+      - ``3.5.13.0`` System
+
+      -
+
+    * - VisuElemsWinControls
+      -
+
+      - ``3.5.13.20`` System
+
+      -
+
+    * - VisuNativeControl
+      -
+
+      - ``3.5.13.0`` System
+
+      -
+
+    * - VisuSymbols
+      - ``3.5.10.0`` System
+
+      -
+
+      -
+
+    * - VisuUserMgmt
+      -
+
+      - ``*`` System
+
+      -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+    * - visuinputs
+      -
+
+      - ``3.5.13.0`` system
 
       -
 
@@ -2217,6 +4948,102 @@ pcdshub/lcls-plc-tmo-motion: tmo_motion
       - ``*`` SLAC
 
       - ``2.0.1`` SLAC
+
+    * - lcls2-cc-lib
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
+
+
+pcdshub/lcls-plc-tmo-optics: tmo_optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-tmo-optics: tmo_optics
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``2.8.1`` SLAC
+
+      -
+
+      -
+
+    * - PMPS
+      - ``3.0.14`` SLAC
+
+      -
+
+      - ``3.0.14`` SLAC
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.42.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.7.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.24.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.41.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.0.1.0`` www.tcunit.org
+
+    * - lcls-twincat-motion
+      - ``2.2.0`` SLAC
+
+      -
+
+      - ``2.2.0`` SLAC
+
+    * - lcls-twincat-optics
+      - ``0.5.0`` SLAC
+
+      -
+
+      -
 
     * - lcls2-cc-lib
       -
@@ -2582,6 +5409,74 @@ pcdshub/lcls-plc-txi-hxr-vac: txi_hxr_vac
       -
 
 
+pcdshub/lcls-plc-txi-optics: txi_optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-txi-optics: txi_optics
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_ControllerToolbox
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_SerialCom
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      - ``2.0.1`` SLAC
+
+      -
+
+      -
+
+    * - lcls-twincat-optics
+      - ``0.4.1`` SLAC
+
+      -
+
+      -
+
+
 pcdshub/lcls-plc-txi-sxr-vac: txi_sxr_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2809,6 +5704,196 @@ pcdshub/lcls-plc-vhs-01: VonHamos01
       -
 
 
+pcdshub/lcls-plc-xcs-liquid-jet: LiquidJetPLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-xcs-liquid-jet: LiquidJetPLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+
+pcdshub/lcls-plc-xcs-liquid-jet: LiquidJetPLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-xcs-liquid-jet: LiquidJetPLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+
+pcdshub/lcls-plc-xcs-per-vac: XCS_PER_PLC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table:: pcdshub/lcls-plc-xcs-per-vac: XCS_PER_PLC
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      - ``0.1.2`` SLAC
+
+      -
+
+      -
+
+    * - LCLSVacuumLib
+      - ``1.12.0`` SLAC
+
+      -
+
+      -
+
+    * - Tc2_ModbusSrv
+      - ``3.3.1.0`` Beckhoff
+
+      -
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Interfaces
+      - ``3.4.3.0`` Beckhoff
+
+      -
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - UML Statechart Types
+      -
+
+      - ``4.0.0.2`` 3S
+
+      -
+
+
 pcdshub/lcls-plc-xpp-jjslit-motion: xpp_jjslit_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -3008,3044 +6093,6 @@ pcdshub/lcls-plc-xrt-optics: HOMS_XRT_PLC
       -
 
 
-unknown: plc_lamp_vac
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_lamp_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.4.2`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``0.0.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      - ``*`` SLAC
-
-      - ``0.0.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``2.2.1`` SLAC
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-
-unknown: ArbiterPLC
-^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: ArbiterPLC
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      - ``2.6.0`` SLAC
-
-      -
-
-      -
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.2`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.11.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.37.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.22.0`` Beckhoff
-
-    * - Tc2_SystemCX
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.35.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.22.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
-
-
-unknown: plc_lfe_motion_kmono
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_lfe_motion_kmono
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls-twincat-motion
-      - ``0.0.0`` SLAC
-
-      -
-
-      -
-
-
-unknown: plc_lfe_vac
-^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_lfe_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.3.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.0`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.11.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.22.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.35.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.22.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.0.0.0`` www.tcunit.org
-
-
-unknown: XCS_PER_PLC
-^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: XCS_PER_PLC
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      - ``0.1.2`` SLAC
-
-      -
-
-      -
-
-    * - LCLSVacuumLib
-      - ``1.12.0`` SLAC
-
-      -
-
-      -
-
-    * - Tc2_ModbusSrv
-      - ``3.3.1.0`` Beckhoff
-
-      -
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Interfaces
-      - ``3.4.3.0`` Beckhoff
-
-      -
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - UML Statechart Types
-      -
-
-      - ``4.0.0.2`` 3S
-
-      -
-
-
-unknown: lcls_plc_dream_vac
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: lcls_plc_dream_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      -
-
-      - ``2.6.0`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.1.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.2.2`` SLAC
-
-    * - PMPS
-      -
-
-      -
-
-      - ``2.2.3`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.12.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
-
-
-unknown: hxx_vonhamos
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: hxx_vonhamos
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls-twincat-motion
-      - ``1.3.2`` SLAC
-
-      -
-
-      -
-
-
-unknown: plc_kfe_gatt
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_kfe_gatt
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.7.0`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      -
-
-      - ``1.1.5`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.13`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_ControllerToolbox
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.1.4`` Beckhoff
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.11.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.37.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.22.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.35.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.22.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      - ``*`` www.tcunit.org
-
-      - ``1.0.1.0`` www.tcunit.org
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.1`` SLAC
-
-
-unknown: PLC_CRIX_MOT
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: PLC_CRIX_MOT
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.14`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.10.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.1.33.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.2.0.0`` www.tcunit.org
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.1`` SLAC
-
-
-unknown: tmo_optics
-^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: tmo_optics
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      - ``2.8.1`` SLAC
-
-      -
-
-      -
-
-    * - PMPS
-      - ``3.0.14`` SLAC
-
-      -
-
-      - ``3.0.14`` SLAC
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.0.1.0`` www.tcunit.org
-
-    * - lcls-twincat-motion
-      - ``2.0.1`` SLAC
-
-      -
-
-      - ``2.0.1`` SLAC
-
-    * - lcls-twincat-optics
-      - ``0.3.1`` SLAC
-
-      -
-
-      -
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.0`` SLAC
-
-
-unknown: plc_lfe_gem
-^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_lfe_gem
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - L2SI Vacuum Library
-      -
-
-      -
-
-      - ``0.0.0`` SLAC
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.3.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      -
-
-      - ``1.1.4`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.0`` SLAC
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_ControllerToolbox
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.1.4`` Beckhoff
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.11.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.37.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.22.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.35.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.22.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.0.1.0`` www.tcunit.org
-
-
-unknown: rixs_optics
-^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: rixs_optics
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.7.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.14`` SLAC
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
-
-    * - lcls-twincat-motion
-      - ``2.0.1`` SLAC
-
-      -
-
-      - ``2.0.1`` SLAC
-
-    * - lcls-twincat-optics
-      - ``0.2.1`` SLAC
-
-      -
-
-      -
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.0`` SLAC
-
-
-unknown: las_bts
-^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: las_bts
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      - ``2.4.2`` SLAC
-
-      -
-
-      - ``2.4.2`` SLAC
-
-    * - LCLS Vacuum
-      - ``2.0.1`` SLAC
-
-      -
-
-      - ``2.0.1`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.2.2`` SLAC
-
-    * - PMPS
-      - ``2.2.1`` SLAC
-
-      -
-
-      - ``2.2.1`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.12.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      - ``*`` www.tcunit.org
-
-      - ``1.1.0.0`` www.tcunit.org
-
-
-unknown: mfx_motion
-^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: mfx_motion
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.8.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``2.2.3`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.12.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.48.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.10.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.26.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.54.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.33.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.18.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.2.0.0`` www.tcunit.org
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``1.8.0`` SLAC
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.1.3`` SLAC
-
-
-unknown: SolidAttenuatorPLC
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: SolidAttenuatorPLC
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      - ``0.0.0`` SLAC
-
-      -
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - VisuDialogs
-      -
-
-      - ``*`` System
-
-      -
-
-    * - VisuElemMeter
-      -
-
-      - ``3.5.13.0`` System
-
-      -
-
-    * - VisuElemTextEditor
-      -
-
-      - ``3.5.13.0`` System
-
-      -
-
-    * - VisuElems
-      -
-
-      - ``3.5.13.40`` System
-
-      - ``3.5.13.40`` System
-
-    * - VisuElemsSpecialControls
-      -
-
-      - ``3.5.13.0`` System
-
-      -
-
-    * - VisuElemsWinControls
-      -
-
-      - ``3.5.13.20`` System
-
-      -
-
-    * - VisuNativeControl
-      -
-
-      - ``3.5.13.0`` System
-
-      -
-
-    * - VisuSymbols
-      - ``3.5.10.0`` System
-
-      -
-
-      -
-
-    * - VisuUserMgmt
-      -
-
-      - ``*`` System
-
-      -
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - visuinputs
-      -
-
-      - ``3.5.13.0`` system
-
-      -
-
-
-unknown: plc_ftl_leak_det
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_ftl_leak_det
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - Tc2_BABasic
-      -
-
-      - ``*`` Beckhoff
-
-      - ``*`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-
-unknown: cvmi_motion
-^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: cvmi_motion
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls-twincat-motion
-      - ``newest`` SLAC
-
-      -
-
-      -
-
-
-unknown: SDSPLC
-^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: SDSPLC
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      - ``2.4.2`` SLAC
-
-      -
-
-      -
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_EtherCAT
-      - ``3.3.13.0`` Beckhoff
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.11.0`` Beckhoff
-
-    * - Tc2_MC2
-      - ``3.3.37.0`` Beckhoff
-
-      -
-
-      -
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      - ``3.3.1.0`` Beckhoff
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SUPS
-      - ``3.3.6.0`` Beckhoff
-
-      -
-
-      -
-
-    * - Tc2_SerialCom
-      - ``3.3.6.0`` Beckhoff
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.22.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      - ``3.3.35.0`` Beckhoff
-
-      -
-
-      - ``3.3.35.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.22.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.0.1.0`` www.tcunit.org
-
-
-unknown: plc_cvmi_vac
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_cvmi_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.1.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.2.2`` SLAC
-
-    * - PMPS
-      -
-
-      -
-
-      - ``2.0.0`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
-
-
-unknown: txi_optics
-^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: txi_optics
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - Tc2_ControllerToolbox
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls-twincat-motion
-      - ``2.0.1`` SLAC
-
-      -
-
-      -
-
-    * - lcls-twincat-optics
-      - ``0.4.1`` SLAC
-
-      -
-
-      -
-
-
-unknown: mini_powermeter_calib
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: mini_powermeter_calib
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.1.3`` SLAC
-
-
-unknown: LiquidJetPLC
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: LiquidJetPLC
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - Tc2_EtherCAT
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-
-unknown: LiquidJetPLC
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: LiquidJetPLC
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - Tc2_EtherCAT
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-
-unknown: lfe_optics
-^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: lfe_optics
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - PMPS
-      - ``3.0.0`` SLAC
-
-      -
-
-      - ``3.0.0`` SLAC
-
-    * - Tc2_ControllerToolbox
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_MC2
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - VisuDialogs
-      -
-
-      - ``*`` System
-
-      -
-
-    * - VisuElemMeter
-      -
-
-      - ``3.5.10.0`` System
-
-      -
-
-    * - VisuElemTextEditor
-      -
-
-      - ``3.5.10.10`` System
-
-      -
-
-    * - VisuElems
-      -
-
-      - ``3.5.10.40`` System
-
-      -
-
-    * - VisuElemsSpecialControls
-      -
-
-      - ``3.5.10.0`` System
-
-      -
-
-    * - VisuElemsWinControls
-      -
-
-      - ``3.5.10.40`` System
-
-      -
-
-    * - VisuNativeControl
-      -
-
-      - ``3.5.10.40`` System
-
-      -
-
-    * - lcls-twincat-motion
-      - ``1.8.0`` SLAC
-
-      -
-
-      - ``1.8.0`` SLAC
-
-    * - lcls-twincat-optics
-      - ``0.4.1`` SLAC
-
-      -
-
-      -
-
-    * - visuinputs
-      -
-
-      - ``3.5.10.0`` system
-
-      -
-
-
-unknown: plc_kfe_vac
-^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_kfe_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.4.2`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``1.9.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.0`` SLAC
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-
-unknown: plc_kfe_vac_sim
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_kfe_vac_sim
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Vacuum System Simulator Library
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-
-unknown: plc_lamp_vac
-^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_lamp_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.4.2`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.1.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      - ``*`` SLAC
-
-      - ``0.0.0`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``2.2.1`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
-
-
-unknown: plc_kfe_rix_vac
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table:: unknown: plc_kfe_rix_vac
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``2.6.0`` SLAC
-
-    * - LCLS Vacuum
-      -
-
-      - ``*`` SLAC
-
-      - ``2.1.0`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      -
-
-      - ``1.2.2`` SLAC
-
-    * - PMPS
-      -
-
-      - ``*`` SLAC
-
-      - ``3.0.14`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.12.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.7.0`` Beckhoff
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.3.0`` Beckhoff
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.0.0.0`` www.tcunit.org
-
-
 By Library
 ----------
 
@@ -6097,7 +6144,8 @@ L2SI Vacuum Library
 
 
 
-    * - unknown:plc_lfe_gem
+
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -6137,7 +6185,7 @@ LCLS General
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       - ``2.6.0``, SLAC
 
       -
@@ -6145,12 +6193,13 @@ LCLS General
       -
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
       -
 
       - ``*``, SLAC
 
       - ``2.6.0``, SLAC
+
 
 
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
@@ -6187,7 +6236,7 @@ LCLS General
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       - ``2.4.2``, SLAC
 
       -
@@ -6197,7 +6246,7 @@ LCLS General
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -6214,7 +6263,7 @@ LCLS General
       - ``2.4.2``, SLAC
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, SLAC
@@ -6222,7 +6271,7 @@ LCLS General
       - ``2.6.0``, SLAC
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, SLAC
@@ -6230,7 +6279,7 @@ LCLS General
       - ``*``, SLAC
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, SLAC
@@ -6239,7 +6288,7 @@ LCLS General
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, SLAC
@@ -6247,7 +6296,7 @@ LCLS General
       - ``2.8.0``, SLAC
 
 
-    * - unknown:mini_powermeter_calib
+    * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
       -
 
       - ``*``, SLAC
@@ -6257,7 +6306,7 @@ LCLS General
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, SLAC
@@ -6273,7 +6322,7 @@ LCLS General
       - ``2.6.0``, SLAC
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, SLAC
@@ -6282,7 +6331,7 @@ LCLS General
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, SLAC
@@ -6306,7 +6355,7 @@ LCLS General
       - ``*``, SLAC
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, SLAC
@@ -6314,7 +6363,7 @@ LCLS General
       - ``2.6.0``, SLAC
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, SLAC
@@ -6339,7 +6388,7 @@ LCLS General
       - ``*``, SLAC
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -6347,7 +6396,7 @@ LCLS General
       - ``2.4.2``, SLAC
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -6355,7 +6404,7 @@ LCLS General
       - ``2.4.2``, SLAC
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, SLAC
@@ -6364,7 +6413,7 @@ LCLS General
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       - ``*``, SLAC
@@ -6404,7 +6453,7 @@ LCLS General
       - ``2.7.0``, SLAC
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, SLAC
@@ -6420,7 +6469,7 @@ LCLS General
       - ``*``, SLAC
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``2.4.2``, SLAC
 
       -
@@ -6428,7 +6477,7 @@ LCLS General
       -
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       - ``0.0.0``, SLAC
 
       -
@@ -6444,7 +6493,7 @@ LCLS General
       - ``2.7.0``, SLAC
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       - ``2.8.1``, SLAC
 
       -
@@ -6486,7 +6535,7 @@ LCLS General
       - ``*``, SLAC
 
 
-    * - unknown:XCS_PER_PLC
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``0.1.2``, SLAC
 
       -
@@ -6515,7 +6564,8 @@ LCLS Vacuum
 
 
 
-    * - unknown:las_bts
+
+    * - pcdshub/lcls-plc-las-bts:las_bts
       - ``2.0.1``, SLAC
 
       -
@@ -6525,7 +6575,7 @@ LCLS Vacuum
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       - ``*``, SLAC
@@ -6552,7 +6602,7 @@ LCLS Vacuum
       - ``2.3.0``, SLAC
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, SLAC
@@ -6561,7 +6611,7 @@ LCLS Vacuum
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, SLAC
@@ -6578,7 +6628,7 @@ LCLS Vacuum
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, SLAC
@@ -6586,7 +6636,7 @@ LCLS Vacuum
       - ``2.1.0``, SLAC
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, SLAC
@@ -6604,7 +6654,7 @@ LCLS Vacuum
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -6612,7 +6662,7 @@ LCLS Vacuum
       - ``0.0.0``, SLAC
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -6620,7 +6670,7 @@ LCLS Vacuum
       - ``2.1.0``, SLAC
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, SLAC
@@ -6629,7 +6679,7 @@ LCLS Vacuum
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       - ``*``, SLAC
@@ -6703,12 +6753,13 @@ lcls-twincat-motion
       - Resolution
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
       - ``newest``, SLAC
 
       -
 
       -
+
 
 
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
@@ -6719,7 +6770,7 @@ lcls-twincat-motion
       - ``1.8.0``, SLAC
 
 
-    * - unknown:hxx_vonhamos
+    * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
       - ``1.3.2``, SLAC
 
       -
@@ -6779,7 +6830,7 @@ lcls-twincat-motion
       - ``1.6.0``, SLAC
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       - ``1.8.0``, SLAC
 
       -
@@ -6787,7 +6838,7 @@ lcls-twincat-motion
       - ``1.8.0``, SLAC
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, SLAC
@@ -6795,7 +6846,7 @@ lcls-twincat-motion
       - ``*``, SLAC
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, SLAC
@@ -6804,7 +6855,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, SLAC
@@ -6822,7 +6873,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, SLAC
@@ -6833,7 +6884,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, SLAC
@@ -6851,7 +6902,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:plc_lfe_motion_kmono
+    * - pcdshub/lcls-plc-lfe-motion-kmono:plc_lfe_motion_kmono
       - ``0.0.0``, SLAC
 
       -
@@ -6871,7 +6922,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       - ``2.0.1``, SLAC
 
       -
@@ -6888,7 +6939,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``*``, SLAC
@@ -6904,12 +6955,12 @@ lcls-twincat-motion
       - ``2.0.1``, SLAC
 
 
-    * - unknown:tmo_optics
-      - ``2.0.1``, SLAC
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
+      - ``2.2.0``, SLAC
 
       -
 
-      - ``2.0.1``, SLAC
+      - ``2.2.0``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-spectrometer-motion:tmo_spectrometer_motion
@@ -6929,7 +6980,7 @@ lcls-twincat-motion
 
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       - ``2.0.1``, SLAC
 
       -
@@ -6962,6 +7013,7 @@ lcls-twincat-optics
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -6981,7 +7033,7 @@ lcls-twincat-optics
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       - ``0.4.1``, SLAC
 
       -
@@ -7024,7 +7076,7 @@ lcls-twincat-optics
 
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       - ``0.2.1``, SLAC
 
       -
@@ -7036,8 +7088,8 @@ lcls-twincat-optics
 
 
 
-    * - unknown:tmo_optics
-      - ``0.3.1``, SLAC
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
+      - ``0.5.0``, SLAC
 
       -
 
@@ -7047,7 +7099,7 @@ lcls-twincat-optics
 
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       - ``0.4.1``, SLAC
 
       -
@@ -7070,6 +7122,7 @@ lcls-twincat-physics
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -7172,6 +7225,7 @@ lcls2-cc-lib
 
 
 
+
     * - pcdshub/lcls-plc-kfe-motion:kfe_motion
       -
 
@@ -7207,7 +7261,7 @@ lcls2-cc-lib
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, SLAC
@@ -7215,7 +7269,7 @@ lcls2-cc-lib
       - ``1.1.3``, SLAC
 
 
-    * - unknown:mini_powermeter_calib
+    * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
       -
 
       - ``*``, SLAC
@@ -7246,7 +7300,7 @@ lcls2-cc-lib
 
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, SLAC
@@ -7265,7 +7319,7 @@ lcls2-cc-lib
       - ``2.0.0``, SLAC
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, SLAC
@@ -7355,7 +7409,8 @@ LCLSVacuumLib
 
 
 
-    * - unknown:XCS_PER_PLC
+
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``1.12.0``, SLAC
 
       -
@@ -7384,7 +7439,8 @@ LCLSVacuumSerialDriverLib
 
 
 
-    * - unknown:las_bts
+
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, SLAC
@@ -7394,7 +7450,7 @@ LCLSVacuumSerialDriverLib
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       - ``*``, SLAC
@@ -7421,7 +7477,7 @@ LCLSVacuumSerialDriverLib
       - ``1.2.2``, SLAC
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, SLAC
@@ -7430,7 +7486,7 @@ LCLSVacuumSerialDriverLib
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -7447,7 +7503,7 @@ LCLSVacuumSerialDriverLib
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -7466,7 +7522,7 @@ LCLSVacuumSerialDriverLib
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -7474,7 +7530,7 @@ LCLSVacuumSerialDriverLib
       - ``0.0.0``, SLAC
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -7482,7 +7538,7 @@ LCLSVacuumSerialDriverLib
       - ``0.0.0``, SLAC
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -7543,12 +7599,13 @@ PMPS
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, SLAC
 
       - ``3.0.2``, SLAC
+
 
 
 
@@ -7586,7 +7643,7 @@ PMPS
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       - ``2.2.1``, SLAC
 
       -
@@ -7596,7 +7653,7 @@ PMPS
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -7613,7 +7670,7 @@ PMPS
       - ``3.0.0``, SLAC
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       - ``3.0.0``, SLAC
 
       -
@@ -7621,7 +7678,7 @@ PMPS
       - ``3.0.0``, SLAC
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, SLAC
@@ -7629,7 +7686,7 @@ PMPS
       - ``*``, SLAC
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, SLAC
@@ -7638,7 +7695,7 @@ PMPS
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, SLAC
@@ -7649,7 +7706,7 @@ PMPS
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, SLAC
@@ -7665,7 +7722,7 @@ PMPS
       - ``3.0.14``, SLAC
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -7674,7 +7731,7 @@ PMPS
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, SLAC
@@ -7691,7 +7748,7 @@ PMPS
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, SLAC
@@ -7699,7 +7756,7 @@ PMPS
       - ``3.0.14``, SLAC
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, SLAC
@@ -7717,7 +7774,7 @@ PMPS
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -7725,7 +7782,7 @@ PMPS
       - ``2.2.1``, SLAC
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, SLAC
@@ -7733,7 +7790,7 @@ PMPS
       - ``2.2.1``, SLAC
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, SLAC
@@ -7742,7 +7799,7 @@ PMPS
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       - ``*``, SLAC
@@ -7782,7 +7839,7 @@ PMPS
       - ``3.0.14``, SLAC
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, SLAC
@@ -7801,7 +7858,7 @@ PMPS
       - ``3.0.14``, SLAC
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       - ``3.0.14``, SLAC
 
       -
@@ -7850,12 +7907,13 @@ SysDir
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.5.8.0``, System
+
 
 
 
@@ -7886,7 +7944,7 @@ SysDir
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -7896,21 +7954,7 @@ SysDir
 
 
 
-    * - unknown:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.5.12.0``, System
-
-
-
-
-
-
-
-
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -7921,7 +7965,21 @@ SysDir
 
 
 
-    * - unknown:PLC_CRIX_MOT
+
+
+
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
+      -
+
+      -
+
+      - ``3.5.12.0``, System
+
+
+
+
+
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -7937,7 +7995,7 @@ SysDir
       - ``3.5.8.0``, System
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -7946,7 +8004,7 @@ SysDir
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -7963,7 +8021,7 @@ SysDir
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -7983,7 +8041,7 @@ SysDir
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -7993,7 +8051,7 @@ SysDir
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -8066,12 +8124,13 @@ SysFile
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.5.9.0``, System
+
 
 
 
@@ -8102,7 +8161,7 @@ SysFile
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -8112,21 +8171,7 @@ SysFile
 
 
 
-    * - unknown:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.5.9.0``, System
-
-
-
-
-
-
-
-
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -8137,7 +8182,21 @@ SysFile
 
 
 
-    * - unknown:PLC_CRIX_MOT
+
+
+
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
+      -
+
+      -
+
+      - ``3.5.9.0``, System
+
+
+
+
+
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -8153,7 +8212,7 @@ SysFile
       - ``3.5.9.0``, System
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -8162,7 +8221,7 @@ SysFile
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -8179,7 +8238,7 @@ SysFile
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -8199,7 +8258,7 @@ SysFile
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -8207,7 +8266,7 @@ SysFile
       - ``3.5.9.0``, System
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -8216,7 +8275,7 @@ SysFile
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -8251,7 +8310,7 @@ SysFile
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -8298,6 +8357,14 @@ Tc2_BABasic
 
 
 
+    * - pcdshub/lcls-plc-cxi-fms:fms_cxi_plc_01
+      -
+
+      - ``*``, Beckhoff
+
+      - ``*``, Beckhoff
+
+
 
 
 
@@ -8328,7 +8395,7 @@ Tc2_BABasic
 
 
 
-    * - unknown:plc_ftl_leak_det
+    * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
       - ``*``, Beckhoff
@@ -8381,6 +8448,7 @@ Tc2_ControllerToolbox
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -8400,7 +8468,7 @@ Tc2_ControllerToolbox
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -8419,7 +8487,7 @@ Tc2_ControllerToolbox
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -8450,7 +8518,7 @@ Tc2_ControllerToolbox
 
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, Beckhoff
@@ -8480,7 +8548,7 @@ Tc2_ControllerToolbox
 
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
       - ``*``, Beckhoff
@@ -8512,7 +8580,8 @@ Tc2_DataExchange
 
 
 
-    * - unknown:las_bts
+
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -8522,7 +8591,7 @@ Tc2_DataExchange
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -8549,7 +8618,7 @@ Tc2_DataExchange
       - ``3.3.5.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -8558,7 +8627,7 @@ Tc2_DataExchange
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -8575,7 +8644,7 @@ Tc2_DataExchange
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -8595,7 +8664,7 @@ Tc2_DataExchange
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -8603,7 +8672,7 @@ Tc2_DataExchange
       - ``3.3.5.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -8664,13 +8733,21 @@ Tc2_EtherCAT
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.13.0``, Beckhoff
 
+
+
+    * - pcdshub/lcls-plc-cxi-fms:fms_cxi_plc_01
+      -
+
+      - ``*``, Beckhoff
+
+      -
 
 
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
@@ -8707,7 +8784,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -8717,7 +8794,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -8728,7 +8805,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -8736,7 +8813,7 @@ Tc2_EtherCAT
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -8745,7 +8822,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       -
@@ -8763,7 +8840,7 @@ Tc2_EtherCAT
       - ``3.3.12.0``, Beckhoff
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -8779,7 +8856,7 @@ Tc2_EtherCAT
       - ``3.3.15.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -8787,7 +8864,7 @@ Tc2_EtherCAT
       - ``3.3.15.0``, Beckhoff
 
 
-    * - unknown:plc_ftl_leak_det
+    * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
       - ``*``, Beckhoff
@@ -8795,7 +8872,7 @@ Tc2_EtherCAT
       -
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -8812,7 +8889,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -8832,7 +8909,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -8840,7 +8917,7 @@ Tc2_EtherCAT
       - ``3.3.15.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -8849,7 +8926,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -8891,7 +8968,7 @@ Tc2_EtherCAT
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.13.0``, Beckhoff
 
       -
@@ -8943,12 +9020,13 @@ Tc2_IoFunctions
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.11.0``, Beckhoff
+
 
 
 
@@ -8979,7 +9057,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -8989,21 +9067,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.13.0``, Beckhoff
-
-
-
-
-
-
-
-
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -9014,7 +9078,21 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:PLC_CRIX_MOT
+
+
+
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
+      -
+
+      -
+
+      - ``3.3.13.0``, Beckhoff
+
+
+
+
+
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -9030,7 +9108,7 @@ Tc2_IoFunctions
       - ``3.3.13.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -9039,7 +9117,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -9056,7 +9134,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -9076,7 +9154,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -9084,7 +9162,7 @@ Tc2_IoFunctions
       - ``3.3.13.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -9093,7 +9171,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -9135,7 +9213,7 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -9180,12 +9258,13 @@ Tc2_Math
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.1.0``, Beckhoff
+
 
 
 
@@ -9216,7 +9295,7 @@ Tc2_Math
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -9226,21 +9305,7 @@ Tc2_Math
 
 
 
-    * - unknown:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.1.0``, Beckhoff
-
-
-
-
-
-
-
-
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -9251,7 +9316,21 @@ Tc2_Math
 
 
 
-    * - unknown:PLC_CRIX_MOT
+
+
+
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
+      -
+
+      -
+
+      - ``3.3.1.0``, Beckhoff
+
+
+
+
+
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -9267,7 +9346,7 @@ Tc2_Math
       - ``3.3.1.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -9276,7 +9355,7 @@ Tc2_Math
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -9293,7 +9372,7 @@ Tc2_Math
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -9313,7 +9392,7 @@ Tc2_Math
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -9321,7 +9400,7 @@ Tc2_Math
       - ``3.3.1.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -9330,7 +9409,7 @@ Tc2_Math
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -9365,7 +9444,7 @@ Tc2_Math
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -9410,7 +9489,7 @@ Tc2_MC2
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, Beckhoff
@@ -9418,12 +9497,13 @@ Tc2_MC2
       - ``3.3.37.0``, Beckhoff
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
       -
 
       - ``*``, Beckhoff
 
       -
+
 
 
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
@@ -9467,7 +9547,7 @@ Tc2_MC2
       -
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -9477,7 +9557,7 @@ Tc2_MC2
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -9494,7 +9574,7 @@ Tc2_MC2
       -
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -9505,7 +9585,7 @@ Tc2_MC2
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, Beckhoff
@@ -9523,7 +9603,7 @@ Tc2_MC2
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, Beckhoff
@@ -9539,7 +9619,7 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -9548,7 +9628,7 @@ Tc2_MC2
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -9565,7 +9645,7 @@ Tc2_MC2
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -9585,7 +9665,7 @@ Tc2_MC2
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -9593,7 +9673,7 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -9602,7 +9682,7 @@ Tc2_MC2
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -9635,7 +9715,7 @@ Tc2_MC2
       - ``3.3.48.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -9644,7 +9724,7 @@ Tc2_MC2
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.37.0``, Beckhoff
 
       -
@@ -9661,7 +9741,7 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, Beckhoff
@@ -9716,6 +9796,7 @@ Tc2_ModbusRTU
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -9793,12 +9874,13 @@ Tc2_ModbusSrv
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.2.0``, Beckhoff
+
 
 
 
@@ -9829,7 +9911,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -9839,7 +9921,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -9860,7 +9942,7 @@ Tc2_ModbusSrv
       -
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       -
@@ -9871,7 +9953,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -9887,7 +9969,7 @@ Tc2_ModbusSrv
       - ``3.3.2.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -9896,7 +9978,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -9913,7 +9995,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -9933,7 +10015,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -9941,7 +10023,7 @@ Tc2_ModbusSrv
       - ``3.3.2.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -9950,7 +10032,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -9992,7 +10074,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.1.0``, Beckhoff
 
       -
@@ -10023,7 +10105,7 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:XCS_PER_PLC
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``3.3.1.0``, Beckhoff
 
       -
@@ -10043,6 +10125,7 @@ Tc2_NcDrive
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -10120,12 +10203,13 @@ Tc2_SerialCom
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -10163,7 +10247,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, Beckhoff
@@ -10173,7 +10257,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -10190,7 +10274,7 @@ Tc2_SerialCom
       -
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -10201,7 +10285,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, Beckhoff
@@ -10212,7 +10296,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -10228,7 +10312,7 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, Beckhoff
@@ -10236,7 +10320,7 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
-    * - unknown:plc_ftl_leak_det
+    * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
       - ``*``, Beckhoff
@@ -10244,7 +10328,7 @@ Tc2_SerialCom
       -
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -10261,7 +10345,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -10280,7 +10364,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -10288,7 +10372,7 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -10296,7 +10380,7 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -10305,7 +10389,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -10345,7 +10429,7 @@ Tc2_SerialCom
       - ``3.3.10.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -10354,7 +10438,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.6.0``, Beckhoff
 
       -
@@ -10371,7 +10455,7 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, Beckhoff
@@ -10382,7 +10466,7 @@ Tc2_SerialCom
 
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
       - ``*``, Beckhoff
@@ -10413,7 +10497,7 @@ Tc2_Standard
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, Beckhoff
@@ -10421,7 +10505,15 @@ Tc2_Standard
       - ``3.3.2.0``, Beckhoff
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
+    * - pcdshub/lcls-plc-cxi-fms:fms_cxi_plc_01
       -
 
       - ``*``, Beckhoff
@@ -10437,7 +10529,7 @@ Tc2_Standard
       - ``*``, Beckhoff
 
 
-    * - unknown:hxx_vonhamos
+    * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
       -
 
       - ``*``, Beckhoff
@@ -10477,7 +10569,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, Beckhoff
@@ -10501,7 +10593,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       - ``*``, Beckhoff
@@ -10525,7 +10617,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -10533,7 +10625,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -10541,7 +10633,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -10557,7 +10649,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, Beckhoff
@@ -10565,7 +10657,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:mini_powermeter_calib
+    * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
       -
 
       - ``*``, Beckhoff
@@ -10589,7 +10681,7 @@ Tc2_Standard
       - ``3.3.2.0``, Beckhoff
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, Beckhoff
@@ -10605,7 +10697,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, Beckhoff
@@ -10613,7 +10705,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:plc_ftl_leak_det
+    * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
       - ``*``, Beckhoff
@@ -10621,7 +10713,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -10645,7 +10737,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, Beckhoff
@@ -10653,7 +10745,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, Beckhoff
@@ -10661,7 +10753,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:plc_kfe_vac_sim
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac_sim
       -
 
       - ``*``, Beckhoff
@@ -10685,7 +10777,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -10693,7 +10785,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -10701,7 +10793,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, Beckhoff
@@ -10709,7 +10801,7 @@ Tc2_Standard
       - ``3.3.2.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_motion_kmono
+    * - pcdshub/lcls-plc-lfe-motion-kmono:plc_lfe_motion_kmono
       -
 
       - ``*``, Beckhoff
@@ -10717,7 +10809,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       - ``*``, Beckhoff
@@ -10757,7 +10849,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -10773,7 +10865,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       - ``*``, Beckhoff
@@ -10781,7 +10873,7 @@ Tc2_Standard
       - ``3.3.2.0``, Beckhoff
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``*``, Beckhoff
@@ -10797,7 +10889,7 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, Beckhoff
@@ -10829,7 +10921,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
       - ``*``, Beckhoff
@@ -10853,7 +10945,7 @@ Tc2_Standard
       -
 
 
-    * - unknown:XCS_PER_PLC
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
       - ``*``, Beckhoff
@@ -10926,7 +11018,8 @@ Tc2_SUPS
 
 
 
-    * - unknown:SDSPLC
+
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.6.0``, Beckhoff
 
       -
@@ -10957,7 +11050,7 @@ Tc2_System
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, Beckhoff
@@ -10965,7 +11058,15 @@ Tc2_System
       - ``3.4.22.0``, Beckhoff
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
+    * - pcdshub/lcls-plc-cxi-fms:fms_cxi_plc_01
       -
 
       - ``*``, Beckhoff
@@ -10981,7 +11082,7 @@ Tc2_System
       - ``*``, Beckhoff
 
 
-    * - unknown:hxx_vonhamos
+    * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
       -
 
       - ``*``, Beckhoff
@@ -11021,7 +11122,7 @@ Tc2_System
       -
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, Beckhoff
@@ -11045,7 +11146,7 @@ Tc2_System
       -
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       - ``*``, Beckhoff
@@ -11069,7 +11170,7 @@ Tc2_System
       -
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -11077,7 +11178,7 @@ Tc2_System
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -11085,7 +11186,7 @@ Tc2_System
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -11101,7 +11202,7 @@ Tc2_System
       -
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, Beckhoff
@@ -11109,7 +11210,7 @@ Tc2_System
       - ``3.4.26.0``, Beckhoff
 
 
-    * - unknown:mini_powermeter_calib
+    * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
       -
 
       - ``*``, Beckhoff
@@ -11133,7 +11234,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, Beckhoff
@@ -11149,7 +11250,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, Beckhoff
@@ -11157,7 +11258,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:plc_ftl_leak_det
+    * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
       - ``*``, Beckhoff
@@ -11165,7 +11266,7 @@ Tc2_System
       -
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -11189,7 +11290,7 @@ Tc2_System
       -
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, Beckhoff
@@ -11197,7 +11298,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, Beckhoff
@@ -11205,7 +11306,7 @@ Tc2_System
       -
 
 
-    * - unknown:plc_kfe_vac_sim
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac_sim
       -
 
       - ``*``, Beckhoff
@@ -11229,7 +11330,7 @@ Tc2_System
       -
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -11237,7 +11338,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -11245,7 +11346,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, Beckhoff
@@ -11253,7 +11354,7 @@ Tc2_System
       - ``3.4.22.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_motion_kmono
+    * - pcdshub/lcls-plc-lfe-motion-kmono:plc_lfe_motion_kmono
       -
 
       - ``*``, Beckhoff
@@ -11261,7 +11362,7 @@ Tc2_System
       -
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       - ``*``, Beckhoff
@@ -11301,7 +11402,7 @@ Tc2_System
       - ``3.4.26.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -11317,7 +11418,7 @@ Tc2_System
       -
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       - ``*``, Beckhoff
@@ -11325,7 +11426,7 @@ Tc2_System
       - ``3.4.22.0``, Beckhoff
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``*``, Beckhoff
@@ -11341,7 +11442,7 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, Beckhoff
@@ -11373,7 +11474,7 @@ Tc2_System
       -
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
       - ``*``, Beckhoff
@@ -11397,7 +11498,7 @@ Tc2_System
       -
 
 
-    * - unknown:XCS_PER_PLC
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
       - ``*``, Beckhoff
@@ -11425,12 +11526,13 @@ Tc2_SystemCX
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, Beckhoff
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -11508,12 +11610,13 @@ Tc2_TcpIp
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -11544,7 +11647,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -11554,21 +11657,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.6.0``, Beckhoff
-
-
-
-
-
-
-
-
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -11579,7 +11668,21 @@ Tc2_TcpIp
 
 
 
-    * - unknown:PLC_CRIX_MOT
+
+
+
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
+      -
+
+      -
+
+      - ``3.3.6.0``, Beckhoff
+
+
+
+
+
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -11595,7 +11698,7 @@ Tc2_TcpIp
       - ``3.3.6.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -11604,7 +11707,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -11621,7 +11724,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, Beckhoff
@@ -11641,7 +11744,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -11649,7 +11752,7 @@ Tc2_TcpIp
       - ``3.3.6.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -11658,7 +11761,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -11698,7 +11801,7 @@ Tc2_TcpIp
       - ``3.3.6.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -11707,7 +11810,7 @@ Tc2_TcpIp
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -11759,7 +11862,7 @@ Tc2_Utilities
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, Beckhoff
@@ -11767,12 +11870,13 @@ Tc2_Utilities
       - ``3.3.35.0``, Beckhoff
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
       -
 
       - ``*``, Beckhoff
 
       -
+
 
 
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
@@ -11816,7 +11920,7 @@ Tc2_Utilities
       -
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, Beckhoff
@@ -11826,7 +11930,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -11836,7 +11940,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -11847,7 +11951,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       -
@@ -11865,7 +11969,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -11881,7 +11985,7 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -11890,7 +11994,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -11914,7 +12018,7 @@ Tc2_Utilities
       -
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -11922,7 +12026,7 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, Beckhoff
@@ -11930,7 +12034,7 @@ Tc2_Utilities
       -
 
 
-    * - unknown:plc_kfe_vac_sim
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac_sim
       -
 
       - ``*``, Beckhoff
@@ -11955,7 +12059,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -11963,7 +12067,7 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, Beckhoff
@@ -11972,7 +12076,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -12012,7 +12116,7 @@ Tc2_Utilities
       - ``3.3.54.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -12021,7 +12125,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.35.0``, Beckhoff
 
       -
@@ -12038,7 +12142,7 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, Beckhoff
@@ -12056,7 +12160,7 @@ Tc2_Utilities
 
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
       - ``*``, Beckhoff
@@ -12094,12 +12198,13 @@ Tc3_EventLogger
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.1.22.0``, Beckhoff
+
 
 
 
@@ -12130,7 +12235,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -12140,7 +12245,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -12154,7 +12259,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       -
@@ -12165,7 +12270,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, Beckhoff
@@ -12181,7 +12286,7 @@ Tc3_EventLogger
       - ``3.1.24.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -12190,7 +12295,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -12207,7 +12312,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -12227,7 +12332,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -12235,7 +12340,7 @@ Tc3_EventLogger
       - ``3.1.24.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -12244,7 +12349,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -12286,7 +12391,7 @@ Tc3_EventLogger
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -12339,7 +12444,8 @@ Tc3_Interfaces
 
 
 
-    * - unknown:las_bts
+
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -12349,7 +12455,7 @@ Tc3_Interfaces
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -12383,7 +12489,7 @@ Tc3_Interfaces
       - ``3.4.3.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -12392,7 +12498,7 @@ Tc3_Interfaces
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       -
@@ -12409,7 +12515,7 @@ Tc3_Interfaces
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -12429,7 +12535,7 @@ Tc3_Interfaces
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -12437,7 +12543,7 @@ Tc3_Interfaces
       - ``3.4.3.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -12484,7 +12590,7 @@ Tc3_Interfaces
 
 
 
-    * - unknown:XCS_PER_PLC
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``3.4.3.0``, Beckhoff
 
       -
@@ -12505,12 +12611,13 @@ Tc3_JsonXml
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -12541,7 +12648,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       -
@@ -12551,7 +12658,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -12565,7 +12672,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       -
@@ -12576,7 +12683,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -12592,7 +12699,7 @@ Tc3_JsonXml
       - ``3.3.14.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -12601,7 +12708,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -12618,7 +12725,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -12638,7 +12745,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -12646,7 +12753,7 @@ Tc3_JsonXml
       - ``3.3.14.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -12655,7 +12762,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -12697,7 +12804,7 @@ Tc3_JsonXml
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -12742,7 +12849,7 @@ Tc3_Module
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       - ``*``, Beckhoff
@@ -12750,7 +12857,15 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:cvmi_motion
+    * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
+    * - pcdshub/lcls-plc-cxi-fms:fms_cxi_plc_01
       -
 
       - ``*``, Beckhoff
@@ -12766,7 +12881,7 @@ Tc3_Module
       - ``*``, Beckhoff
 
 
-    * - unknown:hxx_vonhamos
+    * - pcdshub/lcls-plc-hxx-vonhamos:hxx_vonhamos
       -
 
       - ``*``, Beckhoff
@@ -12806,7 +12921,7 @@ Tc3_Module
       -
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, Beckhoff
@@ -12830,7 +12945,7 @@ Tc3_Module
       -
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       - ``*``, Beckhoff
@@ -12854,7 +12969,7 @@ Tc3_Module
       -
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, Beckhoff
@@ -12862,7 +12977,7 @@ Tc3_Module
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -12870,7 +12985,7 @@ Tc3_Module
       -
 
 
-    * - unknown:LiquidJetPLC
+    * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
       -
 
       - ``*``, Beckhoff
@@ -12886,7 +13001,7 @@ Tc3_Module
       -
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       - ``*``, Beckhoff
@@ -12894,7 +13009,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:mini_powermeter_calib
+    * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
       -
 
       - ``*``, Beckhoff
@@ -12918,7 +13033,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       - ``*``, Beckhoff
@@ -12934,7 +13049,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       - ``*``, Beckhoff
@@ -12942,7 +13057,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_ftl_leak_det
+    * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
       - ``*``, Beckhoff
@@ -12950,7 +13065,7 @@ Tc3_Module
       -
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, Beckhoff
@@ -12974,7 +13089,7 @@ Tc3_Module
       -
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       - ``*``, Beckhoff
@@ -12982,7 +13097,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_vac
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac
       -
 
       - ``*``, Beckhoff
@@ -12990,7 +13105,7 @@ Tc3_Module
       -
 
 
-    * - unknown:plc_kfe_vac_sim
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac_sim
       -
 
       - ``*``, Beckhoff
@@ -13014,7 +13129,7 @@ Tc3_Module
       -
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -13022,7 +13137,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       - ``*``, Beckhoff
@@ -13030,7 +13145,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       - ``*``, Beckhoff
@@ -13038,7 +13153,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_lfe_motion_kmono
+    * - pcdshub/lcls-plc-lfe-motion-kmono:plc_lfe_motion_kmono
       -
 
       - ``*``, Beckhoff
@@ -13046,7 +13161,7 @@ Tc3_Module
       -
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       - ``*``, Beckhoff
@@ -13086,7 +13201,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       - ``*``, Beckhoff
@@ -13102,7 +13217,7 @@ Tc3_Module
       -
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       - ``*``, Beckhoff
@@ -13110,7 +13225,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``*``, Beckhoff
@@ -13126,7 +13241,7 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       - ``*``, Beckhoff
@@ -13158,7 +13273,7 @@ Tc3_Module
       -
 
 
-    * - unknown:txi_optics
+    * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
       - ``*``, Beckhoff
@@ -13182,7 +13297,7 @@ Tc3_Module
       -
 
 
-    * - unknown:XCS_PER_PLC
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
       - ``*``, Beckhoff
@@ -13210,12 +13325,13 @@ TcUnit
       - Placeholder
       - Resolution
 
-    * - unknown:ArbiterPLC
+    * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
       -
 
       -
 
       - ``1.1.0.0``, www.tcunit.org
+
 
 
 
@@ -13246,7 +13362,7 @@ TcUnit
 
 
 
-    * - unknown:las_bts
+    * - pcdshub/lcls-plc-las-bts:las_bts
       -
 
       - ``*``, www.tcunit.org
@@ -13256,7 +13372,7 @@ TcUnit
 
 
 
-    * - unknown:lcls_plc_dream_vac
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
       -
@@ -13270,7 +13386,7 @@ TcUnit
 
 
 
-    * - unknown:mfx_motion
+    * - pcdshub/lcls-plc-mfx-motion:mfx_motion
       -
 
       -
@@ -13281,7 +13397,7 @@ TcUnit
 
 
 
-    * - unknown:PLC_CRIX_MOT
+    * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
       -
@@ -13297,7 +13413,7 @@ TcUnit
       - ``1.1.0.0``, www.tcunit.org
 
 
-    * - unknown:plc_cvmi_vac
+    * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
 
       -
@@ -13306,7 +13422,7 @@ TcUnit
 
 
 
-    * - unknown:plc_kfe_gatt
+    * - pcdshub/lcls-plc-kfe-gatt:plc_kfe_gatt
       -
 
       - ``*``, www.tcunit.org
@@ -13323,7 +13439,7 @@ TcUnit
 
 
 
-    * - unknown:plc_kfe_rix_vac
+    * - pcdshub/lcls-plc-kfe-rix-vac:plc_kfe_rix_vac
       -
 
       -
@@ -13343,7 +13459,7 @@ TcUnit
 
 
 
-    * - unknown:plc_lamp_vac
+    * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac
       -
 
       -
@@ -13351,7 +13467,7 @@ TcUnit
       - ``1.1.0.0``, www.tcunit.org
 
 
-    * - unknown:plc_lfe_gem
+    * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
       -
@@ -13360,7 +13476,7 @@ TcUnit
 
 
 
-    * - unknown:plc_lfe_vac
+    * - pcdshub/lcls-plc-lfe-vac:plc_lfe_vac
       -
 
       -
@@ -13400,7 +13516,7 @@ TcUnit
       - ``1.2.0.0``, www.tcunit.org
 
 
-    * - unknown:rixs_optics
+    * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
       -
@@ -13409,7 +13525,7 @@ TcUnit
 
 
 
-    * - unknown:SDSPLC
+    * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       -
 
       -
@@ -13426,7 +13542,7 @@ TcUnit
       - ``1.0.1.0``, www.tcunit.org
 
 
-    * - unknown:tmo_optics
+    * - pcdshub/lcls-plc-tmo-optics:tmo_optics
       -
 
       -
@@ -13516,7 +13632,8 @@ UML Statechart Types
 
 
 
-    * - unknown:XCS_PER_PLC
+
+    * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
       - ``4.0.0.2``, 3S
@@ -13565,6 +13682,7 @@ Vacuum System Simulator Library
 
 
 
+
     * - pcdshub/lcls-plc-kfe-gmd-vac:plc_kfe_gmd_vac_sim
       -
 
@@ -13575,7 +13693,7 @@ Vacuum System Simulator Library
 
 
 
-    * - unknown:plc_kfe_vac_sim
+    * - pcdshub/lcls-plc-kfe-vac:plc_kfe_vac_sim
       -
 
       - ``*``, SLAC
@@ -13629,6 +13747,7 @@ VisuDialogs
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -13648,7 +13767,7 @@ VisuDialogs
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``*``, System
@@ -13687,7 +13806,7 @@ VisuDialogs
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``*``, System
@@ -13719,6 +13838,7 @@ VisuElemMeter
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -13738,7 +13858,7 @@ VisuElemMeter
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.0``, System
@@ -13791,7 +13911,7 @@ VisuElemMeter
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.0``, System
@@ -13823,6 +13943,7 @@ VisuElems
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -13842,7 +13963,7 @@ VisuElems
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.40``, System
@@ -13895,7 +14016,7 @@ VisuElems
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.40``, System
@@ -13927,6 +14048,7 @@ VisuElemsSpecialControls
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -13946,7 +14068,7 @@ VisuElemsSpecialControls
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.0``, System
@@ -13999,7 +14121,7 @@ VisuElemsSpecialControls
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.0``, System
@@ -14031,6 +14153,7 @@ VisuElemsWinControls
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -14050,7 +14173,7 @@ VisuElemsWinControls
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.40``, System
@@ -14103,7 +14226,7 @@ VisuElemsWinControls
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.20``, System
@@ -14135,6 +14258,7 @@ VisuElemTextEditor
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -14154,7 +14278,7 @@ VisuElemTextEditor
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.10``, System
@@ -14207,7 +14331,7 @@ VisuElemTextEditor
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.0``, System
@@ -14239,6 +14363,7 @@ visuinputs
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -14258,7 +14383,7 @@ visuinputs
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.0``, system
@@ -14297,7 +14422,7 @@ visuinputs
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.0``, system
@@ -14329,6 +14454,7 @@ VisuNativeControl
 
 
 
+
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
       -
 
@@ -14348,7 +14474,7 @@ VisuNativeControl
 
 
 
-    * - unknown:lfe_optics
+    * - pcdshub/lcls-plc-lfe-optics:lfe_optics
       -
 
       - ``3.5.10.40``, System
@@ -14401,7 +14527,7 @@ VisuNativeControl
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``3.5.13.0``, System
@@ -14477,7 +14603,8 @@ VisuSymbols
 
 
 
-    * - unknown:SolidAttenuatorPLC
+
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       - ``3.5.10.0``, System
 
       -
@@ -14506,6 +14633,7 @@ VisuUserMgmt
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -14560,7 +14688,7 @@ VisuUserMgmt
 
 
 
-    * - unknown:SolidAttenuatorPLC
+    * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
       - ``*``, System
