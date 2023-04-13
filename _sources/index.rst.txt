@@ -22,6 +22,9 @@ PLC Summary
     * - `pcdshub/lcls-plc-cvmi-vac <https://github.com/pcdshub/lcls-plc-cvmi-vac>`_
       - `V1.0.1-8-gbc65fbd <https://github.com/pcdshub/lcls-plc-cvmi-vac/tree/bc65fbd8072f8080cc1620b313fa804c888c9488>`_
       - `pcdshub/lcls-plc-cvmi-vac Docs <https://pcdshub.github.io/lcls-plc-cvmi-vac>`_
+    * - `pcdshub/lcls-plc-cxi-fms <https://github.com/pcdshub/lcls-plc-cxi-fms>`_
+      - `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09d9fe24ed7567d43f966fe3835ab>`_
+      - `pcdshub/lcls-plc-cxi-fms Docs <https://pcdshub.github.io/lcls-plc-cxi-fms>`_
     * - `pcdshub/lcls-plc-dream-motion <https://github.com/pcdshub/lcls-plc-dream-motion>`_
       - `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe481d7917529d8096716e4f5fb43bb45d7>`_
       - `pcdshub/lcls-plc-dream-motion Docs <https://pcdshub.github.io/lcls-plc-dream-motion>`_
@@ -131,7 +134,7 @@ PLC Summary
       - `v1.1.0-90-g862b8ef <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/862b8efaa8adbc22aeadc13f9bf581496deb85b7>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
-      - `v3.0.1~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/b0caedfee55df4f737eb46e895e3388ec6592375>`_
+      - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_
       - `pcdshub/lcls-plc-tmo-optics Docs <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
     * - `pcdshub/lcls-plc-tmo-spectrometer-motion <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion>`_
       - `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tree/e0f00f2e756d7fec514b8aa8a8a1b9768f69857e>`_
@@ -140,7 +143,7 @@ PLC Summary
       - `829cf26 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/829cf264481215d0cad4bc39481aab3edb76056c>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
-      - `e2304a8 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/e2304a8c333d26ce0d2f14ced7c9c1218548b522>`_
+      - `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6b7e345a7d65d122d44e32d3aba64de0b8e>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
       - `dea57ec <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dea57ec384d4d48fec3520c3f946bf272ce2f1e8>`_
@@ -167,7 +170,7 @@ PLC Summary
       - `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3e9d2b767b54c389200670e290ccbc22be9752>`_
       - `pcdshub/lcls-plc-xpp-jjslit-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
-      - `v1.2.0-122-gda46653 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/da466536e76b22197849d5d4202a9fb7cd2176d7>`_
+      - `v5.0.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/da466536e76b22197849d5d4202a9fb7cd2176d7>`_
       - `pcdshub/lcls-plc-xrt-optics Docs <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. toctree::
