@@ -13,7 +13,7 @@ add_submodule() {
     fi
 
     if [ ! -d "$SUBMOD" ]; then
-        git submodule add "git@github.com:pcdshub/$SUBMOD" "$DEST"
+        git submodule add "https://github.com/pcdshub/$SUBMOD" "$DEST"
     else
         pushd "$DEST" || exit 1
         git fetch origin
