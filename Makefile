@@ -17,6 +17,7 @@ gh-pages:
 	master_commit=$$(git rev-parse --short HEAD) && \
 		git checkout gh-pages && \
 		cp -R docs/build/html/ . && \
+		git add *.html _static && \
 		git commit -am "Regenerated docs for commit $$master_commit"
 
 all_repos.txt:
