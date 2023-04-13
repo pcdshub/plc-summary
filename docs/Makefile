@@ -10,11 +10,8 @@ BUILDDIR      = build
 
 html: generate
 
-update_remotes:
-	$(MAKE) -C ../ update_remotes
-
 generate:
-	$(MAKE) update_remotes
+	$(MAKE) -C ../ update_remotes
 	# if ! command -v pytmc 2>/dev/null; then \
 	# 	echo "pytmc not found; installing requirements."; \
 	# 	python -m pip install -r requirements.txt; \
