@@ -10831,40 +10831,40 @@ pcdshub/lcls-plc-rixs-optics
                     EK1122 2 port EtherCAT junction
 
                 #. **EK1100_MR2K2 [ID: 80]**
-                          (**Disabled**)    EK1100 EtherCAT Coupler (2A E-Bus)
+                        EK1100 EtherCAT Coupler (2A E-Bus)
 
                     #. EL5042_M2K2X_M2K2Y [ID: 81]
-                            EL5042 2Ch. BiSS-C Encoder
+                              ( **SyncUnit=MR2K2** )    EL5042 2Ch. BiSS-C Encoder
 
 
 
                     #. EL5042_M2K2rX [ID: 82]
-                            EL5042 2Ch. BiSS-C Encoder
+                              ( **SyncUnit=MR2K2** )    EL5042 2Ch. BiSS-C Encoder
 
 
 
                     #. Term 83 (EL9221-5000) [ID: 83]
-                              ( **SyncUnit=Term 4 (EL9221-5000)** )    EL9221-5000 Overcurrent protection 24V DC, 1Ch., max. 10A, adjustable
+                              ( **SyncUnit=MR2K2** )    EL9221-5000 Overcurrent protection 24V DC, 1Ch., max. 10A, adjustable
 
 
 
                     #. EL7041_M2K2X [ID: 85]
-                            EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=MR2K2** )    EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. EL7041_M2K2Y [ID: 86]
-                            EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=MR2K2** )    EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. EL7041_M2K2rX [ID: 87]
-                            EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=MR2K2** )    EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. EL1004_M2K2_STO [ID: 88]
-                            EL1004 4Ch. Dig. Input 24V, 3ms
+                              ( **SyncUnit=MR2K2** )    EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
