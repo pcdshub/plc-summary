@@ -119,7 +119,7 @@ PLC Summary
       - `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335d3d02a08af0d4e803ec1fa12e74f2e5f172f>`_
       - `pcdshub/lcls-plc-rix-sds-injector Docs <https://pcdshub.github.io/lcls-plc-rix-sds-injector>`_
     * - `pcdshub/lcls-plc-rixs-optics <https://github.com/pcdshub/lcls-plc-rixs-optics>`_
-      - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/dceeea4d214e701ea1d68ccd697e079500679f76>`_
+      - `v2.2.1~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/0749b545b125fa61c74c7a7ff37a27203fdfe04e>`_
       - `pcdshub/lcls-plc-rixs-optics Docs <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
     * - `pcdshub/lcls-plc-roving-spectrometer <https://github.com/pcdshub/lcls-plc-roving-spectrometer>`_
       - `v0.1.0-7-gefe2857 <https://github.com/pcdshub/lcls-plc-roving-spectrometer/tree/efe2857f39add982601ac2bda0900c58fd69f642>`_
@@ -170,7 +170,7 @@ PLC Summary
       - `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3e9d2b767b54c389200670e290ccbc22be9752>`_
       - `pcdshub/lcls-plc-xpp-jjslit-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
-      - `v5.0.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/da466536e76b22197849d5d4202a9fb7cd2176d7>`_
+      - `v5.1.0~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/ee1a314466d481e9c81bf4f1b54010febdd546a3>`_
       - `pcdshub/lcls-plc-xrt-optics Docs <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. toctree::
