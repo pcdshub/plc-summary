@@ -5946,7 +5946,7 @@ pcdshub/lcls-plc-xrt-optics: HOMS_XRT_PLC
       - Resolution
 
     * - LCLS General
-      - ``newest`` SLAC
+      - ``2.8.1`` SLAC
 
       -
 
@@ -5957,7 +5957,7 @@ pcdshub/lcls-plc-xrt-optics: HOMS_XRT_PLC
 
       - ``*`` SLAC
 
-      - ``3.0.0`` SLAC
+      - ``3.0.14`` SLAC
 
     * - Tc2_ControllerToolbox
       -
@@ -6203,7 +6203,7 @@ LCLS General
 
 
     * - pcdshub/lcls-plc-xrt-optics:HOMS_XRT_PLC
-      - ``newest``, SLAC
+      - ``2.8.1``, SLAC
 
       -
 
@@ -7614,7 +7614,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.0``, SLAC
+      - ``3.0.14``, SLAC
 
 
 
