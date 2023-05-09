@@ -1430,6 +1430,207 @@ pcdshub/lcls-plc-dream-vac
 --------------------------
 
 
+#. **R20_DRL_03_E0_EK1200 [ID: 40]**
+        EK1200-5000 EtherCAT Power supply (2A E-Bus)
+
+    #. R20_DRL_03_E1_EL2202 [ID: 41]
+            EL2202 2Ch. Dig. Output 24V, 0.5A
+
+
+
+    #. R20_DRL_03_E2_EL6070 [ID: 42]
+            EL6070 1Ch. Licensing-Terminal
+
+
+
+    #. R20_DRL_03_E3_EL9070 [ID: 1]
+            EL9070 Shield terminal
+
+
+
+    #. R20_DRL_03_E4_EL1004 [ID: 43]
+            EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+    #. R20_DRL_03_E5_EL1004 [ID: 44]
+            EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+    #. R20_DRL_03_E6_EL1004 [ID: 45]
+            EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+    #. R20_DRL_03_E7_EL2794 [ID: 46]
+            EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+
+
+
+    #. R20_DRL_03_E8_EL2794 [ID: 47]
+            EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+
+
+
+    #. R20_DRL_03_E09_EL6001 [ID: 49]
+            EL6001 Interface (RS232)
+
+
+
+    #. R20_DRL_03_E10_EL6001 [ID: 50]
+            EL6001 Interface (RS232)
+
+
+
+    #. R20_DRL_03_E11_EL6001 [ID: 51]
+            EL6001 Interface (RS232)
+
+
+
+    #. R20_DRL_03_E12_EL6001 [ID: 15]
+            EL6001 Interface (RS232)
+
+
+
+    #. R20_DRL_03_E13_EL3174-0002 [ID: 52]
+            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+
+
+
+    #. R20_DRL_03_E14_EL9505 [ID: 53]
+            EL9505 Power supply terminal 5V
+
+
+
+    #. R20_DRL_03_E15_EL2124 [ID: 54]
+            EL2124 4Ch. Dig. Output 5V, 20mA
+
+
+
+    #. R20_DRL_03_E16_EL6695 [ID: 55]
+            EL6695 EtherCAT Bridge terminal (Primary)
+
+
+
+    #. R20_DRL_03_E17_EK1122 [ID: 56]
+            EK1122 2 port EtherCAT junction
+
+        #. **K4S8_DRL_03_EK1100 [ID: 57]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. K4S8_DRL_03_E1_EL2624 [ID: 58]
+                    EL2624 4Ch. Relay Output, NO (125V AC / 30V DC)
+
+
+
+            #. K4S8_DRL_03_E2_EL9184 [ID: 2]
+                    EL9184 Potential Connection, 8 x 24V, 8 x Ground
+
+
+
+            #. K4S8_DRL_03_E3_EL9070 [ID: 3]
+                    EL9070 Shield terminal
+
+
+
+            #. K4S8_DRL_03_E4_EL1084 [ID: 59]
+                    EL1084 4Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. K4S8_DRL_03_E5_EL3174-0002 [ID: 60]
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+
+
+
+            #. K4S8_DRL_03_E6_EL3174-0002 [ID: 61]
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+
+
+
+            #. K4S8_DRL_03_E7_EL9505 [ID: 62]
+                    EL9505 Power supply terminal 5V
+
+
+
+            #. K4S8_DRL_03_E8_EL1124 [ID: 63]
+                    EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
+
+
+
+            #. K4S8_DRL_03_E9_EL9410 [ID: 64]
+                    EL9410 E-Bus Power Supplier  (Diagnostics)
+
+
+
+            #. K4S8_DRL_03_E10_EL1004 [ID: 65]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_03_E11_EL2004 [ID: 66]
+                    EL2004 4Ch. Dig. Output 24V, 0.5A
+
+
+
+            #. K4S8_DRL_03_E12_EL6021 [ID: 67]
+                    EL6021 Interface (RS422/485)
+
+
+
+            #. K4S8_DRL_03_E13_EL1004 [ID: 68]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_03_E14_EL2004 [ID: 69]
+                    EL2004 4Ch. Dig. Output 24V, 0.5A
+
+
+
+            #. K4S8_DRL_03_E15_EL6021 [ID: 70]
+                    EL6021 Interface (RS422/485)
+
+
+
+            #. K4S8_DRL_03_E16_EL1004 [ID: 71]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_03_E17_EL2004 [ID: 72]
+                    EL2004 4Ch. Dig. Output 24V, 0.5A
+
+
+
+            #. K4S8_DRL_03_E18_EL6021 [ID: 73]
+                    EL6021 Interface (RS422/485)
+
+
+
+            #. K4S8_DRL_03_E19_EL1004 [ID: 74]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_03_E20_EL2004 [ID: 75]
+                    EL2004 4Ch. Dig. Output 24V, 0.5A
+
+
+
+            #. K4S8_DRL_03_E20_EL9011 [ID: 76]
+                    EL9011 End Terminal
+
+
+
+
+
+
+
+
+
+
 pcdshub/lcls-plc-ftl-leak-det
 -----------------------------
 
@@ -11537,6 +11738,11 @@ pcdshub/lcls-plc-tmo-motion
 
 
 
+                    #. IM2K4-EL1004-E8 [ID: 140]
+                            EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
                     #. IM2K4-EL9011 [ID: 49]
                             EL9011 End Terminal
 
@@ -11917,6 +12123,11 @@ pcdshub/lcls-plc-tmo-motion
 
 
 
+                    #. Term 300 (EL9011) [ID: 300]
+                            EL9011 End Terminal
+
+
+
 
 
                 #. **SP1K4 Bottom Rail (EK1100) [ID: 45]**
@@ -11969,6 +12180,11 @@ pcdshub/lcls-plc-tmo-motion
 
                     #. YagTheta-EL7041 [ID: 58]
                               ( **SyncUnit=SP1K4** )    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+                    #. Term 301 (EL9011) [ID: 301]
+                            EL9011 End Terminal
 
 
 
@@ -12829,16 +13045,6 @@ pcdshub/lcls-plc-tmo-vac
 
     #. CX0_E2_EXILK (EL1008) [ID: 26]
             EL1008 8Ch. Dig. Input 24V, 3ms
-
-
-
-    #. CX0_E3 (EL2008) [ID: 27]
-            EL2008 8Ch. Dig. Output 24V, 0.5A
-
-
-
-    #. CX0_E4 (EL2794) [ID: 28]
-            EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
 
 
 
