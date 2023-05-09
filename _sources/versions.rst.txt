@@ -695,7 +695,7 @@ pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
 
       - ``*`` SLAC
 
-      - ``2.1.0`` SLAC
+      - ``2.2.0`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -770,7 +770,7 @@ pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
     * - Tc2_SerialCom
       -
 
-      -
+      - ``*`` Beckhoff
 
       - ``3.3.7.0`` Beckhoff
 
@@ -2911,7 +2911,7 @@ pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
 
       -
 
-      -
+      - ``2.6.0`` SLAC
 
     * - PMPS
       -
@@ -3236,7 +3236,7 @@ pcdshub/lcls-plc-lfe-motion: lfe_motion
 
       - ``*`` SLAC
 
-      - ``3.0.0`` SLAC
+      - ``3.0.14`` SLAC
 
     * - Tc2_MC2
       -
@@ -3354,11 +3354,11 @@ pcdshub/lcls-plc-lfe-optics: lfe_optics
       - ``2.6.0`` SLAC
 
     * - PMPS
-      - ``3.0.0`` SLAC
+      - ``3.0.14`` SLAC
 
       -
 
-      - ``3.0.0`` SLAC
+      - ``3.0.14`` SLAC
 
     * - Tc2_ControllerToolbox
       -
@@ -6190,7 +6190,7 @@ LCLS General
 
       -
 
-      -
+      - ``2.6.0``, SLAC
 
 
     * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
@@ -6580,7 +6580,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.1.0``, SLAC
+      - ``2.2.0``, SLAC
 
 
 
@@ -7667,15 +7667,15 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.0``, SLAC
+      - ``3.0.14``, SLAC
 
 
     * - pcdshub/lcls-plc-lfe-optics:lfe_optics
-      - ``3.0.0``, SLAC
+      - ``3.0.14``, SLAC
 
       -
 
-      - ``3.0.0``, SLAC
+      - ``3.0.14``, SLAC
 
 
     * - pcdshub/lcls-plc-xcs-liquid-jet:LiquidJetPLC
@@ -10260,7 +10260,7 @@ Tc2_SerialCom
     * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
       -
 
-      -
+      - ``*``, Beckhoff
 
       - ``3.3.7.0``, Beckhoff
 
