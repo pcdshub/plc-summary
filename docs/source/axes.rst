@@ -847,6 +847,14 @@ pcdshub/lcls-plc-qrix-motion
       - M39 - SDS X
     * - Axis 40
       - M40 - SDS Y
+    * - Axis 41
+      - M41 - SDS Z
+    * - Axis 42
+      - M42 - SDS Rot Garage
+    * - Axis 43
+      - M43 -SDS Linear Rotary
+    * - Axis 44
+      - M44 - SDS Linear Horizontal
 
 pcdshub/lcls-plc-qrix-vac
 -------------------------
