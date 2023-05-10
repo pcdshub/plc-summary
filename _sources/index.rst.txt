@@ -41,7 +41,7 @@ PLC Summary
       - `d7d342b <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/d7d342b5946e0c20919bdbb6a4f10f9742b48eda>`_
       - `pcdshub/lcls-plc-kfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
     * - `pcdshub/lcls-plc-kfe-gatt <https://github.com/pcdshub/lcls-plc-kfe-gatt>`_
-      - `V0.2.0-44-gb184977 <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/b1849770bf546f458dc165da124e893aebaaca82>`_
+      - `V0.2.0-49-gf1fea21 <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/f1fea21b8211cb063683a38791f8866963e12246>`_
       - `pcdshub/lcls-plc-kfe-gatt Docs <https://pcdshub.github.io/lcls-plc-kfe-gatt>`_
     * - `pcdshub/lcls-plc-kfe-gmd-vac <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac>`_
       - `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/155468700c2bd93415f605df21cf1efb1397df0a>`_
@@ -110,7 +110,7 @@ PLC Summary
       - `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2a2004fbf454453e21dd1d1c4c771>`_
       - `pcdshub/lcls-plc-mrco-vac Docs <https://pcdshub.github.io/lcls-plc-mrco-vac>`_
     * - `pcdshub/lcls-plc-qrix-motion <https://github.com/pcdshub/lcls-plc-qrix-motion>`_
-      - `4c66779 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/4c66779acf4711991de369d0a03a43016f6607d0>`_
+      - `c37391a <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/c37391abad393394f32ec7e72aebda81148a79b0>`_
       - `pcdshub/lcls-plc-qrix-motion Docs <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
     * - `pcdshub/lcls-plc-qrix-vac <https://github.com/pcdshub/lcls-plc-qrix-vac>`_
       - `v0.0.0-9-g742b43b <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/742b43ba553028ee28a1f74c153e244bebc83fa9>`_
