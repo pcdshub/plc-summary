@@ -1493,18 +1493,8 @@ pcdshub/lcls-plc-dream-vac
 
 
 
-    #. R20_DRL_03_E13_EL3174-0002 [ID: 52]
-            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
-
-
-
     #. R20_DRL_03_E14_EL9505 [ID: 53]
             EL9505 Power supply terminal 5V
-
-
-
-    #. R20_DRL_03_E15_EL2124 [ID: 54]
-            EL2124 4Ch. Dig. Output 5V, 20mA
 
 
 

@@ -683,159 +683,47 @@ pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
       - Placeholder
       - Resolution
 
-    * - LCLS General
-      -
-
-      -
-
-      - ``2.6.0`` SLAC
-
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.2.0`` SLAC
+      - ``*`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
-      - ``1.2.2`` SLAC
-
-    * - PMPS
-      -
-
-      -
-
-      - ``2.2.3`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.12.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
+      - ``*`` SLAC
 
     * - Tc2_SerialCom
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.7.0`` Beckhoff
+      -
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.3.0`` Beckhoff
+      -
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
       -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
       -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
 
 
 pcdshub/lcls-plc-ftl-leak-det: plc_ftl_leak_det
@@ -3063,7 +2951,7 @@ pcdshub/lcls-plc-lfe-gem: plc_lfe_gem
 
       - ``*`` SLAC
 
-      - ``2.6.0`` SLAC
+      - ``2.8.1`` SLAC
 
     * - LCLS Vacuum
       -
@@ -3084,7 +2972,7 @@ pcdshub/lcls-plc-lfe-gem: plc_lfe_gem
 
       - ``*`` SLAC
 
-      - ``3.0.0`` SLAC
+      - ``3.0.14`` SLAC
 
     * - SysFile
       -
@@ -3510,7 +3398,7 @@ pcdshub/lcls-plc-lfe-vac: plc_lfe_vac
 
       - ``*`` SLAC
 
-      - ``3.0.0`` SLAC
+      - ``3.0.14`` SLAC
 
     * - SysDir
       -
@@ -6246,13 +6134,6 @@ LCLS General
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``2.6.0``, SLAC
-
 
 
     * - pcdshub/lcls-plc-lfe-motion:lfe_motion
@@ -6409,7 +6290,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.6.0``, SLAC
+      - ``2.8.1``, SLAC
 
 
 
@@ -6580,7 +6461,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.2.0``, SLAC
+      - ``*``, SLAC
 
 
 
@@ -7455,7 +7336,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``1.2.2``, SLAC
+      - ``*``, SLAC
 
 
 
@@ -7653,13 +7534,6 @@ PMPS
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``2.2.3``, SLAC
-
 
 
     * - pcdshub/lcls-plc-lfe-motion:lfe_motion
@@ -7795,7 +7669,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.0``, SLAC
+      - ``3.0.14``, SLAC
 
 
 
@@ -7804,7 +7678,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.0``, SLAC
+      - ``3.0.14``, SLAC
 
 
     * - pcdshub/lcls-plc-mrco-vac:plc_mrco_vac
@@ -7953,13 +7827,6 @@ SysDir
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.5.12.0``, System
 
 
 
@@ -8170,13 +8037,6 @@ SysFile
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.5.9.0``, System
 
 
 
@@ -8591,13 +8451,6 @@ Tc2_DataExchange
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.5.0``, Beckhoff
-
 
 
 
@@ -8793,13 +8646,6 @@ Tc2_EtherCAT
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.15.0``, Beckhoff
 
 
 
@@ -9067,13 +8913,6 @@ Tc2_IoFunctions
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.13.0``, Beckhoff
-
 
 
 
@@ -9304,13 +9143,6 @@ Tc2_Math
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.1.0``, Beckhoff
 
 
 
@@ -9556,13 +9388,6 @@ Tc2_MC2
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.42.0``, Beckhoff
 
 
 
@@ -9921,13 +9746,6 @@ Tc2_ModbusSrv
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.2.0``, Beckhoff
-
 
 
 
@@ -10262,7 +10080,7 @@ Tc2_SerialCom
 
       - ``*``, Beckhoff
 
-      - ``3.3.7.0``, Beckhoff
+      -
 
 
 
@@ -10598,7 +10416,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      - ``3.3.3.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-roving-spectrometer:lcls_plc_roving_spectrometer
@@ -11151,7 +10969,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``3.4.24.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-roving-spectrometer:lcls_plc_roving_spectrometer
@@ -11657,13 +11475,6 @@ Tc2_TcpIp
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.6.0``, Beckhoff
-
 
 
 
@@ -11929,13 +11740,6 @@ Tc2_Utilities
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.41.0``, Beckhoff
 
 
 
@@ -12245,13 +12049,6 @@ Tc3_EventLogger
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.1.24.0``, Beckhoff
-
 
 
 
@@ -12455,13 +12252,6 @@ Tc3_Interfaces
 
 
 
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
-
 
 
 
@@ -12657,13 +12447,6 @@ Tc3_JsonXml
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``3.3.14.0``, Beckhoff
 
 
 
@@ -12950,7 +12733,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      - ``3.3.21.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-roving-spectrometer:lcls_plc_roving_spectrometer
@@ -13371,13 +13154,6 @@ TcUnit
 
 
 
-
-    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
-      -
-
-      -
-
-      - ``1.1.0.0``, www.tcunit.org
 
 
 

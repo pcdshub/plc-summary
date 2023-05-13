@@ -29,7 +29,7 @@ PLC Summary
       - `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe481d7917529d8096716e4f5fb43bb45d7>`_
       - `pcdshub/lcls-plc-dream-motion Docs <https://pcdshub.github.io/lcls-plc-dream-motion>`_
     * - `pcdshub/lcls-plc-dream-vac <https://github.com/pcdshub/lcls-plc-dream-vac>`_
-      - `32d6353 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/32d6353c0eede6d71c2fbf7dae366ffcd93a2e4e>`_
+      - `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e7101ced4152543f0af332be80fa68c8a>`_
       - `pcdshub/lcls-plc-dream-vac Docs <https://pcdshub.github.io/lcls-plc-dream-vac>`_
     * - `pcdshub/lcls-plc-ftl-leak-det <https://github.com/pcdshub/lcls-plc-ftl-leak-det>`_
       - `63afcd5 <https://github.com/pcdshub/lcls-plc-ftl-leak-det/tree/63afcd5936db42afbabc863a93dcbe16c8d7e5b1>`_
@@ -80,7 +80,7 @@ PLC Summary
       - `v1.0.1-33-g45dc0fa <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/45dc0fab7733bd6010d5026ccb37ab3d37e05f3f>`_
       - `pcdshub/lcls-plc-lfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
     * - `pcdshub/lcls-plc-lfe-gem <https://github.com/pcdshub/lcls-plc-lfe-gem>`_
-      - `v0.1.0-41-g25b8f75 <https://github.com/pcdshub/lcls-plc-lfe-gem/tree/25b8f7588208c010d394a8b72832d9b90f636c5c>`_
+      - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-gem/tree/b124fe8c768ceee75864086f0586bf78f9d0cf9f>`_
       - `pcdshub/lcls-plc-lfe-gem Docs <https://pcdshub.github.io/lcls-plc-lfe-gem>`_
     * - `pcdshub/lcls-plc-lfe-motion <https://github.com/pcdshub/lcls-plc-lfe-motion>`_
       - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-motion/tree/13ea3ebba0c317fd503da4ddc13f6e9260ea3e9f>`_
@@ -92,7 +92,7 @@ PLC Summary
       - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/a8a07e83592626bd9aa11bc7b6d45d2786a849ed>`_
       - `pcdshub/lcls-plc-lfe-optics Docs <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
     * - `pcdshub/lcls-plc-lfe-vac <https://github.com/pcdshub/lcls-plc-lfe-vac>`_
-      - `V.1.0.0-33-g2f7acfd <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/2f7acfd35b4a2e056c729261f51a11e34081d6e1>`_
+      - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/3e84e32550dc3ffbe6a878074d6bc480df113d89>`_
       - `pcdshub/lcls-plc-lfe-vac Docs <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
     * - `pcdshub/lcls-plc-mfx-be-lens-interlock <https://github.com/pcdshub/lcls-plc-mfx-be-lens-interlock>`_
       - `R1.0.1-7-g24af3a4 <https://github.com/pcdshub/lcls-plc-mfx-be-lens-interlock/tree/24af3a47630a94fa89e7440abc6cedbabe615954>`_
