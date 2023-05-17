@@ -11207,7 +11207,7 @@ pcdshub/lcls-plc-rixs-optics
                     EK1122 2 port EtherCAT junction
 
                 #. **EK1100_MR4K2 [ID: 93]**
-                          (**Disabled**)    EK1100 EtherCAT Coupler (2A E-Bus)
+                        EK1100 EtherCAT Coupler (2A E-Bus)
 
                     #. EL5042_M4K2X_M4K2Y [ID: 94]
                             EL5042 2Ch. BiSS-C Encoder
@@ -11267,7 +11267,7 @@ pcdshub/lcls-plc-rixs-optics
 
 
                 #. **EK1100_MR4K2_BENDER [ID: 106]**
-                          (**Disabled**)    EK1100 EtherCAT Coupler (2A E-Bus)
+                        EK1100 EtherCAT Coupler (2A E-Bus)
 
                     #. EL5042_M4K2_BEND_USDS [ID: 107]
                             EL5042 2Ch. BiSS-C Encoder
@@ -11304,8 +11304,8 @@ pcdshub/lcls-plc-rixs-optics
 
 
 
-                    #. EL3202-0010_M4K2DS2_M4K2DS3 [ID: 114]
-                            EL3202-0010 2Ch. Ana. Input PT100 (RTD), High Precision
+                    #. Term 283 (EL3204) [ID: 283]
+                            EL3204 4Ch. Ana. Input PT100 (RTD)
 
 
 
