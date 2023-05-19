@@ -373,3 +373,6 @@
 [submodule "plcs/lcls-plc-xrt-optics"]
 	path = plcs/lcls-plc-xrt-optics
 	url = https://github.com/pcdshub/lcls-plc-xrt-optics
+[submodule "support/lcls-twincat-sample-delivery"]
+	path = support/lcls-twincat-sample-delivery
+	url = https://github.com/pcdshub/lcls-twincat-sample-delivery
