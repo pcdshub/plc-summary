@@ -146,7 +146,7 @@ PLC Summary
       - `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6b7e345a7d65d122d44e32d3aba64de0b8e>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
-      - `dea57ec <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dea57ec384d4d48fec3520c3f946bf272ce2f1e8>`_
+      - `aff41d2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/aff41d252b2446d2f4ea106dd87fe5cbbd4a2aab>`_
       - `pcdshub/lcls-plc-txi-hxr-vac Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
     * - `pcdshub/lcls-plc-txi-optics <https://github.com/pcdshub/lcls-plc-txi-optics>`_
       - `88cf22a <https://github.com/pcdshub/lcls-plc-txi-optics/tree/88cf22ae91a2bf92643a5bcb140d4881dd718502>`_
