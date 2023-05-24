@@ -5252,49 +5252,49 @@ pcdshub/lcls-plc-txi-hxr-vac: txi_hxr_vac
 
       - ``*`` SLAC
 
-      -
+      - ``2.8.1`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      -
+      - ``2.3.1`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      -
+      - ``3.0.14`` SLAC
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.3.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.4.26.0`` Beckhoff
 
     * - Tc2_TcpIp
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.6.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.21.0`` Beckhoff
 
 
 pcdshub/lcls-plc-txi-optics: txi_optics
@@ -6396,7 +6396,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      -
+      - ``2.8.1``, SLAC
 
 
 
@@ -6606,7 +6606,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      -
+      - ``2.3.1``, SLAC
 
 
 
@@ -7754,7 +7754,7 @@ PMPS
 
       - ``*``, SLAC
 
-      -
+      - ``3.0.14``, SLAC
 
 
 
@@ -10736,7 +10736,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.3.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-txi-optics:txi_optics
@@ -11289,7 +11289,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.4.26.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-txi-optics:txi_optics
@@ -11646,7 +11646,7 @@ Tc2_TcpIp
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.6.0``, Beckhoff
 
 
 
@@ -13053,7 +13053,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.21.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-txi-optics:txi_optics
