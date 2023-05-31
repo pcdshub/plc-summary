@@ -9667,7 +9667,7 @@ pcdshub/lcls-plc-qrix-motion
 
 
 
-#. **B950-233-WALL-S-R01-DRL-03 [ID: 28]**
+#. **B950-233-WALL-S-R01-DRL-03_SDS [ID: 28]**
         EK1100 EtherCAT Coupler (2A E-Bus)
 
     #. EL7047_04_01 [ID: 50]

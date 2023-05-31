@@ -110,7 +110,7 @@ PLC Summary
       - `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2a2004fbf454453e21dd1d1c4c771>`_
       - `pcdshub/lcls-plc-mrco-vac Docs <https://pcdshub.github.io/lcls-plc-mrco-vac>`_
     * - `pcdshub/lcls-plc-qrix-motion <https://github.com/pcdshub/lcls-plc-qrix-motion>`_
-      - `c37391a <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/c37391abad393394f32ec7e72aebda81148a79b0>`_
+      - `41b9585 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/41b9585fb558b9c2e2b439eca17ef1832b26a8ce>`_
       - `pcdshub/lcls-plc-qrix-motion Docs <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
     * - `pcdshub/lcls-plc-qrix-vac <https://github.com/pcdshub/lcls-plc-qrix-vac>`_
       - `v0.0.0-9-g742b43b <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/742b43ba553028ee28a1f74c153e244bebc83fa9>`_
@@ -131,7 +131,7 @@ PLC Summary
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-93-g1c55f03 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/1c55f038d7f6f7f68f87b018004a805ea584cc1a>`_
+      - `v1.1.0-96-g486a0d1 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/486a0d152df4e5557ec4c2bf11a998b46191456a>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_
