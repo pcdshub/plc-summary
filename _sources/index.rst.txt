@@ -119,7 +119,7 @@ PLC Summary
       - `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335d3d02a08af0d4e803ec1fa12e74f2e5f172f>`_
       - `pcdshub/lcls-plc-rix-sds-injector Docs <https://pcdshub.github.io/lcls-plc-rix-sds-injector>`_
     * - `pcdshub/lcls-plc-rixs-optics <https://github.com/pcdshub/lcls-plc-rixs-optics>`_
-      - `endrun18-128-g7c3487e <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7c3487ea7ba56f4902bb9fb924530b79884212ae>`_
+      - `endrun18-130-ge9557ed <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/e9557ed4303c0c765e2fdee01037add52dcc1419>`_
       - `pcdshub/lcls-plc-rixs-optics Docs <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
     * - `pcdshub/lcls-plc-roving-spectrometer <https://github.com/pcdshub/lcls-plc-roving-spectrometer>`_
       - `v0.1.0-7-gefe2857 <https://github.com/pcdshub/lcls-plc-roving-spectrometer/tree/efe2857f39add982601ac2bda0900c58fd69f642>`_
