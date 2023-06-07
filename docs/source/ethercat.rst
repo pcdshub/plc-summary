@@ -12068,12 +12068,12 @@ pcdshub/lcls-plc-tmo-motion
                 #. **SP1K4 Top Rail (EK1100) [ID: 6]**
                         EK1100 EtherCAT Coupler (2A E-Bus)
 
-                    #. Term 7 (EL5042) [ID: 7]
+                    #. SP1K4-EL5042-E1 [ID: 7]
                               ( **SyncUnit=SP1K4** )    EL5042 2Ch. BiSS-C Encoder
 
 
 
-                    #. Term 8 (EL5042) [ID: 8]
+                    #. SP1K4-EL5042-E2 [ID: 8]
                               ( **SyncUnit=SP1K4** )    EL5042 2Ch. BiSS-C Encoder
 
 
@@ -12085,6 +12085,31 @@ pcdshub/lcls-plc-tmo-motion
 
                     #. Term 10 (EL7041) [ID: 10]
                               ( **SyncUnit=SP1K4** )    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+                    #. SP1K4-EL7041-E5 [ID: 242]
+                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+                    #. SP1K4-EL7031-E6 [ID: 243]
+                            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+                    #. SP1K4-EL5042-E7 [ID: 244]
+                            EL5042 2Ch. BiSS-C Encoder
+
+
+
+                    #. SP1K4-EL5042-E8 [ID: 245]
+                            EL5042 2Ch. BiSS-C Encoder
+
+
+
+                    #. SP1K4-EL5042-E9 [ID: 246]
+                            EL5042 2Ch. BiSS-C Encoder
 
 
 
