@@ -1,7 +1,9 @@
 PLC Summary
 -----------
 
-.. list-table:: Project Versions
+This summary was generated |today|.
+
+.. list-table:: Project Versions as of |today|
     :header-rows: 1
 
     * - PLC

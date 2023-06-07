@@ -59,3 +59,5 @@ source_suffix = {
     '.txt': 'markdown',
     '.md': 'markdown',
 }
+
+today_fmt = '%b %d %Y at %H:%M:%S (%Z)'

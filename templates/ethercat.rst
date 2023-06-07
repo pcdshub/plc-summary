@@ -20,6 +20,8 @@
 EtherCAT Terminals by Project
 =============================
 
+This summary was generated |today|.
+
 {%- macro format_box(box, depth) %}
   {%- if not box.EtherCAT -%}
     (Not EtherCAT?)
@@ -57,6 +59,9 @@ EtherCAT Terminals by Project
 {% for project in projects.values() | sort(attribute="git_info.repo_slug") %}
 
 {{ section(project.git_info.repo_slug) }}
+
+Version: `{{ project.git_info.describe }} <{{ project.git_info.tree_urls[0] }}>`_
+Docs: `{{ project.git_info.repo_slugs[0] }} Docs <{{ project.git_info.doc_urls[0] }}>`_
 
 {% for box, children in get_box_hierarchy(project).items() %}
 

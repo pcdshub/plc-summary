@@ -36,6 +36,8 @@
 Dependencies
 ============
 
+This summary was generated |today|.
+
 By PLC Project
 --------------
 
