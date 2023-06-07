@@ -46,6 +46,8 @@ By PLC Project
 
 {{ subsection(project.git_info.repo_slug + ": " + plc.name) }}
 
+Version `{{ project.git_info.describe }} <{{ project.git_info.tree_urls[0] }}>`_ - `Documentation <{{ project.git_info.doc_urls[0] }}>`_
+
 {% set plc_versions = get_library_versions(plc) %}
 .. list-table:: {{ project.git_info.repo_slug }}: {{plc.name}}
     :header-rows: 1
