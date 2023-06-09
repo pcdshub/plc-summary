@@ -206,7 +206,7 @@ No NC axes.
 pcdshub/lcls-plc-dream-motion
 -----------------------------
 
-Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe481d7917529d8096716e4f5fb43bb45d7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `8541ae8 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/8541ae89ffaca70a82d97d701aa5d72583bbc048>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-motion Axes
     :header-rows: 1
@@ -215,9 +215,21 @@ Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe4
       - Axis Name
 
     * - Axis 1
-      - Axis 1
+      - M1
     * - Axis 2
-      - Axis 2
+      - M2
+    * - Axis 3
+      - M3
+    * - Axis 4
+      - M4
+    * - Axis 5
+      - M5
+    * - Axis 6
+      - M6_GSJN-MMS-X
+    * - Axis 7
+      - M7_GSJN-MMS-Y
+    * - Axis 8
+      - M8_GSJN-MMS-Z
 
 pcdshub/lcls-plc-dream-vac
 --------------------------

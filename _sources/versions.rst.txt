@@ -649,7 +649,7 @@ Version `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09
 pcdshub/lcls-plc-dream-motion: lcls_dream_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe481d7917529d8096716e4f5fb43bb45d7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `8541ae8 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/8541ae89ffaca70a82d97d701aa5d72583bbc048>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-motion: lcls_dream_motion
     :header-rows: 1
@@ -659,7 +659,7 @@ Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe4
       - Placeholder
       - Resolution
 
-    * - Tc2_NcDrive
+    * - Tc2_MC2
       -
 
       - ``*`` Beckhoff
@@ -686,6 +686,13 @@ Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe4
       - ``*`` Beckhoff
 
       -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
 
 
 pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
@@ -6803,6 +6810,13 @@ lcls-twincat-motion
 
 
 
+    * - pcdshub/lcls-plc-dream-motion:lcls_dream_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``*``, SLAC
+
 
     * - pcdshub/lcls-plc-bergmann-kohzu:lcls_plc_bergmann_kohzu
       - ``1.2.0``, SLAC
@@ -9505,6 +9519,13 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
+    * - pcdshub/lcls-plc-dream-motion:lcls_dream_motion
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
 
 
 
@@ -10047,83 +10068,6 @@ Tc2_ModbusSrv
       -
 
       -
-
-
-
-
-Tc2_NcDrive
-^^^^^^^^^^^
-
-.. list-table::
-    :header-rows: 1
-
-    * - Project
-      - Library
-      - Placeholder
-      - Resolution
-
-
-
-
-
-
-
-
-
-
-
-    * - pcdshub/lcls-plc-dream-motion:lcls_dream_motion
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
