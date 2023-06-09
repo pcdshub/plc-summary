@@ -1345,7 +1345,7 @@ Version `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09
 pcdshub/lcls-plc-dream-motion
 -----------------------------
 
-Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe481d7917529d8096716e4f5fb43bb45d7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `8541ae8 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/8541ae89ffaca70a82d97d701aa5d72583bbc048>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 
 #. **K4S08_DRL_02_E0_EK1200 [ID: 6]**
@@ -1372,68 +1372,68 @@ Version `a40b1fe <https://github.com/pcdshub/lcls-plc-dream-motion/tree/a40b1fe4
         #. **K4S08_DRL_05_E0_EK1100 [ID: 11]**
                 EK1100 EtherCAT Coupler (2A E-Bus)
 
-            #. K4S08_DRL_05_E1_EL7047 [ID: 12]
+            #. DRL_05_EL7047_E1 [ID: 12]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E2_EL5042 [ID: 13]
+            #. DRL_05_EL5042_E2 [ID: 13]
                     EL5042 2Ch. BiSS-C Encoder
 
 
 
-            #. K4S08_DRL_05_E3_EL7047 [ID: 14]
+            #. DRL_05_EL7047_E3 [ID: 14]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E4_EL7047 [ID: 15]
+            #. DRL_05_EL7047_E4 [ID: 15]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E5_EL5042 [ID: 16]
+            #. DRL_05_EL5042_E5 [ID: 16]
                     EL5042 2Ch. BiSS-C Encoder
 
 
 
-            #. K4S08_DRL_05_E6_EL7047 [ID: 17]
+            #. DRL_05_EL7047_E6 [ID: 17]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E7_EL7047 [ID: 18]
+            #. DRL_05_EL7047_E7 [ID: 18]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E8_EL5042 [ID: 19]
+            #. DRL_05_EL5042_E8 [ID: 19]
                     EL5042 2Ch. BiSS-C Encoder
 
 
 
-            #. K4S08_DRL_05_E9_EL7047 [ID: 20]
+            #. DRL_05_EL7047_E9 [ID: 20]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E10_EL7047 [ID: 21]
+            #. DRL_05_EL7047_E10 [ID: 21]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E11_EL5042 [ID: 22]
+            #. DRL_05_EL5042_E11 [ID: 22]
                     EL5042 2Ch. BiSS-C Encoder
 
 
 
-            #. K4S08_DRL_05_E12_EL7047 [ID: 23]
+            #. DRL_05_EL7047_E12 [ID: 23]
                     EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-            #. K4S08_DRL_05_E13_EL9011 [ID: 24]
-                    EL9011 End Terminal
+            #. DRL_05_EK1110_E13 [ID: 38]
+                    EK1110 EtherCAT extension
 
 
 
