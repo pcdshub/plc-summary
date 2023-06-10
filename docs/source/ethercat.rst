@@ -9510,7 +9510,7 @@ Version `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
-Version `84d9c23 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/84d9c238e6331f4533af2b07bdd194f329a66068>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2c1fdda9e3df84edd2c5a41e127df280>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 
 #. **B950-233-R03-DRL-01 (EK1200) [ID: 1]**
