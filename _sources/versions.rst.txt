@@ -2847,7 +2847,7 @@ Version `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc8
 pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.1-33-g45dc0fa <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/45dc0fab7733bd6010d5026ccb37ab3d37e05f3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
+Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/47272be512d1b2f6b1ed4862ac7085804cf97a3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
 
 .. list-table:: pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
     :header-rows: 1
@@ -2869,7 +2869,7 @@ Version `v1.0.1-33-g45dc0fa <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tre
 
       - ``*`` SLAC
 
-      - ``3.0.2`` SLAC
+      - ``3.0.14`` SLAC
 
     * - SysDir
       -
@@ -5346,7 +5346,7 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
 pcdshub/lcls-plc-txi-hxr-vac: txi_hxr_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `aff41d2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/aff41d252b2446d2f4ea106dd87fe5cbbd4a2aab>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-vac: txi_hxr_vac
     :header-rows: 1
@@ -7617,7 +7617,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.2``, SLAC
+      - ``3.0.14``, SLAC
 
 
 

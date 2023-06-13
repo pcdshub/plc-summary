@@ -79,7 +79,7 @@ This summary was generated |today|.
       - `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc845bb705a865e7b4d1c8454354c2ed5>`_
       - `pcdshub/lcls-plc-las-lps-01 Docs <https://pcdshub.github.io/lcls-plc-las-lps-01>`_
     * - `pcdshub/lcls-plc-lfe-arbiter <https://github.com/pcdshub/lcls-plc-lfe-arbiter>`_
-      - `v1.0.1-33-g45dc0fa <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/45dc0fab7733bd6010d5026ccb37ab3d37e05f3f>`_
+      - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/47272be512d1b2f6b1ed4862ac7085804cf97a3f>`_
       - `pcdshub/lcls-plc-lfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
     * - `pcdshub/lcls-plc-lfe-gem <https://github.com/pcdshub/lcls-plc-lfe-gem>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-gem/tree/b124fe8c768ceee75864086f0586bf78f9d0cf9f>`_
@@ -148,7 +148,7 @@ This summary was generated |today|.
       - `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6b7e345a7d65d122d44e32d3aba64de0b8e>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
-      - `aff41d2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/aff41d252b2446d2f4ea106dd87fe5cbbd4a2aab>`_
+      - `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_
       - `pcdshub/lcls-plc-txi-hxr-vac Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
     * - `pcdshub/lcls-plc-txi-optics <https://github.com/pcdshub/lcls-plc-txi-optics>`_
       - `88cf22a <https://github.com/pcdshub/lcls-plc-txi-optics/tree/88cf22ae91a2bf92643a5bcb140d4881dd718502>`_
