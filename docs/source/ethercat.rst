@@ -6889,7 +6889,7 @@ Version `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc8
 pcdshub/lcls-plc-lfe-arbiter
 ----------------------------
 
-Version `v1.0.1-33-g45dc0fa <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/45dc0fab7733bd6010d5026ccb37ab3d37e05f3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
+Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/47272be512d1b2f6b1ed4862ac7085804cf97a3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
 
 
 #. **Term 12 (EK1200) [ID: 5]**
@@ -6974,10 +6974,20 @@ Version `v1.0.1-33-g45dc0fa <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tre
     #. Term 28 (CU1128-B) [ID: 28]
             CU1128 6x EtherCAT junction - Dev A
 
+        #. **plc-txi-lfe-optics [ID: 36]**
+                  ( **SyncUnit=txi** )    EL6695 EtherCAT Bridge terminal (Secondary)
+
+
+
 
 
     #. Term 29 (CU1128-C) [ID: 29]
             CU1128 6x EtherCAT junction - Dev B
+
+        #. **plc-txi-lfe-vacuum [ID: 38]**
+                  ( **SyncUnit=txi** )    EL6692 EtherCAT Bridge terminal (Secondary)
+
+
 
         #. **plc-xrt-homs [ID: 1]**
                   ( **SyncUnit=alt** )    EL6695 EtherCAT Bridge terminal (Secondary)
@@ -13711,7 +13721,7 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `aff41d2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/aff41d252b2446d2f4ea106dd87fe5cbbd4a2aab>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
