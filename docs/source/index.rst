@@ -79,7 +79,7 @@ This summary was generated |today|.
       - `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc845bb705a865e7b4d1c8454354c2ed5>`_
       - `pcdshub/lcls-plc-las-lps-01 Docs <https://pcdshub.github.io/lcls-plc-las-lps-01>`_
     * - `pcdshub/lcls-plc-lfe-arbiter <https://github.com/pcdshub/lcls-plc-lfe-arbiter>`_
-      - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/47272be512d1b2f6b1ed4862ac7085804cf97a3f>`_
+      - `v1.0.1-42-g82651d0 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/82651d0f5ef50f8d7f063ba1b7b62452274807b5>`_
       - `pcdshub/lcls-plc-lfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
     * - `pcdshub/lcls-plc-lfe-gem <https://github.com/pcdshub/lcls-plc-lfe-gem>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-gem/tree/b124fe8c768ceee75864086f0586bf78f9d0cf9f>`_

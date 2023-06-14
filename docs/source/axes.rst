@@ -557,7 +557,7 @@ No NC axes.
 pcdshub/lcls-plc-lfe-arbiter
 ----------------------------
 
-Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/47272be512d1b2f6b1ed4862ac7085804cf97a3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
+Version `v1.0.1-42-g82651d0 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/82651d0f5ef50f8d7f063ba1b7b62452274807b5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
 
 No NC axes.
 
