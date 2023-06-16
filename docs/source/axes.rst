@@ -153,7 +153,7 @@ Version `059a55f <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/059a55f0
 pcdshub/lcls-plc-crixs-vac
 --------------------------
 
-Version `e839346 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/e8393465c17f6b63411b01802f7f2832f5435b61>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
+Version `dc91a7b <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
 
 No NC axes.
 
