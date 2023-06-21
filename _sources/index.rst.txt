@@ -79,7 +79,7 @@ This summary was generated |today|.
       - `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc845bb705a865e7b4d1c8454354c2ed5>`_
       - `pcdshub/lcls-plc-las-lps-01 Docs <https://pcdshub.github.io/lcls-plc-las-lps-01>`_
     * - `pcdshub/lcls-plc-lfe-arbiter <https://github.com/pcdshub/lcls-plc-lfe-arbiter>`_
-      - `v1.0.1-42-g82651d0 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/82651d0f5ef50f8d7f063ba1b7b62452274807b5>`_
+      - `v3.1.1~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/210c3a7bf0732119b6083732c4f86266006972e4>`_
       - `pcdshub/lcls-plc-lfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
     * - `pcdshub/lcls-plc-lfe-gem <https://github.com/pcdshub/lcls-plc-lfe-gem>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-gem/tree/b124fe8c768ceee75864086f0586bf78f9d0cf9f>`_
@@ -172,7 +172,7 @@ This summary was generated |today|.
       - `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3e9d2b767b54c389200670e290ccbc22be9752>`_
       - `pcdshub/lcls-plc-xpp-jjslit-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
-      - `v5.1.0~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/ee1a314466d481e9c81bf4f1b54010febdd546a3>`_
+      - `v5.2.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/b4a869247db9071af154b21f5c4bb471c97a7b3c>`_
       - `pcdshub/lcls-plc-xrt-optics Docs <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. toctree::

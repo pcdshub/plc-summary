@@ -557,7 +557,7 @@ No NC axes.
 pcdshub/lcls-plc-lfe-arbiter
 ----------------------------
 
-Version `v1.0.1-42-g82651d0 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/82651d0f5ef50f8d7f063ba1b7b62452274807b5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
+Version `v3.1.1~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/210c3a7bf0732119b6083732c4f86266006972e4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
 
 No NC axes.
 
@@ -1542,7 +1542,7 @@ Version `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3
 pcdshub/lcls-plc-xrt-optics
 ---------------------------
 
-Version `v5.1.0~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/ee1a314466d481e9c81bf4f1b54010febdd546a3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
+Version `v5.2.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/b4a869247db9071af154b21f5c4bb471c97a7b3c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-xrt-optics Axes
     :header-rows: 1
