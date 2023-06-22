@@ -1542,7 +1542,7 @@ Version `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3
 pcdshub/lcls-plc-xrt-optics
 ---------------------------
 
-Version `v5.2.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/b4a869247db9071af154b21f5c4bb471c97a7b3c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
+Version `v1.2.0-140-g0ed9c33 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/0ed9c331064b156401af82ddcc4646e886a37903>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-xrt-optics Axes
     :header-rows: 1
