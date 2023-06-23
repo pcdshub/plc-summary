@@ -319,7 +319,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v3.0.2-49-g52c8794 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/52c8794ca7e1a1a3a890c57a16b3a95eba8e8772>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-52-ga2caae1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a2caae1f044475a96844e0c15b21a80cab7f1913>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-motion Axes
     :header-rows: 1
