@@ -4065,7 +4065,7 @@ Version `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2
 pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2c1fdda9e3df84edd2c5a41e127df280>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `49110eb <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/49110ebf50b901e2286483f53848b2f5e9a07c37>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
     :header-rows: 1
@@ -4080,14 +4080,14 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
       - ``*`` SLAC
 
-      - ``2.4.2`` SLAC
+      - ``2.8.2`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``2.2.1`` SLAC
+      - ``3.0.14`` SLAC
 
     * - SysDir
       -
@@ -4129,7 +4129,7 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
       - ``*`` Beckhoff
 
-      - ``3.3.42.0`` Beckhoff
+      - ``*`` Beckhoff
 
     * - Tc2_Math
       -
@@ -4157,14 +4157,14 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
       - ``*`` Beckhoff
 
-      - ``3.3.3.0`` Beckhoff
+      - ``*`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      - ``3.4.24.0`` Beckhoff
+      - ``*`` Beckhoff
 
     * - Tc2_TcpIp
       -
@@ -4178,14 +4178,14 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
       -
 
-      - ``3.3.41.0`` Beckhoff
+      - ``3.3.46.0`` Beckhoff
 
     * - Tc3_EventLogger
       -
 
       -
 
-      - ``3.1.24.0`` Beckhoff
+      - ``3.1.28.0`` Beckhoff
 
     * - Tc3_JsonXml
       -
@@ -4199,7 +4199,7 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
       - ``*`` Beckhoff
 
-      - ``3.3.21.0`` Beckhoff
+      - ``*`` Beckhoff
 
     * - TcUnit
       -
@@ -4213,7 +4213,7 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
       - ``*`` SLAC
 
-      - ``1.6.0`` SLAC
+      - ``2.2.0`` SLAC
 
     * - lcls-twincat-optics
       -
@@ -4394,7 +4394,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics: rixs_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `endrun18-130-ge9557ed <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/e9557ed4303c0c765e2fdee01037add52dcc1419>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/26027836ff88b37f68bd3d01f228879da30d635a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics: rixs_optics
     :header-rows: 1
@@ -6440,7 +6440,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.4.2``, SLAC
+      - ``2.8.2``, SLAC
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -6930,7 +6930,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.6.0``, SLAC
+      - ``2.2.0``, SLAC
 
 
 
@@ -7826,7 +7826,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``2.2.1``, SLAC
+      - ``3.0.14``, SLAC
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -9667,7 +9667,7 @@ Tc2_MC2
 
       - ``*``, Beckhoff
 
-      - ``3.3.42.0``, Beckhoff
+      - ``*``, Beckhoff
 
 
 
@@ -10710,7 +10710,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      - ``3.3.3.0``, Beckhoff
+      - ``*``, Beckhoff
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -11263,7 +11263,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``3.4.24.0``, Beckhoff
+      - ``*``, Beckhoff
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -11963,7 +11963,7 @@ Tc2_Utilities
 
       -
 
-      - ``3.3.41.0``, Beckhoff
+      - ``3.3.46.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -12229,7 +12229,7 @@ Tc3_EventLogger
 
       -
 
-      - ``3.1.24.0``, Beckhoff
+      - ``3.1.28.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -13027,7 +13027,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      - ``3.3.21.0``, Beckhoff
+      - ``*``, Beckhoff
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC

@@ -843,7 +843,7 @@ No NC axes.
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
-Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2c1fdda9e3df84edd2c5a41e127df280>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `49110eb <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/49110ebf50b901e2286483f53848b2f5e9a07c37>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion Axes
     :header-rows: 1
@@ -922,11 +922,11 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
     * - Axis 35
       - M35 - Diff 2Theta
     * - Axis 36
-      - M36 - LAS IR VIS
+      - M36 - LAS VIS
     * - Axis 37
-      - M37 - LAS IR H
+      - M37 - LAS D H
     * - Axis 38
-      - M38 - LAS IR V
+      - M38 - LAS D V
     * - Axis 39
       - M39 - SDS X
     * - Axis 40
@@ -939,6 +939,8 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
       - M43 -SDS Linear Rotary
     * - Axis 44
       - M44 - SDS Linear Horizontal
+    * - Axis 45
+      - Axis 45 - Diff 2 Theta encoder axis
 
 pcdshub/lcls-plc-qrix-vac
 -------------------------
@@ -974,7 +976,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-130-ge9557ed <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/e9557ed4303c0c765e2fdee01037add52dcc1419>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/26027836ff88b37f68bd3d01f228879da30d635a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics Axes
     :header-rows: 1
