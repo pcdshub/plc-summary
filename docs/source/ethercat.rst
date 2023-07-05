@@ -9525,7 +9525,7 @@ Version `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
-Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2c1fdda9e3df84edd2c5a41e127df280>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `49110eb <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/49110ebf50b901e2286483f53848b2f5e9a07c37>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 
 #. **B950-233-R03-DRL-01 (EK1200) [ID: 1]**
@@ -9562,7 +9562,7 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 #. **B950-233-WALL-S-R01-DRL-01 [ID: 7]**
         EK1100 EtherCAT Coupler (2A E-Bus)
 
-    #. EL7047_02_01 [ID: 8]
+    #. EL7047_02_01 - SSL [ID: 8]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
@@ -9577,12 +9577,12 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
 
 
-    #. EL7031_02_04 [ID: 11]
+    #. EL7031_02_04 - LAS_VIS [ID: 11]
             EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
 
 
 
-    #. EL5042_02_05 [ID: 12]
+    #. EL5042_02_05 - LAS_VIS [ID: 12]
             EL5042 2Ch. BiSS-C Encoder
 
 
@@ -9592,17 +9592,17 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
 
 
-    #. EL7031_02_07 [ID: 14]
+    #. EL7031_02_07 - LAS_D_H [ID: 14]
             EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
 
 
 
-    #. EL5042_02_08 [ID: 15]
+    #. EL5042_02_08 - LAS_D_V-H [ID: 15]
             EL5042 2Ch. BiSS-C Encoder
 
 
 
-    #. EL7031_02_09 [ID: 17]
+    #. EL7031_02_09 - LAS_D_V [ID: 17]
             EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
 
 
@@ -9663,17 +9663,17 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 #. **B950-233-WALL-S-R01-DRL-02 [ID: 27]**
         EK1100 EtherCAT Coupler (2A E-Bus)
 
-    #. EL7047_03_01 [ID: 29]
+    #. EL7047_03_01-Diff-X [ID: 29]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-    #. EL5042_03_02 [ID: 30]
+    #. EL5042_03_02-Diff-X-Y [ID: 30]
             EL5042 2Ch. BiSS-C Encoder
 
 
 
-    #. EL7047_03_03 [ID: 31]
+    #. EL7047_03_03-Diff-Y [ID: 31]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
@@ -9683,17 +9683,17 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
 
 
-    #. EL7047_03_05 [ID: 33]
+    #. EL7047_03_05-Diff-Z [ID: 33]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-    #. EL5042_03_06 [ID: 34]
+    #. EL5042_03_06-DIff-Z-2ThetaY [ID: 34]
             EL5042 2Ch. BiSS-C Encoder
 
 
 
-    #. EL7047_03_07 [ID: 35]
+    #. EL7047_03_07-Diff 2 Theta Y [ID: 35]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
@@ -9713,17 +9713,17 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
 
 
-    #. EL7047_03_12 [ID: 40]
+    #. EL7047_03_12-Diff - Phi [ID: 40]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-    #. EL5042_03_13 [ID: 41]
+    #. EL5042_03_13 - Diff - Phi - Chi [ID: 41]
             EL5042 2Ch. BiSS-C Encoder
 
 
 
-    #. EL7047_03_14 [ID: 42]
+    #. EL7047_03_14-Diff - Chi [ID: 42]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
@@ -9733,17 +9733,17 @@ Version `dc07479 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/dc07479d2
 
 
 
-    #. EL7047_03_16 [ID: 44]
+    #. EL7047_03_16 - Diff - Theta [ID: 44]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
-    #. EL5042_03_17 [ID: 45]
+    #. EL5042_03_17 - Diff - Theta - 2Theta [ID: 45]
             EL5042 2Ch. BiSS-C Encoder
 
 
 
-    #. EL7047_03_18 [ID: 46]
+    #. EL7047_03_18 - Diff - 2Theta [ID: 46]
             EL7047 1Ch. Stepper motor output stage (50V, 5A)
 
 
@@ -10616,7 +10616,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-130-ge9557ed <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/e9557ed4303c0c765e2fdee01037add52dcc1419>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/26027836ff88b37f68bd3d01f228879da30d635a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
@@ -11399,7 +11399,7 @@ Version `endrun18-130-ge9557ed <https://github.com/pcdshub/lcls-plc-rixs-optics/
 
 
 
-                    #. Term 283 (EL3204) [ID: 283]
+                    #. EL3204_M4K2_CHIN [ID: 283]
                             EL3204 4Ch. Ana. Input PT100 (RTD)
 
 
