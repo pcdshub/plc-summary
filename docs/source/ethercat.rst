@@ -1723,7 +1723,7 @@ Version `9ca735d <https://github.com/pcdshub/lcls-plc-hxx-vonhamos/tree/9ca735de
 pcdshub/lcls-plc-kfe-arbiter
 ----------------------------
 
-Version `d7d342b <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/d7d342b5946e0c20919bdbb6a4f10f9742b48eda>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
+Version `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/198cc21985d31a7f3aba07aa309386cadff65575>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
 
 
 #. **E0 (EK1200) [ID: 5]**
@@ -1834,7 +1834,7 @@ Version `d7d342b <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/d7d342b59
 
 
         #. **plc-crix-vac [ID: 45]**
-                  ( **SyncUnit=rix** )    EL6695 EtherCAT Bridge terminal (Secondary)
+                  ( **SyncUnit=crix** )    EL6695 EtherCAT Bridge terminal (Secondary)
 
 
 
@@ -1844,7 +1844,7 @@ Version `d7d342b <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/d7d342b59
             CU1128 6x EtherCAT junction - Dev B
 
         #. **plc-crix-mot [ID: 47]**
-                  ( **SyncUnit=rix** )    EL6695 EtherCAT Bridge terminal (Secondary)
+                  ( **SyncUnit=crix** )    EL6695 EtherCAT Bridge terminal (Secondary)
 
 
 
