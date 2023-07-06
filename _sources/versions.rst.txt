@@ -852,7 +852,7 @@ Version `9ca735d <https://github.com/pcdshub/lcls-plc-hxx-vonhamos/tree/9ca735de
 pcdshub/lcls-plc-kfe-arbiter: KFEArbiter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `d7d342b <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/d7d342b5946e0c20919bdbb6a4f10f9742b48eda>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
+Version `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/198cc21985d31a7f3aba07aa309386cadff65575>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-arbiter: KFEArbiter
     :header-rows: 1
@@ -863,18 +863,18 @@ Version `d7d342b <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/d7d342b59
       - Resolution
 
     * - LCLS General
-      - ``2.4.2`` SLAC
+      - ``2.8.2`` SLAC
 
       -
 
-      - ``2.4.2`` SLAC
+      - ``2.8.2`` SLAC
 
     * - PMPS
-      - ``2.2.3`` SLAC
-
       -
 
-      -
+      - ``*`` SLAC
+
+      - ``3.0.14`` SLAC
 
     * - SysDir
       -
@@ -6241,11 +6241,11 @@ LCLS General
 
 
     * - pcdshub/lcls-plc-kfe-arbiter:KFEArbiter
-      - ``2.4.2``, SLAC
+      - ``2.8.2``, SLAC
 
       -
 
-      - ``2.4.2``, SLAC
+      - ``2.8.2``, SLAC
 
 
 
@@ -7648,11 +7648,11 @@ PMPS
 
 
     * - pcdshub/lcls-plc-kfe-arbiter:KFEArbiter
-      - ``2.2.3``, SLAC
-
       -
 
-      -
+      - ``*``, SLAC
+
+      - ``3.0.14``, SLAC
 
 
 
