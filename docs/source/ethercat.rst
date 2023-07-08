@@ -566,7 +566,7 @@ Version `059a55f <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/059a55f0
 pcdshub/lcls-plc-crixs-vac
 --------------------------
 
-Version `dc91a7b <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
+Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
@@ -2905,7 +2905,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v3.0.2-52-ga2caae1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a2caae1f044475a96844e0c15b21a80cab7f1913>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-54-ga0ee5ef <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a0ee5ef3fc1d7d0a6038192133dd7fccb1cf4e0b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**

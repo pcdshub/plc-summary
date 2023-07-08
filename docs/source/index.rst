@@ -16,7 +16,7 @@ This summary was generated |today|.
       - `059a55f <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/059a55f019bc246492ea808dd5d7d89b40d15853>`_
       - `pcdshub/lcls-plc-crixs-motion Docs <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
     * - `pcdshub/lcls-plc-crixs-vac <https://github.com/pcdshub/lcls-plc-crixs-vac>`_
-      - `dc91a7b <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_
+      - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_
       - `pcdshub/lcls-plc-crixs-vac Docs <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
     * - `pcdshub/lcls-plc-cvmi-motion <https://github.com/pcdshub/lcls-plc-cvmi-motion>`_
       - `v1.1.2-9-g7e73ab9 <https://github.com/pcdshub/lcls-plc-cvmi-motion/tree/7e73ab9cdcfb5b2c3df8b0bace2744612c79889e>`_
@@ -49,7 +49,7 @@ This summary was generated |today|.
       - `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/155468700c2bd93415f605df21cf1efb1397df0a>`_
       - `pcdshub/lcls-plc-kfe-gmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-gmd-vac>`_
     * - `pcdshub/lcls-plc-kfe-motion <https://github.com/pcdshub/lcls-plc-kfe-motion>`_
-      - `v3.0.2-52-ga2caae1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a2caae1f044475a96844e0c15b21a80cab7f1913>`_
+      - `v3.0.2-54-ga0ee5ef <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a0ee5ef3fc1d7d0a6038192133dd7fccb1cf4e0b>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
       - `2c89da1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/2c89da12acd24b3bede7914e0b1e7aa492316eb5>`_
