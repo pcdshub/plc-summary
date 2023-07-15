@@ -5039,7 +5039,7 @@ Version `c69e6d6 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/c69e6d61a
 pcdshub/lcls-plc-kfe-vac
 ------------------------
 
-Version `NOV2021-20-gfdefab8 <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/fdefab881c961372940ee4fdac6d8a67b42d7545>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
+Version `NOV2021-24-gdddf84b <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/dddf84bed5197c77a032126085ad3f63f9685404>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
 
 
 #. **EK1200_00_00 [ID: 1]**
@@ -11678,7 +11678,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-98-gf92708b <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/f92708be1cf6e947b7806ca18b4cfd607a751368>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-102-g155013e <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/155013e91ddebb180e10e2bea8ca8a575fb71769>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
@@ -14262,7 +14262,7 @@ Version `19dab08 <https://github.com/pcdshub/lcls-plc-txi-sxr-vac/tree/19dab0877
 pcdshub/lcls-plc-vhs-01
 -----------------------
 
-Version `8acfa02 <https://github.com/pcdshub/lcls-plc-vhs-01/tree/8acfa02633a189b0af15163553efc5055cf45bfb>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-vhs-01>`_
+Version `344d48a <https://github.com/pcdshub/lcls-plc-vhs-01/tree/344d48ab547d10ffd5066b54668023cebb71afe7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-vhs-01>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
