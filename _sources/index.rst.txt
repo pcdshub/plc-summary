@@ -133,7 +133,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-102-g155013e <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/155013e91ddebb180e10e2bea8ca8a575fb71769>`_
+      - `v1.1.0-104-g26b01a9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/26b01a950a048cbb5addadf60be074acc9db222b>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_
