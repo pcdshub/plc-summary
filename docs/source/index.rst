@@ -40,7 +40,7 @@ This summary was generated |today|.
       - `9ca735d <https://github.com/pcdshub/lcls-plc-hxx-vonhamos/tree/9ca735de40ab51642df1ebcd68efd0a0f1d079d5>`_
       - `pcdshub/lcls-plc-hxx-vonhamos Docs <https://pcdshub.github.io/lcls-plc-hxx-vonhamos>`_
     * - `pcdshub/lcls-plc-kfe-arbiter <https://github.com/pcdshub/lcls-plc-kfe-arbiter>`_
-      - `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/198cc21985d31a7f3aba07aa309386cadff65575>`_
+      - `b0955ab <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/b0955ab6f33ecb6c514f34b06ec351bc8e4f4861>`_
       - `pcdshub/lcls-plc-kfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
     * - `pcdshub/lcls-plc-kfe-gatt <https://github.com/pcdshub/lcls-plc-kfe-gatt>`_
       - `V0.2.0-49-gf1fea21 <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/f1fea21b8211cb063683a38791f8866963e12246>`_
