@@ -852,7 +852,7 @@ Version `9ca735d <https://github.com/pcdshub/lcls-plc-hxx-vonhamos/tree/9ca735de
 pcdshub/lcls-plc-kfe-arbiter: KFEArbiter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/198cc21985d31a7f3aba07aa309386cadff65575>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
+Version `b0955ab <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/b0955ab6f33ecb6c514f34b06ec351bc8e4f4861>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-arbiter: KFEArbiter
     :header-rows: 1
