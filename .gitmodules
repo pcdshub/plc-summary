@@ -376,3 +376,6 @@
 [submodule "support/lcls-twincat-sample-delivery"]
 	path = support/lcls-twincat-sample-delivery
 	url = https://github.com/pcdshub/lcls-twincat-sample-delivery
+[submodule "plcs/lcls-plc-polycapillary"]
+	path = plcs/lcls-plc-polycapillary
+	url = https://github.com/pcdshub/lcls-plc-polycapillary
