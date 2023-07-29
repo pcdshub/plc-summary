@@ -9522,6 +9522,183 @@ Version `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2
 
 
 
+pcdshub/lcls-plc-polycapillary
+------------------------------
+
+Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a1bd00b14cdddbf2b9496e693a3e477e00>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-polycapillary>`_
+
+
+#. **Term 1 (EK1200) [ID: 1]**
+        EK1200-5000 EtherCAT Power supply (2A E-Bus)
+
+    #. Term 2 (EL7031) [ID: 2]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. Term 3 (EL6070) [ID: 3]
+            EL6070 1Ch. Licensing-Terminal
+
+
+
+    #. Term 4 (EL7031) [ID: 4]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. Term 5 (EL1088) [ID: 5]
+            EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+    #. Term 6 (EL7031) [ID: 6]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. Term 7 (EL7031) [ID: 7]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. Term 8 (EL7031) [ID: 8]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. Term 9 (EL7031) [ID: 9]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. Term 10 (EL1088) [ID: 10]
+            EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+    #. Term 11 (EK1122) [ID: 11]
+            EK1122 2 port EtherCAT junction
+
+        #. **Term 12 (EK1100) [ID: 12]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. Term 13 (EL7031) [ID: 13]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 14 (EL7031) [ID: 14]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 15 (EL1088) [ID: 15]
+                    EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. Term 16 (EL7031) [ID: 16]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 17 (EL7031) [ID: 17]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 18 (EL7031) [ID: 18]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 19 (EL7031) [ID: 19]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 20 (EL1088) [ID: 20]
+                    EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. Term 21 (EL7031) [ID: 21]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 22 (EL7031) [ID: 22]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 23 (EL9410) [ID: 23]
+                    EL9410 E-Bus Power Supplier  (Diagnostics)
+
+
+
+            #. Term 24 (EL7031) [ID: 24]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 25 (EL7031) [ID: 25]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 26 (EL1088) [ID: 26]
+                    EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. Term 27 (EL7031) [ID: 27]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 28 (EL7031) [ID: 28]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 29 (EL7031) [ID: 29]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 30 (EL7031) [ID: 30]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 31 (EL1088) [ID: 31]
+                    EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. Term 32 (EL7031) [ID: 32]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 33 (EL7031) [ID: 33]
+                    EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+            #. Term 34 (EL9011) [ID: 34]
+                    EL9011 End Terminal
+
+
+
+
+
+
+
+
+
+
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 

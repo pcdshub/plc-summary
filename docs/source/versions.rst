@@ -4062,6 +4062,55 @@ Version `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2
       - ``1.1.0.0`` www.tcunit.org
 
 
+pcdshub/lcls-plc-polycapillary: plc-polycap-01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a1bd00b14cdddbf2b9496e693a3e477e00>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-polycapillary>`_
+
+.. list-table:: pcdshub/lcls-plc-polycapillary: plc-polycap-01
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      -
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      -
+
+
 pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -6158,6 +6207,7 @@ L2SI Vacuum Library
 
 
 
+
     * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
@@ -6310,6 +6360,14 @@ LCLS General
       - ``2.6.0``, SLAC
 
 
+
+
+    * - pcdshub/lcls-plc-polycapillary:plc-polycap-01
+      -
+
+      - ``*``, SLAC
+
+      -
 
 
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
@@ -6587,6 +6645,7 @@ LCLS Vacuum
       - ``*``, SLAC
 
       - ``*``, SLAC
+
 
 
 
@@ -6886,6 +6945,14 @@ lcls-twincat-motion
 
 
 
+    * - pcdshub/lcls-plc-polycapillary:plc-polycap-01
+      -
+
+      - ``*``, SLAC
+
+      -
+
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -7079,6 +7146,7 @@ lcls-twincat-optics
 
 
 
+
     * - pcdshub/lcls-plc-qrix-motion:PLC_QRIX_MOT
       -
 
@@ -7170,6 +7238,7 @@ lcls-twincat-physics
       - ``*``, SLAC
 
       - ``*``, SLAC
+
 
 
 
@@ -7313,6 +7382,7 @@ lcls2-cc-lib
 
 
 
+
     * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
@@ -7423,6 +7493,7 @@ LCLSVacuumLib
 
 
 
+
     * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``1.12.0``, SLAC
 
@@ -7469,6 +7540,7 @@ LCLSVacuumSerialDriverLib
       - ``*``, SLAC
 
       - ``*``, SLAC
+
 
 
 
@@ -7707,6 +7779,7 @@ PMPS
       - ``*``, SLAC
 
       - ``2.2.3``, SLAC
+
 
 
 
@@ -7978,6 +8051,7 @@ SysDir
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -8188,6 +8262,7 @@ SysFile
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -8387,6 +8462,7 @@ Tc2_BABasic
 
 
 
+
     * - pcdshub/lcls-plc-ftl-leak-det:plc_ftl_leak_det
       -
 
@@ -8466,6 +8542,7 @@ Tc2_ControllerToolbox
       - ``*``, Beckhoff
 
       -
+
 
 
 
@@ -8579,6 +8656,7 @@ Tc2_DataExchange
       -
 
       - ``3.3.5.0``, Beckhoff
+
 
 
 
@@ -8816,6 +8894,7 @@ Tc2_EtherCAT
       - ``*``, Beckhoff
 
       - ``3.3.12.0``, Beckhoff
+
 
 
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
@@ -9063,6 +9142,7 @@ Tc2_IoFunctions
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -9289,6 +9369,7 @@ Tc2_Math
       -
 
       - ``3.3.1.0``, Beckhoff
+
 
 
 
@@ -9567,6 +9648,7 @@ Tc2_MC2
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -9827,6 +9909,7 @@ Tc2_ModbusRTU
 
 
 
+
 Tc2_ModbusSrv
 ^^^^^^^^^^^^^
 
@@ -9905,6 +9988,7 @@ Tc2_ModbusSrv
       -
 
       - ``3.3.2.0``, Beckhoff
+
 
 
 
@@ -10171,6 +10255,7 @@ Tc2_SerialCom
       - ``*``, Beckhoff
 
       - ``3.3.10.0``, Beckhoff
+
 
 
 
@@ -10561,6 +10646,14 @@ Tc2_Standard
       - ``3.3.2.0``, Beckhoff
 
 
+    * - pcdshub/lcls-plc-polycapillary:plc-polycap-01
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -10899,6 +10992,7 @@ Tc2_SUPS
 
 
 
+
     * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.6.0``, Beckhoff
 
@@ -11112,6 +11206,14 @@ Tc2_System
       - ``*``, Beckhoff
 
       - ``3.4.24.0``, Beckhoff
+
+
+    * - pcdshub/lcls-plc-polycapillary:plc-polycap-01
+      -
+
+      - ``*``, Beckhoff
+
+      -
 
 
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
@@ -11479,6 +11581,7 @@ Tc2_SystemCX
 
 
 
+
 Tc2_TcpIp
 ^^^^^^^^^
 
@@ -11550,6 +11653,7 @@ Tc2_TcpIp
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -11832,6 +11936,7 @@ Tc2_Utilities
       - ``*``, Beckhoff
 
       -
+
 
 
 
@@ -12129,6 +12234,7 @@ Tc3_EventLogger
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -12333,6 +12439,7 @@ Tc3_Interfaces
 
 
 
+
     * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
       -
 
@@ -12523,6 +12630,7 @@ Tc3_JsonXml
       -
 
       - ``3.3.18.0``, Beckhoff
+
 
 
 
@@ -12876,6 +12984,14 @@ Tc3_Module
       - ``*``, Beckhoff
 
       - ``3.3.21.0``, Beckhoff
+
+
+    * - pcdshub/lcls-plc-polycapillary:plc-polycap-01
+      -
+
+      - ``*``, Beckhoff
+
+      -
 
 
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
@@ -13235,6 +13351,7 @@ TcUnit
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -13471,6 +13588,7 @@ UML Statechart Types
 
 
 
+
     * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
@@ -13491,6 +13609,7 @@ Vacuum System Simulator Library
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -13644,6 +13763,7 @@ VisuDialogs
 
 
 
+
     * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
@@ -13702,6 +13822,7 @@ VisuElemMeter
       - ``3.5.10.0``, System
 
       -
+
 
 
 
@@ -13822,6 +13943,7 @@ VisuElems
 
 
 
+
     * - pcdshub/lcls-plc-kfe-gmd-vac:plc_kfe_gmd_vac_sim
       -
 
@@ -13912,6 +14034,7 @@ VisuElemsSpecialControls
       - ``3.5.10.0``, System
 
       -
+
 
 
 
@@ -14032,6 +14155,7 @@ VisuElemsWinControls
 
 
 
+
     * - pcdshub/lcls-plc-kfe-gmd-vac:plc_kfe_gmd_vac_sim
       -
 
@@ -14122,6 +14246,7 @@ VisuElemTextEditor
       - ``3.5.10.10``, System
 
       -
+
 
 
 
@@ -14260,6 +14385,7 @@ visuinputs
 
 
 
+
     * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
@@ -14318,6 +14444,7 @@ VisuNativeControl
       - ``3.5.10.40``, System
 
       -
+
 
 
 
@@ -14442,6 +14569,7 @@ VisuSymbols
 
 
 
+
     * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       - ``3.5.10.0``, System
 
@@ -14481,6 +14609,7 @@ VisuUserMgmt
       - ``*``, System
 
       -
+
 
 
 
