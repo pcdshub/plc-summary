@@ -840,6 +840,62 @@ Version `5dbfe76 <https://github.com/pcdshub/lcls-plc-mrco-vac/tree/5dbfe760b7d2
 
 No NC axes.
 
+pcdshub/lcls-plc-polycapillary
+------------------------------
+
+Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a1bd00b14cdddbf2b9496e693a3e477e00>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-polycapillary>`_
+
+.. list-table:: pcdshub/lcls-plc-polycapillary Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1
+    * - Axis 2
+      - Axis 2
+    * - Axis 3
+      - Axis 3
+    * - Axis 4
+      - Axis 4
+    * - Axis 5
+      - Axis 5
+    * - Axis 6
+      - Axis 6
+    * - Axis 7
+      - Axis 7
+    * - Axis 8
+      - Axis 8
+    * - Axis 9
+      - Axis 9
+    * - Axis 10
+      - Axis 10
+    * - Axis 11
+      - Axis 11
+    * - Axis 12
+      - Axis 12
+    * - Axis 13
+      - Axis 13
+    * - Axis 14
+      - Axis 14
+    * - Axis 15
+      - Axis 15
+    * - Axis 16
+      - Axis 16
+    * - Axis 17
+      - Axis 17
+    * - Axis 18
+      - Axis 18
+    * - Axis 19
+      - Axis 19
+    * - Axis 20
+      - Axis 20
+    * - Axis 21
+      - Axis 21
+    * - Axis 22
+      - Axis 22
+
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
