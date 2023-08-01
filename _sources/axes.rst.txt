@@ -491,7 +491,7 @@ Version `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tr
 pcdshub/lcls-plc-lamp-motion
 ----------------------------
 
-Version `V1.0.3-11-ga178909 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/a1789098a3f8c8237166c87293feb39071461377>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
+Version `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd4249192a8b68188e98790476f63be22ab>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-lamp-motion Axes
     :header-rows: 1
