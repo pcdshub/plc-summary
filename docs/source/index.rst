@@ -64,7 +64,7 @@ This summary was generated |today|.
       - `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tree/f35324e0fd9c0302980717c79a50a1c921b8c84b>`_
       - `pcdshub/lcls-plc-kfe-xgmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-xgmd-vac>`_
     * - `pcdshub/lcls-plc-lamp-motion <https://github.com/pcdshub/lcls-plc-lamp-motion>`_
-      - `V1.0.3-11-ga178909 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/a1789098a3f8c8237166c87293feb39071461377>`_
+      - `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd4249192a8b68188e98790476f63be22ab>`_
       - `pcdshub/lcls-plc-lamp-motion Docs <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
     * - `pcdshub/lcls-plc-lamp-vac <https://github.com/pcdshub/lcls-plc-lamp-vac>`_
       - `v1.03 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/8cf7ee9aa15b1a9d21c6b5c94dfc968c71e67183>`_
