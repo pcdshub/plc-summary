@@ -28,7 +28,7 @@ This summary was generated |today|.
       - `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09d9fe24ed7567d43f966fe3835ab>`_
       - `pcdshub/lcls-plc-cxi-fms Docs <https://pcdshub.github.io/lcls-plc-cxi-fms>`_
     * - `pcdshub/lcls-plc-dream-motion <https://github.com/pcdshub/lcls-plc-dream-motion>`_
-      - `8541ae8 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/8541ae89ffaca70a82d97d701aa5d72583bbc048>`_
+      - `cceea20 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/cceea202b52984b42b67689128a0d8be65a0dc69>`_
       - `pcdshub/lcls-plc-dream-motion Docs <https://pcdshub.github.io/lcls-plc-dream-motion>`_
     * - `pcdshub/lcls-plc-dream-vac <https://github.com/pcdshub/lcls-plc-dream-vac>`_
       - `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e7101ced4152543f0af332be80fa68c8a>`_
@@ -136,7 +136,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-104-g26b01a9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/26b01a950a048cbb5addadf60be074acc9db222b>`_
+      - `v1.1.0-107-g4dc841a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/4dc841a7531a54075ea5a003d680d07a6942f26b>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_

@@ -206,7 +206,7 @@ No NC axes.
 pcdshub/lcls-plc-dream-motion
 -----------------------------
 
-Version `8541ae8 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/8541ae89ffaca70a82d97d701aa5d72583bbc048>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `cceea20 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/cceea202b52984b42b67689128a0d8be65a0dc69>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-motion Axes
     :header-rows: 1
@@ -1192,7 +1192,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-104-g26b01a9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/26b01a950a048cbb5addadf60be074acc9db222b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-107-g4dc841a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/4dc841a7531a54075ea5a003d680d07a6942f26b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
@@ -1284,6 +1284,10 @@ Version `v1.1.0-104-g26b01a9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
       - Thorlabs1
     * - Axis 42
       - Thorlabs2
+    * - Axis 43
+      - Thorlab-LenX
+    * - Axis 44
+      - FoilY
 
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
