@@ -4842,7 +4842,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion: tmo_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-107-g4dc841a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/4dc841a7531a54075ea5a003d680d07a6942f26b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-109-g82f9bd6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/82f9bd6f5af6445442258d77828e3fe0cd4b9096>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion: tmo_motion
     :header-rows: 1
@@ -4857,7 +4857,7 @@ Version `v1.1.0-107-g4dc841a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 
       - ``*`` SLAC
 
-      - ``2.7.0`` SLAC
+      - ``2.8.2`` SLAC
 
     * - PMPS
       -
@@ -4983,7 +4983,7 @@ Version `v1.1.0-107-g4dc841a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 
       - ``*`` SLAC
 
-      - ``2.0.1`` SLAC
+      - ``3.0.0`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -6554,7 +6554,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.7.0``, SLAC
+      - ``2.8.2``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
@@ -7032,7 +7032,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``2.0.1``, SLAC
+      - ``3.0.0``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
