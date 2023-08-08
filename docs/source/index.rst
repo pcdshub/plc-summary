@@ -49,7 +49,7 @@ This summary was generated |today|.
       - `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/155468700c2bd93415f605df21cf1efb1397df0a>`_
       - `pcdshub/lcls-plc-kfe-gmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-gmd-vac>`_
     * - `pcdshub/lcls-plc-kfe-motion <https://github.com/pcdshub/lcls-plc-kfe-motion>`_
-      - `v3.0.2-54-ga0ee5ef <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a0ee5ef3fc1d7d0a6038192133dd7fccb1cf4e0b>`_
+      - `v3.0.2-57-g3f4ebb5 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/3f4ebb5cf6794befdb7aa386117ccf490e7a29ce>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
       - `2c89da1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/2c89da12acd24b3bede7914e0b1e7aa492316eb5>`_
@@ -136,7 +136,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-109-g82f9bd6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/82f9bd6f5af6445442258d77828e3fe0cd4b9096>`_
+      - `v1.1.0-114-g57b8bd1 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/57b8bd17e78a85d928c1ce1530c87c2e1ef56061>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_

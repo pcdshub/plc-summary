@@ -1454,7 +1454,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion: kfe_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v3.0.2-54-ga0ee5ef <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a0ee5ef3fc1d7d0a6038192133dd7fccb1cf4e0b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-57-g3f4ebb5 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/3f4ebb5cf6794befdb7aa386117ccf490e7a29ce>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-motion: kfe_motion
     :header-rows: 1
@@ -4842,7 +4842,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion: tmo_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-109-g82f9bd6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/82f9bd6f5af6445442258d77828e3fe0cd4b9096>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-114-g57b8bd1 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/57b8bd17e78a85d928c1ce1530c87c2e1ef56061>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion: tmo_motion
     :header-rows: 1
@@ -4983,7 +4983,7 @@ Version `v1.1.0-109-g82f9bd6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 
       - ``*`` SLAC
 
-      - ``3.0.0`` SLAC
+      - ``3.0.1`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -7032,7 +7032,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``3.0.0``, SLAC
+      - ``3.0.1``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
