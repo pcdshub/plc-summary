@@ -319,7 +319,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v3.0.2-57-g3f4ebb5 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/3f4ebb5cf6794befdb7aa386117ccf490e7a29ce>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-59-g6303f17 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/6303f17c5550f9c88c2849a1720c76df91185c07>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-motion Axes
     :header-rows: 1
@@ -1192,7 +1192,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-114-g57b8bd1 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/57b8bd17e78a85d928c1ce1530c87c2e1ef56061>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-116-g0955b49 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/0955b4928f3ded6468fada583b8027dacb9cc003>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
