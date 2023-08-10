@@ -2905,7 +2905,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v3.0.2-59-g6303f17 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/6303f17c5550f9c88c2849a1720c76df91185c07>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-61-g1f98f90 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/1f98f90bfe5d6d43eea0490b2b3ec5e838b41a68>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
