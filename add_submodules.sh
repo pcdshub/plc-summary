@@ -63,8 +63,10 @@ add_submodule lcls-plc-mfx-be-lens-interlock
 add_submodule lcls-plc-mfx-motion
 add_submodule lcls-plc-mfx-spectrometer
 add_submodule lcls-plc-mini-powermeter-calib
+add_submodule lcls-plc-motion-test-stand
 add_submodule lcls-plc-mrco-motion
 add_submodule lcls-plc-mrco-vac
+add_submodule lcls-plc-polycapillary
 add_submodule lcls-plc-qrix-motion
 add_submodule lcls-plc-qrix-vac
 add_submodule lcls-plc-rix-sds-injector
