@@ -382,3 +382,6 @@
 [submodule "plcs/lcls-plc-motion-test-stand"]
 	path = plcs/lcls-plc-motion-test-stand
 	url = https://github.com/pcdshub/lcls-plc-motion-test-stand
+[submodule "support/lcls-twincat-rail"]
+	path = support/lcls-twincat-rail
+	url = https://github.com/pcdshub/lcls-twincat-rail
