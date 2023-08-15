@@ -3838,6 +3838,48 @@ Version `cbb42b9 <https://github.com/pcdshub/lcls-plc-mini-powermeter-calib/tree
       - ``1.1.3`` SLAC
 
 
+pcdshub/lcls-plc-motion-test-stand: Motion_Test_Stand
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Version `2cbcf23 <https://github.com/pcdshub/lcls-plc-motion-test-stand/tree/2cbcf23f1cb3a37048de3de0041dfbd75bdfd075>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-test-stand>`_
+
+.. list-table:: pcdshub/lcls-plc-motion-test-stand: Motion_Test_Stand
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      -
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      -
+
+
 pcdshub/lcls-plc-mrco-motion: mrco_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -4842,7 +4884,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion: tmo_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-116-g0955b49 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/0955b4928f3ded6468fada583b8027dacb9cc003>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-119-g7abc07c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7abc07c3deee075dea4e8db428c61bfcfc883c2c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion: tmo_motion
     :header-rows: 1
@@ -6208,6 +6250,7 @@ L2SI Vacuum Library
 
 
 
+
     * - pcdshub/lcls-plc-lfe-gem:plc_lfe_gem
       -
 
@@ -6358,6 +6401,7 @@ LCLS General
       - ``*``, SLAC
 
       - ``2.6.0``, SLAC
+
 
 
 
@@ -6659,6 +6703,7 @@ LCLS Vacuum
 
 
 
+
     * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
       -
 
@@ -6936,6 +6981,14 @@ lcls-twincat-motion
 
 
 
+    * - pcdshub/lcls-plc-motion-test-stand:Motion_Test_Stand
+      -
+
+      - ``*``, SLAC
+
+      -
+
+
     * - pcdshub/lcls-plc-mrco-motion:mrco_motion
       -
 
@@ -7147,6 +7200,7 @@ lcls-twincat-optics
 
 
 
+
     * - pcdshub/lcls-plc-qrix-motion:PLC_QRIX_MOT
       -
 
@@ -7238,6 +7292,7 @@ lcls-twincat-physics
       - ``*``, SLAC
 
       - ``*``, SLAC
+
 
 
 
@@ -7383,6 +7438,7 @@ lcls2-cc-lib
 
 
 
+
     * - pcdshub/lcls-plc-rixs-optics:rixs_optics
       -
 
@@ -7494,6 +7550,7 @@ LCLSVacuumLib
 
 
 
+
     * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       - ``1.12.0``, SLAC
 
@@ -7540,6 +7597,7 @@ LCLSVacuumSerialDriverLib
       - ``*``, SLAC
 
       - ``*``, SLAC
+
 
 
 
@@ -7779,6 +7837,7 @@ PMPS
       - ``*``, SLAC
 
       - ``2.2.3``, SLAC
+
 
 
 
@@ -8052,6 +8111,7 @@ SysDir
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -8263,6 +8323,7 @@ SysFile
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -8451,6 +8512,7 @@ Tc2_BABasic
 
 
 
+
     * - pcdshub/lcls-plc-las-lps-01:opcpa_lps_plc_01
       -
 
@@ -8542,6 +8604,7 @@ Tc2_ControllerToolbox
       - ``*``, Beckhoff
 
       -
+
 
 
 
@@ -8656,6 +8719,7 @@ Tc2_DataExchange
       -
 
       - ``3.3.5.0``, Beckhoff
+
 
 
 
@@ -8884,6 +8948,7 @@ Tc2_EtherCAT
       -
 
       - ``3.3.21.0``, Beckhoff
+
 
 
 
@@ -9143,6 +9208,7 @@ Tc2_IoFunctions
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -9369,6 +9435,7 @@ Tc2_Math
       -
 
       - ``3.3.1.0``, Beckhoff
+
 
 
 
@@ -9639,6 +9706,7 @@ Tc2_MC2
 
 
 
+
     * - pcdshub/lcls-plc-mrco-motion:mrco_motion
       -
 
@@ -9865,6 +9933,7 @@ Tc2_ModbusRTU
 
 
 
+
     * - pcdshub/lcls-plc-las-lps-01:opcpa_lps_plc_01
       -
 
@@ -9988,6 +10057,7 @@ Tc2_ModbusSrv
       -
 
       - ``3.3.2.0``, Beckhoff
+
 
 
 
@@ -10255,6 +10325,7 @@ Tc2_SerialCom
       - ``*``, Beckhoff
 
       - ``3.3.10.0``, Beckhoff
+
 
 
 
@@ -10630,6 +10701,14 @@ Tc2_Standard
       -
 
 
+    * - pcdshub/lcls-plc-motion-test-stand:Motion_Test_Stand
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
     * - pcdshub/lcls-plc-mrco-motion:mrco_motion
       -
 
@@ -10993,6 +11072,7 @@ Tc2_SUPS
 
 
 
+
     * - pcdshub/lcls-plc-sample-delivery-system:SDSPLC
       - ``3.3.6.0``, Beckhoff
 
@@ -11185,6 +11265,14 @@ Tc2_System
 
 
     * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
+    * - pcdshub/lcls-plc-motion-test-stand:Motion_Test_Stand
       -
 
       - ``*``, Beckhoff
@@ -11582,6 +11670,7 @@ Tc2_SystemCX
 
 
 
+
 Tc2_TcpIp
 ^^^^^^^^^
 
@@ -11653,6 +11742,7 @@ Tc2_TcpIp
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -11927,6 +12017,7 @@ Tc2_Utilities
       -
 
       - ``3.3.54.0``, Beckhoff
+
 
 
 
@@ -12235,6 +12326,7 @@ Tc3_EventLogger
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -12440,6 +12532,7 @@ Tc3_Interfaces
 
 
 
+
     * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
       -
 
@@ -12630,6 +12723,7 @@ Tc3_JsonXml
       -
 
       - ``3.3.18.0``, Beckhoff
+
 
 
 
@@ -12963,6 +13057,14 @@ Tc3_Module
 
 
     * - pcdshub/lcls-plc-mini-powermeter-calib:mini_powermeter_calib
+      -
+
+      - ``*``, Beckhoff
+
+      -
+
+
+    * - pcdshub/lcls-plc-motion-test-stand:Motion_Test_Stand
       -
 
       - ``*``, Beckhoff
@@ -13352,6 +13454,7 @@ TcUnit
 
 
 
+
     * - pcdshub/lcls-plc-crixs-motion:PLC_CRIX_MOT
       -
 
@@ -13589,6 +13692,7 @@ UML Statechart Types
 
 
 
+
     * - pcdshub/lcls-plc-xcs-per-vac:XCS_PER_PLC
       -
 
@@ -13609,6 +13713,7 @@ Vacuum System Simulator Library
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -13764,6 +13869,7 @@ VisuDialogs
 
 
 
+
     * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
@@ -13822,6 +13928,7 @@ VisuElemMeter
       - ``3.5.10.0``, System
 
       -
+
 
 
 
@@ -13944,6 +14051,7 @@ VisuElems
 
 
 
+
     * - pcdshub/lcls-plc-kfe-gmd-vac:plc_kfe_gmd_vac_sim
       -
 
@@ -14034,6 +14142,7 @@ VisuElemsSpecialControls
       - ``3.5.10.0``, System
 
       -
+
 
 
 
@@ -14156,6 +14265,7 @@ VisuElemsWinControls
 
 
 
+
     * - pcdshub/lcls-plc-kfe-gmd-vac:plc_kfe_gmd_vac_sim
       -
 
@@ -14246,6 +14356,7 @@ VisuElemTextEditor
       - ``3.5.10.10``, System
 
       -
+
 
 
 
@@ -14386,6 +14497,7 @@ visuinputs
 
 
 
+
     * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       -
 
@@ -14444,6 +14556,7 @@ VisuNativeControl
       - ``3.5.10.40``, System
 
       -
+
 
 
 
@@ -14570,6 +14683,7 @@ VisuSymbols
 
 
 
+
     * - pcdshub/lcls-plc-sxr-satt:SolidAttenuatorPLC
       - ``3.5.10.0``, System
 
@@ -14609,6 +14723,7 @@ VisuUserMgmt
       - ``*``, System
 
       -
+
 
 
 

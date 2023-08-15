@@ -105,6 +105,9 @@ This summary was generated |today|.
     * - `pcdshub/lcls-plc-mini-powermeter-calib <https://github.com/pcdshub/lcls-plc-mini-powermeter-calib>`_
       - `cbb42b9 <https://github.com/pcdshub/lcls-plc-mini-powermeter-calib/tree/cbb42b9d1ba25edfe35f2d257d115f5fe69897ce>`_
       - `pcdshub/lcls-plc-mini-powermeter-calib Docs <https://pcdshub.github.io/lcls-plc-mini-powermeter-calib>`_
+    * - `pcdshub/lcls-plc-motion-test-stand <https://github.com/pcdshub/lcls-plc-motion-test-stand>`_
+      - `2cbcf23 <https://github.com/pcdshub/lcls-plc-motion-test-stand/tree/2cbcf23f1cb3a37048de3de0041dfbd75bdfd075>`_
+      - `pcdshub/lcls-plc-motion-test-stand Docs <https://pcdshub.github.io/lcls-plc-motion-test-stand>`_
     * - `pcdshub/lcls-plc-mrco-motion <https://github.com/pcdshub/lcls-plc-mrco-motion>`_
       - `d21f111 <https://github.com/pcdshub/lcls-plc-mrco-motion/tree/d21f1116fb4ebc6eda6b848a8c3fb1ad93887121>`_
       - `pcdshub/lcls-plc-mrco-motion Docs <https://pcdshub.github.io/lcls-plc-mrco-motion>`_
@@ -136,7 +139,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-116-g0955b49 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/0955b4928f3ded6468fada583b8027dacb9cc003>`_
+      - `v1.1.0-119-g7abc07c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7abc07c3deee075dea4e8db428c61bfcfc883c2c>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_

@@ -809,6 +809,20 @@ Version `cbb42b9 <https://github.com/pcdshub/lcls-plc-mini-powermeter-calib/tree
 
 No NC axes.
 
+pcdshub/lcls-plc-motion-test-stand
+----------------------------------
+
+Version `2cbcf23 <https://github.com/pcdshub/lcls-plc-motion-test-stand/tree/2cbcf23f1cb3a37048de3de0041dfbd75bdfd075>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-test-stand>`_
+
+.. list-table:: pcdshub/lcls-plc-motion-test-stand Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1
+
 pcdshub/lcls-plc-mrco-motion
 ----------------------------
 
@@ -1192,7 +1206,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-116-g0955b49 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/0955b4928f3ded6468fada583b8027dacb9cc003>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-119-g7abc07c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7abc07c3deee075dea4e8db428c61bfcfc883c2c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1

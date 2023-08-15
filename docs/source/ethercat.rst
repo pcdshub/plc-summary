@@ -9313,6 +9313,43 @@ Version `cbb42b9 <https://github.com/pcdshub/lcls-plc-mini-powermeter-calib/tree
 
 
 
+pcdshub/lcls-plc-motion-test-stand
+----------------------------------
+
+Version `2cbcf23 <https://github.com/pcdshub/lcls-plc-motion-test-stand/tree/2cbcf23f1cb3a37048de3de0041dfbd75bdfd075>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-test-stand>`_
+
+
+#. **Term 1 (EK1200) [ID: 1]**
+        EK1200-5000 EtherCAT Power supply (2A E-Bus)
+
+    #. M1-EL7031 [ID: 2]
+            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
+
+
+
+    #. M1-EL1084 [ID: 3]
+            EL1084 4Ch. Dig. Input 24V, 3ms, negative
+
+
+
+    #. M1-EL5042 [ID: 4]
+            EL5042 2Ch. BiSS-C Encoder
+
+
+
+    #. M1-EL5021 [ID: 5]
+            EL5021 1Ch. Sin/Cos Encoder
+
+
+
+    #. M1-EL9011 [ID: 6]
+            EL9011 End Terminal
+
+
+
+
+
+
 pcdshub/lcls-plc-mrco-motion
 ----------------------------
 
@@ -11855,7 +11892,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-116-g0955b49 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/0955b4928f3ded6468fada583b8027dacb9cc003>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-119-g7abc07c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7abc07c3deee075dea4e8db428c61bfcfc883c2c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
