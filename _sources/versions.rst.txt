@@ -649,7 +649,7 @@ Version `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09
 pcdshub/lcls-plc-dream-motion: lcls_dream_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `cceea20 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/cceea202b52984b42b67689128a0d8be65a0dc69>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96fdeda91976c1932f6b86a6d2373f9051>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-motion: lcls_dream_motion
     :header-rows: 1
@@ -659,40 +659,47 @@ Version `cceea20 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/cceea202
       - Placeholder
       - Resolution
 
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.8.2`` SLAC
+
     * - Tc2_MC2
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.42.0`` Beckhoff
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.2.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.4.22.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.21.0`` Beckhoff
 
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``*`` SLAC
+      - ``2.2.0`` SLAC
 
 
 pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
@@ -1454,7 +1461,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion: kfe_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v3.0.2-61-g1f98f90 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/1f98f90bfe5d6d43eea0490b2b3ec5e838b41a68>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-63-ga8c6b79 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a8c6b790a4ecca4295fd95d06ffccc21d7960ecf>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-motion: kfe_motion
     :header-rows: 1
@@ -4884,7 +4891,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion: tmo_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-119-g7abc07c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7abc07c3deee075dea4e8db428c61bfcfc883c2c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-121-ge95b307 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/e95b30788102dda0f6851641c578d60170a916e2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion: tmo_motion
     :header-rows: 1
@@ -6350,6 +6357,13 @@ LCLS General
       - ``2.4.2``, SLAC
 
 
+    * - pcdshub/lcls-plc-dream-motion:lcls_dream_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``2.8.2``, SLAC
+
 
 
 
@@ -6919,7 +6933,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``2.2.0``, SLAC
 
 
     * - pcdshub/lcls-plc-bergmann-kohzu:lcls_plc_bergmann_kohzu
@@ -9672,7 +9686,7 @@ Tc2_MC2
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.42.0``, Beckhoff
 
 
 
@@ -10618,7 +10632,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.2.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-bergmann-kohzu:lcls_plc_bergmann_kohzu
@@ -11189,7 +11203,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.4.22.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-bergmann-kohzu:lcls_plc_bergmann_kohzu
@@ -12981,7 +12995,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.21.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-bergmann-kohzu:lcls_plc_bergmann_kohzu
