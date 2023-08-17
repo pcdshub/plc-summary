@@ -1345,28 +1345,28 @@ Version `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09
 pcdshub/lcls-plc-dream-motion
 -----------------------------
 
-Version `cceea20 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/cceea202b52984b42b67689128a0d8be65a0dc69>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96fdeda91976c1932f6b86a6d2373f9051>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 
-#. **K4S08_DRL_02_E0_EK1200 [ID: 6]**
+#. **B940_009_R19_DRL_02_E0_EK1200 [ID: 6]**
         EK1200-5000 EtherCAT Power supply (2A E-Bus)
 
-    #. Term 2 (EL2202) [ID: 2]
+    #. R19_DRL_02_EL2202 [ID: 2]
             EL2202 2Ch. Dig. Output 24V, 0.5A
 
 
 
-    #. K4S08_DRL_02_E2_EL6070 [ID: 8]
+    #. R19_DRL_02_E2_EL6070 [ID: 8]
             EL6070 1Ch. Licensing-Terminal
 
 
 
-    #. K4S08_DRL_02_E3_EL6695 [ID: 9]
+    #. R19_DRL_02_E3_EL6695 [ID: 9]
             EL6695 EtherCAT Bridge terminal (Primary)
 
 
 
-    #. K4S08_DRL_02_E4_EK1122 [ID: 10]
+    #. R19_DRL_02_E4_EK1122 [ID: 10]
             EK1122 2 port EtherCAT junction
 
         #. **K4S08_DRL_05_E0_EK1100 [ID: 11]**
@@ -1432,7 +1432,7 @@ Version `cceea20 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/cceea202
 
 
 
-            #. DRL_05_EK1110_E13 [ID: 38]
+            #. Term 37 (EK1110) [ID: 37]
                     EK1110 EtherCAT extension
 
 
@@ -2905,7 +2905,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v3.0.2-61-g1f98f90 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/1f98f90bfe5d6d43eea0490b2b3ec5e838b41a68>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-63-ga8c6b79 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a8c6b790a4ecca4295fd95d06ffccc21d7960ecf>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
@@ -11892,7 +11892,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-119-g7abc07c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7abc07c3deee075dea4e8db428c61bfcfc883c2c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-121-ge95b307 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/e95b30788102dda0f6851641c578d60170a916e2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
