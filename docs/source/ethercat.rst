@@ -1447,192 +1447,322 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
 pcdshub/lcls-plc-dream-vac
 --------------------------
 
-Version `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e7101ced4152543f0af332be80fa68c8a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
+Version `d54f66a <https://github.com/pcdshub/lcls-plc-dream-vac/tree/d54f66a9adaa0fa575d71595dc1332693c54c7b5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
 
 
-#. **R20_DRL_03_E0_EK1200 [ID: 40]**
+#. **R20_DRL_03_CX0_EK1200 [ID: 1]**
         EK1200-5000 EtherCAT Power supply (2A E-Bus)
 
-    #. R20_DRL_03_E1_EL2202 [ID: 41]
+    #. R20_DRL_03_E1_EL2202 [ID: 2]
             EL2202 2Ch. Dig. Output 24V, 0.5A
 
 
 
-    #. R20_DRL_03_E2_EL6070 [ID: 42]
+    #. R20_DRL_03_E2_EL6070 [ID: 3]
             EL6070 1Ch. Licensing-Terminal
 
 
 
-    #. R20_DRL_03_E3_EL9070 [ID: 1]
+    #. R20_DRL_03_E3_EL9070 [ID: 36]
             EL9070 Shield terminal
 
 
 
-    #. R20_DRL_03_E4_EL1004 [ID: 43]
+    #. R20_DRL_03_E4_EL1004 [ID: 4]
             EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-    #. R20_DRL_03_E5_EL1004 [ID: 44]
+    #. R20_DRL_03_E5_EL1004 [ID: 5]
             EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-    #. R20_DRL_03_E6_EL1004 [ID: 45]
+    #. R20_DRL_03_E6_EL1004 [ID: 6]
             EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-    #. R20_DRL_03_E7_EL2794 [ID: 46]
+    #. R20_DRL_03_E7_EL2794 [ID: 7]
             EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
 
 
 
-    #. R20_DRL_03_E8_EL2794 [ID: 47]
+    #. R20_DRL_03_E8_EL2794 [ID: 8]
             EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
 
 
 
-    #. R20_DRL_03_E09_EL6001 [ID: 49]
+    #. R20_DRL_03_E9_EL6001 [ID: 9]
             EL6001 Interface (RS232)
 
 
 
-    #. R20_DRL_03_E10_EL6001 [ID: 50]
+    #. R20_DRL_03_E10_EL6001 [ID: 10]
             EL6001 Interface (RS232)
 
 
 
-    #. R20_DRL_03_E11_EL6001 [ID: 51]
+    #. R20_DRL_03_E11_EL6001 [ID: 11]
             EL6001 Interface (RS232)
 
 
 
-    #. R20_DRL_03_E12_EL6001 [ID: 15]
+    #. R20_DRL_03_E12_EL6001 [ID: 12]
             EL6001 Interface (RS232)
 
 
 
-    #. R20_DRL_03_E14_EL9505 [ID: 53]
+    #. R20_DRL_03_E13_EL9505 [ID: 13]
             EL9505 Power supply terminal 5V
 
 
 
-    #. R20_DRL_03_E16_EL6695 [ID: 55]
+    #. R20_DRL_03_E14_EL6695 [ID: 14]
             EL6695 EtherCAT Bridge terminal (Primary)
 
 
 
-    #. R20_DRL_03_E17_EK1122 [ID: 56]
+    #. R20_DRL_03_E15_EL1122 [ID: 15]
             EK1122 2 port EtherCAT junction
 
-        #. **K4S8_DRL_03_EK1100 [ID: 57]**
+        #. **K4S8_DRL_03_EK0_EK1100 [ID: 16]**
                 EK1100 EtherCAT Coupler (2A E-Bus)
 
-            #. K4S8_DRL_03_E1_EL2624 [ID: 58]
+            #. K4S8_DRL_03_E1_EL2624 [ID: 17]
                     EL2624 4Ch. Relay Output, NO (125V AC / 30V DC)
 
 
 
-            #. K4S8_DRL_03_E2_EL9184 [ID: 2]
+            #. K4S8_DRL_03_E2_EL9184 [ID: 37]
                     EL9184 Potential Connection, 8 x 24V, 8 x Ground
 
 
 
-            #. K4S8_DRL_03_E3_EL9070 [ID: 3]
+            #. K4S8_DRL_03_E3_EL9070 [ID: 38]
                     EL9070 Shield terminal
 
 
 
-            #. K4S8_DRL_03_E4_EL1084 [ID: 59]
+            #. K4S8_DRL_03_E4_EL1084 [ID: 18]
                     EL1084 4Ch. Dig. Input 24V, 3ms, negative
 
 
 
-            #. K4S8_DRL_03_E5_EL3174-0002 [ID: 60]
+            #. K4S8_DRL_03_E5_EL3174-0002 [ID: 19]
                     EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
 
 
 
-            #. K4S8_DRL_03_E6_EL3174-0002 [ID: 61]
+            #. K4S8_DRL_03_E6_EL3174-0002 [ID: 20]
                     EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
 
 
 
-            #. K4S8_DRL_03_E7_EL9505 [ID: 62]
+            #. K4S8_DRL_03_E7_EL9505 [ID: 21]
                     EL9505 Power supply terminal 5V
 
 
 
-            #. K4S8_DRL_03_E8_EL1124 [ID: 63]
+            #. K4S8_DRL_03_E8_EL1124 [ID: 22]
                     EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
 
 
 
-            #. K4S8_DRL_03_E9_EL9410 [ID: 64]
+            #. K4S8_DRL_03_E9_EL9410 [ID: 23]
                     EL9410 E-Bus Power Supplier  (Diagnostics)
 
 
 
-            #. K4S8_DRL_03_E10_EL1004 [ID: 65]
+            #. K4S8_DRL_03_E10_EL1004 [ID: 24]
                     EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-            #. K4S8_DRL_03_E11_EL2004 [ID: 66]
+            #. K4S8_DRL_03_E11_EL2004 [ID: 25]
                     EL2004 4Ch. Dig. Output 24V, 0.5A
 
 
 
-            #. K4S8_DRL_03_E12_EL6021 [ID: 67]
+            #. K4S8_DRL_03_E12_EL6021 [ID: 26]
                     EL6021 Interface (RS422/485)
 
 
 
-            #. K4S8_DRL_03_E13_EL1004 [ID: 68]
+            #. K4S8_DRL_03_E13_EL1004 [ID: 27]
                     EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-            #. K4S8_DRL_03_E14_EL2004 [ID: 69]
+            #. K4S8_DRL_03_E14_EL2004 [ID: 28]
                     EL2004 4Ch. Dig. Output 24V, 0.5A
 
 
 
-            #. K4S8_DRL_03_E15_EL6021 [ID: 70]
+            #. K4S8_DRL_03_E15_EL6021 [ID: 29]
                     EL6021 Interface (RS422/485)
 
 
 
-            #. K4S8_DRL_03_E16_EL1004 [ID: 71]
+            #. K4S8_DRL_03_E16_EL1004 [ID: 30]
                     EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-            #. K4S8_DRL_03_E17_EL2004 [ID: 72]
+            #. K4S8_DRL_03_E17_EL2004 [ID: 31]
                     EL2004 4Ch. Dig. Output 24V, 0.5A
 
 
 
-            #. K4S8_DRL_03_E18_EL6021 [ID: 73]
+            #. K4S8_DRL_03_E18_EL6021 [ID: 32]
                     EL6021 Interface (RS422/485)
 
 
 
-            #. K4S8_DRL_03_E19_EL1004 [ID: 74]
+            #. K4S8_DRL_03_E19_EL1004 [ID: 33]
                     EL1004 4Ch. Dig. Input 24V, 3ms
 
 
 
-            #. K4S8_DRL_03_E20_EL2004 [ID: 75]
+            #. K4S8_DRL_03_E20_EL2004 [ID: 34]
                     EL2004 4Ch. Dig. Output 24V, 0.5A
 
 
 
-            #. K4S8_DRL_03_E20_EL9011 [ID: 76]
+            #. K4S8_DRL_03_E21_EL9011 [ID: 35]
                     EL9011 End Terminal
 
 
+
+
+
+        #. **K4S8_DRL_04_EK0_EK1100 [ID: 44]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. K4S8_DRL_04_E1_EL1004 [ID: 48]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_04_E2_EL2004 [ID: 49]
+                    EL2004 4Ch. Dig. Output 24V, 0.5A
+
+
+
+            #. K4S8_DRL_04_E3_EL1004 [ID: 50]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_04_E4_EL1004 [ID: 51]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_04_E5_EL2794 [ID: 52]
+                    EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+
+
+
+            #. K4S8_DRL_04_E6_EL6001 [ID: 53]
+                    EL6001 Interface (RS232)
+
+
+
+            #. K4S8_DRL_04_E7_EL6001 [ID: 54]
+                    EL6001 Interface (RS232)
+
+
+
+            #. K4S8_DRL_04_E8_EL6001 [ID: 55]
+                    EL6001 Interface (RS232)
+
+
+
+            #. K4S8_DRL_04_E9_EL1004 [ID: 56]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_04_E10_EL1004 [ID: 57]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. K4S8_DRL_04_E11_EL2004 [ID: 58]
+                    EL2004 4Ch. Dig. Output 24V, 0.5A
+
+
+
+            #. K4S8_DRL_04_E12_EL9184 [ID: 59]
+                    EL9184 Potential Connection, 8 x 24V, 8 x Ground
+
+
+
+            #. K4S8_DRL_04_E13_EL9070 [ID: 60]
+                    EL9070 Shield terminal
+
+
+
+            #. K4S8_DRL_04_E14_EL2624 [ID: 61]
+                    EL2624 4Ch. Relay Output, NO (125V AC / 30V DC)
+
+
+
+            #. K4S8_DRL_04_E15_EL1084 [ID: 62]
+                    EL1084 4Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. K4S8_DRL_04_E16_EL3174-0002 [ID: 63]
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+
+
+
+            #. K4S8_DRL_04_E17_EL9011 [ID: 64]
+                    EL9011 End Terminal
+
+
+
+
+
+        #. **K4S8_DRL_04_EP1_EP4374-0002 [ID: 43]**
+                EP4374-0002 2Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable; 2Ch. Ana. Output +/-10V, 0-10V, 0/4-20mA configurable
+
+
+
+        #. **K4S8_DRL_04_EP2_EP4374-0002 [ID: 42]**
+                EP4374-0002 2Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable; 2Ch. Ana. Output +/-10V, 0-10V, 0/4-20mA configurable
+
+
+
+        #. **R03_DRL_01_EK1100 [ID: 41]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. R03_DRL_01_E1_EL1004 [ID: 39]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. R03_DRL_01_E2_EL2624 [ID: 45]
+                    EL2624 4Ch. Relay Output, NO (125V AC / 30V DC)
+
+
+
+            #. R03_DRL_01_E3_EL3174-0002 [ID: 46]
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+
+
+
+            #. R03_DRL_01_E4_EK1110 [ID: 47]
+                    EK1110 EtherCAT extension
+
+
+
+
+
+        #. **WALL_E_PPL_01_EP1_EP4374-0002 [ID: 40]**
+                EP4374-0002 2Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable; 2Ch. Ana. Output +/-10V, 0-10V, 0/4-20mA configurable
 
 
 

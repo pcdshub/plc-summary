@@ -234,7 +234,7 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
 pcdshub/lcls-plc-dream-vac
 --------------------------
 
-Version `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e7101ced4152543f0af332be80fa68c8a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
+Version `d54f66a <https://github.com/pcdshub/lcls-plc-dream-vac/tree/d54f66a9adaa0fa575d71595dc1332693c54c7b5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
 
 No NC axes.
 
