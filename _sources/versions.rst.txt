@@ -705,7 +705,7 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
 pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e7101ced4152543f0af332be80fa68c8a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
+Version `d54f66a <https://github.com/pcdshub/lcls-plc-dream-vac/tree/d54f66a9adaa0fa575d71595dc1332693c54c7b5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
     :header-rows: 1
@@ -715,47 +715,61 @@ Version `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e710
       - Placeholder
       - Resolution
 
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.8.1`` SLAC
+
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``*`` SLAC
+      - ``2.3.1`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
+      - ``1.2.2`` SLAC
+
+    * - PMPS
+      -
+
       - ``*`` SLAC
+
+      - ``3.0.14`` SLAC
 
     * - Tc2_SerialCom
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.10.0`` Beckhoff
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.3.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.4.26.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.21.0`` Beckhoff
 
 
 pcdshub/lcls-plc-ftl-leak-det: plc_ftl_leak_det
@@ -6366,6 +6380,13 @@ LCLS General
 
 
 
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
+      -
+
+      - ``*``, SLAC
+
+      - ``2.8.1``, SLAC
+
 
 
     * - pcdshub/lcls-plc-lfe-motion:lfe_motion
@@ -6702,7 +6723,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``2.3.1``, SLAC
 
 
 
@@ -7610,7 +7631,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``1.2.2``, SLAC
 
 
 
@@ -7809,6 +7830,13 @@ PMPS
 
 
 
+
+    * - pcdshub/lcls-plc-dream-vac:lcls_plc_dream_vac
+      -
+
+      - ``*``, SLAC
+
+      - ``3.0.14``, SLAC
 
 
 
@@ -10310,7 +10338,7 @@ Tc2_SerialCom
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.10.0``, Beckhoff
 
 
 
@@ -10648,7 +10676,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.3.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-roving-spectrometer:lcls_plc_roving_spectrometer
@@ -11219,7 +11247,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.4.26.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-roving-spectrometer:lcls_plc_roving_spectrometer
@@ -13011,7 +13039,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.21.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-roving-spectrometer:lcls_plc_roving_spectrometer

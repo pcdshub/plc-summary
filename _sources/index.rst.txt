@@ -31,7 +31,7 @@ This summary was generated |today|.
       - `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96fdeda91976c1932f6b86a6d2373f9051>`_
       - `pcdshub/lcls-plc-dream-motion Docs <https://pcdshub.github.io/lcls-plc-dream-motion>`_
     * - `pcdshub/lcls-plc-dream-vac <https://github.com/pcdshub/lcls-plc-dream-vac>`_
-      - `69011a2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/69011a2e7101ced4152543f0af332be80fa68c8a>`_
+      - `d54f66a <https://github.com/pcdshub/lcls-plc-dream-vac/tree/d54f66a9adaa0fa575d71595dc1332693c54c7b5>`_
       - `pcdshub/lcls-plc-dream-vac Docs <https://pcdshub.github.io/lcls-plc-dream-vac>`_
     * - `pcdshub/lcls-plc-ftl-leak-det <https://github.com/pcdshub/lcls-plc-ftl-leak-det>`_
       - `63afcd5 <https://github.com/pcdshub/lcls-plc-ftl-leak-det/tree/63afcd5936db42afbabc863a93dcbe16c8d7e5b1>`_
