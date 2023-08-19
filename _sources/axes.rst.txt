@@ -234,7 +234,7 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
 pcdshub/lcls-plc-dream-vac
 --------------------------
 
-Version `d54f66a <https://github.com/pcdshub/lcls-plc-dream-vac/tree/d54f66a9adaa0fa575d71595dc1332693c54c7b5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
+Version `f2b2ce2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/f2b2ce28304c6ae8d0927b8f64ff245ca56302db>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
 
 No NC axes.
 
@@ -913,7 +913,7 @@ Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
-Version `49110eb <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/49110ebf50b901e2286483f53848b2f5e9a07c37>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `591ce20 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/591ce208e5a51d2fa93a27bdb788c50fbfe4deff>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion Axes
     :header-rows: 1
@@ -1206,7 +1206,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-121-ge95b307 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/e95b30788102dda0f6851641c578d60170a916e2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-125-g36921a6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/36921a6833c7f46d107c2bba5a14633b4073c6d4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
