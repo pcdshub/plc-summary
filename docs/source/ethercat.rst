@@ -89,7 +89,7 @@ Version `b4ba7a2 <https://github.com/pcdshub/lcls-plc-bergmann-kohzu/tree/b4ba7a
 pcdshub/lcls-plc-crixs-motion
 -----------------------------
 
-Version `059a55f <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/059a55f019bc246492ea808dd5d7d89b40d15853>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
+Version `8a67cdc <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8a67cdc486a3cf566c92197735aac115673e40d9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
 
 
 #. **Term 5 (EK1200) [ID: 5]**
@@ -375,40 +375,40 @@ Version `059a55f <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/059a55f0
                     EK1122 2 port EtherCAT junction
 
                 #. **CryoStat (EK1101) [ID: 84]**
-                        EK1101 EtherCAT Coupler (2A E-Bus, ID switch)
+                          ( **SyncUnit=Cryostat** )    EK1101 EtherCAT Coupler (2A E-Bus, ID switch)
 
                     #. Cryo X (EL7041) [ID: 85]
-                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=Cryostat** )    EL7041 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. Cryo X/Cryo Y Enc (EL5042) [ID: 86]
-                            EL5042 2Ch. BiSS-C Encoder
+                              ( **SyncUnit=Cryostat** )    EL5042 2Ch. BiSS-C Encoder
 
 
 
                     #. Cryo Y (EL7041) [ID: 87]
-                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=Cryostat** )    EL7041 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. Cryo Z (EL7041) [ID: 88]
-                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=Cryostat** )    EL7041 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. Cryo Z/Cryo rY Enc (EL5042) [ID: 89]
-                            EL5042 2Ch. BiSS-C Encoder
+                              ( **SyncUnit=Cryostat** )    EL5042 2Ch. BiSS-C Encoder
 
 
 
                     #. Cryo rY (EL7041) [ID: 90]
-                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                              ( **SyncUnit=Cryostat** )    EL7041 1Ch. Stepper motor output stage (50V, 5A)
 
 
 
                     #. Term 158 (EL4004) [ID: 158]
-                            EL4004 4Ch. Ana. Output 0-10V, 12bit
+                              ( **SyncUnit=Cryostat** )    EL4004 4Ch. Ana. Output 0-10V, 12bit
 
 
 
@@ -10960,7 +10960,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/26027836ff88b37f68bd3d01f228879da30d635a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-139-g9860ead <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9860eadbdf1982da542908046559918a0fb5cb38>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
@@ -11506,7 +11506,7 @@ Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/
 
 
                 #. **EK1100_MR3K2 [ID: 121]**
-                          (**Disabled**)    EK1100 EtherCAT Coupler (2A E-Bus)
+                        EK1100 EtherCAT Coupler (2A E-Bus)
 
                     #. EL5042_M3K2X_M3K2Y [ID: 122]
                             EL5042 2Ch. BiSS-C Encoder
@@ -11566,7 +11566,7 @@ Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/
 
 
                 #. **EK1100_MR3K2_BENDER [ID: 146]**
-                          (**Disabled**)    EK1100 EtherCAT Coupler (2A E-Bus)
+                        EK1100 EtherCAT Coupler (2A E-Bus)
 
                     #. EL5042_M3K2_BEND_USDS [ID: 148]
                             EL5042 2Ch. BiSS-C Encoder
@@ -12022,7 +12022,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-125-g36921a6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/36921a6833c7f46d107c2bba5a14633b4073c6d4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-128-g27c4924 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/27c4924220dac9d9c9e714d7a2726a45a2db6f4c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**

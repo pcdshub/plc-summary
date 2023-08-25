@@ -35,7 +35,7 @@ Version `b4ba7a2 <https://github.com/pcdshub/lcls-plc-bergmann-kohzu/tree/b4ba7a
 pcdshub/lcls-plc-crixs-motion
 -----------------------------
 
-Version `059a55f <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/059a55f019bc246492ea808dd5d7d89b40d15853>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
+Version `8a67cdc <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8a67cdc486a3cf566c92197735aac115673e40d9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-crixs-motion Axes
     :header-rows: 1
@@ -1046,7 +1046,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-134-g2602783 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/26027836ff88b37f68bd3d01f228879da30d635a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-139-g9860ead <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9860eadbdf1982da542908046559918a0fb5cb38>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics Axes
     :header-rows: 1
@@ -1206,7 +1206,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-125-g36921a6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/36921a6833c7f46d107c2bba5a14633b4073c6d4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-128-g27c4924 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/27c4924220dac9d9c9e714d7a2726a45a2db6f4c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
