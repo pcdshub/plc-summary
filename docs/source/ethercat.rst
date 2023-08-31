@@ -1853,7 +1853,7 @@ Version `9ca735d <https://github.com/pcdshub/lcls-plc-hxx-vonhamos/tree/9ca735de
 pcdshub/lcls-plc-kfe-arbiter
 ----------------------------
 
-Version `b0955ab <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/b0955ab6f33ecb6c514f34b06ec351bc8e4f4861>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
+Version `v2.4.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/ac8373478e48ec42b661ffb255676b2d4e77c7f7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
 
 
 #. **E0 (EK1200) [ID: 5]**
