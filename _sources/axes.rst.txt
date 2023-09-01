@@ -913,7 +913,7 @@ Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
-Version `3c7fed6 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/3c7fed6d7ecf96b1b1bc5e20d54e8d5deacf7b9b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `bb4a0da <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/bb4a0da1a81632c51dbf675b2121492be21b22bd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion Axes
     :header-rows: 1
