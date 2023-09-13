@@ -4905,7 +4905,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion: tmo_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-140-g119ffe6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/119ffe61990ba66648a735293ec7918210cc7828>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-144-g7189ce0 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/7189ce08668ad856ac609a19dd4bb069a5013524>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion: tmo_motion
     :header-rows: 1
@@ -5059,7 +5059,7 @@ Version `v1.1.0-140-g119ffe6 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics: tmo_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e531f47c1dd5648c66bbf786fa86ed28ef>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-123-g7ac9dcc <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/7ac9dcc0caaa880be4b5e2177ed1ae48ede9ab76>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-optics: tmo_optics
     :header-rows: 1
@@ -5070,7 +5070,7 @@ Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/fa9989e53
       - Resolution
 
     * - LCLS General
-      - ``2.8.1`` SLAC
+      - ``2.8.2`` SLAC
 
       -
 
@@ -6637,7 +6637,7 @@ LCLS General
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
-      - ``2.8.1``, SLAC
+      - ``2.8.2``, SLAC
 
       -
 
