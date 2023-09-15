@@ -5381,7 +5381,7 @@ Version `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727
 pcdshub/lcls-plc-txi-hxr-motion: txi_hxr_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6b7e345a7d65d122d44e32d3aba64de0b8e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-motion: txi_hxr_motion
     :header-rows: 1
@@ -5396,7 +5396,7 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
 
       - ``*`` SLAC
 
-      - ``2.7.0`` SLAC
+      - ``2.8.1`` SLAC
 
     * - PMPS
       -
@@ -5405,12 +5405,61 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
 
       - ``2.1.0`` SLAC
 
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.12.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
     * - Tc2_MC2
       -
 
       - ``*`` Beckhoff
 
+      - ``3.3.48.0`` Beckhoff
+
+    * - Tc2_Math
       -
+
+      -
+
+      - ``3.3.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.3.2.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.3.10.0`` Beckhoff
 
     * - Tc2_Standard
       -
@@ -5426,6 +5475,34 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
 
       - ``3.4.26.0`` Beckhoff
 
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.3.6.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.3.54.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.1.33.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.3.18.0`` Beckhoff
+
     * - Tc3_Module
       -
 
@@ -5433,19 +5510,26 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
 
       - ``3.3.21.0`` Beckhoff
 
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.2.0.0`` www.tcunit.org
+
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``1.5.1`` SLAC
+      - ``1.8.0`` SLAC
 
     * - lcls-twincat-physics
       -
 
       - ``*`` SLAC
 
-      -
+      - ``0.0.0`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -6650,7 +6734,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.7.0``, SLAC
+      - ``2.8.1``, SLAC
 
 
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
@@ -7223,7 +7307,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.5.1``, SLAC
+      - ``1.8.0``, SLAC
 
 
 
@@ -7451,7 +7535,7 @@ lcls-twincat-physics
 
       - ``*``, SLAC
 
-      -
+      - ``0.0.0``, SLAC
 
 
 
@@ -8345,6 +8429,13 @@ SysDir
 
 
 
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.5.12.0``, System
+
 
 
 
@@ -8570,6 +8661,13 @@ SysFile
 
 
 
+
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.5.9.0``, System
 
 
 
@@ -9223,6 +9321,13 @@ Tc2_EtherCAT
 
 
 
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.21.0``, Beckhoff
+
 
 
 
@@ -9463,6 +9568,13 @@ Tc2_IoFunctions
 
 
 
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.13.0``, Beckhoff
+
 
 
 
@@ -9688,6 +9800,13 @@ Tc2_Math
 
 
 
+
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.1.0``, Beckhoff
 
 
 
@@ -9990,7 +10109,7 @@ Tc2_MC2
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.48.0``, Beckhoff
 
 
 
@@ -10318,6 +10437,13 @@ Tc2_ModbusSrv
 
 
 
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.2.0``, Beckhoff
+
 
 
 
@@ -10613,6 +10739,13 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
+
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.10.0``, Beckhoff
 
 
 
@@ -12010,6 +12143,13 @@ Tc2_TcpIp
 
 
 
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.6.0``, Beckhoff
+
 
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
@@ -12334,6 +12474,13 @@ Tc2_Utilities
       -
 
 
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.54.0``, Beckhoff
+
 
 
     * - pcdshub/lcls-plc-txi-optics:txi_optics
@@ -12580,6 +12727,13 @@ Tc3_EventLogger
 
 
 
+
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.1.33.0``, Beckhoff
 
 
 
@@ -12983,6 +13137,13 @@ Tc3_JsonXml
 
 
 
+
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``3.3.18.0``, Beckhoff
 
 
 
@@ -13722,6 +13883,13 @@ TcUnit
       - ``1.0.1.0``, www.tcunit.org
 
 
+
+    * - pcdshub/lcls-plc-txi-hxr-motion:txi_hxr_motion
+      -
+
+      -
+
+      - ``1.2.0.0``, www.tcunit.org
 
 
 
