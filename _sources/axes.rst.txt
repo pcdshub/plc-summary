@@ -1403,7 +1403,7 @@ No NC axes.
 pcdshub/lcls-plc-txi-hxr-motion
 -------------------------------
 
-Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6b7e345a7d65d122d44e32d3aba64de0b8e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-motion Axes
     :header-rows: 1
@@ -1415,14 +1415,14 @@ Version `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6
       - Axis 1 AL1L1-L2SI-MMS
     * - Axis 2
       - Axis 2 IM2L1-PPM-MMS
-    * - Axis 50
-      - SL3L1-BOTTOM-M50
-    * - Axis 51
-      - SL3L1-TOP-M51
-    * - Axis 52
-      - SL3L1-NORTH-M52
-    * - Axis 53
-      - SL3L1-SOUTH-M53
+    * - Axis 3
+      - Axis 3 SL3L1-BOTTOM-MMS
+    * - Axis 4
+      - Axis 4 SL3L1-TOP-MMS
+    * - Axis 5
+      - Axis 5 SL3L1-NORTH-MMS
+    * - Axis 6
+      - Axis 6 SL3L1-SOUTH-MMS
 
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------

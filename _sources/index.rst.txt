@@ -151,7 +151,7 @@ This summary was generated |today|.
       - `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727eea7bbb48d255286257b1d024e23e9d42cad>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
-      - `6e01d6b <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/6e01d6b7e345a7d65d122d44e32d3aba64de0b8e>`_
+      - `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
       - `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_
