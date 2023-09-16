@@ -5840,7 +5840,7 @@ Version `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tr
 pcdshub/lcls-plc-lamp-motion
 ----------------------------
 
-Version `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd4249192a8b68188e98790476f63be22ab>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
+Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/8230051bb3f6ea1396f98599790547b11c6a4242>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
@@ -5972,7 +5972,72 @@ Version `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd424
 
 
 
-            #. VaccumMotion-EK1110 [ID: 27]
+            #. Term 56 (EL9410) [ID: 56]
+                    EL9410 E-Bus Power Supplier  (Diagnostics)
+
+
+
+            #. Term 57 (EL7041) [ID: 57]
+                    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. Term 58 (EL5021) [ID: 58]
+                    EL5021 1K. Sin/Cos Encoder
+
+
+
+            #. Term 59 (EL1084) [ID: 59]
+                    EL1084 4Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. Term 60 (EL7041) [ID: 60]
+                    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. Term 61 (EL5021) [ID: 61]
+                    EL5021 1Ch. Sin/Cos Encoder
+
+
+
+            #. Term 69 (EL9011) [ID: 69]
+                    EL9011 End Terminal
+
+
+
+
+
+        #. **TIXEL (EK1100) [ID: 62]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. TIXELX-EL7041 [ID: 63]
+                    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. TIXELXY_ENC-EL5042 [ID: 64]
+                    EL5042 2Ch. BiSS-C Encoder
+
+
+
+            #. TIXELY-EL7041 [ID: 65]
+                    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. TIXELZ-EL7041 [ID: 66]
+                    EL7041 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. TIXELZ_ENC-EL5042 [ID: 67]
+                    EL5042 2Ch. BiSS-C Encoder
+
+
+
+            #. Term 68 (EK1110) [ID: 68]
                     EK1110 EtherCAT extension
 
 
@@ -12859,7 +12924,7 @@ Version `v1.1.0-146-g71219d9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
 
-Version `R1.1.0-123-g7ac9dcc <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/7ac9dcc0caaa880be4b5e2177ed1ae48ede9ab76>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
@@ -13887,7 +13952,7 @@ Version `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727
 pcdshub/lcls-plc-txi-hxr-motion
 -------------------------------
 
-Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 
 #. **R17-DRL-03 (EK1200) [ID: 7]**
@@ -14061,6 +14126,27 @@ Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f5
 
     #. Term 33 (EK1110) [ID: 33]
             EK1110 EtherCAT extension
+
+
+
+
+
+
+#. **TXI Power Meter (EK1100) [ID: 68]**
+        EK1100 EtherCAT Coupler (2A E-Bus)
+
+    #. PM-EL3064 [ID: 69]
+            EL3064 4Ch. Ana. Input 0-10V
+
+
+
+    #. Term 70 (EK1122) [ID: 70]
+            EK1122 2 port EtherCAT junction
+
+
+
+    #. Term 74 (EL9011) [ID: 74]
+            EL9011 End Terminal
 
 
 

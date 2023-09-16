@@ -491,7 +491,7 @@ Version `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tr
 pcdshub/lcls-plc-lamp-motion
 ----------------------------
 
-Version `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd4249192a8b68188e98790476f63be22ab>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
+Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/8230051bb3f6ea1396f98599790547b11c6a4242>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-lamp-motion Axes
     :header-rows: 1
@@ -525,6 +525,12 @@ Version `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd424
       - FlowCellZ
     * - Axis 13
       - FlowCellTheta
+    * - Axis 14
+      - TIXELX
+    * - Axis 15
+      - TIXELY
+    * - Axis 16
+      - TIXELZ
 
 pcdshub/lcls-plc-lamp-vac
 -------------------------
@@ -1306,7 +1312,7 @@ Version `v1.1.0-146-g71219d9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
 
-Version `R1.1.0-123-g7ac9dcc <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/7ac9dcc0caaa880be4b5e2177ed1ae48ede9ab76>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-optics Axes
     :header-rows: 1
@@ -1403,7 +1409,7 @@ No NC axes.
 pcdshub/lcls-plc-txi-hxr-motion
 -------------------------------
 
-Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-motion Axes
     :header-rows: 1
@@ -1412,17 +1418,17 @@ Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f5
       - Axis Name
 
     * - Axis 1
-      - Axis 1 AL1L1-L2SI-MMS
+      - AL1L1-L2SI-MMS
     * - Axis 2
-      - Axis 2 IM2L1-PPM-MMS
+      - IM2L1-PPM-MMS
     * - Axis 3
-      - Axis 3 SL3L1-BOTTOM-MMS
+      - SL3L1-BOTTOM-MMS
     * - Axis 4
-      - Axis 4 SL3L1-TOP-MMS
+      - SL3L1-TOP-MMS
     * - Axis 5
-      - Axis 5 SL3L1-NORTH-MMS
+      - SL3L1-NORTH-MMS
     * - Axis 6
-      - Axis 6 SL3L1-SOUTH-MMS
+      - SL3L1-SOUTH-MMS
 
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------

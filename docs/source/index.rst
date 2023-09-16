@@ -64,7 +64,7 @@ This summary was generated |today|.
       - `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tree/f35324e0fd9c0302980717c79a50a1c921b8c84b>`_
       - `pcdshub/lcls-plc-kfe-xgmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-xgmd-vac>`_
     * - `pcdshub/lcls-plc-lamp-motion <https://github.com/pcdshub/lcls-plc-lamp-motion>`_
-      - `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd4249192a8b68188e98790476f63be22ab>`_
+      - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/8230051bb3f6ea1396f98599790547b11c6a4242>`_
       - `pcdshub/lcls-plc-lamp-motion Docs <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
     * - `pcdshub/lcls-plc-lamp-vac <https://github.com/pcdshub/lcls-plc-lamp-vac>`_
       - `v1.03 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/8cf7ee9aa15b1a9d21c6b5c94dfc968c71e67183>`_
@@ -142,7 +142,7 @@ This summary was generated |today|.
       - `v1.1.0-146-g71219d9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/71219d98d2b2404e9a173988607839216f14fb73>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
-      - `R1.1.0-123-g7ac9dcc <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/7ac9dcc0caaa880be4b5e2177ed1ae48ede9ab76>`_
+      - `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_
       - `pcdshub/lcls-plc-tmo-optics Docs <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
     * - `pcdshub/lcls-plc-tmo-spectrometer-motion <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion>`_
       - `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tree/e0f00f2e756d7fec514b8aa8a8a1b9768f69857e>`_
@@ -151,7 +151,7 @@ This summary was generated |today|.
       - `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727eea7bbb48d255286257b1d024e23e9d42cad>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
-      - `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_
+      - `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
       - `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_
