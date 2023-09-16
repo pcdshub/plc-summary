@@ -2350,7 +2350,7 @@ Version `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tr
 pcdshub/lcls-plc-lamp-motion: lamp_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `V1.0.4 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/73227bd4249192a8b68188e98790476f63be22ab>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
+Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/8230051bb3f6ea1396f98599790547b11c6a4242>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-lamp-motion: lamp_motion
     :header-rows: 1
@@ -5059,7 +5059,7 @@ Version `v1.1.0-146-g71219d9 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics: tmo_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `R1.1.0-123-g7ac9dcc <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/7ac9dcc0caaa880be4b5e2177ed1ae48ede9ab76>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-optics: tmo_optics
     :header-rows: 1
@@ -5074,7 +5074,7 @@ Version `R1.1.0-123-g7ac9dcc <https://github.com/pcdshub/lcls-plc-tmo-optics/tre
 
       -
 
-      -
+      - ``2.8.2`` SLAC
 
     * - PMPS
       - ``3.0.14`` SLAC
@@ -5381,7 +5381,7 @@ Version `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727
 pcdshub/lcls-plc-txi-hxr-motion: txi_hxr_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f585fbcef75bb1e610b0f3f25eb4fe147648>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-motion: txi_hxr_motion
     :header-rows: 1
@@ -5396,7 +5396,7 @@ Version `9e12f58 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/9e12f5
 
       - ``*`` SLAC
 
-      - ``2.8.1`` SLAC
+      - ``2.9.1`` SLAC
 
     * - PMPS
       -
@@ -6725,7 +6725,7 @@ LCLS General
 
       -
 
-      -
+      - ``2.8.2``, SLAC
 
 
 
@@ -6734,7 +6734,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.8.1``, SLAC
+      - ``2.9.1``, SLAC
 
 
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
