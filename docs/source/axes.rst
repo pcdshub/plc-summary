@@ -319,7 +319,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v3.0.2-63-ga8c6b79 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a8c6b790a4ecca4295fd95d06ffccc21d7960ecf>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v4.0.0~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/975b58f87ff7524945a80ae59961dd1ea00a247a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-motion Axes
     :header-rows: 1
@@ -757,7 +757,7 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c
 pcdshub/lcls-plc-lfe-vac
 ------------------------
 
-Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/3e84e32550dc3ffbe6a878074d6bc480df113d89>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
+Version `V.1.0.0-42-g36ba066 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/36ba066d1e77325fb3488f4e17ff039815c82ede>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
 
 No NC axes.
 
@@ -1052,7 +1052,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-139-g9860ead <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9860eadbdf1982da542908046559918a0fb5cb38>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-145-g65bbc30 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/65bbc3017f48d275edb9e7f8f83e4472de8ee336>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics Axes
     :header-rows: 1
@@ -1409,7 +1409,7 @@ No NC axes.
 pcdshub/lcls-plc-txi-hxr-motion
 -------------------------------
 
-Version `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-motion Axes
     :header-rows: 1
@@ -1433,7 +1433,7 @@ Version `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a9318
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `4117ebe <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/4117ebe6a6cb29fd1010c827f2bc5e5d138ab07b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 No NC axes.
 
