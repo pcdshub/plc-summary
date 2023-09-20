@@ -49,7 +49,7 @@ This summary was generated |today|.
       - `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/155468700c2bd93415f605df21cf1efb1397df0a>`_
       - `pcdshub/lcls-plc-kfe-gmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-gmd-vac>`_
     * - `pcdshub/lcls-plc-kfe-motion <https://github.com/pcdshub/lcls-plc-kfe-motion>`_
-      - `v3.0.2-63-ga8c6b79 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/a8c6b790a4ecca4295fd95d06ffccc21d7960ecf>`_
+      - `v4.0.0~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/975b58f87ff7524945a80ae59961dd1ea00a247a>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
       - `2c89da1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/2c89da12acd24b3bede7914e0b1e7aa492316eb5>`_
@@ -94,7 +94,7 @@ This summary was generated |today|.
       - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c60fcc826622021b813ddbfef08d733b>`_
       - `pcdshub/lcls-plc-lfe-optics Docs <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
     * - `pcdshub/lcls-plc-lfe-vac <https://github.com/pcdshub/lcls-plc-lfe-vac>`_
-      - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/3e84e32550dc3ffbe6a878074d6bc480df113d89>`_
+      - `V.1.0.0-42-g36ba066 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/36ba066d1e77325fb3488f4e17ff039815c82ede>`_
       - `pcdshub/lcls-plc-lfe-vac Docs <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
     * - `pcdshub/lcls-plc-mfx-be-lens-interlock <https://github.com/pcdshub/lcls-plc-mfx-be-lens-interlock>`_
       - `R1.0.1-7-g24af3a4 <https://github.com/pcdshub/lcls-plc-mfx-be-lens-interlock/tree/24af3a47630a94fa89e7440abc6cedbabe615954>`_
@@ -127,7 +127,7 @@ This summary was generated |today|.
       - `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335d3d02a08af0d4e803ec1fa12e74f2e5f172f>`_
       - `pcdshub/lcls-plc-rix-sds-injector Docs <https://pcdshub.github.io/lcls-plc-rix-sds-injector>`_
     * - `pcdshub/lcls-plc-rixs-optics <https://github.com/pcdshub/lcls-plc-rixs-optics>`_
-      - `endrun18-139-g9860ead <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9860eadbdf1982da542908046559918a0fb5cb38>`_
+      - `endrun18-145-g65bbc30 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/65bbc3017f48d275edb9e7f8f83e4472de8ee336>`_
       - `pcdshub/lcls-plc-rixs-optics Docs <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
     * - `pcdshub/lcls-plc-roving-spectrometer <https://github.com/pcdshub/lcls-plc-roving-spectrometer>`_
       - `v0.1.0-7-gefe2857 <https://github.com/pcdshub/lcls-plc-roving-spectrometer/tree/efe2857f39add982601ac2bda0900c58fd69f642>`_
@@ -151,10 +151,10 @@ This summary was generated |today|.
       - `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727eea7bbb48d255286257b1d024e23e9d42cad>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
-      - `7a93185 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_
+      - `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
-      - `dac6be2 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/dac6be23aca3729b9877b5e1230e5cfc12436c2b>`_
+      - `4117ebe <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/4117ebe6a6cb29fd1010c827f2bc5e5d138ab07b>`_
       - `pcdshub/lcls-plc-txi-hxr-vac Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
     * - `pcdshub/lcls-plc-txi-optics <https://github.com/pcdshub/lcls-plc-txi-optics>`_
       - `88cf22a <https://github.com/pcdshub/lcls-plc-txi-optics/tree/88cf22ae91a2bf92643a5bcb140d4881dd718502>`_
