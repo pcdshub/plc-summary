@@ -49,7 +49,7 @@ This summary was generated |today|.
       - `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/155468700c2bd93415f605df21cf1efb1397df0a>`_
       - `pcdshub/lcls-plc-kfe-gmd-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-gmd-vac>`_
     * - `pcdshub/lcls-plc-kfe-motion <https://github.com/pcdshub/lcls-plc-kfe-motion>`_
-      - `v4.0.0~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/975b58f87ff7524945a80ae59961dd1ea00a247a>`_
+      - `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f14295de6bda640d3e1a5b2365f5e713281>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
       - `2c89da1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/2c89da12acd24b3bede7914e0b1e7aa492316eb5>`_
@@ -94,7 +94,7 @@ This summary was generated |today|.
       - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c60fcc826622021b813ddbfef08d733b>`_
       - `pcdshub/lcls-plc-lfe-optics Docs <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
     * - `pcdshub/lcls-plc-lfe-vac <https://github.com/pcdshub/lcls-plc-lfe-vac>`_
-      - `V.1.0.0-42-g36ba066 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/36ba066d1e77325fb3488f4e17ff039815c82ede>`_
+      - `V.1.0.0-45-g4ddd441 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/4ddd4411666f27e5f6e6d4b2ac7ee82408af8495>`_
       - `pcdshub/lcls-plc-lfe-vac Docs <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
     * - `pcdshub/lcls-plc-mfx-be-lens-interlock <https://github.com/pcdshub/lcls-plc-mfx-be-lens-interlock>`_
       - `R1.0.1-7-g24af3a4 <https://github.com/pcdshub/lcls-plc-mfx-be-lens-interlock/tree/24af3a47630a94fa89e7440abc6cedbabe615954>`_
@@ -127,7 +127,7 @@ This summary was generated |today|.
       - `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335d3d02a08af0d4e803ec1fa12e74f2e5f172f>`_
       - `pcdshub/lcls-plc-rix-sds-injector Docs <https://pcdshub.github.io/lcls-plc-rix-sds-injector>`_
     * - `pcdshub/lcls-plc-rixs-optics <https://github.com/pcdshub/lcls-plc-rixs-optics>`_
-      - `endrun18-145-g65bbc30 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/65bbc3017f48d275edb9e7f8f83e4472de8ee336>`_
+      - `v2.2.3~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7e0a3ba94a33b53e9be3156cdc5a68167866855c>`_
       - `pcdshub/lcls-plc-rixs-optics Docs <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
     * - `pcdshub/lcls-plc-roving-spectrometer <https://github.com/pcdshub/lcls-plc-roving-spectrometer>`_
       - `v0.1.0-7-gefe2857 <https://github.com/pcdshub/lcls-plc-roving-spectrometer/tree/efe2857f39add982601ac2bda0900c58fd69f642>`_
