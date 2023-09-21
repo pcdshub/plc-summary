@@ -3035,7 +3035,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v4.0.0~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/975b58f87ff7524945a80ae59961dd1ea00a247a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f14295de6bda640d3e1a5b2365f5e713281>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
@@ -8638,7 +8638,7 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c
 pcdshub/lcls-plc-lfe-vac
 ------------------------
 
-Version `V.1.0.0-42-g36ba066 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/36ba066d1e77325fb3488f4e17ff039815c82ede>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
+Version `V.1.0.0-45-g4ddd441 <https://github.com/pcdshub/lcls-plc-lfe-vac/tree/4ddd4411666f27e5f6e6d4b2ac7ee82408af8495>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-vac>`_
 
 
 #. **PLC_E0_EK1200 [ID: 1]**
@@ -11025,7 +11025,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-145-g65bbc30 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/65bbc3017f48d275edb9e7f8f83e4472de8ee336>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `v2.2.3~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7e0a3ba94a33b53e9be3156cdc5a68167866855c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
