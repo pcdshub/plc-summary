@@ -92,6 +92,7 @@ add_submodule lcls-plc-tmo-optics
 add_submodule lcls-plc-tmo-spectrometer-motion
 add_submodule lcls-plc-tmo-vac
 add_submodule lcls-plc-txi-hxr-motion
+add_submodule lcls-plc-txi-hxr-optics
 add_submodule lcls-plc-txi-hxr-vac
 add_submodule lcls-plc-txi-optics
 add_submodule lcls-plc-txi-sxr-mot

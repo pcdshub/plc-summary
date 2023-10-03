@@ -385,3 +385,6 @@
 [submodule "support/lcls-twincat-rail"]
 	path = support/lcls-twincat-rail
 	url = https://github.com/pcdshub/lcls-twincat-rail
+[submodule "plcs/lcls-plc-txi-hxr-optics"]
+	path = plcs/lcls-plc-txi-hxr-optics
+	url = https://github.com/pcdshub/lcls-plc-txi-hxr-optics
