@@ -7089,7 +7089,7 @@ Version `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc8
 pcdshub/lcls-plc-lfe-arbiter
 ----------------------------
 
-Version `v3.1.1~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/210c3a7bf0732119b6083732c4f86266006972e4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
+Version `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/ba9f0be8fb226502dba4628d4b12c96b6ad29226>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
 
 
 #. **Term 12 (EK1200) [ID: 5]**
@@ -7184,8 +7184,8 @@ Version `v3.1.1~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/210c3a7b
     #. Term 29 (CU1128-C) [ID: 29]
             CU1128 6x EtherCAT junction - Dev B
 
-        #. **plc-txi-lfe-vacuum [ID: 38]**
-                  ( **SyncUnit=txi** )    EL6692 EtherCAT Bridge terminal (Secondary)
+        #. **plc-txi-lfe-vacuum [ID: 41]**
+                EL6695 EtherCAT Bridge terminal (Secondary)
 
 
 
@@ -13952,7 +13952,7 @@ Version `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727
 pcdshub/lcls-plc-txi-hxr-motion
 -------------------------------
 
-Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931853b1a74d71ec518dd52b9347461e517aa7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f014479834cc74e257e7b0340298eea29a33d77f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
 
 
 #. **R17-DRL-03 (EK1200) [ID: 7]**
@@ -13963,12 +13963,12 @@ Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931
 
 
 
-    #. Term 9 (EL2202) [ID: 9]
+    #. PMPS_FFO [ID: 9]
             EL2202 2Ch. Dig. Output 24V, 0.5A
 
 
 
-    #. Term 10 (EL6695) [ID: 10]
+    #. PMPS_PRE [ID: 10]
             EL6695 EtherCAT Bridge terminal (Primary)
 
 
@@ -14156,7 +14156,7 @@ Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/7a931
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `4117ebe <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/4117ebe6a6cb29fd1010c827f2bc5e5d138ab07b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `v1.0.2~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/30972674d15d77693d572d4296a0d1b8750825d8>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 
 #. **Term 1 (EK1200) [ID: 1]**
@@ -14227,7 +14227,7 @@ Version `4117ebe <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/4117ebe6a
 
 
 
-    #. E14 (EL2202) [ID: 15]
+    #. PMPS_FFO (EL2202) [ID: 15]
             EL2202 2Ch. Dig. Output 24V, 0.5A
 
 
@@ -14317,7 +14317,7 @@ Version `4117ebe <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/4117ebe6a
 
 
 
-    #. Term 66 (EL6695) [ID: 66]
+    #. PMPS PRE (EL6695) [ID: 66]
             EL6695 EtherCAT Bridge terminal (Primary)
 
 
