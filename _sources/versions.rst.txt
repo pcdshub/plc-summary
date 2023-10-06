@@ -5539,6 +5539,69 @@ Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f0144
       - ``1.1.2`` SLAC
 
 
+pcdshub/lcls-plc-txi-hxr-optics: txi_hxr_optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Version `f697023 <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/f697023e7e6ed14098fa6cf41d986c807fae9629>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
+
+.. list-table:: pcdshub/lcls-plc-txi-hxr-optics: txi_hxr_optics
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.0.14`` SLAC
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.3.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.26.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.21.0`` Beckhoff
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``1.8.0`` SLAC
+
+    * - lcls-twincat-optics
+      -
+
+      - ``*`` SLAC
+
+      - ``0.6.1`` SLAC
+
+    * - lcls-twincat-rail
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
+
 pcdshub/lcls-plc-txi-hxr-vac: txi_hxr_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -6385,6 +6448,7 @@ L2SI Vacuum Library
 
 
 
+
 LCLS General
 ^^^^^^^^^^^^
 
@@ -6737,6 +6801,7 @@ LCLS General
       - ``2.9.1``, SLAC
 
 
+
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
 
@@ -6949,6 +7014,7 @@ LCLS Vacuum
 
 
 
+
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
 
@@ -7044,6 +7110,7 @@ lcls-twincat-common-components
       - ``*``, SLAC
 
       - ``3.0.1``, SLAC
+
 
 
 
@@ -7317,6 +7384,14 @@ lcls-twincat-motion
       - ``1.8.0``, SLAC
 
 
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, SLAC
+
+      - ``1.8.0``, SLAC
+
+
 
     * - pcdshub/lcls-plc-txi-optics:txi_optics
       - ``2.0.1``, SLAC
@@ -7438,6 +7513,14 @@ lcls-twincat-optics
 
 
 
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, SLAC
+
+      - ``0.6.1``, SLAC
+
+
 
     * - pcdshub/lcls-plc-txi-optics:txi_optics
       - ``0.4.1``, SLAC
@@ -7543,6 +7626,87 @@ lcls-twincat-physics
       - ``*``, SLAC
 
       - ``0.0.0``, SLAC
+
+
+
+
+
+
+
+
+
+
+lcls-twincat-rail
+^^^^^^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, SLAC
+
+      - ``*``, SLAC
 
 
 
@@ -7673,6 +7837,7 @@ lcls2-cc-lib
 
 
 
+
 LCLSVacuumLib
 ^^^^^^^^^^^^^
 
@@ -7683,6 +7848,7 @@ LCLSVacuumLib
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -7898,6 +8064,7 @@ LCLSVacuumSerialDriverLib
       - ``*``, SLAC
 
       - ``1.2.2``, SLAC
+
 
 
 
@@ -8211,6 +8378,14 @@ PMPS
       - ``3.0.14``, SLAC
 
 
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, SLAC
+
+      - ``3.0.14``, SLAC
+
+
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
 
@@ -8435,6 +8610,7 @@ SysDir
       -
 
       - ``3.5.12.0``, System
+
 
 
 
@@ -8672,6 +8848,7 @@ SysFile
 
 
 
+
     * - pcdshub/lcls-plc-txi-sxr-vac:txi_sxr_vac
       -
 
@@ -8743,6 +8920,7 @@ Tc2_BABasic
       - ``*``, Beckhoff
 
       - ``*``, Beckhoff
+
 
 
 
@@ -8879,6 +9057,7 @@ Tc2_ControllerToolbox
       -
 
       - ``3.4.3.0``, Beckhoff
+
 
 
 
@@ -9037,6 +9216,7 @@ Tc2_DataExchange
       -
 
       - ``3.3.5.0``, Beckhoff
+
 
 
 
@@ -9331,6 +9511,7 @@ Tc2_EtherCAT
 
 
 
+
     * - pcdshub/lcls-plc-txi-sxr-vac:txi_sxr_vac
       -
 
@@ -9578,6 +9759,7 @@ Tc2_IoFunctions
 
 
 
+
     * - pcdshub/lcls-plc-txi-sxr-vac:txi_sxr_vac
       -
 
@@ -9807,6 +9989,7 @@ Tc2_Math
       -
 
       - ``3.3.1.0``, Beckhoff
+
 
 
 
@@ -10114,6 +10297,7 @@ Tc2_MC2
 
 
 
+
     * - pcdshub/lcls-plc-txi-sxr-vac:txi_sxr_vac
       -
 
@@ -10173,6 +10357,7 @@ Tc2_ModbusRTU
       - ``*``, Beckhoff
 
       - ``3.4.2.0``, Beckhoff
+
 
 
 
@@ -10443,6 +10628,7 @@ Tc2_ModbusSrv
       -
 
       - ``3.3.2.0``, Beckhoff
+
 
 
 
@@ -10746,6 +10932,7 @@ Tc2_SerialCom
       -
 
       - ``3.3.10.0``, Beckhoff
+
 
 
 
@@ -11212,6 +11399,14 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.3.3.0``, Beckhoff
+
+
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
 
@@ -11326,6 +11521,7 @@ Tc2_SUPS
       -
 
       -
+
 
 
 
@@ -11783,6 +11979,14 @@ Tc2_System
       - ``3.4.26.0``, Beckhoff
 
 
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.4.26.0``, Beckhoff
+
+
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
 
@@ -11863,6 +12067,7 @@ Tc2_SystemCX
       - ``*``, Beckhoff
 
       - ``3.3.6.0``, Beckhoff
+
 
 
 
@@ -12149,6 +12354,7 @@ Tc2_TcpIp
       -
 
       - ``3.3.6.0``, Beckhoff
+
 
 
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
@@ -12483,6 +12689,7 @@ Tc2_Utilities
 
 
 
+
     * - pcdshub/lcls-plc-txi-optics:txi_optics
       -
 
@@ -12738,6 +12945,7 @@ Tc3_EventLogger
 
 
 
+
     * - pcdshub/lcls-plc-txi-sxr-vac:txi_sxr_vac
       -
 
@@ -12889,6 +13097,7 @@ Tc3_Interfaces
       -
 
       - ``3.4.3.0``, Beckhoff
+
 
 
 
@@ -13144,6 +13353,7 @@ Tc3_JsonXml
       -
 
       - ``3.3.18.0``, Beckhoff
+
 
 
 
@@ -13603,6 +13813,14 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
+    * - pcdshub/lcls-plc-txi-hxr-optics:txi_hxr_optics
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.3.21.0``, Beckhoff
+
+
     * - pcdshub/lcls-plc-txi-hxr-vac:txi_hxr_vac
       -
 
@@ -13894,6 +14112,7 @@ TcUnit
 
 
 
+
     * - pcdshub/lcls-plc-txi-sxr-vac:txi_sxr_vac
       -
 
@@ -13916,6 +14135,7 @@ UML Statechart Types
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -14078,6 +14298,7 @@ Vacuum System Simulator Library
 
 
 
+
 VisuDialogs
 ^^^^^^^^^^^
 
@@ -14158,6 +14379,7 @@ VisuDialogs
       - ``*``, System
 
       -
+
 
 
 
@@ -14278,6 +14500,7 @@ VisuElemMeter
 
 
 
+
 VisuElems
 ^^^^^^^^^
 
@@ -14372,6 +14595,7 @@ VisuElems
       - ``3.5.13.40``, System
 
       - ``3.5.13.40``, System
+
 
 
 
@@ -14492,6 +14716,7 @@ VisuElemsSpecialControls
 
 
 
+
 VisuElemsWinControls
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -14586,6 +14811,7 @@ VisuElemsWinControls
       - ``3.5.13.20``, System
 
       -
+
 
 
 
@@ -14706,6 +14932,7 @@ VisuElemTextEditor
 
 
 
+
 visuinputs
 ^^^^^^^^^^
 
@@ -14786,6 +15013,7 @@ visuinputs
       - ``3.5.13.0``, system
 
       -
+
 
 
 
@@ -14906,6 +15134,7 @@ VisuNativeControl
 
 
 
+
 VisuSymbols
 ^^^^^^^^^^^
 
@@ -14972,6 +15201,7 @@ VisuSymbols
       -
 
       -
+
 
 
 
@@ -15058,6 +15288,7 @@ VisuUserMgmt
       - ``*``, System
 
       -
+
 
 
 
