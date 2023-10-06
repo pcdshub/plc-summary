@@ -14153,6 +14153,118 @@ Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f0144
 
 
 
+pcdshub/lcls-plc-txi-hxr-optics
+-------------------------------
+
+Version `f697023 <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/f697023e7e6ed14098fa6cf41d986c807fae9629>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
+
+
+#. **Term 1 (EK1200) [ID: 1]**
+        EK1200-5000 EtherCAT Power supply (2A E-Bus)
+
+    #. PMPS_FFO [ID: 2]
+            EL2202 2Ch. Dig. Output 24V, 0.5A
+
+
+
+    #. License (6070) [ID: 3]
+            EL6070 1Ch. Licensing-Terminal
+
+
+
+    #. PMPS_PRE [ID: 4]
+            EL6695 EtherCAT Bridge terminal (Primary)
+
+
+
+    #. PLC Junction 1 (EK1122) [ID: 5]
+            EK1122 2 port EtherCAT junction
+
+        #. **X1 MR1L1 (EK1100) [ID: 7]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. Term 8 (EL9410) [ID: 8]
+                    EL9410 E-Bus Power Supplier  (Diagnostics)
+
+
+
+            #. MR1L1-EL7047-E01 [ID: 9]
+                    EL7047 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. MR1L1-EL7047-E02 [ID: 10]
+                    EL7047 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. MR1L1-EL7047-E03 [ID: 11]
+                    EL7047 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. MR1L1-EL7047-E04 [ID: 12]
+                    EL7047 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. MR1L1-EL7047-E05 [ID: 13]
+                    EL7047 1Ch. Stepper motor output stage (50V, 5A)
+
+
+
+            #. MR1L1-EL5042-E06 [ID: 14]
+                    EL5042 2Ch. BiSS-C Encoder
+
+
+
+            #. MR1L1-EL5042-E07 [ID: 15]
+                    EL5042 2Ch. BiSS-C Encoder
+
+
+
+            #. MR1L1-EL5042-E08 [ID: 16]
+                    EL5042 2Ch. BiSS-C Encoder
+
+
+
+            #. MR1L1-EL6001-E09 [ID: 17]
+                    EL6001 Interface (RS232)
+
+
+
+            #. MR1L1-EL3054-E10 [ID: 18]
+                    EL3054 4Ch. Ana. Input 4-20mA
+
+
+
+            #. MR1L1-EL3202-0010-E11 [ID: 19]
+                    EL3202-0010 2Ch. Ana. Input PT100 (RTD), High Precision
+
+
+
+            #. MR1L1-EL3202-0010-E12 [ID: 20]
+                    EL3202-0010 2Ch. Ana. Input PT100 (RTD), High Precision
+
+
+
+            #. MR1L1-EL1004-E13 [ID: 33]
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+
+
+
+            #. Term 19 (EL9011) [ID: 21]
+                    EL9011 End Terminal
+
+
+
+
+
+
+
+
+
+
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 

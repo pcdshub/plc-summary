@@ -153,6 +153,9 @@ This summary was generated |today|.
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
       - `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f014479834cc74e257e7b0340298eea29a33d77f>`_
       - `pcdshub/lcls-plc-txi-hxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-motion>`_
+    * - `pcdshub/lcls-plc-txi-hxr-optics <https://github.com/pcdshub/lcls-plc-txi-hxr-optics>`_
+      - `f697023 <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/f697023e7e6ed14098fa6cf41d986c807fae9629>`_
+      - `pcdshub/lcls-plc-txi-hxr-optics Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
       - `v1.0.2~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/30972674d15d77693d572d4296a0d1b8750825d8>`_
       - `pcdshub/lcls-plc-txi-hxr-vac Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_

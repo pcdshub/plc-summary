@@ -1430,6 +1430,28 @@ Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f0144
     * - Axis 6
       - SL3L1-SOUTH-MMS
 
+pcdshub/lcls-plc-txi-hxr-optics
+-------------------------------
+
+Version `f697023 <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/f697023e7e6ed14098fa6cf41d986c807fae9629>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
+
+.. list-table:: pcdshub/lcls-plc-txi-hxr-optics Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1 MR1L1-HOMS-YUP
+    * - Axis 2
+      - Axis 2 MR1L1-HOMS-YDWN
+    * - Axis 3
+      - Axis 3 MR1L1-HOMS-XUP
+    * - Axis 4
+      - Axis 4 MR1L1-HOMS-XDWN
+    * - Axis 5
+      - Axis 5 MR1L1-HOMS-PITCH
+
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
