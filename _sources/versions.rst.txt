@@ -4905,7 +4905,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion: tmo_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-150-gece2e1a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/ece2e1a858692183c8a6788021d41d124132d6e9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-152-gc019b6e <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/c019b6ea923dc0502b75e431bd9374c237090672>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion: tmo_motion
     :header-rows: 1
@@ -5053,7 +5053,7 @@ Version `v1.1.0-150-gece2e1a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 
       - ``*`` SLAC
 
-      - ``4.0.2`` SLAC
+      - ``4.0.4`` SLAC
 
 
 pcdshub/lcls-plc-tmo-optics: tmo_optics
@@ -7357,7 +7357,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.0.2``, SLAC
+      - ``4.0.4``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
