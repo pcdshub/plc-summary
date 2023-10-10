@@ -52,7 +52,7 @@ This summary was generated |today|.
       - `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f14295de6bda640d3e1a5b2365f5e713281>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
-      - `2c89da1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/2c89da12acd24b3bede7914e0b1e7aa492316eb5>`_
+      - `c0860b3 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c0860b388d87d11f54ec6a4abd60c0a0953cc0e1>`_
       - `pcdshub/lcls-plc-kfe-rix-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-vac <https://github.com/pcdshub/lcls-plc-kfe-rix-vac>`_
       - `c69e6d6 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/c69e6d61abbd502a02f2da2b3d928ee1edb41ed1>`_
@@ -139,7 +139,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-152-gc019b6e <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/c019b6ea923dc0502b75e431bd9374c237090672>`_
+      - `v1.1.0-154-gb8942f0 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/b8942f0359f47f154c5163fd440ee01ff63e3e38>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_
@@ -181,7 +181,7 @@ This summary was generated |today|.
       - `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3e9d2b767b54c389200670e290ccbc22be9752>`_
       - `pcdshub/lcls-plc-xpp-jjslit-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
-      - `v1.2.0-140-g0ed9c33 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/0ed9c331064b156401af82ddcc4646e886a37903>`_
+      - `v1.2.0-145-g9ae5e71 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/9ae5e71becab2a78f6fdcdb944d426cb1cc6f190>`_
       - `pcdshub/lcls-plc-xrt-optics Docs <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. toctree::

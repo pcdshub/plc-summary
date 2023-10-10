@@ -397,7 +397,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
 pcdshub/lcls-plc-kfe-rix-motion
 -------------------------------
 
-Version `2c89da1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/2c89da12acd24b3bede7914e0b1e7aa492316eb5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `c0860b3 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c0860b388d87d11f54ec6a4abd60c0a0953cc0e1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-rix-motion Axes
     :header-rows: 1
@@ -1212,7 +1212,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-152-gc019b6e <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/c019b6ea923dc0502b75e431bd9374c237090672>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-154-gb8942f0 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/b8942f0359f47f154c5163fd440ee01ff63e3e38>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
@@ -1646,7 +1646,7 @@ Version `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3
 pcdshub/lcls-plc-xrt-optics
 ---------------------------
 
-Version `v1.2.0-140-g0ed9c33 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/0ed9c331064b156401af82ddcc4646e886a37903>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
+Version `v1.2.0-145-g9ae5e71 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/9ae5e71becab2a78f6fdcdb944d426cb1cc6f190>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-xrt-optics Axes
     :header-rows: 1
