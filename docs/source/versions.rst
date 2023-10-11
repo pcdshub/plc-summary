@@ -6207,7 +6207,7 @@ Version `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3
 pcdshub/lcls-plc-xrt-optics: HOMS_XRT_PLC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.2.0-145-g9ae5e71 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/9ae5e71becab2a78f6fdcdb944d426cb1cc6f190>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
+Version `v5.3.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/9ae5e71becab2a78f6fdcdb944d426cb1cc6f190>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-xrt-optics: HOMS_XRT_PLC
     :header-rows: 1
