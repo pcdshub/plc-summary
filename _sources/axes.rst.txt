@@ -1212,7 +1212,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-154-gb8942f0 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/b8942f0359f47f154c5163fd440ee01ff63e3e38>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-156-g140353a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/140353a11f98b75d06f0b37311b882b727b7acd4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
