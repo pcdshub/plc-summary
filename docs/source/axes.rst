@@ -397,7 +397,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
 pcdshub/lcls-plc-kfe-rix-motion
 -------------------------------
 
-Version `c0860b3 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c0860b388d87d11f54ec6a4abd60c0a0953cc0e1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/8b4b710e295219ce9c80e3d2aa6718f0a8c75fd2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-rix-motion Axes
     :header-rows: 1
