@@ -1636,7 +1636,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
 pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `c0860b3 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c0860b388d87d11f54ec6a4abd60c0a0953cc0e1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/8b4b710e295219ce9c80e3d2aa6718f0a8c75fd2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
     :header-rows: 1
@@ -1651,7 +1651,7 @@ Version `c0860b3 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c0860b
 
       - ``*`` SLAC
 
-      - ``2.7.0`` SLAC
+      - ``2.9.1`` SLAC
 
     * - PMPS
       -
@@ -1777,21 +1777,21 @@ Version `c0860b3 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c0860b
 
       - ``*`` SLAC
 
-      - ``2.0.1`` SLAC
+      - ``4.0.4`` SLAC
 
     * - lcls-twincat-physics
       -
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
+      - ``0.1.0`` SLAC
 
     * - lcls2-cc-lib
       -
 
       - ``*`` SLAC
 
-      - ``2.0.0`` SLAC
+      - ``2.1.0`` SLAC
 
 
 pcdshub/lcls-plc-kfe-rix-vac: plc_kfe_rix_vac
@@ -6499,7 +6499,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.7.0``, SLAC
+      - ``2.9.1``, SLAC
 
 
     * - pcdshub/lcls-plc-kfe-arbiter:KFEArbiter
@@ -7173,7 +7173,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``2.0.1``, SLAC
+      - ``4.0.4``, SLAC
 
 
 
@@ -7564,7 +7564,7 @@ lcls-twincat-physics
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``0.1.0``, SLAC
 
 
 
@@ -7738,7 +7738,7 @@ lcls2-cc-lib
 
       - ``*``, SLAC
 
-      - ``2.0.0``, SLAC
+      - ``2.1.0``, SLAC
 
 
 
