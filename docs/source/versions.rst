@@ -4506,7 +4506,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics: rixs_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.2.3~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7e0a3ba94a33b53e9be3156cdc5a68167866855c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `v2.2.4~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/0260caad5aa5c9da25ed159f69f9340681bbe01c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics: rixs_optics
     :header-rows: 1
@@ -4521,7 +4521,7 @@ Version `v2.2.3~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7e0a3ba9
 
       - ``*`` SLAC
 
-      - ``2.7.0`` SLAC
+      - ``2.10.0`` SLAC
 
     * - PMPS
       -
@@ -6749,7 +6749,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.7.0``, SLAC
+      - ``2.10.0``, SLAC
 
 
     * - pcdshub/lcls-plc-rix-sds-injector:sdsinjector
