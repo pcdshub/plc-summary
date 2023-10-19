@@ -89,7 +89,7 @@ Version `b4ba7a2 <https://github.com/pcdshub/lcls-plc-bergmann-kohzu/tree/b4ba7a
 pcdshub/lcls-plc-crixs-motion
 -----------------------------
 
-Version `8a67cdc <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8a67cdc486a3cf566c92197735aac115673e40d9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
+Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7ead9251468abb1c1ed2e7bb738b6fbab6d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
 
 
 #. **Term 5 (EK1200) [ID: 5]**
@@ -407,8 +407,13 @@ Version `8a67cdc <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8a67cdc4
 
 
 
-                    #. Term 158 (EL4004) [ID: 158]
+                    #. FiberLite (EL4004) [ID: 158]
                               ( **SyncUnit=Cryostat** )    EL4004 4Ch. Ana. Output 0-10V, 12bit
+
+
+
+                    #. Term 142 (EL2502) [ID: 142]
+                            EL2502 2Ch. PWM output, 24V
 
 
 
@@ -12087,7 +12092,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-156-g140353a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/140353a11f98b75d06f0b37311b882b727b7acd4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-160-ge34079d <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/e34079d3e275a9049a854149cb933102c470761e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**

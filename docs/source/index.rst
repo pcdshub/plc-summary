@@ -13,7 +13,7 @@ This summary was generated |today|.
       - `b4ba7a2 <https://github.com/pcdshub/lcls-plc-bergmann-kohzu/tree/b4ba7a2b2ad6e14db0fb9639d23d6271eb7e25f0>`_
       - `pcdshub/lcls-plc-bergmann-kohzu Docs <https://pcdshub.github.io/lcls-plc-bergmann-kohzu>`_
     * - `pcdshub/lcls-plc-crixs-motion <https://github.com/pcdshub/lcls-plc-crixs-motion>`_
-      - `8a67cdc <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8a67cdc486a3cf566c92197735aac115673e40d9>`_
+      - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7ead9251468abb1c1ed2e7bb738b6fbab6d>`_
       - `pcdshub/lcls-plc-crixs-motion Docs <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
     * - `pcdshub/lcls-plc-crixs-vac <https://github.com/pcdshub/lcls-plc-crixs-vac>`_
       - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_
@@ -139,7 +139,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-156-g140353a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/140353a11f98b75d06f0b37311b882b727b7acd4>`_
+      - `v1.1.0-160-ge34079d <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/e34079d3e275a9049a854149cb933102c470761e>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_
