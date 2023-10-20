@@ -1991,7 +1991,7 @@ Version `v2.4.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/ac837347
 pcdshub/lcls-plc-kfe-gatt
 -------------------------
 
-Version `V0.2.0-49-gf1fea21 <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/f1fea21b8211cb063683a38791f8866963e12246>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-gatt>`_
+Version `V0.2.0-50-g4fb37cf <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/4fb37cfe32a894cfd3e508d72e39f7b624ace422>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-gatt>`_
 
 
 #. **EK1200_00_00 [ID: 1]**
@@ -13398,7 +13398,7 @@ Version `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tr
 pcdshub/lcls-plc-tmo-vac
 ------------------------
 
-Version `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727eea7bbb48d255286257b1d024e23e9d42cad>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
+Version `v1.04-4-g33b73da <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/33b73da575f27a4a51fa42533be6aaadac3d30cb>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
 
 
 #. **TMO_K4S2_DRL_01 (EK1100) [ID: 4]**

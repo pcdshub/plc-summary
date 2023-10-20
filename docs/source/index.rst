@@ -43,7 +43,7 @@ This summary was generated |today|.
       - `v2.4.0~1 <https://github.com/pcdshub/lcls-plc-kfe-arbiter/tree/ac8373478e48ec42b661ffb255676b2d4e77c7f7>`_
       - `pcdshub/lcls-plc-kfe-arbiter Docs <https://pcdshub.github.io/lcls-plc-kfe-arbiter>`_
     * - `pcdshub/lcls-plc-kfe-gatt <https://github.com/pcdshub/lcls-plc-kfe-gatt>`_
-      - `V0.2.0-49-gf1fea21 <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/f1fea21b8211cb063683a38791f8866963e12246>`_
+      - `V0.2.0-50-g4fb37cf <https://github.com/pcdshub/lcls-plc-kfe-gatt/tree/4fb37cfe32a894cfd3e508d72e39f7b624ace422>`_
       - `pcdshub/lcls-plc-kfe-gatt Docs <https://pcdshub.github.io/lcls-plc-kfe-gatt>`_
     * - `pcdshub/lcls-plc-kfe-gmd-vac <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac>`_
       - `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-vac/tree/155468700c2bd93415f605df21cf1efb1397df0a>`_
@@ -148,7 +148,7 @@ This summary was generated |today|.
       - `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tree/e0f00f2e756d7fec514b8aa8a8a1b9768f69857e>`_
       - `pcdshub/lcls-plc-tmo-spectrometer-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-spectrometer-motion>`_
     * - `pcdshub/lcls-plc-tmo-vac <https://github.com/pcdshub/lcls-plc-tmo-vac>`_
-      - `v1.04-2-g6727eea <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/6727eea7bbb48d255286257b1d024e23e9d42cad>`_
+      - `v1.04-4-g33b73da <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/33b73da575f27a4a51fa42533be6aaadac3d30cb>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
       - `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f014479834cc74e257e7b0340298eea29a33d77f>`_
