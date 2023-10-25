@@ -3712,7 +3712,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
 pcdshub/lcls-plc-kfe-rix-motion
 -------------------------------
 
-Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/8b4b710e295219ce9c80e3d2aa6718f0a8c75fd2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831e00ea234ba00c974262ca223345c192f8d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
@@ -4175,7 +4175,12 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/8b4b7
 
 
 
-                    #. TM2K2-EL9011-E6 [ID: 192]
+                    #. TM2K2-EL3052-E6 [ID: 227]
+                            EL3052 2Ch. Ana. Input 4-20mA
+
+
+
+                    #. TM2K2-EL9011-E7 [ID: 192]
                             EL9011 End Terminal
 
 
@@ -4417,6 +4422,11 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/8b4b7
 
                     #. AT1K2-EL3202-02 [ID: 71]
                               ( **SyncUnit=AT1K2** )    EL3202-0020 2Ch. Ana. Input PT100 (RTD), High Precision, calibrated
+
+
+
+                    #. AT1K2-EL3052-E8 [ID: 301]
+                            EL3052 2Ch. Ana. Input 4-20mA
 
 
 
@@ -10628,7 +10638,7 @@ Version `bb4a0da <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/bb4a0da1a
 pcdshub/lcls-plc-qrix-vac
 -------------------------
 
-Version `v0.0.0-9-g742b43b <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/742b43ba553028ee28a1f74c153e244bebc83fa9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-vac>`_
+Version `v0.0.5~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d4e0fd3e3c0f441901c88b68923993b1688ee51f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-vac>`_
 
 
 #. **B950_233_R03_DRL_01 [ID: 17]**
@@ -10701,6 +10711,51 @@ Version `v0.0.0-9-g742b43b <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/74
 
     #. EK1122_00_16 [ID: 31]
             EK1122 2 port EtherCAT junction
+
+        #. **B950-310-WALL-W-DRL-02 [ID: 79]**
+                EK1100 EtherCAT Coupler (2A E-Bus)
+
+            #. EL1088_03_01 [ID: 80]
+                    EL1088 8Ch. Dig. Input 24V, 3ms, negative
+
+
+
+            #. EL9187_03_02 [ID: 1]
+                    EL9187 Potential Connection, 8 x Ground
+
+
+
+            #. EL2794_03_03 [ID: 81]
+                    EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+
+
+
+            #. EL2212_03_04 [ID: 82]
+                    EL2212 2Ch. dig. output with overexcitation (24V DC, 2.5A, 10A Peak)
+
+
+
+            #. EL9184_03_05 [ID: 2]
+                    EL9184 Potential Connection, 8 x 24V, 8 x Ground
+
+
+
+            #. EL9070_03_06 [ID: 3]
+                    EL9070 Shield terminal
+
+
+
+            #. EL3174-0002_03_07 [ID: 83]
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+
+
+
+            #. EL9011_03_08 [ID: 132]
+                    EL9011 End Terminal
+
+
+
+
 
 
 
