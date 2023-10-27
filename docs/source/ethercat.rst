@@ -12147,7 +12147,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-162-g5ad47ee <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/5ad47ee3bc28f94c6169da72328caa901bb8ea6a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-164-g78a3b18 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/78a3b18e801a5a7dad2213428d3fc93d027d79cd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 
 #. **Power (EK1200) [ID: 1]**
