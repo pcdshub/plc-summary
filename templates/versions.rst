@@ -33,6 +33,26 @@
     {% endfor %}
 {% endfor %}
 
+TwinCAT Versions
+================
+
+This summary was generated |today|.
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - TwinCAT Version
+      - Pinned
+
+{% for project in projects.values() | sort(attribute="git_info.repo_slug") %}
+    * - {{ project.git_info.repo_slug }}
+      - {{ project.attributes.TcVersion }}
+      - {{ project.attributes.TcVersionFixed }}
+
+{% endfor %}
+
+
 Dependencies
 ============
 
