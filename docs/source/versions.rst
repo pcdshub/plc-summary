@@ -1,5 +1,251 @@
 
 
+TwinCAT Versions
+================
+
+This summary was generated |today|.
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - TwinCAT Version
+      - Pinned
+
+    * - pcdshub/lcls-plc-bergmann-kohzu
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-crixs-motion
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-crixs-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-cvmi-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-cvmi-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-cxi-fms
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-dream-motion
+      - 3.1.4024.35
+      - 
+
+    * - pcdshub/lcls-plc-dream-vac
+      - 3.1.4024.35
+      - true
+
+    * - pcdshub/lcls-plc-ftl-leak-det
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-hxx-vonhamos
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-kfe-arbiter
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-kfe-gatt
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-kfe-gmd-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-kfe-motion
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-kfe-rix-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-kfe-rix-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-kfe-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-kfe-xgmd-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lamp-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lamp-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lamp-vac-1
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-las-bts
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-las-lps-01
+      - 3.1.4024.12
+      - true
+
+    * - pcdshub/lcls-plc-lfe-arbiter
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lfe-gem
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lfe-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lfe-motion-kmono
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lfe-optics
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-lfe-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-mfx-be-lens-interlock
+      - 3.1.4018.58
+      - true
+
+    * - pcdshub/lcls-plc-mfx-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-mini-powermeter-calib
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-motion-test-stand
+      - 3.1.4024.35
+      - 
+
+    * - pcdshub/lcls-plc-mrco-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-mrco-vac
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-polycapillary
+      - 3.1.4024.35
+      - 
+
+    * - pcdshub/lcls-plc-qrix-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-qrix-vac
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-rix-sds-injector
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-rixs-optics
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-roving-spectrometer
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-sample-delivery-system
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-sxr-satt
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-tmo-motion
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-tmo-optics
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-tmo-spectrometer-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-tmo-vac
+      - 3.1.4022.30
+      - true
+
+    * - pcdshub/lcls-plc-txi-hxr-motion
+      - 3.1.4024.12
+      - true
+
+    * - pcdshub/lcls-plc-txi-hxr-optics
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-txi-hxr-vac
+      - 3.1.4024.12
+      - 
+
+    * - pcdshub/lcls-plc-txi-optics
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-txi-sxr-vac
+      - 3.1.4024.12
+      - 
+
+    * - pcdshub/lcls-plc-vhs-01
+      - 3.1.4024.35
+      - true
+
+    * - pcdshub/lcls-plc-xcs-liquid-jet
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-xcs-liquid-jet
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-xcs-per-vac
+      - 3.1.4020.56
+      - 
+
+    * - pcdshub/lcls-plc-xpp-jjslit-motion
+      - 3.1.4022.30
+      - 
+
+    * - pcdshub/lcls-plc-xrt-optics
+      - 3.1.4024.12
+      - true
+
+
+
 Dependencies
 ============
 
