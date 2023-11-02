@@ -5,6 +5,16 @@ TwinCAT Versions
 
 This summary was generated |today|.
 
+This section lists the TwinCAT remote manager version for each project.
+This is not the PLC runtime version.
+A properly configured project will have the same runtime version (as in 4022)
+and the latest remote manager bugfix version (even if above that of the
+PLC runtime).
+
+A mismatch of remote manager major runtime version and PLC
+runtime version is a severe misconfiguration that could cause stability
+and other issues.
+
 .. list-table::
     :header-rows: 1
 
