@@ -52903,7 +52903,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-164-g78a3b18 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/78a3b18e801a5a7dad2213428d3fc93d027d79cd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-166-g6f4b433 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/6f4b43357ac9d33e25e04812193663265b4a1cb7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. raw:: html
 
@@ -55557,7 +55557,7 @@ Version `v1.1.0-164-g78a3b18 <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
                                                           <td width="10%">
                                                             ID=257:
                                                           </td>
-                                                          <td width="75%">SP1K4- EL3202-E9A
+                                                          <td width="75%">SP1K4-EL3202-E9A
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
