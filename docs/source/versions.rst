@@ -179,8 +179,8 @@ and other issues.
       - 
 
     * - pcdshub/lcls-plc-rixs-optics
-      - 3.1.4022.30
-      - 
+      - 3.1.4024.35
+      - true
 
     * - pcdshub/lcls-plc-roving-spectrometer
       - 3.1.4022.30
@@ -4811,7 +4811,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics: rixs_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `endrun18-157-gcd61047 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/cd6104776e6558b8d17e259569bb7a77cc1b3693>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/6931b592e31c5b7c7fe4b1659debb8daf8f2fc27>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics: rixs_optics
     :header-rows: 1
@@ -4899,7 +4899,7 @@ Version `endrun18-157-gcd61047 <https://github.com/pcdshub/lcls-plc-rixs-optics/
       - ``2.0.1`` SLAC
 
     * - lcls-twincat-optics
-      - ``0.2.1`` SLAC
+      - ``0.6.1`` SLAC
 
       -
 
@@ -7797,7 +7797,7 @@ lcls-twincat-optics
 
 
     * - pcdshub/lcls-plc-rixs-optics:rixs_optics
-      - ``0.2.1``, SLAC
+      - ``0.6.1``, SLAC
 
       -
 
