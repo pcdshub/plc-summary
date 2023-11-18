@@ -1338,9 +1338,7 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7e
                                                           </td>
                                                           <td width="75%">Camera X (EL7041)
                                                           </td>
-                                                          <td>            <b>
-                                                                SyncUnit hot connect
-                                                              </b>        </td>
+                                                          <td>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -20496,7 +20494,7 @@ Version `c69e6d6 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/c69e6d61a
                             <td width="10%">
                               ID=33:
                             </td>
-                            <td width="75%">B940-008-K0S15-PNL-03 FS
+                            <td width="75%">Term 33 (EK1100)
                             </td>
                             <td>        </td>
                           </tr>
@@ -52903,7 +52901,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-166-g6f4b433 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/6f4b43357ac9d33e25e04812193663265b4a1cb7>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-168-gea3643c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/ea3643cd854e5967f5354d39227aa9c626ba0193>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. raw:: html
 
