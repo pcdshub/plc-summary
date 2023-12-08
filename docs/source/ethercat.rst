@@ -52901,7 +52901,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-168-gea3643c <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/ea3643cd854e5967f5354d39227aa9c626ba0193>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/962ce3a1de70eb12dfc0e8d9871ca66eedde7b3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. raw:: html
 
@@ -58859,7 +58859,7 @@ Version `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tr
 pcdshub/lcls-plc-tmo-vac
 ------------------------
 
-Version `v1.04-4-g33b73da <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/33b73da575f27a4a51fa42533be6aaadac3d30cb>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
+Version `v1.04-8-g2b41c07 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/2b41c07af5e1dd4d2924270f6e477d6aec026bc3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
 
 .. raw:: html
 
