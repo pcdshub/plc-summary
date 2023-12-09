@@ -13098,7 +13098,7 @@ Version `AugShutdown-14-g1554687 <https://github.com/pcdshub/lcls-plc-kfe-gmd-va
 pcdshub/lcls-plc-kfe-motion
 ---------------------------
 
-Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f14295de6bda640d3e1a5b2365f5e713281>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
+Version `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/eb1d9553998e732be129a8201bd189463d908023>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
 
 .. raw:: html
 
@@ -14011,7 +14011,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
                                       <td width="10%">
                                         ID=168:
                                       </td>
-                                      <td width="75%">EBD-PCW-FSW-EL1004
+                                      <td width="75%">IM1K0-EL1004
                                       </td>
                                       <td>            <b>
                                             SyncUnit IM1K0
@@ -15791,7 +15791,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
                                                           <td width="10%">
                                                             ID=240:
                                                           </td>
-                                                          <td width="75%">FEE-K-PCW-FSW-EL1004
+                                                          <td width="75%">ST1K4-EL1004-E5
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -15812,7 +15812,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
                                                           <td width="10%">
                                                             ID=241:
                                                           </td>
-                                                          <td width="75%">ST1K4-EL5042-E5A
+                                                          <td width="75%">ST1K4-EL5042-E6
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -15833,7 +15833,7 @@ Version `v4.0.1~1 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/e7803f142
                                                           <td width="10%">
                                                             ID=117:
                                                           </td>
-                                                          <td width="75%">ST1K4-EL9505-E5
+                                                          <td width="75%">ST1K4-EL9505-E7
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit ST1K4
