@@ -5518,7 +5518,7 @@ Version `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tr
 pcdshub/lcls-plc-tmo-vac: PLC_TMO_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.04-8-g2b41c07 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/2b41c07af5e1dd4d2924270f6e477d6aec026bc3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
+Version `v1.04-10-g9f51258 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/9f5125834ae428395769b81dee7506bec7fed016>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-vac: PLC_TMO_VAC
     :header-rows: 1
