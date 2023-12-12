@@ -148,7 +148,7 @@ This summary was generated |today|.
       - `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tree/e0f00f2e756d7fec514b8aa8a8a1b9768f69857e>`_
       - `pcdshub/lcls-plc-tmo-spectrometer-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-spectrometer-motion>`_
     * - `pcdshub/lcls-plc-tmo-vac <https://github.com/pcdshub/lcls-plc-tmo-vac>`_
-      - `v1.04-8-g2b41c07 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/2b41c07af5e1dd4d2924270f6e477d6aec026bc3>`_
+      - `v1.04-10-g9f51258 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/9f5125834ae428395769b81dee7506bec7fed016>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
       - `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f014479834cc74e257e7b0340298eea29a33d77f>`_
