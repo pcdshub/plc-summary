@@ -4594,7 +4594,7 @@ Version `v0.0.1~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/524d9e3c
 pcdshub/lcls-plc-qrix-vac: PLC_QRIX_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v0.0.5~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d4e0fd3e3c0f441901c88b68923993b1688ee51f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-vac>`_
+Version `v0.0.6~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d8cff0a5d6ddf9d3417bd664e0d71801eb0b4c91>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-vac: PLC_QRIX_VAC
     :header-rows: 1
@@ -4609,154 +4609,56 @@ Version `v0.0.5~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d4e0fd3e3c0
 
       - ``*`` SLAC
 
-      - ``2.6.0`` SLAC
+      - ``*`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.1.0`` SLAC
+      - ``2.3.0`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
-      -
+      - ``*`` SLAC
 
-      - ``1.2.2`` SLAC
+      - ``*`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``2.2.2`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
+      - ``2.1.0`` SLAC
 
     * - Tc2_SerialCom
       -
 
-      -
+      - ``*`` Beckhoff
 
-      - ``3.3.7.0`` Beckhoff
+      -
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.3.0`` Beckhoff
+      -
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
       -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
       -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
 
 
 pcdshub/lcls-plc-rix-sds-injector: sdsinjector
@@ -5518,7 +5420,7 @@ Version `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tr
 pcdshub/lcls-plc-tmo-vac: PLC_TMO_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.04-10-g9f51258 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/9f5125834ae428395769b81dee7506bec7fed016>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
+Version `v1.04-15-ga355eb0 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/a355eb01035843b021475f60d408b0756a8722c2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-vac: PLC_TMO_VAC
     :header-rows: 1
@@ -5847,7 +5749,7 @@ Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f0144
 pcdshub/lcls-plc-txi-hxr-optics: txi_hxr_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `f697023 <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/f697023e7e6ed14098fa6cf41d986c807fae9629>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
+Version `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfef66295d0ba7a26955225a3b8989aae420e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-optics: txi_hxr_optics
     :header-rows: 1
@@ -7038,7 +6940,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.6.0``, SLAC
+      - ``*``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -7300,7 +7202,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.1.0``, SLAC
+      - ``2.3.0``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -8365,9 +8267,9 @@ LCLSVacuumSerialDriverLib
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
       -
 
-      -
+      - ``*``, SLAC
 
-      - ``1.2.2``, SLAC
+      - ``*``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -8643,7 +8545,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``2.2.2``, SLAC
+      - ``2.1.0``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -8893,13 +8795,6 @@ SysDir
       - ``3.5.12.0``, System
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.5.8.0``, System
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -9126,13 +9021,6 @@ SysFile
 
       - ``3.5.9.0``, System
 
-
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.5.9.0``, System
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -9535,13 +9423,6 @@ Tc2_DataExchange
 
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.5.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -9797,13 +9678,6 @@ Tc2_EtherCAT
       - ``3.3.15.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.15.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -10045,13 +9919,6 @@ Tc2_IoFunctions
       - ``3.3.13.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.13.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -10285,13 +10152,6 @@ Tc2_Math
 
       - ``3.3.1.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.1.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -10575,13 +10435,6 @@ Tc2_MC2
 
       - ``3.3.42.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.42.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -10932,13 +10785,6 @@ Tc2_ModbusSrv
       - ``3.3.2.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.2.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -11225,9 +11071,9 @@ Tc2_SerialCom
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
       -
 
-      -
+      - ``*``, Beckhoff
 
-      - ``3.3.7.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -11671,7 +11517,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      - ``3.3.3.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -12251,7 +12097,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``3.4.24.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -12651,13 +12497,6 @@ Tc2_TcpIp
       - ``3.3.6.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.6.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -12969,13 +12808,6 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.41.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -13245,13 +13077,6 @@ Tc3_EventLogger
       - ``3.1.24.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.1.24.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
       -
@@ -13436,13 +13261,6 @@ Tc3_Interfaces
       - ``3.4.3.0``, Beckhoff
 
 
-
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -13663,13 +13481,6 @@ Tc3_JsonXml
 
       - ``3.3.14.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``3.3.14.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -14092,7 +13903,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      - ``3.3.21.0``, Beckhoff
+      -
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC
@@ -14404,13 +14215,6 @@ TcUnit
 
       - ``1.1.0.0``, www.tcunit.org
 
-
-    * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
-      -
-
-      -
-
-      - ``1.1.0.0``, www.tcunit.org
 
 
     * - pcdshub/lcls-plc-tmo-vac:PLC_TMO_VAC

@@ -1021,7 +1021,7 @@ Version `v0.0.1~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/524d9e3c
 pcdshub/lcls-plc-qrix-vac
 -------------------------
 
-Version `v0.0.5~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d4e0fd3e3c0f441901c88b68923993b1688ee51f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-vac>`_
+Version `v0.0.6~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d8cff0a5d6ddf9d3417bd664e0d71801eb0b4c91>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-vac>`_
 
 No NC axes.
 
@@ -1402,7 +1402,7 @@ Version `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tr
 pcdshub/lcls-plc-tmo-vac
 ------------------------
 
-Version `v1.04-10-g9f51258 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/9f5125834ae428395769b81dee7506bec7fed016>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
+Version `v1.04-15-ga355eb0 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/a355eb01035843b021475f60d408b0756a8722c2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
 
 No NC axes.
 
@@ -1433,7 +1433,7 @@ Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f0144
 pcdshub/lcls-plc-txi-hxr-optics
 -------------------------------
 
-Version `f697023 <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/f697023e7e6ed14098fa6cf41d986c807fae9629>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
+Version `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfef66295d0ba7a26955225a3b8989aae420e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-txi-hxr-optics Axes
     :header-rows: 1
