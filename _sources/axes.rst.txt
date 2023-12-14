@@ -1602,7 +1602,7 @@ No NC axes.
 pcdshub/lcls-plc-xpp-jjslit-motion
 ----------------------------------
 
-Version `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3e9d2b767b54c389200670e290ccbc22be9752>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
+Version `32c4432 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/32c443299c210fe572d090003e43a919ac154530>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-jjslit-motion Axes
     :header-rows: 1
