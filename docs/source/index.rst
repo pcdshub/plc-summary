@@ -178,7 +178,7 @@ This summary was generated |today|.
       - `v0.1.0-8-g4a64de7 <https://github.com/pcdshub/lcls-plc-xcs-per-vac/tree/4a64de74ae80296c1cc06c7d3a716e17a38a1357>`_
       - `pcdshub/lcls-plc-xcs-per-vac Docs <https://pcdshub.github.io/lcls-plc-xcs-per-vac>`_
     * - `pcdshub/lcls-plc-xpp-jjslit-motion <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion>`_
-      - `0b3e9d2 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/0b3e9d2b767b54c389200670e290ccbc22be9752>`_
+      - `32c4432 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/32c443299c210fe572d090003e43a919ac154530>`_
       - `pcdshub/lcls-plc-xpp-jjslit-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
       - `v5.3.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/9ae5e71becab2a78f6fdcdb944d426cb1cc6f190>`_
