@@ -961,7 +961,7 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
 pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `f2b2ce2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/f2b2ce28304c6ae8d0927b8f64ff245ca56302db>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
+Version `4284c85 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/4284c850fbc0f9107603e8a499feebc67903ef6c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-vac: lcls_plc_dream_vac
     :header-rows: 1
@@ -983,7 +983,7 @@ Version `f2b2ce2 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/f2b2ce28304
 
       - ``*`` SLAC
 
-      - ``2.3.1`` SLAC
+      - ``2.3.2`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -7079,7 +7079,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.1``, SLAC
+      - ``2.3.2``, SLAC
 
 
 
