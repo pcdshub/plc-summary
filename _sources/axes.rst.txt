@@ -1052,7 +1052,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/6931b592e31c5b7c7fe4b1659debb8daf8f2fc27>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-169-g87051f9 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/87051f99dec781a5645b4d0f72cbbc309a67bb23>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics Axes
     :header-rows: 1
