@@ -48350,7 +48350,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/6931b592e31c5b7c7fe4b1659debb8daf8f2fc27>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-169-g87051f9 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/87051f99dec781a5645b4d0f72cbbc309a67bb23>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. raw:: html
 
@@ -49669,7 +49669,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL7047_SL1K2_PITCH
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49690,7 +49692,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL7047_SL1K2_VERT
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49711,7 +49715,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL7047_SL1K2_ROLL
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49732,7 +49738,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL7047_SL1K2_GAP
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49753,7 +49761,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL7047_SL1K2_YAG
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49774,7 +49784,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL5042_SL1K2_PITCH_VERT
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49795,7 +49807,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL5042_SL1K2_ROLL_GAP
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49816,7 +49830,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL5042_SL1K2_YAG
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49837,7 +49853,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL3201_SL1K2_1
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49858,7 +49876,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL3201_SL1K2_2
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49879,7 +49899,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL3201_SL1K2_3
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49900,7 +49922,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL3201_SL1K2_4
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49921,7 +49945,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL2004_SL1K2
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -49942,7 +49968,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL4004_SL1K2
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SL1K2
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50011,7 +50039,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">SP1K1-EL9410-E1
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50032,7 +50062,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">m_pi_m
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50053,7 +50085,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">g_pi_m
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50074,7 +50108,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">m_h_m
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50095,7 +50131,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">g_h_m
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50116,7 +50154,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">s_io_m
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50137,7 +50177,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">s_r
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50158,7 +50200,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">m_pi_up_dwn_e
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50179,7 +50223,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">g_pi_up_dwn_e
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50200,7 +50246,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">m_h_e-g_h_e
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50221,7 +50269,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">s_io_e
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50242,7 +50292,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">EL3054_SP1K1_FWM_PRSM
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50263,7 +50315,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">SP1K1-EL3202-E13
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50284,7 +50338,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">SP1K1-EL3202-E14
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50305,7 +50361,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">SP1K1-EL3204-E15
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50326,7 +50384,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">SP1K1-EL3204-E16
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -50347,7 +50407,9 @@ Version `endrun18-162-g6931b59 <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       </td>
                                       <td width="75%">SP1K1-EL1004-E17
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit SP1K1
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
