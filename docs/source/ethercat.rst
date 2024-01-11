@@ -5859,7 +5859,7 @@ Version `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09
 pcdshub/lcls-plc-dream-motion
 -----------------------------
 
-Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96fdeda91976c1932f6b86a6d2373f9051>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `acdddf4 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/acdddf4a9a1539169d7431ee0fd07ac5c7e94b85>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 .. raw:: html
 
@@ -6088,9 +6088,9 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=16:
+                                        ID=29:
                                       </td>
-                                      <td width="75%">DRL_05_EL5042_E5
+                                      <td width="75%">Term 29 (EL3064)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -6098,7 +6098,7 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EL5042 2Ch. BiSS-C Encoder
+                                        EL3064 4Ch. Ana. Input 0-10V
                                       </td>
                                     </tr>
                                   </table>
@@ -6256,9 +6256,9 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=37:
+                                        ID=38:
                                       </td>
-                                      <td width="75%">Term 37 (EK1110)
+                                      <td width="75%">Term 38 (EL9011)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -6266,7 +6266,7 @@ Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EK1110 EtherCAT extension
+                                        EL9011 End Terminal
                                       </td>
                                     </tr>
                                   </table>
