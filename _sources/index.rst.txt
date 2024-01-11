@@ -28,7 +28,7 @@ This summary was generated |today|.
       - `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09d9fe24ed7567d43f966fe3835ab>`_
       - `pcdshub/lcls-plc-cxi-fms Docs <https://pcdshub.github.io/lcls-plc-cxi-fms>`_
     * - `pcdshub/lcls-plc-dream-motion <https://github.com/pcdshub/lcls-plc-dream-motion>`_
-      - `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96fdeda91976c1932f6b86a6d2373f9051>`_
+      - `acdddf4 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/acdddf4a9a1539169d7431ee0fd07ac5c7e94b85>`_
       - `pcdshub/lcls-plc-dream-motion Docs <https://pcdshub.github.io/lcls-plc-dream-motion>`_
     * - `pcdshub/lcls-plc-dream-vac <https://github.com/pcdshub/lcls-plc-dream-vac>`_
       - `4284c85 <https://github.com/pcdshub/lcls-plc-dream-vac/tree/4284c850fbc0f9107603e8a499feebc67903ef6c>`_

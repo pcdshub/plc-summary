@@ -905,7 +905,7 @@ Version `a4d7f8d <https://github.com/pcdshub/lcls-plc-cxi-fms/tree/a4d7f8df49f09
 pcdshub/lcls-plc-dream-motion: lcls_dream_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `e97f8d9 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/e97f8d96fdeda91976c1932f6b86a6d2373f9051>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
+Version `acdddf4 <https://github.com/pcdshub/lcls-plc-dream-motion/tree/acdddf4a9a1539169d7431ee0fd07ac5c7e94b85>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-dream-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-dream-motion: lcls_dream_motion
     :header-rows: 1
