@@ -80,7 +80,7 @@ and other issues.
 
     * - pcdshub/lcls-plc-kfe-rix-motion
       - 3.1.4022.30
-      - 
+      - true
 
     * - pcdshub/lcls-plc-kfe-rix-vac
       - 3.1.4022.30
@@ -1892,7 +1892,7 @@ Version `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tre
 pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831e00ea234ba00c974262ca223345c192f8d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `v2.2.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c50e57d933c3097bc8e2fe21eb70d1f6e899e7a1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
     :header-rows: 1
@@ -1907,7 +1907,7 @@ Version `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831
 
       - ``*`` SLAC
 
-      - ``2.9.1`` SLAC
+      - ``2.10.0`` SLAC
 
     * - PMPS
       -
@@ -2028,12 +2028,19 @@ Version `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831
 
       - ``1.2.0.0`` www.tcunit.org
 
+    * - lcls-twincat-common-components
+      -
+
+      - ``*`` SLAC
+
+      - ``3.3.0`` SLAC
+
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``4.0.4`` SLAC
+      - ``4.0.5`` SLAC
 
     * - lcls-twincat-physics
       -
@@ -2041,13 +2048,6 @@ Version `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831
       - ``*`` SLAC
 
       - ``0.1.0`` SLAC
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``2.1.0`` SLAC
 
 
 pcdshub/lcls-plc-kfe-rix-vac: plc_kfe_rix_vac
@@ -2221,7 +2221,7 @@ Version `c69e6d6 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/c69e6d61a
 pcdshub/lcls-plc-kfe-vac: plc_kfe_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `NOV2021-24-gdddf84b <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/dddf84bed5197c77a032126085ad3f63f9685404>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
+Version `v1.6.0^0 <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/b00528b826a2d2b6dfc728522b8f924e89e65865>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-vac: plc_kfe_vac
     :header-rows: 1
@@ -2284,7 +2284,7 @@ Version `NOV2021-24-gdddf84b <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/d
 pcdshub/lcls-plc-kfe-vac: plc_kfe_vac_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `NOV2021-24-gdddf84b <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/dddf84bed5197c77a032126085ad3f63f9685404>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
+Version `v1.6.0^0 <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/b00528b826a2d2b6dfc728522b8f924e89e65865>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-vac: plc_kfe_vac_sim
     :header-rows: 1
@@ -4713,7 +4713,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics: rixs_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `endrun18-169-g87051f9 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/87051f99dec781a5645b4d0f72cbbc309a67bb23>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-173-g7ef8c9c <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7ef8c9c6891366bb751cf50f3248d5cc8fab0735>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics: rixs_optics
     :header-rows: 1
@@ -6372,7 +6372,7 @@ Version `v0.1.0-8-g4a64de7 <https://github.com/pcdshub/lcls-plc-xcs-per-vac/tree
 pcdshub/lcls-plc-xpp-jjslit-motion: xpp_jjslit_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `32c4432 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/32c443299c210fe572d090003e43a919ac154530>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
+Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/e34f88a8bab80105a3a14e311386169d83e1a52e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-jjslit-motion: xpp_jjslit_motion
     :header-rows: 1
@@ -6706,7 +6706,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.9.1``, SLAC
+      - ``2.10.0``, SLAC
 
 
     * - pcdshub/lcls-plc-kfe-arbiter:KFEArbiter
@@ -7267,6 +7267,13 @@ lcls-twincat-common-components
       - ``3.3.0``, SLAC
 
 
+    * - pcdshub/lcls-plc-kfe-rix-motion:kfe_rix_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``3.3.0``, SLAC
+
 
 
 
@@ -7380,7 +7387,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.0.4``, SLAC
+      - ``4.0.5``, SLAC
 
 
 
@@ -7939,13 +7946,6 @@ lcls2-cc-lib
 
 
 
-
-    * - pcdshub/lcls-plc-kfe-rix-motion:kfe_rix_motion
-      -
-
-      - ``*``, SLAC
-
-      - ``2.1.0``, SLAC
 
 
 

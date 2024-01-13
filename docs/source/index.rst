@@ -52,13 +52,13 @@ This summary was generated |today|.
       - `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/eb1d9553998e732be129a8201bd189463d908023>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
-      - `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831e00ea234ba00c974262ca223345c192f8d>`_
+      - `v2.2.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c50e57d933c3097bc8e2fe21eb70d1f6e899e7a1>`_
       - `pcdshub/lcls-plc-kfe-rix-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-vac <https://github.com/pcdshub/lcls-plc-kfe-rix-vac>`_
       - `c69e6d6 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/c69e6d61abbd502a02f2da2b3d928ee1edb41ed1>`_
       - `pcdshub/lcls-plc-kfe-rix-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-rix-vac>`_
     * - `pcdshub/lcls-plc-kfe-vac <https://github.com/pcdshub/lcls-plc-kfe-vac>`_
-      - `NOV2021-24-gdddf84b <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/dddf84bed5197c77a032126085ad3f63f9685404>`_
+      - `v1.6.0^0 <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/b00528b826a2d2b6dfc728522b8f924e89e65865>`_
       - `pcdshub/lcls-plc-kfe-vac Docs <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
     * - `pcdshub/lcls-plc-kfe-xgmd-vac <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac>`_
       - `v0.1.2-24-gf35324e <https://github.com/pcdshub/lcls-plc-kfe-xgmd-vac/tree/f35324e0fd9c0302980717c79a50a1c921b8c84b>`_
@@ -127,7 +127,7 @@ This summary was generated |today|.
       - `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335d3d02a08af0d4e803ec1fa12e74f2e5f172f>`_
       - `pcdshub/lcls-plc-rix-sds-injector Docs <https://pcdshub.github.io/lcls-plc-rix-sds-injector>`_
     * - `pcdshub/lcls-plc-rixs-optics <https://github.com/pcdshub/lcls-plc-rixs-optics>`_
-      - `endrun18-169-g87051f9 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/87051f99dec781a5645b4d0f72cbbc309a67bb23>`_
+      - `endrun18-173-g7ef8c9c <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7ef8c9c6891366bb751cf50f3248d5cc8fab0735>`_
       - `pcdshub/lcls-plc-rixs-optics Docs <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
     * - `pcdshub/lcls-plc-roving-spectrometer <https://github.com/pcdshub/lcls-plc-roving-spectrometer>`_
       - `v0.1.0-7-gefe2857 <https://github.com/pcdshub/lcls-plc-roving-spectrometer/tree/efe2857f39add982601ac2bda0900c58fd69f642>`_
@@ -178,7 +178,7 @@ This summary was generated |today|.
       - `v0.1.0-8-g4a64de7 <https://github.com/pcdshub/lcls-plc-xcs-per-vac/tree/4a64de74ae80296c1cc06c7d3a716e17a38a1357>`_
       - `pcdshub/lcls-plc-xcs-per-vac Docs <https://pcdshub.github.io/lcls-plc-xcs-per-vac>`_
     * - `pcdshub/lcls-plc-xpp-jjslit-motion <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion>`_
-      - `32c4432 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/32c443299c210fe572d090003e43a919ac154530>`_
+      - `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/e34f88a8bab80105a3a14e311386169d83e1a52e>`_
       - `pcdshub/lcls-plc-xpp-jjslit-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
     * - `pcdshub/lcls-plc-xrt-optics <https://github.com/pcdshub/lcls-plc-xrt-optics>`_
       - `v5.3.1~1 <https://github.com/pcdshub/lcls-plc-xrt-optics/tree/9ae5e71becab2a78f6fdcdb944d426cb1cc6f190>`_

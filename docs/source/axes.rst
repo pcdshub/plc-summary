@@ -397,7 +397,7 @@ Version `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tre
 pcdshub/lcls-plc-kfe-rix-motion
 -------------------------------
 
-Version `065831e <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/065831e00ea234ba00c974262ca223345c192f8d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `v2.2.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c50e57d933c3097bc8e2fe21eb70d1f6e899e7a1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-rix-motion Axes
     :header-rows: 1
@@ -470,7 +470,7 @@ No NC axes.
 pcdshub/lcls-plc-kfe-vac
 ------------------------
 
-Version `NOV2021-24-gdddf84b <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/dddf84bed5197c77a032126085ad3f63f9685404>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
+Version `v1.6.0^0 <https://github.com/pcdshub/lcls-plc-kfe-vac/tree/b00528b826a2d2b6dfc728522b8f924e89e65865>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-vac>`_
 
 No NC axes.
 
@@ -1052,7 +1052,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-169-g87051f9 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/87051f99dec781a5645b4d0f72cbbc309a67bb23>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-173-g7ef8c9c <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7ef8c9c6891366bb751cf50f3248d5cc8fab0735>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics Axes
     :header-rows: 1
@@ -1602,7 +1602,7 @@ No NC axes.
 pcdshub/lcls-plc-xpp-jjslit-motion
 ----------------------------------
 
-Version `32c4432 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/32c443299c210fe572d090003e43a919ac154530>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
+Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-jjslit-motion/tree/e34f88a8bab80105a3a14e311386169d83e1a52e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-jjslit-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-jjslit-motion Axes
     :header-rows: 1
