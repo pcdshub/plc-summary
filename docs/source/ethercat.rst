@@ -48350,7 +48350,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-173-g7ef8c9c <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/7ef8c9c6891366bb751cf50f3248d5cc8fab0735>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-176-g76421ce <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/76421ceaa967be3174d6b04c209839e26c9a374b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. raw:: html
 
@@ -49943,7 +49943,7 @@ Version `endrun18-173-g7ef8c9c <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                       <td width="10%">
                                         ID=227:
                                       </td>
-                                      <td width="75%">EL3052_SL1K2_FSW
+                                      <td width="75%">EL3052_SL1K2_FWM
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -50780,6 +50780,48 @@ Version `endrun18-173-g7ef8c9c <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                                                     </td>
                                                           <td colspan="2">
                                                             EL7041-0052 1Ch. Stepper motor output stage (50V, 5A)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=263:
+                                                          </td>
+                                                          <td width="75%">Term 263 (EL3204)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL3204 4Ch. Ana. Input PT100 (RTD)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=264:
+                                                          </td>
+                                                          <td width="75%">Term 264 (EL3054)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL3054 4Ch. Ana. Input 4-20mA
                                                           </td>
                                                         </tr>
                                                       </table>
