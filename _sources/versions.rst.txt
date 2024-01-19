@@ -457,7 +457,7 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7e
 pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b6438ae5725209d53feab5414815f018b9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
+Version `6a71f10 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/6a71f10697582353991ac9474680c18b706bc5d0>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
     :header-rows: 1
@@ -495,62 +495,6 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b643
 
       - ``3.0.14`` SLAC
 
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
     * - Tc2_SerialCom
       -
 
@@ -572,54 +516,12 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/dc91a7b643
 
       - ``3.4.24.0`` Beckhoff
 
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
       - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
 
 
 pcdshub/lcls-plc-cvmi-motion: cvmi_motion
@@ -8707,13 +8609,6 @@ SysDir
       - ``3.5.8.0``, System
 
 
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.5.8.0``, System
-
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
@@ -8926,13 +8821,6 @@ SysFile
 
       - ``3.5.9.0``, System
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.5.9.0``, System
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -9342,13 +9230,6 @@ Tc2_DataExchange
 
 
 
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.5.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
@@ -9575,13 +9456,6 @@ Tc2_EtherCAT
 
       - ``3.3.15.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.15.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -9824,13 +9698,6 @@ Tc2_IoFunctions
       - ``3.3.13.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.13.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
@@ -10057,13 +9924,6 @@ Tc2_Math
 
       - ``3.3.1.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.1.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -10340,13 +10200,6 @@ Tc2_MC2
 
       - ``3.3.42.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.42.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -10689,13 +10542,6 @@ Tc2_ModbusSrv
 
       - ``3.3.2.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.2.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -12402,13 +12248,6 @@ Tc2_TcpIp
       - ``3.3.6.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.6.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
@@ -12684,13 +12523,6 @@ Tc2_Utilities
 
       - ``3.3.41.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.41.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -12982,13 +12814,6 @@ Tc3_EventLogger
       - ``3.1.33.0``, Beckhoff
 
 
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.1.24.0``, Beckhoff
-
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
       -
@@ -13180,13 +13005,6 @@ Tc3_Interfaces
 
 
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -13386,13 +13204,6 @@ Tc3_JsonXml
 
       - ``3.3.14.0``, Beckhoff
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``3.3.14.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
@@ -14120,13 +13931,6 @@ TcUnit
 
       - ``1.2.0.0``, www.tcunit.org
 
-
-    * - pcdshub/lcls-plc-crixs-vac:PLC_CRIX_VAC
-      -
-
-      -
-
-      - ``1.1.0.0``, www.tcunit.org
 
 
     * - pcdshub/lcls-plc-cvmi-vac:plc_cvmi_vac
