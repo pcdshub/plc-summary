@@ -457,7 +457,7 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7e
 pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `6a71f10 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/6a71f10697582353991ac9474680c18b706bc5d0>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
+Version `569d626 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/569d6261c74eec3789438f183d3bc7a0938f4c11>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
     :header-rows: 1
