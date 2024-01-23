@@ -52,7 +52,7 @@ This summary was generated |today|.
       - `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tree/eb1d9553998e732be129a8201bd189463d908023>`_
       - `pcdshub/lcls-plc-kfe-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-motion <https://github.com/pcdshub/lcls-plc-kfe-rix-motion>`_
-      - `v2.2.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/c50e57d933c3097bc8e2fe21eb70d1f6e899e7a1>`_
+      - `9b90d5a <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/9b90d5a101aea52e0b345f78160fa357099a3bda>`_
       - `pcdshub/lcls-plc-kfe-rix-motion Docs <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
     * - `pcdshub/lcls-plc-kfe-rix-vac <https://github.com/pcdshub/lcls-plc-kfe-rix-vac>`_
       - `c69e6d6 <https://github.com/pcdshub/lcls-plc-kfe-rix-vac/tree/c69e6d61abbd502a02f2da2b3d928ee1edb41ed1>`_
