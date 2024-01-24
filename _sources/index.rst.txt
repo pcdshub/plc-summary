@@ -67,7 +67,7 @@ This summary was generated |today|.
       - `V1.0.4-30-gcb288a9 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/cb288a96b7373d6a6949a1a24ed2cbb4d4f5343c>`_
       - `pcdshub/lcls-plc-lamp-motion Docs <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
     * - `pcdshub/lcls-plc-lamp-vac <https://github.com/pcdshub/lcls-plc-lamp-vac>`_
-      - `v1.03 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/8cf7ee9aa15b1a9d21c6b5c94dfc968c71e67183>`_
+      - `v1.03-2-g781918c <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/781918c0f7ec3d167c96af7588524973769d43c3>`_
       - `pcdshub/lcls-plc-lamp-vac Docs <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
     * - `pcdshub/lcls-plc-lamp-vac-1 <https://github.com/pcdshub/lcls-plc-lamp-vac-1>`_
       - `f6e6594 <https://github.com/pcdshub/lcls-plc-lamp-vac-1/tree/f6e65940cb8838a5ad08c839e722a6ad4562eb0e>`_
@@ -118,7 +118,7 @@ This summary was generated |today|.
       - `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a1bd00b14cdddbf2b9496e693a3e477e00>`_
       - `pcdshub/lcls-plc-polycapillary Docs <https://pcdshub.github.io/lcls-plc-polycapillary>`_
     * - `pcdshub/lcls-plc-qrix-motion <https://github.com/pcdshub/lcls-plc-qrix-motion>`_
-      - `v0.0.1~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/524d9e3cd6f4897c3d4509ab651fc9cda735eae9>`_
+      - `719544d <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_
       - `pcdshub/lcls-plc-qrix-motion Docs <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
     * - `pcdshub/lcls-plc-qrix-vac <https://github.com/pcdshub/lcls-plc-qrix-vac>`_
       - `v0.0.6~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d8cff0a5d6ddf9d3417bd664e0d71801eb0b4c91>`_
