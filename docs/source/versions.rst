@@ -167,7 +167,7 @@ and other issues.
       - 
 
     * - pcdshub/lcls-plc-qrix-motion
-      - 3.1.4022.30
+      - 3.1.4024.35
       - 
 
     * - pcdshub/lcls-plc-qrix-vac
@@ -2564,7 +2564,7 @@ Version `V1.0.4-30-gcb288a9 <https://github.com/pcdshub/lcls-plc-lamp-motion/tre
 pcdshub/lcls-plc-lamp-vac: plc_lamp_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.03 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/8cf7ee9aa15b1a9d21c6b5c94dfc968c71e67183>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
+Version `v1.03-2-g781918c <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/781918c0f7ec3d167c96af7588524973769d43c3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-lamp-vac: plc_lamp_vac
     :header-rows: 1
@@ -2586,7 +2586,7 @@ Version `v1.03 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/8cf7ee9aa15b1a
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
+      - ``2.3.3`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -4335,7 +4335,7 @@ Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a
 pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v0.0.1~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/524d9e3cd6f4897c3d4509ab651fc9cda735eae9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `719544d <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
     :header-rows: 1
@@ -7062,7 +7062,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``2.3.3``, SLAC
 
 
     * - pcdshub/lcls-plc-lamp-vac-1:plc_lamp_vac

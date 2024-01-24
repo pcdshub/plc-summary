@@ -26632,7 +26632,7 @@ Version `V1.0.4-30-gcb288a9 <https://github.com/pcdshub/lcls-plc-lamp-motion/tre
 pcdshub/lcls-plc-lamp-vac
 -------------------------
 
-Version `v1.03 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/8cf7ee9aa15b1a9d21c6b5c94dfc968c71e67183>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
+Version `v1.03-2-g781918c <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/781918c0f7ec3d167c96af7588524973769d43c3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
 
 .. raw:: html
 
@@ -43508,7 +43508,7 @@ Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a
 pcdshub/lcls-plc-qrix-motion
 ----------------------------
 
-Version `v0.0.1~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/524d9e3cd6f4897c3d4509ab651fc9cda735eae9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `719544d <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. raw:: html
 
@@ -46427,9 +46427,51 @@ Version `v0.0.1~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/524d9e3c
                   <table width="100%">
                 <tr>
                   <td width="10%">
+                    ID=229:
+                  </td>
+                  <td width="75%">BOX-22 DET_ROT (EL5042)
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL5042 2Ch. BiSS-C Encoder
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=230:
+                  </td>
+                  <td width="75%">BOX-23 DET_ROT (EL7047)
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL7047 1Ch. Stepper motor output stage (50V, 5A)
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
                     ID=89:
                   </td>
-                  <td width="75%">BOX-22 EtherCAT Extension (EK1110)
+                  <td width="75%">BOX-24 EtherCAT Extension (EK1110)
                   </td>
                   <td>        </td>
                 </tr>
