@@ -16,7 +16,7 @@ This summary was generated |today|.
       - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7ead9251468abb1c1ed2e7bb738b6fbab6d>`_
       - `pcdshub/lcls-plc-crixs-motion Docs <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
     * - `pcdshub/lcls-plc-crixs-vac <https://github.com/pcdshub/lcls-plc-crixs-vac>`_
-      - `569d626 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/569d6261c74eec3789438f183d3bc7a0938f4c11>`_
+      - `5fcc908 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/5fcc9088db41d33782d5cf2e9f009d566aa06d4e>`_
       - `pcdshub/lcls-plc-crixs-vac Docs <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
     * - `pcdshub/lcls-plc-cvmi-motion <https://github.com/pcdshub/lcls-plc-cvmi-motion>`_
       - `v1.1.2-9-g7e73ab9 <https://github.com/pcdshub/lcls-plc-cvmi-motion/tree/7e73ab9cdcfb5b2c3df8b0bace2744612c79889e>`_
@@ -118,7 +118,7 @@ This summary was generated |today|.
       - `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a1bd00b14cdddbf2b9496e693a3e477e00>`_
       - `pcdshub/lcls-plc-polycapillary Docs <https://pcdshub.github.io/lcls-plc-polycapillary>`_
     * - `pcdshub/lcls-plc-qrix-motion <https://github.com/pcdshub/lcls-plc-qrix-motion>`_
-      - `719544d <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_
+      - `v0.1.0~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_
       - `pcdshub/lcls-plc-qrix-motion Docs <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
     * - `pcdshub/lcls-plc-qrix-vac <https://github.com/pcdshub/lcls-plc-qrix-vac>`_
       - `v0.0.6~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d8cff0a5d6ddf9d3417bd664e0d71801eb0b4c91>`_

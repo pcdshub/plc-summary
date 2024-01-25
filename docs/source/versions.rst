@@ -457,7 +457,7 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7e
 pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `569d626 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/569d6261c74eec3789438f183d3bc7a0938f4c11>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
+Version `5fcc908 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/5fcc9088db41d33782d5cf2e9f009d566aa06d4e>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-crixs-vac: PLC_CRIX_VAC
     :header-rows: 1
@@ -4335,7 +4335,7 @@ Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a
 pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `719544d <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `v0.1.0~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
     :header-rows: 1
