@@ -4335,7 +4335,7 @@ Version `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a
 pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v0.1.0~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d45d76a83ecbd9c8b2e23edc6b9b38d037>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
+Version `69ef3f9 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/69ef3f97f6c72d74fa70847018aece424b8fcb98>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-qrix-motion: PLC_QRIX_MOT
     :header-rows: 1
@@ -4350,7 +4350,7 @@ Version `v0.1.0~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d4
 
       - ``*`` SLAC
 
-      - ``2.8.2`` SLAC
+      - ``2.10.0`` SLAC
 
     * - PMPS
       -
@@ -4483,14 +4483,14 @@ Version `v0.1.0~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/719544d4
 
       - ``*`` SLAC
 
-      - ``2.2.0`` SLAC
+      - ``4.0.5`` SLAC
 
     * - lcls-twincat-optics
       -
 
       - ``*`` SLAC
 
-      - ``0.2.1`` SLAC
+      - ``0.6.1`` SLAC
 
 
 pcdshub/lcls-plc-qrix-vac: PLC_QRIX_VAC
@@ -6834,7 +6834,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.8.2``, SLAC
+      - ``2.10.0``, SLAC
 
 
     * - pcdshub/lcls-plc-qrix-vac:PLC_QRIX_VAC
@@ -7438,7 +7438,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``2.2.0``, SLAC
+      - ``4.0.5``, SLAC
 
 
 
@@ -7602,7 +7602,7 @@ lcls-twincat-optics
 
       - ``*``, SLAC
 
-      - ``0.2.1``, SLAC
+      - ``0.6.1``, SLAC
 
 
 
