@@ -118,7 +118,7 @@ This summary was generated |today|.
       - `f5d793a <https://github.com/pcdshub/lcls-plc-polycapillary/tree/f5d793a1bd00b14cdddbf2b9496e693a3e477e00>`_
       - `pcdshub/lcls-plc-polycapillary Docs <https://pcdshub.github.io/lcls-plc-polycapillary>`_
     * - `pcdshub/lcls-plc-qrix-motion <https://github.com/pcdshub/lcls-plc-qrix-motion>`_
-      - `69ef3f9 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/69ef3f97f6c72d74fa70847018aece424b8fcb98>`_
+      - `v0.2.0~1 <https://github.com/pcdshub/lcls-plc-qrix-motion/tree/69ef3f97f6c72d74fa70847018aece424b8fcb98>`_
       - `pcdshub/lcls-plc-qrix-motion Docs <https://pcdshub.github.io/lcls-plc-qrix-motion>`_
     * - `pcdshub/lcls-plc-qrix-vac <https://github.com/pcdshub/lcls-plc-qrix-vac>`_
       - `v0.0.6~1 <https://github.com/pcdshub/lcls-plc-qrix-vac/tree/d8cff0a5d6ddf9d3417bd664e0d71801eb0b4c91>`_
