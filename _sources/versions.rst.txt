@@ -3026,7 +3026,7 @@ Version `9daadf2 <https://github.com/pcdshub/lcls-plc-las-lps-01/tree/9daadf2fc8
 pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/ba9f0be8fb226502dba4628d4b12c96b6ad29226>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
+Version `v3.3.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/fe24b2967cdf5363f0e7b697dafae5091c06c287>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-arbiter>`_
 
 .. list-table:: pcdshub/lcls-plc-lfe-arbiter: ArbiterPLC
     :header-rows: 1
@@ -3037,18 +3037,18 @@ Version `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-lfe-arbiter/tree/ba9f0be8
       - Resolution
 
     * - LCLS General
-      - ``2.6.0`` SLAC
+      - ``2.10.0`` SLAC
 
       -
 
-      - ``2.6.0`` SLAC
+      -
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``3.0.14`` SLAC
+      - ``3.2.0`` SLAC
 
     * - SysDir
       -
@@ -6570,11 +6570,11 @@ LCLS General
       - Resolution
 
     * - pcdshub/lcls-plc-lfe-arbiter:ArbiterPLC
-      - ``2.6.0``, SLAC
+      - ``2.10.0``, SLAC
 
       -
 
-      - ``2.6.0``, SLAC
+      -
 
 
     * - pcdshub/lcls-plc-cvmi-motion:cvmi_motion
@@ -8221,7 +8221,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.14``, SLAC
+      - ``3.2.0``, SLAC
 
 
 
