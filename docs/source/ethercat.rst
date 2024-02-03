@@ -48392,7 +48392,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `endrun18-176-g76421ce <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/76421ceaa967be3174d6b04c209839e26c9a374b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/203692558bb3adbffb2e5e6d244a4075c5013bbc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. raw:: html
 
@@ -50855,7 +50855,7 @@ Version `endrun18-176-g76421ce <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                                           <td width="10%">
                                                             ID=264:
                                                           </td>
-                                                          <td width="75%">Term 264 (EL3054)
+                                                          <td width="75%">EL3054_MR2K2_FWM_PRSM
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -51746,7 +51746,7 @@ Version `endrun18-176-g76421ce <https://github.com/pcdshub/lcls-plc-rixs-optics/
                                                           <td width="10%">
                                                             ID=104:
                                                           </td>
-                                                          <td width="75%">EL3054_M4K2_FWM_PRSM
+                                                          <td width="75%">EL3054_MR3_4K2_FWM_PRSM
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
