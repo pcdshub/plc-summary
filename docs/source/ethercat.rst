@@ -16203,7 +16203,7 @@ Version `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tre
 pcdshub/lcls-plc-kfe-rix-motion
 -------------------------------
 
-Version `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/9b90d5a101aea52e0b345f78160fa357099a3bda>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `34f3a96 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/34f3a961811e3c772ef1a86c1aa0fb3872a2900f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. raw:: html
 
@@ -37176,7 +37176,7 @@ Version `de2d125 <https://github.com/pcdshub/lcls-plc-lfe-motion-kmono/tree/de2d
 pcdshub/lcls-plc-lfe-optics
 ---------------------------
 
-Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c60fcc826622021b813ddbfef08d733b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
+Version `v2.2.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/e03f6080c5adfaaa3ff063a4b47c0d31282cfedb>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
 
 .. raw:: html
 
@@ -37933,6 +37933,27 @@ Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c
 
                           </ul>
                         </details>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=69:
+                            </td>
+                            <td width="75%">Box 69 (EP2008-0001)
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EP2008-0001 8 Ch. Dig. Output 24V, 0,5A, M8
+                            </td>
+                          </tr>
+                        </table>
                       </li>
 
                 </ul>
