@@ -1794,7 +1794,7 @@ Version `v3.0.2-105-geb1d955 <https://github.com/pcdshub/lcls-plc-kfe-motion/tre
 pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/9b90d5a101aea52e0b345f78160fa357099a3bda>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
+Version `34f3a96 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/34f3a961811e3c772ef1a86c1aa0fb3872a2900f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-rix-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-kfe-rix-motion: kfe_rix_motion
     :header-rows: 1
@@ -1942,7 +1942,7 @@ Version `v2.3.0~1 <https://github.com/pcdshub/lcls-plc-kfe-rix-motion/tree/9b90d
 
       - ``*`` SLAC
 
-      - ``4.0.5`` SLAC
+      - ``4.0.6`` SLAC
 
     * - lcls-twincat-physics
       -
@@ -3474,7 +3474,7 @@ Version `de2d125 <https://github.com/pcdshub/lcls-plc-lfe-motion-kmono/tree/de2d
 pcdshub/lcls-plc-lfe-optics: lfe_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/fc738240c60fcc826622021b813ddbfef08d733b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
+Version `v2.2.0~1 <https://github.com/pcdshub/lcls-plc-lfe-optics/tree/e03f6080c5adfaaa3ff063a4b47c0d31282cfedb>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lfe-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-lfe-optics: lfe_optics
     :header-rows: 1
@@ -7289,7 +7289,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.0.5``, SLAC
+      - ``4.0.6``, SLAC
 
 
 
