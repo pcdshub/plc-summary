@@ -1060,7 +1060,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `v3.1.0~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/203692558bb3adbffb2e5e6d244a4075c5013bbc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9630fa863da4fd651b3a8a95cfd1e8eb81993c52>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-optics Axes
     :header-rows: 1
@@ -1463,7 +1463,7 @@ Version `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfe
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `v1.0.2~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/30972674d15d77693d572d4296a0d1b8750825d8>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/157b4197da90b2eeacc7db1b9162158be1e805f2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 No NC axes.
 
