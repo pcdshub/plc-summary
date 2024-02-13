@@ -199,7 +199,7 @@ and other issues.
       - true
 
     * - pcdshub/lcls-plc-tmo-optics
-      - 3.1.4022.30
+      - 3.1.4024.35
       - true
 
     * - pcdshub/lcls-plc-tmo-spectrometer-motion
@@ -5168,7 +5168,7 @@ Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics: tmo_optics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-140-g3c78445 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/3c78445153febb076c2c1a6cdc3ee2b539b6dfcc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-optics: tmo_optics
     :header-rows: 1
@@ -5242,18 +5242,18 @@ Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tre
       - ``1.0.1.0`` www.tcunit.org
 
     * - lcls-twincat-motion
-      - ``2.2.0`` SLAC
+      - ``4.0.5`` SLAC
 
       -
 
-      - ``2.2.0`` SLAC
+      - ``4.0.5`` SLAC
 
     * - lcls-twincat-optics
-      - ``0.5.0`` SLAC
-
       -
 
-      -
+      - ``*`` SLAC
+
+      - ``0.7.0`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -7477,11 +7477,11 @@ lcls-twincat-motion
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
-      - ``2.2.0``, SLAC
+      - ``4.0.5``, SLAC
 
       -
 
-      - ``2.2.0``, SLAC
+      - ``4.0.5``, SLAC
 
 
     * - pcdshub/lcls-plc-tmo-spectrometer-motion:tmo_spectrometer_motion
@@ -7620,11 +7620,11 @@ lcls-twincat-optics
 
 
     * - pcdshub/lcls-plc-tmo-optics:tmo_optics
-      - ``0.5.0``, SLAC
-
       -
 
-      -
+      - ``*``, SLAC
+
+      - ``0.7.0``, SLAC
 
 
 

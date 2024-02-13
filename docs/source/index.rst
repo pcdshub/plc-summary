@@ -142,7 +142,7 @@ This summary was generated |today|.
       - `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/962ce3a1de70eb12dfc0e8d9871ca66eedde7b3f>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
-      - `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_
+      - `R1.1.0-140-g3c78445 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/3c78445153febb076c2c1a6cdc3ee2b539b6dfcc>`_
       - `pcdshub/lcls-plc-tmo-optics Docs <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
     * - `pcdshub/lcls-plc-tmo-spectrometer-motion <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion>`_
       - `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tree/e0f00f2e756d7fec514b8aa8a8a1b9768f69857e>`_

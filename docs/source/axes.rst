@@ -1320,7 +1320,7 @@ Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
 
-Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-140-g3c78445 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/3c78445153febb076c2c1a6cdc3ee2b539b6dfcc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-optics Axes
     :header-rows: 1

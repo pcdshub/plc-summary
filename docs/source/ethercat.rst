@@ -57057,7 +57057,7 @@ Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
 
-Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/597fa1903dcec7f68f680c1947b558f03d140120>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
+Version `R1.1.0-140-g3c78445 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/3c78445153febb076c2c1a6cdc3ee2b539b6dfcc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-optics>`_
 
 .. raw:: html
 
@@ -57493,6 +57493,27 @@ Version `R1.1.0-127-g597fa19 <https://github.com/pcdshub/lcls-plc-tmo-optics/tre
 
                           </ul>
                         </details>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=69:
+                            </td>
+                            <td width="75%">EP2008-0001_M1K4_VCV
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EP2008-0001 8 Ch. Dig. Output 24V, 0,5A, M8
+                            </td>
+                          </tr>
+                        </table>
                       </li>
 
 
