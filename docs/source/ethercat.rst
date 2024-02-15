@@ -48413,7 +48413,7 @@ Version `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335
 pcdshub/lcls-plc-rixs-optics
 ----------------------------
 
-Version `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9630fa863da4fd651b3a8a95cfd1e8eb81993c52>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
+Version `endrun18-190-g2c873ef <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/2c873ef4b944dd6ae839b334cd94bebaaec09239>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
 
 .. raw:: html
 
@@ -59089,7 +59089,7 @@ Version `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tr
 pcdshub/lcls-plc-tmo-vac
 ------------------------
 
-Version `v1.04-15-ga355eb0 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/a355eb01035843b021475f60d408b0756a8722c2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
+Version `v1.04-20-g82f7ee1 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/82f7ee10435205460b9ec2121583b0ea0b847ab6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
 
 .. raw:: html
 
@@ -60101,6 +60101,27 @@ Version `v1.04-15-ga355eb0 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/a35
                                       </td>
                             <td colspan="2">
                               EL6692 EtherCAT Bridge terminal (Secondary)
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=122:
+                            </td>
+                            <td width="75%">Dream_ECAT (EL6695-0002)
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EL6695 EtherCAT Bridge terminal (Secondary)
                             </td>
                           </tr>
                         </table>

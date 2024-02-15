@@ -127,7 +127,7 @@ This summary was generated |today|.
       - `8335d3d <https://github.com/pcdshub/lcls-plc-rix-sds-injector/tree/8335d3d02a08af0d4e803ec1fa12e74f2e5f172f>`_
       - `pcdshub/lcls-plc-rix-sds-injector Docs <https://pcdshub.github.io/lcls-plc-rix-sds-injector>`_
     * - `pcdshub/lcls-plc-rixs-optics <https://github.com/pcdshub/lcls-plc-rixs-optics>`_
-      - `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/9630fa863da4fd651b3a8a95cfd1e8eb81993c52>`_
+      - `endrun18-190-g2c873ef <https://github.com/pcdshub/lcls-plc-rixs-optics/tree/2c873ef4b944dd6ae839b334cd94bebaaec09239>`_
       - `pcdshub/lcls-plc-rixs-optics Docs <https://pcdshub.github.io/lcls-plc-rixs-optics>`_
     * - `pcdshub/lcls-plc-roving-spectrometer <https://github.com/pcdshub/lcls-plc-roving-spectrometer>`_
       - `v0.1.0-7-gefe2857 <https://github.com/pcdshub/lcls-plc-roving-spectrometer/tree/efe2857f39add982601ac2bda0900c58fd69f642>`_
@@ -148,7 +148,7 @@ This summary was generated |today|.
       - `e0f00f2 <https://github.com/pcdshub/lcls-plc-tmo-spectrometer-motion/tree/e0f00f2e756d7fec514b8aa8a8a1b9768f69857e>`_
       - `pcdshub/lcls-plc-tmo-spectrometer-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-spectrometer-motion>`_
     * - `pcdshub/lcls-plc-tmo-vac <https://github.com/pcdshub/lcls-plc-tmo-vac>`_
-      - `v1.04-15-ga355eb0 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/a355eb01035843b021475f60d408b0756a8722c2>`_
+      - `v1.04-20-g82f7ee1 <https://github.com/pcdshub/lcls-plc-tmo-vac/tree/82f7ee10435205460b9ec2121583b0ea0b847ab6>`_
       - `pcdshub/lcls-plc-tmo-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-vac>`_
     * - `pcdshub/lcls-plc-txi-hxr-motion <https://github.com/pcdshub/lcls-plc-txi-hxr-motion>`_
       - `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-motion/tree/f014479834cc74e257e7b0340298eea29a33d77f>`_
