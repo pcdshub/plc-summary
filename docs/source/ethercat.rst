@@ -26632,7 +26632,7 @@ Version `V1.0.4-30-gcb288a9 <https://github.com/pcdshub/lcls-plc-lamp-motion/tre
 pcdshub/lcls-plc-lamp-vac
 -------------------------
 
-Version `v1.03-2-g781918c <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/781918c0f7ec3d167c96af7588524973769d43c3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
+Version `v1.03-4-gd8e2e86 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/d8e2e86eed082becc0be80ffaff0f331c9d198e2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
 
 .. raw:: html
 
@@ -53110,7 +53110,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/962ce3a1de70eb12dfc0e8d9871ca66eedde7b3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-177-gbf14a85 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/bf14a85c2a35af0e0dc15276379ef3f559023b1f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. raw:: html
 
@@ -55428,6 +55428,159 @@ Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
                                                             ID=118:
                                                           </td>
                                                           <td width="75%">SL2K4-EL9011
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9011 End Terminal
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+                                              </ul>
+                                            </details>
+                                          </li>
+
+
+                                          <li>
+                                            <details open>
+                                              <summary>
+                                                    <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=236:
+                                                </td>
+                                                <td width="75%">LI2K4-CF1K4 (EK1100)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EK1100 EtherCAT Coupler (2A E-Bus)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                              </summary>
+                                              <ul>
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=237:
+                                                          </td>
+                                                          <td width="75%">LI2K4Y-EL7047-E1
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL7047 1Ch. Stepper motor output stage (50V, 5A)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=238:
+                                                          </td>
+                                                          <td width="75%">LI2K4-EL5042-E2
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL5042 2Ch. BiSS-C Encoder
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=239:
+                                                          </td>
+                                                          <td width="75%">LI2K4X-EL7047-E3
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL7047 1Ch. Stepper motor output stage (50V, 5A)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=241:
+                                                          </td>
+                                                          <td width="75%">CF1K4-EL7047-E4
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL7047 1Ch. Stepper motor output stage (50V, 5A)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=247:
+                                                          </td>
+                                                          <td width="75%">CF1K4-EL5042-E5
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL5042 2Ch. BiSS-C Encoder
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=323:
+                                                          </td>
+                                                          <td width="75%">Term 323 (EL9011)
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -62844,7 +62997,7 @@ Version `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfe
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/157b4197da90b2eeacc7db1b9162158be1e805f2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `24db7af <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/24db7af4a71bb3b8efd8902e7694102858ec764b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 .. raw:: html
 
