@@ -67,7 +67,7 @@ This summary was generated |today|.
       - `V1.0.4-30-gcb288a9 <https://github.com/pcdshub/lcls-plc-lamp-motion/tree/cb288a96b7373d6a6949a1a24ed2cbb4d4f5343c>`_
       - `pcdshub/lcls-plc-lamp-motion Docs <https://pcdshub.github.io/lcls-plc-lamp-motion>`_
     * - `pcdshub/lcls-plc-lamp-vac <https://github.com/pcdshub/lcls-plc-lamp-vac>`_
-      - `v1.03-2-g781918c <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/781918c0f7ec3d167c96af7588524973769d43c3>`_
+      - `v1.03-4-gd8e2e86 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/d8e2e86eed082becc0be80ffaff0f331c9d198e2>`_
       - `pcdshub/lcls-plc-lamp-vac Docs <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
     * - `pcdshub/lcls-plc-lamp-vac-1 <https://github.com/pcdshub/lcls-plc-lamp-vac-1>`_
       - `f6e6594 <https://github.com/pcdshub/lcls-plc-lamp-vac-1/tree/f6e65940cb8838a5ad08c839e722a6ad4562eb0e>`_
@@ -139,7 +139,7 @@ This summary was generated |today|.
       - `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18c3e72a25fcf554a8024229021546>`_
       - `pcdshub/lcls-plc-sxr-satt Docs <https://pcdshub.github.io/lcls-plc-sxr-satt>`_
     * - `pcdshub/lcls-plc-tmo-motion <https://github.com/pcdshub/lcls-plc-tmo-motion>`_
-      - `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/962ce3a1de70eb12dfc0e8d9871ca66eedde7b3f>`_
+      - `v1.1.0-177-gbf14a85 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/bf14a85c2a35af0e0dc15276379ef3f559023b1f>`_
       - `pcdshub/lcls-plc-tmo-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
     * - `pcdshub/lcls-plc-tmo-optics <https://github.com/pcdshub/lcls-plc-tmo-optics>`_
       - `v3.2.0~1 <https://github.com/pcdshub/lcls-plc-tmo-optics/tree/3c78445153febb076c2c1a6cdc3ee2b539b6dfcc>`_
@@ -157,7 +157,7 @@ This summary was generated |today|.
       - `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfef66295d0ba7a26955225a3b8989aae420e>`_
       - `pcdshub/lcls-plc-txi-hxr-optics Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-optics>`_
     * - `pcdshub/lcls-plc-txi-hxr-vac <https://github.com/pcdshub/lcls-plc-txi-hxr-vac>`_
-      - `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/157b4197da90b2eeacc7db1b9162158be1e805f2>`_
+      - `24db7af <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/24db7af4a71bb3b8efd8902e7694102858ec764b>`_
       - `pcdshub/lcls-plc-txi-hxr-vac Docs <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
     * - `pcdshub/lcls-plc-txi-optics <https://github.com/pcdshub/lcls-plc-txi-optics>`_
       - `88cf22a <https://github.com/pcdshub/lcls-plc-txi-optics/tree/88cf22ae91a2bf92643a5bcb140d4881dd718502>`_

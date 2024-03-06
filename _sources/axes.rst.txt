@@ -535,7 +535,7 @@ Version `V1.0.4-30-gcb288a9 <https://github.com/pcdshub/lcls-plc-lamp-motion/tre
 pcdshub/lcls-plc-lamp-vac
 -------------------------
 
-Version `v1.03-2-g781918c <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/781918c0f7ec3d167c96af7588524973769d43c3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
+Version `v1.03-4-gd8e2e86 <https://github.com/pcdshub/lcls-plc-lamp-vac/tree/d8e2e86eed082becc0be80ffaff0f331c9d198e2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lamp-vac>`_
 
 No NC axes.
 
@@ -1220,7 +1220,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/962ce3a1de70eb12dfc0e8d9871ca66eedde7b3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-177-gbf14a85 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/bf14a85c2a35af0e0dc15276379ef3f559023b1f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
@@ -1316,6 +1316,12 @@ Version `v1.1.0-170-g962ce3a <https://github.com/pcdshub/lcls-plc-tmo-motion/tre
       - Thorlab-LenX
     * - Axis 44
       - FoilY
+    * - Axis 45
+      - Axis 45 LI2K4-MMS-Y
+    * - Axis 46
+      - Axis 46 LI2K4-MMS-X
+    * - Axis 47
+      - Axis 47 CF1K4-MMS-FILT
 
 pcdshub/lcls-plc-tmo-optics
 ---------------------------
@@ -1463,7 +1469,7 @@ Version `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfe
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/157b4197da90b2eeacc7db1b9162158be1e805f2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `24db7af <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/24db7af4a71bb3b8efd8902e7694102858ec764b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 No NC axes.
 
