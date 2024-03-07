@@ -1220,7 +1220,7 @@ Version `fd2d640 <https://github.com/pcdshub/lcls-plc-sxr-satt/tree/fd2d640c2d18
 pcdshub/lcls-plc-tmo-motion
 ---------------------------
 
-Version `v1.1.0-177-gbf14a85 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/bf14a85c2a35af0e0dc15276379ef3f559023b1f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
+Version `v1.1.0-179-g3264680 <https://github.com/pcdshub/lcls-plc-tmo-motion/tree/3264680522d9a4593ec0624d316fef07a49ffbd6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-motion Axes
     :header-rows: 1
@@ -1469,7 +1469,7 @@ Version `54ccfef <https://github.com/pcdshub/lcls-plc-txi-hxr-optics/tree/54ccfe
 pcdshub/lcls-plc-txi-hxr-vac
 ----------------------------
 
-Version `24db7af <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/24db7af4a71bb3b8efd8902e7694102858ec764b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
+Version `7a9b4a3 <https://github.com/pcdshub/lcls-plc-txi-hxr-vac/tree/7a9b4a38048ea68ca9e72df11de4cbd0e6e7c47a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-hxr-vac>`_
 
 No NC axes.
 
