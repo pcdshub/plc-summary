@@ -13,7 +13,7 @@ This summary was generated |today|.
       - `b4ba7a2 <https://github.com/pcdshub/lcls-plc-bergmann-kohzu/tree/b4ba7a2b2ad6e14db0fb9639d23d6271eb7e25f0>`_
       - `pcdshub/lcls-plc-bergmann-kohzu Docs <https://pcdshub.github.io/lcls-plc-bergmann-kohzu>`_
     * - `pcdshub/lcls-plc-crixs-motion <https://github.com/pcdshub/lcls-plc-crixs-motion>`_
-      - `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7ead9251468abb1c1ed2e7bb738b6fbab6d>`_
+      - `8de7265 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8de72651459a4678444068c160dccc9ffddd3243>`_
       - `pcdshub/lcls-plc-crixs-motion Docs <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
     * - `pcdshub/lcls-plc-crixs-vac <https://github.com/pcdshub/lcls-plc-crixs-vac>`_
       - `5fcc908 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/5fcc9088db41d33782d5cf2e9f009d566aa06d4e>`_
