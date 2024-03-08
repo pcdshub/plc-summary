@@ -343,7 +343,7 @@ Version `b4ba7a2 <https://github.com/pcdshub/lcls-plc-bergmann-kohzu/tree/b4ba7a
 pcdshub/lcls-plc-crixs-motion
 -----------------------------
 
-Version `v2.1.0~1 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/21e8e7ead9251468abb1c1ed2e7bb738b6fbab6d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
+Version `8de7265 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8de72651459a4678444068c160dccc9ffddd3243>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
 
 .. raw:: html
 
