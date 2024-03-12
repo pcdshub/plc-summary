@@ -16,7 +16,7 @@ This summary was generated |today|.
       - `8de7265 <https://github.com/pcdshub/lcls-plc-crixs-motion/tree/8de72651459a4678444068c160dccc9ffddd3243>`_
       - `pcdshub/lcls-plc-crixs-motion Docs <https://pcdshub.github.io/lcls-plc-crixs-motion>`_
     * - `pcdshub/lcls-plc-crixs-vac <https://github.com/pcdshub/lcls-plc-crixs-vac>`_
-      - `5fcc908 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/5fcc9088db41d33782d5cf2e9f009d566aa06d4e>`_
+      - `03a5d28 <https://github.com/pcdshub/lcls-plc-crixs-vac/tree/03a5d28e85b009c78bc2b14e41ac54f097bb4990>`_
       - `pcdshub/lcls-plc-crixs-vac Docs <https://pcdshub.github.io/lcls-plc-crixs-vac>`_
     * - `pcdshub/lcls-plc-cvmi-motion <https://github.com/pcdshub/lcls-plc-cvmi-motion>`_
       - `v1.1.2-9-g7e73ab9 <https://github.com/pcdshub/lcls-plc-cvmi-motion/tree/7e73ab9cdcfb5b2c3df8b0bace2744612c79889e>`_
