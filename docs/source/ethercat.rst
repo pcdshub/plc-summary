@@ -25920,7 +25920,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">EL6695_00_14
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit qrix-motion
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
