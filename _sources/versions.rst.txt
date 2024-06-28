@@ -1066,6 +1066,13 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``2.10.0`` SLAC
 
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.3.0`` SLAC
+
     * - Tc2_ControllerToolbox
       -
 
@@ -1109,11 +1116,11 @@ Version `unknown <>`_ - `Documentation <>`_
       -
 
     * - lcls-twincat-motion
-      - ``4.0.5`` SLAC
+      - ``4.1.1`` SLAC
 
       -
 
-      - ``4.0.5`` SLAC
+      - ``4.1.1`` SLAC
 
     * - lcls-twincat-optics
       - ``0.7.0`` SLAC
@@ -7526,11 +7533,11 @@ lcls-twincat-motion
 
 
     * - unknown:txi_optics
-      - ``4.0.5``, SLAC
+      - ``4.1.1``, SLAC
 
       -
 
-      - ``4.0.5``, SLAC
+      - ``4.1.1``, SLAC
 
 
 
@@ -8458,6 +8465,13 @@ PMPS
 
       - ``3.0.14``, SLAC
 
+
+    * - unknown:txi_optics
+      -
+
+      - ``*``, SLAC
+
+      - ``3.3.0``, SLAC
 
 
     * - unknown:txi_sxr_vac
