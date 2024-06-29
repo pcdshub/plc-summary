@@ -5701,11 +5701,11 @@ Version `unknown <>`_ - `Documentation <>`_
       - ``2.8.2`` SLAC
 
     * - PMPS
-      - ``3.0.14`` SLAC
+      - ``3.3.0`` SLAC
 
       -
 
-      - ``3.0.14`` SLAC
+      - ``3.3.0`` SLAC
 
     * - Tc2_MC2
       -
@@ -8434,11 +8434,11 @@ PMPS
 
 
     * - unknown:tmo_optics
-      - ``3.0.14``, SLAC
+      - ``3.3.0``, SLAC
 
       -
 
-      - ``3.0.14``, SLAC
+      - ``3.3.0``, SLAC
 
 
 
