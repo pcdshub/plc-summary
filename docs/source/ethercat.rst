@@ -61038,6 +61038,27 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
+                    ID=100:
+                  </td>
+                  <td width="75%">EL3174_01_8A
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
                     ID=30:
                   </td>
                   <td width="75%">EL3174_01_09
@@ -61122,7 +61143,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=33:
+                    ID=108:
                   </td>
                   <td width="75%">EL9410_01_13
                   </td>
@@ -61164,9 +61185,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=35:
+                    ID=109:
                   </td>
-                  <td width="75%">EL1004_01_15
+                  <td width="75%">EL3064_01_15
                   </td>
                   <td>        </td>
                 </tr>
@@ -61174,7 +61195,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL1004 4Ch. Dig. Input 24V, 3ms
+                    EL3064 4Ch. Ana. Input 0-10V
                   </td>
                 </tr>
               </table>
@@ -61185,7 +61206,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=36:
+                    ID=110:
                   </td>
                   <td width="75%">EL1004_01_16
                   </td>
@@ -61206,7 +61227,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=37:
+                    ID=111:
                   </td>
                   <td width="75%">EL2794_01_17
                   </td>
@@ -61227,30 +61248,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=38:
+                    ID=112:
                   </td>
-                  <td width="75%">EK1122_01_01
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EK1122-0080 2 port EtherCAT junction (Fast Hot Connect)
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=39:
-                  </td>
-                  <td width="75%">EK1110_01_01
+                  <td width="75%">EK1110_01_18
                   </td>
                   <td>        </td>
                 </tr>
@@ -61613,9 +61613,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=72:
+                    ID=129:
                   </td>
-                  <td width="75%">EL1008_02_16
+                  <td width="75%">EL3064_02_16
                   </td>
                   <td>        </td>
                 </tr>
@@ -61623,7 +61623,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL1008 8Ch. Dig. Input 24V, 3ms
+                    EL3064 4Ch. Ana. Input 0-10V
                   </td>
                 </tr>
               </table>
@@ -61634,9 +61634,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=57:
+                    ID=130:
                   </td>
-                  <td width="75%">EL2008_02_17
+                  <td width="75%">EL2794_02_17
                   </td>
                   <td>        </td>
                 </tr>
@@ -61644,7 +61644,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL2008 8Ch. Dig. Output 24V, 0.5A
+                    EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
                   </td>
                 </tr>
               </table>
@@ -62196,9 +62196,72 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
+                    ID=158:
+                  </td>
+                  <td width="75%">EL2624_04_05
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL2624 4Ch. Relay Output, NO (125V AC / 30V DC)
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=159:
+                  </td>
+                  <td width="75%">EL1004_04_06
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=160:
+                  </td>
+                  <td width="75%">EL1004_04_07
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
                     ID=152:
                   </td>
-                  <td width="75%">EL9011_04_05
+                  <td width="75%">EL9011_04_08
                   </td>
                   <td>        </td>
                 </tr>
