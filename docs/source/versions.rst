@@ -5950,7 +5950,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.3.3`` SLAC
+      - ``2.3.4`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -7077,7 +7077,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.3``, SLAC
+      - ``2.3.4``, SLAC
 
 
     * - unknown:plc_lfe_gem
