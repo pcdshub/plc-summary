@@ -75,7 +75,7 @@ and other issues.
       - 
 
     * - unknown
-      - 3.1.4022.30
+      - 3.1.4024.35
       - true
 
     * - unknown
@@ -1974,7 +1974,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``4.0.8`` SLAC
+      - ``4.1.1`` SLAC
 
     * - lcls-twincat-physics
       -
@@ -7304,7 +7304,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.0.8``, SLAC
+      - ``4.1.1``, SLAC
 
 
 
