@@ -2170,7 +2170,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.4.0`` SLAC
+      - ``3.5.0`` SLAC
 
     * - lcls-twincat-motion
       -
@@ -7240,7 +7240,7 @@ lcls-twincat-common-components
 
       - ``*``, SLAC
 
-      - ``3.4.0``, SLAC
+      - ``3.5.0``, SLAC
 
 
 
