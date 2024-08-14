@@ -21726,7 +21726,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                 <td width="10%">
                                                   ID=236:
                                                 </td>
-                                                <td width="75%">LI2K4-AT2K4 (EK1100)
+                                                <td width="75%">LI2K4-PA1K4 (EK1100)
                                                 </td>
                                                 <td>        </td>
                                               </tr>
@@ -21810,7 +21810,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=241:
                                                           </td>
-                                                          <td width="75%">AT2K4-EL7047-E4
+                                                          <td width="75%">PA1K4-PF-EL7047-E4
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -21831,7 +21831,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=247:
                                                           </td>
-                                                          <td width="75%">AT2K4-EL5042-E5
+                                                          <td width="75%">PA1K4-PF-EL5042-E5
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
