@@ -514,7 +514,7 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Axis 46
       - Axis 46 LI2K4-MMS-X
     * - Axis 47
-      - Axis 47 AT2K4-MMS-FILT
+      - PA1K4-PF-MMS
 
 unknown
 -------
