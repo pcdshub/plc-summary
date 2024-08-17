@@ -35640,6 +35640,29 @@ Version `unknown <>`_ - `Documentation <>`_
                         </table>
                       </li>
 
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=55:
+                            </td>
+                            <td width="75%">plc-txi-optics
+                            </td>
+                            <td>            <b>
+                                  SyncUnit txi
+                                </b>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EL6695 EtherCAT Bridge terminal (Secondary)
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
                 </ul>
               </details>
             </li>
