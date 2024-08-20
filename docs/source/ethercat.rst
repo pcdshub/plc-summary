@@ -41736,13 +41736,11 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=31:
+                                        ID=207:
                                       </td>
                                       <td width="75%">IM1L0-EL7342
                                       </td>
-                                      <td>            <b>
-                                            SyncUnit IM1L0
-                                          </b>        </td>
+                                      <td>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -42728,6 +42726,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                       </table>
                                                     </li>
 
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=321:
+                                                          </td>
+                                                          <td width="75%">Term 321 (EL9011)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9011 End Terminal
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
                                               </ul>
                                             </details>
                                           </li>
@@ -43031,6 +43050,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                       </table>
                                                     </li>
 
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=322:
+                                                          </td>
+                                                          <td width="75%">Term 322 (EL9011)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9011 End Terminal
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
                                               </ul>
                                             </details>
                                           </li>
@@ -43159,13 +43199,11 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
-                                                            ID=39:
+                                                            ID=266:
                                                           </td>
                                                           <td width="75%">IM2L0-EL7342
                                                           </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM2L0
-                                                              </b>        </td>
+                                                          <td>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -44379,6 +44417,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=300:
+                                                          </td>
+                                                          <td width="75%">IM3L0-EL1004
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=57:
                                                           </td>
                                                           <td width="75%">IM3L0-EL9011
@@ -44588,6 +44647,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=309:
+                                                          </td>
+                                                          <td width="75%">IM1L1-EL1004
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=65:
                                                           </td>
                                                           <td width="75%">IM1L1-EL9011
@@ -44732,13 +44812,11 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
-                                                            ID=46:
+                                                            ID=315:
                                                           </td>
                                                           <td width="75%">IM4L0-EL7342
                                                           </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM4L0
-                                                              </b>        </td>
+                                                          <td>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -44831,27 +44909,6 @@ Version `unknown <>`_ - `Documentation <>`_
 
                 </ul>
               </details>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=6:
-                  </td>
-                  <td width="75%">PLC End Cap (EL9011)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL9011 End Terminal
-                  </td>
-                </tr>
-              </table>
             </li>
 
       </ul>
