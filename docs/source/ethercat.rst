@@ -21456,6 +21456,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                             </table>
                                           </li>
 
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=235:
+                                                </td>
+                                                <td width="75%">EP3174-FWM-E2
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EP3174-0002 4Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
                                     </ul>
                                   </details>
                                 </li>
