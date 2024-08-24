@@ -203,8 +203,8 @@ and other issues.
       - true
 
     * - unknown
-      - 3.1.4022.30
-      - 
+      - 3.1.4024.35
+      - true
 
     * - unknown
       - 3.1.4024.35
@@ -4900,14 +4900,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.6.0`` SLAC
+      - ``2.8.2`` SLAC
 
     * - PMPS
-      - ``3.0.14`` SLAC
+      - ``3.3.0`` SLAC
 
       -
 
-      - ``3.0.14`` SLAC
+      - ``3.3.0`` SLAC
 
     * - Tc2_ControllerToolbox
       -
@@ -5008,18 +5008,25 @@ Version `unknown <>`_ - `Documentation <>`_
       -
 
     * - lcls-twincat-motion
-      - ``1.8.0`` SLAC
+      - ``4.0.9`` SLAC
 
       -
 
-      - ``1.8.0`` SLAC
+      - ``4.0.9`` SLAC
 
     * - lcls-twincat-optics
-      - ``0.4.1`` SLAC
+      - ``0.7.0`` SLAC
 
       -
 
       -
+
+    * - lcls2-cc-lib
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
 
     * - visuinputs
       -
@@ -6658,7 +6665,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.6.0``, SLAC
+      - ``2.8.2``, SLAC
 
 
     * - unknown:LiquidJetPLC
@@ -7359,11 +7366,11 @@ lcls-twincat-motion
 
 
     * - unknown:lfe_optics
-      - ``1.8.0``, SLAC
+      - ``4.0.9``, SLAC
 
       -
 
-      - ``1.8.0``, SLAC
+      - ``4.0.9``, SLAC
 
 
     * - unknown:LiquidJetPLC
@@ -7587,7 +7594,7 @@ lcls-twincat-optics
 
 
     * - unknown:lfe_optics
-      - ``0.4.1``, SLAC
+      - ``0.7.0``, SLAC
 
       -
 
@@ -7810,6 +7817,13 @@ lcls2-cc-lib
 
       - ``1.1.2``, SLAC
 
+
+    * - unknown:lfe_optics
+      -
+
+      - ``*``, SLAC
+
+      - ``2.0.0``, SLAC
 
 
 
@@ -8244,11 +8258,11 @@ PMPS
 
 
     * - unknown:lfe_optics
-      - ``3.0.14``, SLAC
+      - ``3.3.0``, SLAC
 
       -
 
-      - ``3.0.14``, SLAC
+      - ``3.3.0``, SLAC
 
 
     * - unknown:LiquidJetPLC
