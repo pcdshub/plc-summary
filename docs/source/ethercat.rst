@@ -28720,9 +28720,30 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
+                                        ID=99:
+                                      </td>
+                                      <td width="75%">K4S8_DRL_03_E21_EL3052
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3052 2Ch. Ana. Input 4-20mA
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
                                         ID=35:
                                       </td>
-                                      <td width="75%">K4S8_DRL_03_E21_EL9011
+                                      <td width="75%">K4S8_DRL_03_E22_EL9011
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -29125,9 +29146,30 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
+                                        ID=117:
+                                      </td>
+                                      <td width="75%">K4S8_DRL_04_E18_EL2794
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
                                         ID=64:
                                       </td>
-                                      <td width="75%">K4S8_DRL_04_E18_EL9011
+                                      <td width="75%">K4S8_DRL_04_E19_EL9011
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -32868,7 +32910,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">Camera X (EL7041)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit hot connect
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -47713,7 +47757,9 @@ Version `unknown <>`_ - `Documentation <>`_
                           </tr>
                           <tr>
                             <td>
-                                      </td>
+                                          <b>
+                                  Disabled
+                                </b>        </td>
                             <td colspan="2">
                               590 - All-metal variable leak valve
                             </td>
@@ -62142,9 +62188,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=74:
+                    ID=144:
                   </td>
-                  <td width="75%">EL1008_03_17
+                  <td width="75%">EL1004_03_17
                   </td>
                   <td>        </td>
                 </tr>
@@ -62152,7 +62198,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL1008 8Ch. Dig. Input 24V, 3ms
+                    EL1004 4Ch. Dig. Input 24V, 3ms
                   </td>
                 </tr>
               </table>
@@ -62360,9 +62406,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=152:
+                    ID=163:
                   </td>
-                  <td width="75%">EL9011_04_08
+                  <td width="75%">EK1110_04_08
                   </td>
                   <td>        </td>
                 </tr>
@@ -62370,7 +62416,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL9011 End Terminal
+                    EK1110 EtherCAT extension
                   </td>
                 </tr>
               </table>
