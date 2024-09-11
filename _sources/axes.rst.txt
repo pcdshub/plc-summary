@@ -698,9 +698,9 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Axis 18
       - Axis 18 - SDS Injector Z
     * - Axis 19
-      - Axis 19 - SDS Rotation Y
+      - Axis 19 - SDS Rotation X
     * - Axis 20
-      - Axis 20 - SDS Shroud Rotation
+      - Axis 20 - SDS Jet Rotation
     * - Axis 21
       - Axis 21 - Questar Focus
     * - Axis 22
