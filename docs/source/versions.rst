@@ -5225,11 +5225,11 @@ Version `unknown <>`_ - `Documentation <>`_
       - ``1.1.0.0`` www.tcunit.org
 
     * - lcls-twincat-motion
-      - ``4.0.8`` SLAC
+      - ``4.1.1`` SLAC
 
       -
 
-      - ``4.0.8`` SLAC
+      - ``4.1.1`` SLAC
 
     * - lcls-twincat-optics
       -
@@ -7474,11 +7474,11 @@ lcls-twincat-motion
 
 
     * - unknown:rixs_optics
-      - ``4.0.8``, SLAC
+      - ``4.1.1``, SLAC
 
       -
 
-      - ``4.0.8``, SLAC
+      - ``4.1.1``, SLAC
 
 
     * - unknown:sdsinjector
