@@ -175,8 +175,8 @@ and other issues.
       - 
 
     * - unknown
-      - 3.1.4022.30
-      - 
+      - 3.1.4024.20
+      - true
 
     * - unknown
       - 3.1.4022.30
@@ -4193,28 +4193,28 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.3.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.4.26.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.21.0`` Beckhoff
 
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``*`` SLAC
+      - ``4.1.1`` SLAC
 
 
 unknown: cvmi_motion
@@ -7555,7 +7555,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``4.1.1``, SLAC
 
 
 
@@ -11439,7 +11439,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.3.0``, Beckhoff
 
 
 
@@ -12028,7 +12028,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.4.26.0``, Beckhoff
 
 
 
@@ -13785,7 +13785,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.21.0``, Beckhoff
 
 
 
