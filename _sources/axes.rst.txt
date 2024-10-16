@@ -807,6 +807,50 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis 13 MFX-LJ-SS_BOT_X
     * - Axis 14
       - Axis 14 MFX-LJ-SS-BOT-Y
+    * - Axis 15
+      - Axis 15 MFX-SPEC-C1-X
+    * - Axis 16
+      - Axis 16 MFX-SPEC-C1-ROT
+    * - Axis 17
+      - Axis 17 MFX-SPEC-C1-TILT
+    * - Axis 18
+      - Axis 18 MFX-SPEC-C2-X
+    * - Axis 19
+      - Axis 19 MFX-SPEC-C2-ROT
+    * - Axis 20
+      - Axis 20 MFX-SPEC-C2-TILT
+    * - Axis 21
+      - Axis 21 MFX-SPEC-C3-X
+    * - Axis 22
+      - Axis 22 MFX-SPEC-C3-ROT
+    * - Axis 23
+      - Axis 23 MFX-SPEC-C3-TILT
+    * - Axis 24
+      - Axis 24 MFX-SPEC-C4-X
+    * - Axis 25
+      - Axis 25 MFX-SPEC-C4-ROT
+    * - Axis 26
+      - Axis 26 MFX-SPEC-C4-TILT
+    * - Axis 27
+      - Axis 27 MFX-SPEC-C5-X
+    * - Axis 28
+      - Axis 28 MFX-SPEC-C5-ROT
+    * - Axis 29
+      - Axis 29 MFX-SPEC-C5-TILT
+    * - Axis 30
+      - Axis 30 MFX-SPEC-C6-X
+    * - Axis 31
+      - Axis 31 MFX-SPEC-C6-ROT
+    * - Axis 32
+      - Axis 32 MFX-SPEC-C6-TILT
+    * - Axis 33
+      - Axis 33 MFX-SPEC-T1
+    * - Axis 34
+      - Axis 34 MFX-SPEC-T2
+    * - Axis 35
+      - Axis 35 MFX-SPEC-T3
+    * - Axis 36
+      - Axis 36 MFX-SPEC-ROT
 
 unknown
 -------
