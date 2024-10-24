@@ -1967,7 +1967,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.8.1`` SLAC
+      - ``3.8.2`` SLAC
 
     * - lcls-twincat-motion
       -
@@ -7188,7 +7188,7 @@ lcls-twincat-common-components
 
       - ``*``, SLAC
 
-      - ``3.8.1``, SLAC
+      - ``3.8.2``, SLAC
 
 
 
