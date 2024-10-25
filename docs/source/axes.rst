@@ -944,6 +944,22 @@ Version `unknown <>`_ - `Documentation <>`_
 
     * - Axis 1
       - Axis 1 AL1K3-L2SI-MMS
+    * - Axis 2
+      - Axis 2  AT2K2-SOLID-MMS-01
+    * - Axis 3
+      - Axis 3  AT2K2-SOLID-MMS-02
+    * - Axis 4
+      - Axis 4  AT2K2-SOLID-MMS-03
+    * - Axis 5
+      - Axis 5  AT2K2-SOLID-MMS-04
+    * - Axis 6
+      - SL1K3-BOTTOM-M6
+    * - Axis 7
+      - SL1K3-TOP-M7
+    * - Axis 8
+      - SL1K3-NORTH-M8
+    * - Axis 9
+      - SL1K3-SOUTH-M9
 
 unknown
 -------
