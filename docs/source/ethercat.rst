@@ -27289,7 +27289,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=16:
+                    ID=31:
                   </td>
                   <td width="75%">CVMI_PLC_E03_EL9184
                   </td>
@@ -27310,13 +27310,11 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=20:
+                    ID=4:
                   </td>
                   <td width="75%">CVMI_PLC_E04_EL6692
                   </td>
-                  <td>            <b>
-                        SyncUnit EcatBridge
-                      </b>        </td>
+                  <td>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -27375,7 +27373,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=23:
+                    ID=7:
                   </td>
                   <td width="75%">CVMI_PLC_E07_EL2088
                   </td>
@@ -27438,7 +27436,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=28:
+                    ID=10:
                   </td>
                   <td width="75%">CVMI_PLC_E10_EL2088
                   </td>
@@ -27545,7 +27543,7 @@ Version `unknown <>`_ - `Documentation <>`_
                       <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=31:
+                    ID=15:
                   </td>
                   <td width="75%">CVMI_PLC_E15_EK1122
                   </td>
@@ -27568,7 +27566,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                 <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=4:
+                              ID=16:
                             </td>
                             <td width="75%">CVMI_PNL1_EP00_EP9128-0021
                             </td>
@@ -27589,7 +27587,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=33:
+                                        ID=17:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP01_EP2338-0002
                                       </td>
@@ -27610,7 +27608,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=34:
+                                        ID=18:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP02_EP2624-0002
                                       </td>
@@ -27631,7 +27629,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=35:
+                                        ID=19:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP03_EP6002-0002
                                       </td>
@@ -27652,7 +27650,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=36:
+                                        ID=20:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP04_EP2338-0002
                                       </td>
@@ -27673,7 +27671,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=37:
+                                        ID=21:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP05_EP2624-0002
                                       </td>
@@ -27694,7 +27692,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=38:
+                                        ID=22:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP06_EP6002-0002
                                       </td>
@@ -27715,7 +27713,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=39:
+                                        ID=23:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP07_EP3174-0002
                                       </td>
@@ -27736,7 +27734,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=40:
+                                        ID=24:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP08_EP3174-0002
                                       </td>
@@ -27757,7 +27755,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=41:
+                                        ID=25:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP09_EP3174-0002
                                       </td>
@@ -27778,7 +27776,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=42:
+                                        ID=26:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP10_EP2624-0002
                                       </td>
@@ -27799,7 +27797,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=43:
+                                        ID=27:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP11_EP2338-0002
                                       </td>
@@ -27820,7 +27818,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=44:
+                                        ID=28:
                                       </td>
                                       <td width="75%">CVMI_PNL1_EP12_EP2338-0002
                                       </td>
@@ -27838,14 +27836,12 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                 <li>
-                                  <details open>
-                                    <summary>
-                                          <table width="100%">
+                                      <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=45:
+                                        ID=29:
                                       </td>
-                                      <td width="75%">Term 45 (EP9128-1021)
+                                      <td width="75%">Term 29 (EP9128-1021)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -27857,31 +27853,6 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                                     </tr>
                                   </table>
-                                    </summary>
-                                    <ul>
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=46:
-                                                </td>
-                                                <td width="75%">CVMI_DCT_02_EP9224-0023
-                                                </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EP9224-0023 4Ch/4Ch enhanced Power Distribution for EtherCAT Box Modules
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-                                    </ul>
-                                  </details>
                                 </li>
 
 
@@ -27889,9 +27860,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=48:
+                                        ID=30:
                                       </td>
-                                      <td width="75%">Term 48 (EP9128-2021)
+                                      <td width="75%">Term 30 (EP9128-2021)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -29125,30 +29096,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=114:
+                                        ID=118:
                                       </td>
-                                      <td width="75%">K4S8_DRL_04_E17_EL6021
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL6021 Interface (RS422/485)
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=117:
-                                      </td>
-                                      <td width="75%">K4S8_DRL_04_E18_EL2794
+                                      <td width="75%">K4S8_DRL_04_E17_EL6001
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -29156,7 +29106,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                        EL6001 Interface (RS232)
                                       </td>
                                     </tr>
                                   </table>
@@ -29169,7 +29119,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=64:
                                       </td>
-                                      <td width="75%">K4S8_DRL_04_E19_EL9011
+                                      <td width="75%">K4S8_DRL_04_E18_EL9011
                                       </td>
                                       <td>        </td>
                                     </tr>
