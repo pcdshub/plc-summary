@@ -100,7 +100,7 @@ and other issues.
 
     * - unknown
       - 3.1.4022.30
-      - 
+      - true
 
     * - unknown
       - 3.1.4024.35
@@ -2394,154 +2394,49 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.6.0`` SLAC
+      - ``2.11.0`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.1.0`` SLAC
+      - ``2.3.5`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
-      - ``1.2.2`` SLAC
-
-    * - PMPS
-      -
-
-      -
-
-      - ``2.0.0`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
-
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
-    * - Tc2_MC2
-      -
-
-      -
-
-      - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
+      - ``1.3.2`` SLAC
 
     * - Tc2_SerialCom
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.7.0`` Beckhoff
+      - ``3.3.10.0`` Beckhoff
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.3.0`` Beckhoff
+      -
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      - ``3.4.24.0`` Beckhoff
-
-    * - Tc2_TcpIp
       -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
-    * - Tc2_Utilities
-      -
-
-      -
-
-      - ``3.3.41.0`` Beckhoff
-
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
       -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
 
 
 unknown: lcls_plc_dream_vac
@@ -6733,7 +6628,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.6.0``, SLAC
+      - ``2.11.0``, SLAC
 
 
 
@@ -7024,7 +6919,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.1.0``, SLAC
+      - ``2.3.5``, SLAC
 
 
 
@@ -8053,7 +7948,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``1.2.2``, SLAC
+      - ``1.3.2``, SLAC
 
 
 
@@ -8310,13 +8205,6 @@ PMPS
 
       - ``3.0.14``, SLAC
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``2.0.0``, SLAC
 
 
 
@@ -8588,13 +8476,6 @@ SysDir
 
 
 
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.5.8.0``, System
-
 
 
     * - unknown:plc_kfe_gatt
@@ -8794,13 +8675,6 @@ SysFile
       - ``3.5.9.0``, System
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.5.9.0``, System
 
 
 
@@ -9199,13 +9073,6 @@ Tc2_DataExchange
 
 
 
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.5.0``, Beckhoff
-
 
 
     * - unknown:plc_kfe_gatt
@@ -9426,13 +9293,6 @@ Tc2_EtherCAT
       - ``3.3.15.0``, Beckhoff
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.15.0``, Beckhoff
 
 
     * - unknown:plc_ftl_leak_det
@@ -9662,13 +9522,6 @@ Tc2_IoFunctions
 
 
 
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.13.0``, Beckhoff
-
 
 
     * - unknown:plc_kfe_gatt
@@ -9882,13 +9735,6 @@ Tc2_Math
       - ``3.3.1.0``, Beckhoff
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.1.0``, Beckhoff
 
 
 
@@ -10152,13 +9998,6 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.42.0``, Beckhoff
 
 
 
@@ -10490,13 +10329,6 @@ Tc2_ModbusSrv
 
 
 
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.2.0``, Beckhoff
-
 
 
     * - unknown:plc_kfe_gatt
@@ -10758,7 +10590,7 @@ Tc2_SerialCom
 
       - ``*``, Beckhoff
 
-      - ``3.3.7.0``, Beckhoff
+      - ``3.3.10.0``, Beckhoff
 
 
     * - unknown:plc_ftl_leak_det
@@ -11175,7 +11007,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      - ``3.3.3.0``, Beckhoff
+      -
 
 
     * - unknown:plc_ftl_leak_det
@@ -11764,7 +11596,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``3.4.24.0``, Beckhoff
+      -
 
 
     * - unknown:plc_ftl_leak_det
@@ -12208,13 +12040,6 @@ Tc2_TcpIp
 
 
 
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.6.0``, Beckhoff
-
 
 
     * - unknown:plc_kfe_gatt
@@ -12477,13 +12302,6 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.41.0``, Beckhoff
 
 
 
@@ -12769,13 +12587,6 @@ Tc3_EventLogger
 
 
 
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.1.24.0``, Beckhoff
-
 
 
     * - unknown:plc_kfe_gatt
@@ -12954,13 +12765,6 @@ Tc3_Interfaces
 
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
 
 
 
@@ -13147,13 +12951,6 @@ Tc3_JsonXml
       - ``3.3.14.0``, Beckhoff
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``3.3.14.0``, Beckhoff
 
 
 
@@ -13521,7 +13318,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      - ``3.3.21.0``, Beckhoff
+      -
 
 
     * - unknown:plc_ftl_leak_det
@@ -13876,13 +13673,6 @@ TcUnit
       - ``1.2.0.0``, www.tcunit.org
 
 
-
-    * - unknown:plc_cvmi_vac
-      -
-
-      -
-
-      - ``1.1.0.0``, www.tcunit.org
 
 
 
