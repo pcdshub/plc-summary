@@ -364,7 +364,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.0.14`` SLAC
+      - ``3.3.0`` SLAC
 
     * - SysDir
       -
@@ -8305,7 +8305,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.14``, SLAC
+      - ``3.3.0``, SLAC
 
 
     * - unknown:qrix_motion
