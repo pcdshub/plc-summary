@@ -4497,11 +4497,11 @@ Version `unknown <>`_ - `Documentation <>`_
       - ``2.3.0`` SLAC
 
     * - PMPS
+      - ``3.2.1`` SLAC
+
       -
 
       - ``*`` SLAC
-
-      - ``3.0.14`` SLAC
 
     * - SysDir
       -
@@ -8277,11 +8277,11 @@ PMPS
 
 
     * - unknown:plc_lfe_vac
+      - ``3.2.1``, SLAC
+
       -
 
       - ``*``, SLAC
-
-      - ``3.0.14``, SLAC
 
 
     * - unknown:plc_mrco_vac
