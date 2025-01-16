@@ -4993,6 +4993,13 @@ Version `unknown <>`_ - `Documentation <>`_
       - Placeholder
       - Resolution
 
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``*`` SLAC
+
     * - Tc2_MC2
       -
 
@@ -5028,12 +5035,19 @@ Version `unknown <>`_ - `Documentation <>`_
 
       -
 
-    * - lcls-twincat-motion
+    * - lcls-twincat-math
       -
 
       - ``*`` SLAC
 
       - ``*`` SLAC
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``0.0.0`` SLAC
 
 
 unknown: rixs_optics
@@ -6597,6 +6611,13 @@ LCLS General
 
 
 
+    * - unknown:mrco_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``*``, SLAC
+
 
 
     * - unknown:plc-polycap-01
@@ -7156,6 +7177,87 @@ lcls-twincat-common-components
 
 
 
+lcls-twincat-math
+^^^^^^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * - unknown:mrco_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``*``, SLAC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 lcls-twincat-motion
 ^^^^^^^^^^^^^^^^^^^
 
@@ -7307,7 +7409,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``0.0.0``, SLAC
 
 
 
