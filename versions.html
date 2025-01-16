@@ -121,6 +121,7 @@
 <li class="toctree-l3"><a class="reference internal" href="#lcls-general">LCLS General</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#lcls-vacuum">LCLS Vacuum</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-common-components">lcls-twincat-common-components</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-math">lcls-twincat-math</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-motion">lcls-twincat-motion</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-optics">lcls-twincat-optics</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#lcls-twincat-physics">lcls-twincat-physics</a></li>
@@ -195,7 +196,7 @@
              
   <section id="twincat-versions">
 <h1>TwinCAT Versions<a class="headerlink" href="#twincat-versions" title="Link to this heading"></a></h1>
-<p>This summary was generated Jan 15 2025 at 04:19:25 (-0800).</p>
+<p>This summary was generated Jan 16 2025 at 04:18:21 (-0800).</p>
 <p>This section lists the TwinCAT remote manager version for each project.
 This is not the PLC runtime version.
 A properly configured project will have the same runtime version (as in 4022)
@@ -453,7 +454,7 @@ and other issues.</p>
 </section>
 <section id="dependencies">
 <h1>Dependencies<a class="headerlink" href="#dependencies" title="Link to this heading"></a></h1>
-<p>This summary was generated Jan 15 2025 at 04:19:25 (-0800).</p>
+<p>This summary was generated Jan 16 2025 at 04:18:21 (-0800).</p>
 <section id="by-plc-project">
 <h2>By PLC Project<a class="headerlink" href="#by-plc-project" title="Link to this heading"></a></h2>
 <section id="unknown-opcpa-lps-plc-01">
@@ -4134,35 +4135,45 @@ and other issues.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>Tc2_MC2</p></td>
+<tr class="row-even"><td><p>LCLS General</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tc2_MC2</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
 <td></td>
 </tr>
-<tr class="row-odd"><td><p>Tc2_Standard</p></td>
+<tr class="row-even"><td><p>Tc2_Standard</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
 <td></td>
 </tr>
-<tr class="row-even"><td><p>Tc2_System</p></td>
+<tr class="row-odd"><td><p>Tc2_System</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
 <td></td>
 </tr>
-<tr class="row-odd"><td><p>Tc2_Utilities</p></td>
+<tr class="row-even"><td><p>Tc2_Utilities</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
 <td></td>
 </tr>
-<tr class="row-even"><td><p>Tc3_Module</p></td>
+<tr class="row-odd"><td><p>Tc3_Module</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> Beckhoff</p></td>
 <td></td>
+</tr>
+<tr class="row-even"><td><p>lcls-twincat-math</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
 </tr>
 <tr class="row-odd"><td><p>lcls-twincat-motion</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code> SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code> SLAC</p></td>
 </tr>
 </tbody>
 </table>
@@ -5296,157 +5307,162 @@ and other issues.</p>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.6.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:plc-polycap-01</p></td>
+<tr class="row-even"><td><p>unknown:mrco_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-odd"><td><p>unknown:plc-polycap-01</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:PLC_CRIX_MOT</p></td>
+<tr class="row-even"><td><p>unknown:PLC_CRIX_MOT</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.9.1</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:PLC_CRIX_VAC</p></td>
+<tr class="row-odd"><td><p>unknown:PLC_CRIX_VAC</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.6.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:plc_cvmi_vac</p></td>
+<tr class="row-even"><td><p>unknown:plc_cvmi_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.11.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:plc_kfe_gatt</p></td>
+<tr class="row-odd"><td><p>unknown:plc_kfe_gatt</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.7.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:plc_kfe_gmd_vac</p></td>
+<tr class="row-even"><td><p>unknown:plc_kfe_gmd_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:plc_kfe_gmd_vac_sim</p></td>
+<tr class="row-odd"><td><p>unknown:plc_kfe_gmd_vac_sim</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:plc_kfe_rix_vac</p></td>
+<tr class="row-even"><td><p>unknown:plc_kfe_rix_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.6.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:plc_kfe_vac</p></td>
+<tr class="row-odd"><td><p>unknown:plc_kfe_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:plc_kfe_xgmd_vac</p></td>
+<tr class="row-even"><td><p>unknown:plc_kfe_xgmd_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.6.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:plc_kfe_xgmd_vac_sim</p></td>
+<tr class="row-odd"><td><p>unknown:plc_kfe_xgmd_vac_sim</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
-</tr>
-<tr class="row-odd"><td><p>unknown:plc_lamp_vac</p></td>
-<td></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
 </tr>
 <tr class="row-even"><td><p>unknown:plc_lamp_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:plc_lfe_gem</p></td>
+<tr class="row-odd"><td><p>unknown:plc_lamp_vac</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
+</tr>
+<tr class="row-even"><td><p>unknown:plc_lfe_gem</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.8.1</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:plc_lfe_vac</p></td>
+<tr class="row-odd"><td><p>unknown:plc_lfe_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.6.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:plc_mrco_vac</p></td>
+<tr class="row-even"><td><p>unknown:plc_mrco_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.10.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:PLC_QRIX_VAC</p></td>
+<tr class="row-odd"><td><p>unknown:PLC_QRIX_VAC</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.10.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:PLC_TMO_VAC</p></td>
+<tr class="row-even"><td><p>unknown:PLC_TMO_VAC</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.7.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:qrix_motion</p></td>
+<tr class="row-odd"><td><p>unknown:qrix_motion</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.10.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:rixs_optics</p></td>
+<tr class="row-even"><td><p>unknown:rixs_optics</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.10.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:sdsinjector</p></td>
+<tr class="row-odd"><td><p>unknown:sdsinjector</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:SDSPLC</p></td>
+<tr class="row-even"><td><p>unknown:SDSPLC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.4.2</span></code>, SLAC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="row-even"><td><p>unknown:SolidAttenuatorPLC</p></td>
+<tr class="row-odd"><td><p>unknown:SolidAttenuatorPLC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:tmo_motion</p></td>
+<tr class="row-even"><td><p>unknown:tmo_motion</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.9.1</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:tmo_optics</p></td>
+<tr class="row-odd"><td><p>unknown:tmo_optics</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.8.2</span></code>, SLAC</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.8.2</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:txi_hxr_motion</p></td>
+<tr class="row-even"><td><p>unknown:txi_hxr_motion</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.9.1</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:txi_hxr_vac</p></td>
+<tr class="row-odd"><td><p>unknown:txi_hxr_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.8.1</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:txi_optics</p></td>
+<tr class="row-even"><td><p>unknown:txi_optics</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.10.0</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:txi_sxr_vac</p></td>
+<tr class="row-odd"><td><p>unknown:txi_sxr_vac</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">2.8.1</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-odd"><td><p>unknown:VonHamos01</p></td>
+<tr class="row-even"><td><p>unknown:VonHamos01</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
 </tr>
-<tr class="row-even"><td><p>unknown:XCS_PER_PLC</p></td>
+<tr class="row-odd"><td><p>unknown:XCS_PER_PLC</p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">0.1.2</span></code>, SLAC</p></td>
 <td></td>
 <td></td>
@@ -5592,6 +5608,25 @@ and other issues.</p>
 </tbody>
 </table>
 </section>
+<section id="lcls-twincat-math">
+<h3>lcls-twincat-math<a class="headerlink" href="#lcls-twincat-math" title="Link to this heading"></a></h3>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Library</p></th>
+<th class="head"><p>Placeholder</p></th>
+<th class="head"><p>Resolution</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>unknown:mrco_motion</p></td>
+<td></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+</tr>
+</tbody>
+</table>
+</section>
 <section id="lcls-twincat-motion">
 <h3>lcls-twincat-motion<a class="headerlink" href="#lcls-twincat-motion" title="Link to this heading"></a></h3>
 <table class="docutils align-default">
@@ -5686,7 +5721,7 @@ and other issues.</p>
 <tr class="row-even"><td><p>unknown:mrco_motion</p></td>
 <td></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">*</span></code>, SLAC</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">0.0.0</span></code>, SLAC</p></td>
 </tr>
 <tr class="row-odd"><td><p>unknown:plc-polycap-01</p></td>
 <td></td>

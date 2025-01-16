@@ -1444,6 +1444,12 @@ Version `unknown <>`_ - `Documentation <>`_
       - SamplePaddleY
     * - Axis 6
       - SamplePaddleZ
+    * - Axis 7
+      - SamplyPaddleVX
+    * - Axis 8
+      - SamplePaddleVY
+    * - Axis 9
+      - SamplePaddleVZ
 
 unknown
 -------
