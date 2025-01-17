@@ -66374,19 +66374,17 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=26:
+                    ID=31:
                   </td>
                   <td width="75%">plc-lfe-vacuum
                   </td>
-                  <td>            <b>
-                        SyncUnit lfe
-                      </b>        </td>
+                  <td>        </td>
                 </tr>
                 <tr>
                   <td>
                             </td>
                   <td colspan="2">
-                    EL6692 EtherCAT Bridge terminal (Secondary)
+                    EL6695 EtherCAT Bridge terminal (Secondary)
                   </td>
                 </tr>
               </table>
