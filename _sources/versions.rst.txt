@@ -5712,7 +5712,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       -
 
-      -
+      - ``2.10.0`` SLAC
 
     * - PMPS
       -
@@ -6481,7 +6481,7 @@ LCLS General
 
       -
 
-      -
+      - ``2.10.0``, SLAC
 
 
     * - unknown:cvmi_motion
