@@ -196,7 +196,7 @@ and other issues.
 
     * - unknown
       - 3.1.4022.30
-      - 
+      - true
 
     * - unknown
       - 3.1.4024.12
@@ -4497,11 +4497,11 @@ Version `unknown <>`_ - `Documentation <>`_
       - ``2.3.0`` SLAC
 
     * - PMPS
-      - ``3.2.1`` SLAC
+      - ``3.2.0`` SLAC
 
       -
 
-      - ``*`` SLAC
+      - ``3.2.0`` SLAC
 
     * - SysDir
       -
@@ -8379,11 +8379,11 @@ PMPS
 
 
     * - unknown:plc_lfe_vac
-      - ``3.2.1``, SLAC
+      - ``3.2.0``, SLAC
 
       -
 
-      - ``*``, SLAC
+      - ``3.2.0``, SLAC
 
 
     * - unknown:plc_mrco_vac
