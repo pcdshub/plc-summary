@@ -43715,9 +43715,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                 <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=10:
+                              ID=209:
                             </td>
-                            <td width="75%">X1 HXR EC1 (EK1100)
+                            <td width="75%">IM2L0 AT2L0 SL1L0 JUNCTION (CU1124)
                             </td>
                             <td>        </td>
                           </tr>
@@ -43725,7 +43725,7 @@ Version `unknown <>`_ - `Documentation <>`_
                             <td>
                                       </td>
                             <td colspan="2">
-                              EK1100 EtherCAT Coupler (2A E-Bus)
+                              CU1124 EtherCAT junction (4-ports)
                             </td>
                           </tr>
                         </table>
@@ -43738,1192 +43738,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                           <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=12:
+                                        ID=210:
                                       </td>
-                                      <td width="75%">EC1 E1 (EK1122)
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EK1122 2 port EtherCAT junction
-                                      </td>
-                                    </tr>
-                                  </table>
-                                    </summary>
-                                    <ul>
-
-                                          <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=17:
-                                                </td>
-                                                <td width="75%">X1 SL1L0-Power (EK1100)
-                                                </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=130:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL7041-E1
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=107:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL5042-E2
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=98:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL7041-E3
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=102:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL2004-E4
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=108:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL7041-E5
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=99:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL5042-E6
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=100:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL7041-E7
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=101:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL3202-E8
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=105:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL3202-E9
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=106:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL3202-E10
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=129:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL3202-E11
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=83:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL1004-E12
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=84:
-                                                          </td>
-                                                          <td width="75%">SL1L0-EL9011
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
-                                          </li>
-
-
-                                          <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=18:
-                                                </td>
-                                                <td width="75%">X2 AT2L0-SOLID (EK1100)
-                                                </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=109:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-01
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=110:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-02
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=111:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-03
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=112:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-04
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=113:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-05
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=114:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-06
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=115:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-07
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=116:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-08
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=117:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-09
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=118:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-10
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=119:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL9410
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9410 E-Bus Power Supplier  (Diagnostics)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=120:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-11
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=121:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-12
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=122:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-13
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=123:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-14
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=124:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-15
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=125:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-16
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=126:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-17
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=127:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-18
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=128:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL7041-19
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=321:
-                                                          </td>
-                                                          <td width="75%">Term 321 (EL9011)
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
-                                          </li>
-
-
-                                          <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=72:
-                                                </td>
-                                                <td width="75%">AT2L0-SOLID-ENC (EK1100)
-                                                </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=73:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-01
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=74:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-02
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=75:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-03
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=76:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-04
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=77:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-05
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=78:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-06
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=79:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-07
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=80:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-08
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=81:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-09
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=82:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL5042-10
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=103:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL1004
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=104:
-                                                          </td>
-                                                          <td width="75%">AT2L0-EL2004
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit AT2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=322:
-                                                          </td>
-                                                          <td width="75%">Term 322 (EL9011)
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
-                                          </li>
-
-                                    </ul>
-                                  </details>
-                                </li>
-
-
-                                <li>
-                                  <details open>
-                                    <summary>
-                                          <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=13:
-                                      </td>
-                                      <td width="75%">EC1 E2 (EK1122)
+                                      <td width="75%">X1 IM2L0-XTES (EK1100)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -44931,7 +43748,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EK1122 2 port EtherCAT junction
+                                        EK1100 EtherCAT Coupler (2A E-Bus)
                                       </td>
                                     </tr>
                                   </table>
@@ -44939,512 +43756,159 @@ Version `unknown <>`_ - `Documentation <>`_
                                     <ul>
 
                                           <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
+                                                <table width="100%">
                                               <tr>
                                                 <td width="10%">
-                                                  ID=19:
+                                                  ID=36:
                                                 </td>
-                                                <td width="75%">X1 IM2L0-XTES (EK1100)
+                                                <td width="75%">IM2L0-EL7041
                                                 </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=36:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL7041
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=37:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL2004
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=38:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL5042
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=266:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL7342
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7342 2Ch. DC motor output stage (50V, 3.5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=40:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL1088
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1088 8Ch. Dig. Input 24V, 3ms, negative
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=41:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL6002
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit IM2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL6002 Interface 2Ch. (RS232)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=42:
-                                                          </td>
-                                                          <td width="75%">IM2L0-EL9011
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
-                                          </li>
-
-
-                                          <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=20:
-                                                </td>
-                                                <td width="75%">X2 SL2L0-Power (EK1100)
-                                                </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                              <b>
-                                                      Disabled
+                                                <td>            <b>
+                                                      SyncUnit IM2L0
                                                     </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
                                                 <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
                                               </tr>
                                             </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=85:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL7041-E1
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=86:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=37:
+                                                </td>
+                                                <td width="75%">IM2L0-EL2004
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit IM2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SL2L0-EL5042-E2
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=87:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=38:
+                                                </td>
+                                                <td width="75%">IM2L0-EL5042
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit IM2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SL2L0-EL7041-E3
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=88:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=266:
+                                                </td>
+                                                <td width="75%">IM2L0-EL7342
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SL2L0-EL2004-E4
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7342 2Ch. DC motor output stage (50V, 3.5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=89:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=40:
+                                                </td>
+                                                <td width="75%">IM2L0-EL1088
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit IM2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SL2L0-EL7041-E5
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL1088 8Ch. Dig. Input 24V, 3ms, negative
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=90:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=41:
+                                                </td>
+                                                <td width="75%">IM2L0-EL6002
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit IM2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SL2L0-EL5042-E6
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL6002 Interface 2Ch. (RS232)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=91:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=42:
+                                                </td>
+                                                <td width="75%">IM2L0-EL9011
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SL2L0-EL7041-E7
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=92:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL3202-E8
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=93:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL3202-E9
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=94:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL3202-E10
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=95:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL3202-E11
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3202 2Ch. Ana. Input PT100 (RTD)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=96:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL1004-E12
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SL2L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=97:
-                                                          </td>
-                                                          <td width="75%">SL2L0-EL9011
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
+                                                <td colspan="2">
+                                                  EL9011 End Terminal
+                                                </td>
+                                              </tr>
+                                            </table>
                                           </li>
 
                                     </ul>
@@ -45458,9 +43922,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                           <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=14:
+                                        ID=264:
                                       </td>
-                                      <td width="75%">EC1 E3 (EK1122)
+                                      <td width="75%">X1 PF1L0-WFS (EK1100)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -45468,7 +43932,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EK1122 2 port EtherCAT junction
+                                        EK1100 EtherCAT Coupler (2A E-Bus)
                                       </td>
                                     </tr>
                                   </table>
@@ -45476,363 +43940,127 @@ Version `unknown <>`_ - `Documentation <>`_
                                     <ul>
 
                                           <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
+                                                <table width="100%">
                                               <tr>
                                                 <td width="10%">
-                                                  ID=21:
+                                                  ID=66:
                                                 </td>
-                                                <td width="75%">X1 PF1L0-WFS (EK1100)
+                                                <td width="75%">PF1L0-EL7041-01
                                                 </td>
-                                                <td>        </td>
+                                                <td>            <b>
+                                                      SyncUnit PF1L0
+                                                    </b>        </td>
                                               </tr>
                                               <tr>
                                                 <td>
                                                           </td>
                                                 <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
                                               </tr>
                                             </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=66:
-                                                          </td>
-                                                          <td width="75%">PF1L0-EL7041-01
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit PF1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=67:
-                                                          </td>
-                                                          <td width="75%">PF1L0-EL7041-02
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit PF1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=68:
-                                                          </td>
-                                                          <td width="75%">PF1L0-EL5042
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit PF1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL5042 2Ch. BiSS-C Encoder
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=69:
-                                                          </td>
-                                                          <td width="75%">PF1L0-EL2004
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit PF1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=70:
-                                                          </td>
-                                                          <td width="75%">PF1L0-EL3314
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit PF1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3314 4Ch. Ana. Input Thermocouple (TC)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=71:
-                                                          </td>
-                                                          <td width="75%">PF1L0-EL9011
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
                                           </li>
 
 
                                           <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
+                                                <table width="100%">
                                               <tr>
                                                 <td width="10%">
-                                                  ID=155:
+                                                  ID=67:
                                                 </td>
-                                                <td width="75%">X2_0 SP1L0-KMONO_MOTOR (EK1100)
+                                                <td width="75%">PF1L0-EL7041-02
                                                 </td>
-                                                <td>        </td>
+                                                <td>            <b>
+                                                      SyncUnit PF1L0
+                                                    </b>        </td>
                                               </tr>
                                               <tr>
                                                 <td>
                                                           </td>
                                                 <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
                                               </tr>
                                             </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=156:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL7031-E1-MOTORS
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7031 1Ch. Stepper motor output stage (24V, 1.5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=157:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL7041-E2-MOTORS
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=158:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL7041-E3-MOTORS
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=159:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL7041-E4-MOTORS
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=160:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL7041-E5-MOTORS
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=161:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL7041-E6-MOTORS
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL7041 1Ch. Stepper motor output stage (50V, 5A)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=162:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL9011-E7-MOTORS
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
                                           </li>
 
 
                                           <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
+                                                <table width="100%">
                                               <tr>
                                                 <td width="10%">
-                                                  ID=163:
+                                                  ID=68:
                                                 </td>
-                                                <td width="75%">X2_1 SP1L0-KMONO_LVDT (EK1100)
+                                                <td width="75%">PF1L0-EL5042
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit PF1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=69:
+                                                </td>
+                                                <td width="75%">PF1L0-EL2004
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit PF1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=70:
+                                                </td>
+                                                <td width="75%">PF1L0-EL3314
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit PF1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL3314 4Ch. Ana. Input Thermocouple (TC)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=71:
+                                                </td>
+                                                <td width="75%">PF1L0-EL9011
                                                 </td>
                                                 <td>        </td>
                                               </tr>
@@ -45840,173 +44068,1166 @@ Version `unknown <>`_ - `Documentation <>`_
                                                 <td>
                                                           </td>
                                                 <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
+                                                  EL9011 End Terminal
                                                 </td>
                                               </tr>
                                             </table>
-                                              </summary>
-                                              <ul>
+                                          </li>
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=164:
-                                                          </td>
-                                                          <td width="75%">SP1L0-EL6021-E1-LVDT
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL6021 Interface (RS422/485)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                    </ul>
+                                  </details>
+                                </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=165:
+                                <li>
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=217:
+                                      </td>
+                                      <td width="75%">X2 AT2L0-SOLID (EK1100)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EK1100 EtherCAT Coupler (2A E-Bus)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=109:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-01
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SP1L0-EL1004-E2-LVDT
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=166:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=110:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-02
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SP1L0-EL1004-E3-LVDT
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=167:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=111:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-03
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SP1L0-EL3052-E4-LVDT
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3052 2Ch. Ana. Input 4-20mA
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=168:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=112:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-04
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SP1L0-EL3052-E5-LVDT
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3052 2Ch. Ana. Input 4-20mA
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=169:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=113:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-05
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SP1L0-EL3052-E6-LVDT
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit SP1L0
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3052 2Ch. Ana. Input 4-20mA
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
 
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=170:
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=114:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-06
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
                                                           </td>
-                                                          <td width="75%">SP1L0-EL9011-E7-LVDT
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
 
-                                              </ul>
-                                            </details>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=115:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-07
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=116:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-08
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=117:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-09
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=118:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-10
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=119:
+                                                </td>
+                                                <td width="75%">AT2L0-EL9410
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL9410 E-Bus Power Supplier  (Diagnostics)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=120:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-11
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=121:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-12
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=122:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-13
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=123:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-14
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=124:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-15
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=125:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-16
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=126:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-17
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=127:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-18
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=128:
+                                                </td>
+                                                <td width="75%">AT2L0-EL7041-19
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=321:
+                                                </td>
+                                                <td width="75%">Term 321 (EL9011)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL9011 End Terminal
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+                                    </ul>
+                                  </details>
+                                </li>
+
+
+                                <li>
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=238:
+                                      </td>
+                                      <td width="75%">AT2L0-SOLID-ENC (EK1100)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EK1100 EtherCAT Coupler (2A E-Bus)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=73:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-01
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=74:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-02
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=75:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-03
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=76:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-04
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=77:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-05
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=78:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-06
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=79:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-07
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=80:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-08
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=81:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-09
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=82:
+                                                </td>
+                                                <td width="75%">AT2L0-EL5042-10
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=103:
+                                                </td>
+                                                <td width="75%">AT2L0-EL1004
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL1004 4Ch. Dig. Input 24V, 3ms
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=104:
+                                                </td>
+                                                <td width="75%">AT2L0-EL2004
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit AT2L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=322:
+                                                </td>
+                                                <td width="75%">Term 322 (EL9011)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL9011 End Terminal
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+                                    </ul>
+                                  </details>
+                                </li>
+
+
+                                <li>
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=251:
+                                      </td>
+                                      <td width="75%">X1 SL1L0-Power (EK1100)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EK1100 EtherCAT Coupler (2A E-Bus)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=130:
+                                                </td>
+                                                <td width="75%">SL1L0-EL7041-E1
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=107:
+                                                </td>
+                                                <td width="75%">SL1L0-EL5042-E2
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=98:
+                                                </td>
+                                                <td width="75%">SL1L0-EL7041-E3
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=102:
+                                                </td>
+                                                <td width="75%">SL1L0-EL2004-E4
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=108:
+                                                </td>
+                                                <td width="75%">SL1L0-EL7041-E5
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=99:
+                                                </td>
+                                                <td width="75%">SL1L0-EL5042-E6
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL5042 2Ch. BiSS-C Encoder
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=100:
+                                                </td>
+                                                <td width="75%">SL1L0-EL7041-E7
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=101:
+                                                </td>
+                                                <td width="75%">SL1L0-EL3202-E8
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL3202 2Ch. Ana. Input PT100 (RTD)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=105:
+                                                </td>
+                                                <td width="75%">SL1L0-EL3202-E9
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL3202 2Ch. Ana. Input PT100 (RTD)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=106:
+                                                </td>
+                                                <td width="75%">SL1L0-EL3202-E10
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL3202 2Ch. Ana. Input PT100 (RTD)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=129:
+                                                </td>
+                                                <td width="75%">SL1L0-EL3202-E11
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL3202 2Ch. Ana. Input PT100 (RTD)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=83:
+                                                </td>
+                                                <td width="75%">SL1L0-EL1004-E12
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit SL1L0
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL1004 4Ch. Dig. Input 24V, 3ms
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=84:
+                                                </td>
+                                                <td width="75%">SL1L0-EL9011
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL9011 End Terminal
+                                                </td>
+                                              </tr>
+                                            </table>
                                           </li>
 
                                     </ul>
@@ -46736,6 +45957,332 @@ Version `unknown <>`_ - `Documentation <>`_
 
                                     </ul>
                                   </details>
+                                </li>
+
+                          </ul>
+                        </details>
+                      </li>
+
+
+                      <li>
+                        <details open>
+                          <summary>
+                                <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=20:
+                            </td>
+                            <td width="75%">X2 SL2L0-Power (EK1100)
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                          <b>
+                                  Disabled
+                                </b>        </td>
+                            <td colspan="2">
+                              EK1100 EtherCAT Coupler (2A E-Bus)
+                            </td>
+                          </tr>
+                        </table>
+                          </summary>
+                          <ul>
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=85:
+                                      </td>
+                                      <td width="75%">SL2L0-EL7041-E1
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=86:
+                                      </td>
+                                      <td width="75%">SL2L0-EL5042-E2
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL5042 2Ch. BiSS-C Encoder
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=87:
+                                      </td>
+                                      <td width="75%">SL2L0-EL7041-E3
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=88:
+                                      </td>
+                                      <td width="75%">SL2L0-EL2004-E4
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2004 4Ch. Dig. Output 24V, 0.5A
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=89:
+                                      </td>
+                                      <td width="75%">SL2L0-EL7041-E5
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=90:
+                                      </td>
+                                      <td width="75%">SL2L0-EL5042-E6
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL5042 2Ch. BiSS-C Encoder
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=91:
+                                      </td>
+                                      <td width="75%">SL2L0-EL7041-E7
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=92:
+                                      </td>
+                                      <td width="75%">SL2L0-EL3202-E8
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3202 2Ch. Ana. Input PT100 (RTD)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=93:
+                                      </td>
+                                      <td width="75%">SL2L0-EL3202-E9
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3202 2Ch. Ana. Input PT100 (RTD)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=94:
+                                      </td>
+                                      <td width="75%">SL2L0-EL3202-E10
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3202 2Ch. Ana. Input PT100 (RTD)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=95:
+                                      </td>
+                                      <td width="75%">SL2L0-EL3202-E11
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3202 2Ch. Ana. Input PT100 (RTD)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=96:
+                                      </td>
+                                      <td width="75%">SL2L0-EL1004-E12
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit SL2L0
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1004 4Ch. Dig. Input 24V, 3ms
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=97:
+                                      </td>
+                                      <td width="75%">SL2L0-EL9011
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9011 End Terminal
+                                      </td>
+                                    </tr>
+                                  </table>
                                 </li>
 
                           </ul>
