@@ -4130,7 +4130,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.6.0`` SLAC
+      - ``2.11.0`` SLAC
+
+    * - PMPS
+      -
+
+      -
+
+      - ``3.3.0`` SLAC
 
     * - Tc2_MC2
       -
@@ -6489,7 +6496,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.6.0``, SLAC
+      - ``2.11.0``, SLAC
 
 
 
@@ -8182,6 +8189,13 @@ PMPS
 
       - ``3.2.0``, SLAC
 
+
+    * - unknown:cvmi_motion
+      -
+
+      -
+
+      - ``3.3.0``, SLAC
 
 
 
