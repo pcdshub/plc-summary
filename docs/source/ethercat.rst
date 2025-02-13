@@ -17674,9 +17674,30 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=294:
+                                                          </td>
+                                                          <td width="75%">IM6K2-EL3602-E8
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL3602 2Ch. Ana. Input +/-10Volt, Diff. 24bit
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=293:
                                                           </td>
-                                                          <td width="75%">IM6K2-EL9011-E8
+                                                          <td width="75%">IM6K2-EL9011-E9
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
