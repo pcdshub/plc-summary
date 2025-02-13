@@ -1841,7 +1841,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.10.0`` SLAC
+      - ``2.12.0`` SLAC
 
     * - PMPS
       -
@@ -1967,7 +1967,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.8.4`` SLAC
+      - ``3.9.0`` SLAC
 
     * - lcls-twincat-motion
       -
@@ -6522,7 +6522,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.10.0``, SLAC
+      - ``2.12.0``, SLAC
 
 
     * - unknown:KFEArbiter
@@ -7111,7 +7111,7 @@ lcls-twincat-common-components
 
       - ``*``, SLAC
 
-      - ``3.8.4``, SLAC
+      - ``3.9.0``, SLAC
 
 
 
