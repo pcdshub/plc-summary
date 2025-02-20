@@ -1364,6 +1364,16 @@ Version `unknown <>`_ - `Documentation <>`_
       - M2L0-Pitch
     * - Axis 12
       - M2L0-Bender
+    * - Axis 13
+      - SP1L0-TH1
+    * - Axis 14
+      - SP1L0-TH2
+    * - Axis 15
+      - SP1L0-Tx
+    * - Axis 16
+      - SP1L0-Txd
+    * - Axis 17
+      - SP1L0-Tyd
 
 unknown
 -------
