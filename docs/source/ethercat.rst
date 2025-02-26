@@ -40974,6 +40974,48 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=218:
+                                                          </td>
+                                                          <td width="75%">PF1K0-MPA-EL1004
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=219:
+                                                          </td>
+                                                          <td width="75%">PF1K0-MPA-EL2004
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=71:
                                                           </td>
                                                           <td width="75%">PF1K0-EL9011

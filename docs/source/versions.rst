@@ -3318,7 +3318,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.3.0`` SLAC
+      - ``3.4.1`` SLAC
 
     * - SysDir
       -
@@ -3897,9 +3897,9 @@ Version `unknown <>`_ - `Documentation <>`_
     * - TcUnit
       -
 
-      -
+      - ``*`` www.tcunit.org
 
-      - ``1.1.0.0`` www.tcunit.org
+      - ``1.2.0.0`` www.tcunit.org
 
     * - lcls-twincat-common-components
       -
@@ -8229,7 +8229,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.3.0``, SLAC
+      - ``3.4.1``, SLAC
 
 
 
@@ -13728,9 +13728,9 @@ TcUnit
     * - unknown:kfe_motion
       -
 
-      -
+      - ``*``, www.tcunit.org
 
-      - ``1.1.0.0``, www.tcunit.org
+      - ``1.2.0.0``, www.tcunit.org
 
 
     * - unknown:kfe_rix_motion
