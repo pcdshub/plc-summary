@@ -1766,6 +1766,14 @@ Version `unknown <>`_ - `Documentation <>`_
       - M5K4 Z
     * - Axis 24
       - M5K4 rY
+    * - Axis 25
+      - SL2K4_TOP
+    * - Axis 26
+      - SL2K4_BOTTOM
+    * - Axis 27
+      - SL2K4_NORTH
+    * - Axis 28
+      - SL2K4_SOUTH
 
 unknown
 -------
