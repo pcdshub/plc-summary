@@ -2044,7 +2044,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.9.1`` SLAC
+      - ``2.12.0`` SLAC
 
     * - PMPS
       -
@@ -2170,7 +2170,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.7.0`` SLAC
+      - ``3.9.0`` SLAC
 
     * - lcls-twincat-motion
       -
@@ -5679,12 +5679,19 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``1.0.1.0`` www.tcunit.org
 
-    * - lcls-twincat-motion
-      - ``4.0.9`` SLAC
+    * - lcls-twincat-common-components
+      -
+
+      - ``*`` SLAC
 
       -
 
-      - ``4.0.9`` SLAC
+    * - lcls-twincat-motion
+      - ``4.2.0`` SLAC
+
+      -
+
+      - ``4.2.0`` SLAC
 
     * - lcls-twincat-optics
       -
@@ -5692,13 +5699,6 @@ Version `unknown <>`_ - `Documentation <>`_
       - ``*`` SLAC
 
       - ``0.8.0`` SLAC
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``2.0.0`` SLAC
 
 
 unknown: ArbiterPLC
@@ -6819,7 +6819,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.9.1``, SLAC
+      - ``2.12.0``, SLAC
 
 
     * - unknown:tmo_optics
@@ -7170,8 +7170,15 @@ lcls-twincat-common-components
 
       - ``*``, SLAC
 
-      - ``3.7.0``, SLAC
+      - ``3.9.0``, SLAC
 
+
+    * - unknown:tmo_optics
+      -
+
+      - ``*``, SLAC
+
+      -
 
 
 
@@ -7511,11 +7518,11 @@ lcls-twincat-motion
 
 
     * - unknown:tmo_optics
-      - ``4.0.9``, SLAC
+      - ``4.2.0``, SLAC
 
       -
 
-      - ``4.0.9``, SLAC
+      - ``4.2.0``, SLAC
 
 
     * - unknown:tmo_spectrometer_motion
@@ -7885,13 +7892,6 @@ lcls2-cc-lib
 
 
 
-
-    * - unknown:tmo_optics
-      -
-
-      - ``*``, SLAC
-
-      - ``2.0.0``, SLAC
 
 
 
