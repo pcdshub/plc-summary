@@ -223,7 +223,7 @@ and other issues.
       - 
 
     * - unknown
-      - 3.1.4022.30
+      - 3.1.4024.35
       - true
 
     * - unknown
@@ -5259,17 +5259,10 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.5.9.0`` System
 
-    * - Tc2_ControllerToolbox
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
     * - Tc2_EtherCAT
       -
 
-      -
+      - ``*`` Beckhoff
 
       - ``3.3.15.0`` Beckhoff
 
@@ -5364,19 +5357,26 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``1.1.0.0`` www.tcunit.org
 
+    * - UML Statechart Types
+      -
+
+      - ``4.1.1.0`` 3S
+
+      - ``4.1.1.0`` 3S
+
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``4.0.5`` SLAC
+      - ``4.1.1`` SLAC
 
     * - lcls-twincat-optics
       -
 
       - ``*`` SLAC
 
-      - ``0.6.1`` SLAC
+      - ``0.8.0`` SLAC
 
 
 unknown: las_bts
@@ -7481,7 +7481,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.0.5``, SLAC
+      - ``4.1.1``, SLAC
 
 
     * - unknown:rixs_optics
@@ -7646,7 +7646,7 @@ lcls-twincat-optics
 
       - ``*``, SLAC
 
-      - ``0.6.1``, SLAC
+      - ``0.8.0``, SLAC
 
 
     * - unknown:rixs_optics
@@ -9112,13 +9112,6 @@ Tc2_ControllerToolbox
 
 
 
-    * - unknown:qrix_motion
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
-
 
 
 
@@ -9494,7 +9487,7 @@ Tc2_EtherCAT
     * - unknown:qrix_motion
       -
 
-      -
+      - ``*``, Beckhoff
 
       - ``3.3.15.0``, Beckhoff
 
@@ -13986,6 +13979,13 @@ UML Statechart Types
 
 
 
+
+    * - unknown:qrix_motion
+      -
+
+      - ``4.1.1.0``, 3S
+
+      - ``4.1.1.0``, 3S
 
 
 
