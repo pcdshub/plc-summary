@@ -720,9 +720,9 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Axis 29
       - RCI RX
     * - Axis 30
-      - Beam X
-    * - Axis 31
       - Beam Y
+    * - Axis 31
+      - Beam X
     * - Axis 32
       - Beam Z
     * - Axis 33

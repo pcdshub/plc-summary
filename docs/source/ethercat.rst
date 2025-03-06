@@ -33021,7 +33021,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=114:
                                                           </td>
-                                                          <td width="75%">Beamblock X (EL7041)
+                                                          <td width="75%">Beamblock Y (EL7041)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
@@ -33067,7 +33067,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=116:
                                                           </td>
-                                                          <td width="75%">Beamblock Y (EL7041)
+                                                          <td width="75%">Beamblock X (EL7041)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
