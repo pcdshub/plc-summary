@@ -2464,14 +2464,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.3.4`` SLAC
+      - ``2.4.0`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
-      - ``1.3.2`` SLAC
+      - ``1.3.3`` SLAC
 
     * - PMPS
       -
@@ -6918,7 +6918,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.4``, SLAC
+      - ``2.4.0``, SLAC
 
 
 
@@ -8028,7 +8028,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``1.3.2``, SLAC
+      - ``1.3.3``, SLAC
 
 
 
