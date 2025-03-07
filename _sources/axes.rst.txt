@@ -385,6 +385,12 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis 36 SP1K2-PAX-BB-MMS-Y-01
     * - Axis 37
       - Axis 37 SP1K2-PAX-BB-MMS-Y-02
+    * - Axis 38
+      - Axis 38 SP2K2-TXAS-TAR-MMS-RX
+    * - Axis 39
+      - Axis 39 AT3K2-SOLID-MMS-Y-01
+    * - Axis 40
+      - Axis 40 AT3K2-SOLID-MMS-Y-02
 
 unknown
 -------
