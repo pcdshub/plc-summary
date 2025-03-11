@@ -4382,14 +4382,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.3.4`` SLAC
+      - ``2.4.0`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
-      - ``1.2.2`` SLAC
+      - ``1.3.3`` SLAC
 
     * - PMPS
       -
@@ -7032,7 +7032,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.4``, SLAC
+      - ``2.4.0``, SLAC
 
 
     * - unknown:PLC_QRIX_VAC
@@ -8128,7 +8128,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``1.2.2``, SLAC
+      - ``1.3.3``, SLAC
 
 
     * - unknown:PLC_QRIX_VAC
