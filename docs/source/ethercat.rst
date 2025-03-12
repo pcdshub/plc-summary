@@ -1342,19 +1342,19 @@ Version `unknown <>`_ - `Documentation <>`_
                             <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=130:
+                              ID=27:
                             </td>
-                            <td width="75%">IP1_ECAT (EL6692)
+                            <td width="75%">IP1_ECAT
                             </td>
                             <td>            <b>
-                                  SyncUnit IP1_ECAT (EL6692)
+                                  SyncUnit IP1ECAT
                                 </b>        </td>
                           </tr>
                           <tr>
                             <td>
                                       </td>
                             <td colspan="2">
-                              EL6692 EtherCAT Bridge terminal (Secondary)
+                              EL6695 EtherCAT Bridge terminal (Secondary)
                             </td>
                           </tr>
                         </table>
@@ -1365,12 +1365,12 @@ Version `unknown <>`_ - `Documentation <>`_
                             <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=122:
+                              ID=28:
                             </td>
-                            <td width="75%">Dream_ECAT (EL6695-0002)
+                            <td width="75%">DREAM_ECAT
                             </td>
                             <td>            <b>
-                                  SyncUnit DREAM_ECAT
+                                  SyncUnit DreamECAT
                                 </b>        </td>
                           </tr>
                           <tr>
