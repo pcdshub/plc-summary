@@ -625,9 +625,9 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Axis 3
       - M3 - Coil Yaw
     * - Axis 4
-      - M4
+      - M4 - GSJP X
     * - Axis 5
-      - M5
+      - M5 - GSJP Z
     * - Axis 6
       - M6_GSJN-MMS-X
     * - Axis 7
