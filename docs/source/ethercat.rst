@@ -68118,27 +68118,6 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=38:
-                  </td>
-                  <td width="75%">LAMP_PLC_E03_EL9184
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL9184 Potential Connection, 8 x 24V, 8 x Ground
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
                     ID=4:
                   </td>
                   <td width="75%">LAMP_PLC_E04_EL6692
@@ -68262,12 +68241,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
             <li>
-                  <table width="100%">
+              <details open>
+                <summary>
+                      <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=48:
+                    ID=49:
                   </td>
-                  <td width="75%">LAMP_PLC_E10_EL1008
+                  <td width="75%">LAMP_PLC_E10_EK1122
                   </td>
                   <td>        </td>
                 </tr>
@@ -68275,31 +68256,35 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL1008 8Ch. Dig. Input 24V, 3ms
+                    EK1122 2 port EtherCAT junction
                   </td>
                 </tr>
               </table>
-            </li>
+                </summary>
+                <ul>
 
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=50:
-                  </td>
-                  <td width="75%">LAMP_PLC_E10A_EL1008
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=48:
                             </td>
-                  <td colspan="2">
-                    EL1008 8Ch. Dig. Input 24V, 3ms
-                  </td>
-                </tr>
-              </table>
+                            <td width="75%">LAMP_PLC_MOTION_EL6695-0002
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EL6695 EtherCAT Bridge terminal (Secondary)
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
+                </ul>
+              </details>
             </li>
 
 
@@ -69124,50 +69109,222 @@ Version `unknown <>`_ - `Documentation <>`_
                 <ul>
 
                       <li>
-                            <table width="100%">
+                        <details open>
+                          <summary>
+                                <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=109:
+                              ID=96:
                             </td>
-                            <td width="75%">VCN_1_VAT590
+                            <td width="75%">LAMP_GJ_EK1100
                             </td>
-                            <td>            <b>
-                                  SyncUnit VCN
-                                </b>        </td>
+                            <td>        </td>
                           </tr>
                           <tr>
                             <td>
                                       </td>
                             <td colspan="2">
-                              590 - All-metal variable leak valve
+                              EK1100 EtherCAT Coupler (2A E-Bus)
                             </td>
                           </tr>
                         </table>
+                          </summary>
+                          <ul>
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=97:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E01_EL1004
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1004 4Ch. Dig. Input 24V, 3ms
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=98:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E02_EL2004
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2004 4Ch. Dig. Output 24V, 0.5A
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=99:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E03_EL1004
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1004 4Ch. Dig. Input 24V, 3ms
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=100:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E03A_EL2004
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2004 4Ch. Dig. Output 24V, 0.5A
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=101:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E04_EL6021
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL6021 Interface (RS422/485)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=102:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E05_EL1004
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1004 4Ch. Dig. Input 24V, 3ms
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=103:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E06_EL2794
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=104:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_E09_EL3174-0002
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=105:
+                                      </td>
+                                      <td width="75%">LAMP_GJ_EL9011
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9011 End Terminal
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+                          </ul>
+                        </details>
                       </li>
 
                 </ul>
               </details>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=59:
-                  </td>
-                  <td width="75%">LAMP_PLC_E15_EL9011
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL9011 End Terminal
-                  </td>
-                </tr>
-              </table>
             </li>
 
       </ul>
