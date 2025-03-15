@@ -244,7 +244,7 @@ and other issues.
 
     * - unknown
       - 3.1.4022.30
-      - 
+      - true
 
     * - unknown
       - 3.1.4024.35
@@ -5866,28 +5866,28 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.4.2`` SLAC
+      - ``2.11.0`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.3.4`` SLAC
+      - ``2.3.5`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
+      - ``1.3.2`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``2.2.1`` SLAC
+      - ``3.3.0`` SLAC
 
     * - Tc2_SerialCom
       -
@@ -6730,7 +6730,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.4.2``, SLAC
+      - ``2.11.0``, SLAC
 
 
     * - unknown:plc_lfe_gem
@@ -7007,7 +7007,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.4``, SLAC
+      - ``2.3.5``, SLAC
 
 
     * - unknown:plc_lfe_gem
@@ -8110,7 +8110,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``1.3.2``, SLAC
 
 
     * - unknown:plc_lfe_gem
@@ -8380,7 +8380,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``2.2.1``, SLAC
+      - ``3.3.0``, SLAC
 
 
     * - unknown:plc_lfe_gem
