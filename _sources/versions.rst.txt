@@ -255,8 +255,8 @@ and other issues.
       - 
 
     * - unknown
-      - 3.1.4024.12
-      - 
+      - 3.1.4024.35
+      - true
 
 
 
@@ -2611,7 +2611,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``0.6.1`` SLAC
+      - ``0.7.0`` SLAC
 
 
 unknown: lcls_dream_motion
@@ -6258,7 +6258,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.0.14`` SLAC
+      - ``3.3.0`` SLAC
 
     * - SysDir
       -
@@ -6385,6 +6385,13 @@ Version `unknown <>`_ - `Documentation <>`_
       -
 
       - ``1.2.0.0`` www.tcunit.org
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``4.1.1`` SLAC
 
 
 By Library
@@ -7558,6 +7565,13 @@ lcls-twincat-motion
       - ``4.1.1``, SLAC
 
 
+    * - unknown:txi_sxr_vac
+      -
+
+      - ``*``, SLAC
+
+      - ``4.1.1``, SLAC
+
 
 
 
@@ -7676,7 +7690,7 @@ lcls-twincat-optics
 
       - ``*``, SLAC
 
-      - ``0.6.1``, SLAC
+      - ``0.7.0``, SLAC
 
 
 
@@ -8497,7 +8511,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.14``, SLAC
+      - ``3.3.0``, SLAC
 
 
 
