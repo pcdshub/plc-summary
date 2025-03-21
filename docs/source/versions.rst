@@ -2177,7 +2177,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``4.1.1`` SLAC
+      - ``4.2.1`` SLAC
 
 
 unknown: lcls_plc_roving_spectrometer
@@ -7521,7 +7521,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.1.1``, SLAC
+      - ``4.2.1``, SLAC
 
 
     * - unknown:tmo_optics
