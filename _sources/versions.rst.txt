@@ -115,8 +115,8 @@ and other issues.
       - true
 
     * - unknown
-      - 3.1.4022.30
-      - 
+      - 3.1.4024.35
+      - true
 
     * - unknown
       - 3.1.4018.58
@@ -2632,7 +2632,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.8.2`` SLAC
+      - ``2.12.0`` SLAC
 
     * - Tc2_MC2
       -
@@ -2667,7 +2667,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.2.0`` SLAC
+      - ``4.2.1`` SLAC
 
 
 unknown: MFX_BE_LENS_INTERLOCK
@@ -6562,7 +6562,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.8.2``, SLAC
+      - ``2.12.0``, SLAC
 
 
 
@@ -7355,7 +7355,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``2.2.0``, SLAC
+      - ``4.2.1``, SLAC
 
 
     * - unknown:lcls_plc_bergmann_kohzu
