@@ -115,7 +115,7 @@ and other issues.
       - true
 
     * - unknown
-      - 3.1.4024.35
+      - 3.1.4024.12
       - true
 
     * - unknown
@@ -3614,6 +3614,13 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.3.0`` SLAC
 
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.48.0`` Beckhoff
+
     * - Tc2_Standard
       -
 
@@ -3633,7 +3640,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.21.0`` Beckhoff
 
     * - lcls-twincat-common-components
       -
@@ -10062,6 +10069,13 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
+    * - unknown:lcls-plc-txi-sxr-motion
+      -
+
+      -
+
+      - ``3.3.48.0``, Beckhoff
+
 
     * - unknown:lcls_dream_motion
       -
@@ -13297,7 +13311,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.21.0``, Beckhoff
 
 
     * - unknown:lcls_dream_motion
