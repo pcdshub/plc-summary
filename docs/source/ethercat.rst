@@ -9077,9 +9077,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=4:
+                    ID=29:
                   </td>
-                  <td width="75%">PMPS_PRE
+                  <td width="75%">LAMP_MOTION_E03_EL6695
                   </td>
                   <td>        </td>
                 </tr>
@@ -9176,6 +9176,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                 </td>
                                       <td colspan="2">
                                         EL7041 1Ch. Stepper motor output stage (50V, 5A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=35:
+                                      </td>
+                                      <td width="75%">GasJetY-Brake-EL2004
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2004 4Ch. Dig. Output 24V, 0.5A
                                       </td>
                                     </tr>
                                   </table>
@@ -9291,27 +9312,6 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=13:
-                                      </td>
-                                      <td width="75%">Microscope-EL7342
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL7342 2Ch. DC motor output stage (50V, 3.5A)
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
                                         ID=14:
                                       </td>
                                       <td width="75%">GasJetXY-EL5042
@@ -9410,9 +9410,7 @@ Version `unknown <>`_ - `Documentation <>`_
                           </tr>
                           <tr>
                             <td>
-                                          <b>
-                                  Disabled
-                                </b>        </td>
+                                      </td>
                             <td colspan="2">
                               EK1100 EtherCAT Coupler (2A E-Bus)
                             </td>

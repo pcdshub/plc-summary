@@ -1304,6 +1304,13 @@ Version `unknown <>`_ - `Documentation <>`_
       - Placeholder
       - Resolution
 
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.12.0`` SLAC
+
     * - Tc2_MC2
       -
 
@@ -1340,11 +1347,11 @@ Version `unknown <>`_ - `Documentation <>`_
       -
 
     * - lcls-twincat-motion
-      - ``1.8.0`` SLAC
-
       -
 
-      -
+      - ``*`` SLAC
+
+      - ``4.2.0`` SLAC
 
 
 unknown: SolidAttenuatorPLC
@@ -6547,6 +6554,13 @@ LCLS General
       - ``2.8.2``, SLAC
 
 
+    * - unknown:lamp_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``2.12.0``, SLAC
+
 
     * - unknown:las_bts
       - ``2.4.2``, SLAC
@@ -7341,11 +7355,11 @@ lcls-twincat-motion
 
 
     * - unknown:lamp_motion
-      - ``1.8.0``, SLAC
-
       -
 
-      -
+      - ``*``, SLAC
+
+      - ``4.2.0``, SLAC
 
 
 
