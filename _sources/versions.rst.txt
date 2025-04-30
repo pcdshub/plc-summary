@@ -115,7 +115,7 @@ and other issues.
       - true
 
     * - unknown
-      - 3.1.4024.12
+      - 3.1.4024.53
       - true
 
     * - unknown
@@ -2641,40 +2641,152 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``2.12.0`` SLAC
 
+    * - PMPS
+      -
+
+      -
+
+      - ``3.4.1`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.12.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.9.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.6.1.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.4.5.0`` Beckhoff
+
     * - Tc2_MC2
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.42.0`` Beckhoff
+      - ``3.3.69.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.5.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.5.1.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.4.6.0`` Beckhoff
 
     * - Tc2_Standard
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.2.0`` Beckhoff
+      - ``3.4.5.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      - ``3.4.22.0`` Beckhoff
+      - ``3.9.1.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.4.2.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      -
+
+      - ``3.9.2.0`` Beckhoff
+
+    * - Tc3_DynamicMemory
+      -
+
+      -
+
+      - ``1.1.4.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc3_IPCDiag
+      -
+
+      - ``*`` Beckhoff
+
+      - ``1.2.1.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.4.7.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.21.0`` Beckhoff
+      - ``3.4.5.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.3.1`` www.tcunit.org
+
+    * - lcls-twincat-math
+      -
+
+      -
+
+      - ``1.0.0`` SLAC
 
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``4.2.1`` SLAC
+      - ``4.2.0`` SLAC
 
 
 unknown: MFX_BE_LENS_INTERLOCK
@@ -7241,6 +7353,13 @@ lcls-twincat-math
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``1.0.0``, SLAC
+
 
 
 
@@ -7376,7 +7495,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.2.1``, SLAC
+      - ``4.2.0``, SLAC
 
 
     * - unknown:lcls_plc_bergmann_kohzu
@@ -8284,6 +8403,13 @@ PMPS
       - ``3.3.0``, SLAC
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.4.1``, SLAC
+
 
 
     * - unknown:lcls_plc_dream_vac
@@ -8596,6 +8722,13 @@ SysDir
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.5.12.0``, System
+
 
 
 
@@ -8795,6 +8928,13 @@ SysFile
       - ``3.5.9.0``, System
 
 
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.5.9.0``, System
 
 
 
@@ -9386,6 +9526,13 @@ Tc2_EtherCAT
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.6.1.0``, Beckhoff
+
 
 
 
@@ -9635,6 +9782,13 @@ Tc2_IoFunctions
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.4.5.0``, Beckhoff
+
 
 
 
@@ -9848,6 +10002,13 @@ Tc2_Math
       - ``3.3.1.0``, Beckhoff
 
 
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.5.1.0``, Beckhoff
 
 
 
@@ -10096,7 +10257,7 @@ Tc2_MC2
 
       - ``*``, Beckhoff
 
-      - ``3.3.42.0``, Beckhoff
+      - ``3.3.69.0``, Beckhoff
 
 
 
@@ -10442,6 +10603,13 @@ Tc2_ModbusSrv
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.5.1.0``, Beckhoff
+
 
 
 
@@ -10676,6 +10844,13 @@ Tc2_SerialCom
       - ``3.3.7.0``, Beckhoff
 
 
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.4.6.0``, Beckhoff
 
 
 
@@ -11022,7 +11197,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      - ``3.3.2.0``, Beckhoff
+      - ``3.4.5.0``, Beckhoff
 
 
     * - unknown:lcls_plc_bergmann_kohzu
@@ -11611,7 +11786,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``3.4.22.0``, Beckhoff
+      - ``3.9.1.0``, Beckhoff
 
 
     * - unknown:lcls_plc_bergmann_kohzu
@@ -12160,6 +12335,13 @@ Tc2_TcpIp
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.4.2.0``, Beckhoff
+
 
 
 
@@ -12409,6 +12591,13 @@ Tc2_Utilities
 
 
 
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.9.2.0``, Beckhoff
+
 
 
 
@@ -12650,6 +12839,87 @@ Tc2_Utilities
 
 
 
+Tc3_DynamicMemory
+^^^^^^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``1.1.4.0``, Beckhoff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tc3_EventLogger
 ^^^^^^^^^^^^^^^
 
@@ -12706,6 +12976,13 @@ Tc3_EventLogger
       - ``3.1.24.0``, Beckhoff
 
 
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.3.13.0``, Beckhoff
 
 
 
@@ -13015,6 +13292,87 @@ Tc3_Interfaces
 
 
 
+Tc3_IPCDiag
+^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+    * - unknown:lcls_dream_motion
+      -
+
+      - ``*``, Beckhoff
+
+      - ``1.2.1.0``, Beckhoff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tc3_JsonXml
 ^^^^^^^^^^^
 
@@ -13071,6 +13429,13 @@ Tc3_JsonXml
       - ``3.3.14.0``, Beckhoff
 
 
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``3.4.7.0``, Beckhoff
 
 
 
@@ -13333,7 +13698,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      - ``3.3.21.0``, Beckhoff
+      - ``3.4.5.0``, Beckhoff
 
 
     * - unknown:lcls_plc_bergmann_kohzu
@@ -13793,6 +14158,13 @@ TcUnit
       - ``1.1.0.0``, www.tcunit.org
 
 
+
+    * - unknown:lcls_dream_motion
+      -
+
+      -
+
+      - ``1.3.1``, www.tcunit.org
 
 
 
