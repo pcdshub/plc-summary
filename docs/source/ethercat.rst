@@ -25954,12 +25954,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                 <li>
-                                      <table width="100%">
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=43:
+                                        ID=145:
                                       </td>
-                                      <td width="75%">E52 (EK1122-0080)
+                                      <td width="75%">Term 145 (EK1122)
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -25967,10 +25969,272 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EK1122-0080 2 port EtherCAT junction (Fast Hot Connect)
+                                        EK1122 2 port EtherCAT junction
                                       </td>
                                     </tr>
                                   </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                            <details open>
+                                              <summary>
+                                                    <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=146:
+                                                </td>
+                                                <td width="75%">SVLS_PR01 E0 (EK1100)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EK1100 EtherCAT Coupler (2A E-Bus)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                              </summary>
+                                              <ul>
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=147:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E1 (EL6070)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL6070 1Ch. Licensing-Terminal
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=148:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E2 (EL1004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=149:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E3 (EL2794)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=150:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E4 (EL6021)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL6021 Interface (RS422/485)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=151:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E5 (EL1004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=152:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E6 (EL2004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=157:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E9 (EL3174-0002)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=158:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E10 (EL9505)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9505 Power supply terminal 5V
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=159:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E11 (EL1124)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=161:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E12 (EL6695)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL6695 EtherCAT Bridge terminal (Primary)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=175:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E13 (EL9011)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9011 End Terminal
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+                                              </ul>
+                                            </details>
+                                          </li>
+
+                                    </ul>
+                                  </details>
                                 </li>
 
 
