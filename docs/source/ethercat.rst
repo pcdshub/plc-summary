@@ -31250,27 +31250,6 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=19:
-                                      </td>
-                                      <td width="75%">DRL_05_EL5042_E8
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL5042 2Ch. BiSS-C Encoder
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
                                         ID=20:
                                       </td>
                                       <td width="75%">DRL_05_EL7047_E9
@@ -31357,7 +31336,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=38:
                                       </td>
-                                      <td width="75%">Term 38 (EL9011)
+                                      <td width="75%">DRL_05_EL9011
                                       </td>
                                       <td>        </td>
                                     </tr>
