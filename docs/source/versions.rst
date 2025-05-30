@@ -3437,7 +3437,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.5.0`` SLAC
+      - ``3.6.0`` SLAC
 
     * - SysDir
       -
@@ -8383,7 +8383,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.5.0``, SLAC
+      - ``3.6.0``, SLAC
 
 
 

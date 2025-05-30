@@ -857,6 +857,8 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis 35 MFX-SPEC-T3
     * - Axis 36
       - Axis 36 MFX-SPEC-ROT
+    * - Axis 37
+      - Axis 37 MFX-LIB-MMS-05
 
 unknown
 -------

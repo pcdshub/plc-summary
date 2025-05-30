@@ -35529,7 +35529,9 @@ Version `unknown <>`_ - `Documentation <>`_
                           </tr>
                           <tr>
                             <td>
-                                      </td>
+                                          <b>
+                                  Disabled
+                                </b>        </td>
                             <td colspan="2">
                               EK1100 EtherCAT Coupler (2A E-Bus)
                             </td>
