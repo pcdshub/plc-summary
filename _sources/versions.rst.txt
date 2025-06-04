@@ -2464,14 +2464,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.11.0`` SLAC
+      - ``2.12.0`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.4.0`` SLAC
+      - ``2.4.2`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -2485,7 +2485,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.3.0`` SLAC
+      - ``3.4.1`` SLAC
 
     * - Tc2_SerialCom
       -
@@ -6704,7 +6704,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.11.0``, SLAC
+      - ``2.12.0``, SLAC
 
 
 
@@ -7058,7 +7058,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.4.0``, SLAC
+      - ``2.4.2``, SLAC
 
 
 
@@ -8417,7 +8417,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.3.0``, SLAC
+      - ``3.4.1``, SLAC
 
 
 
