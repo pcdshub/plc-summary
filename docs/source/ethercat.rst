@@ -29110,7 +29110,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=14:
+                    ID=77:
                   </td>
                   <td width="75%">R20_DRL_03_E14_EL6695
                   </td>
@@ -29618,9 +29618,51 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
+                                        ID=101:
+                                      </td>
+                                      <td width="75%">K4S8_DRL_03_E22_EL3314
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3314 4Ch. Ana. Input Thermocouple (TC)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=103:
+                                      </td>
+                                      <td width="75%">K4S8_DRL_03_E23_EL3314
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3314 4Ch. Ana. Input Thermocouple (TC)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
                                         ID=35:
                                       </td>
-                                      <td width="75%">K4S8_DRL_03_E22_EL9011
+                                      <td width="75%">K4S8_DRL_03_E24_EL9011
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -30212,6 +30254,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                             <td colspan="2">
                               EP4374-0002 2Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable; 2Ch. Ana. Output +/-10V, 0-10V, 0/4-20mA configurable
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=130:
+                            </td>
+                            <td width="75%">WALL_E_PPL_01_EP2_EP2338-0002
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EP2338-0002 8 Ch. Dig. Input/Output 24V, 0,5A, M12
                             </td>
                           </tr>
                         </table>
