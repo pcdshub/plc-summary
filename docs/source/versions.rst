@@ -32,7 +32,7 @@ and other issues.
 
     * - unknown
       - 3.1.4022.30
-      - 
+      - true
 
     * - unknown
       - 3.1.4022.30
@@ -520,33 +520,12 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``1.9.0`` SLAC
 
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      -
-
-      - ``1.2.2`` SLAC
-
     * - PMPS
       -
 
       - ``*`` SLAC
 
       - ``2.0.0`` SLAC
-
-    * - SysDir
-      -
-
-      -
-
-      - ``3.5.8.0`` System
-
-    * - SysFile
-      -
-
-      -
-
-      - ``3.5.9.0`` System
 
     * - Tc2_ControllerToolbox
       -
@@ -555,54 +534,12 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.4.3.0`` Beckhoff
 
-    * - Tc2_DataExchange
-      -
-
-      -
-
-      - ``3.3.5.0`` Beckhoff
-
-    * - Tc2_EtherCAT
-      -
-
-      -
-
-      - ``3.3.15.0`` Beckhoff
-
-    * - Tc2_IoFunctions
-      -
-
-      -
-
-      - ``3.3.13.0`` Beckhoff
-
     * - Tc2_MC2
       -
 
       - ``*`` Beckhoff
 
       - ``3.3.42.0`` Beckhoff
-
-    * - Tc2_Math
-      -
-
-      -
-
-      - ``3.3.1.0`` Beckhoff
-
-    * - Tc2_ModbusSrv
-      -
-
-      -
-
-      - ``3.3.2.0`` Beckhoff
-
-    * - Tc2_SerialCom
-      -
-
-      -
-
-      - ``3.3.7.0`` Beckhoff
 
     * - Tc2_Standard
       -
@@ -618,13 +555,6 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.4.24.0`` Beckhoff
 
-    * - Tc2_TcpIp
-      -
-
-      -
-
-      - ``3.3.6.0`` Beckhoff
-
     * - Tc2_Utilities
       -
 
@@ -632,138 +562,12 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.3.41.0`` Beckhoff
 
-    * - Tc3_EventLogger
-      -
-
-      -
-
-      - ``3.1.24.0`` Beckhoff
-
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
-    * - Tc3_JsonXml
-      -
-
-      -
-
-      - ``3.3.14.0`` Beckhoff
-
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
       - ``3.3.21.0`` Beckhoff
-
-    * - TcUnit
-      -
-
-      -
-
-      - ``1.1.0.0`` www.tcunit.org
-
-
-unknown: plc_kfe_gmd_vac_sim
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Version `unknown <>`_ - `Documentation <>`_
-
-.. list-table:: unknown: plc_kfe_gmd_vac_sim
-    :header-rows: 1
-
-    * - Dependency
-      - Library
-      - Placeholder
-      - Resolution
-
-    * - LCLS General
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - Tc2_Standard
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_System
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc2_Utilities
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Tc3_Module
-      -
-
-      - ``*`` Beckhoff
-
-      -
-
-    * - Vacuum System Simulator Library
-      -
-
-      - ``*`` SLAC
-
-      - ``*`` SLAC
-
-    * - VisuElemMeter
-      -
-
-      -
-
-      - ``*`` System
-
-    * - VisuElemTextEditor
-      -
-
-      -
-
-      - ``*`` System
-
-    * - VisuElems
-      -
-
-      -
-
-      - ``*`` System
-
-    * - VisuElemsSpecialControls
-      -
-
-      -
-
-      - ``*`` System
-
-    * - VisuElemsWinControls
-      -
-
-      -
-
-      - ``*`` System
-
-    * - VisuNativeControl
-      -
-
-      -
-
-      - ``*`` System
 
 
 unknown: plc_lamp_vac
@@ -6574,7 +6378,6 @@ L2SI Vacuum Library
 
 
 
-
     * - unknown:plc_lfe_gem
       -
 
@@ -6814,14 +6617,6 @@ LCLS General
       - ``*``, SLAC
 
       - ``2.4.2``, SLAC
-
-
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      - ``*``, SLAC
-
-      - ``*``, SLAC
 
 
     * - unknown:plc_kfe_rix_vac
@@ -7107,7 +6902,6 @@ LCLS Vacuum
       - ``1.9.0``, SLAC
 
 
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -7304,7 +7098,6 @@ lcls-twincat-common-components
 
 
 
-
     * - unknown:tmo_motion
       -
 
@@ -7378,7 +7171,6 @@ lcls-twincat-math
       - ``*``, SLAC
 
       - ``*``, SLAC
-
 
 
 
@@ -7610,7 +7402,6 @@ lcls-twincat-motion
 
 
 
-
     * - unknown:plc_lfe_motion_kmono
       - ``0.0.0``, SLAC
 
@@ -7794,7 +7585,6 @@ lcls-twincat-optics
 
 
 
-
     * - unknown:qrix_motion
       -
 
@@ -7893,7 +7683,6 @@ lcls-twincat-physics
       - ``*``, SLAC
 
       - ``*``, SLAC
-
 
 
 
@@ -8034,7 +7823,6 @@ lcls2-cc-lib
 
 
 
-
     * - unknown:rixs_optics
       -
 
@@ -8075,7 +7863,6 @@ LCLSVacuumLib
       - Library
       - Placeholder
       - Resolution
-
 
 
 
@@ -8221,14 +8008,6 @@ LCLSVacuumSerialDriverLib
       -
 
       - ``1.1.5``, SLAC
-
-
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``1.2.2``, SLAC
 
 
 
@@ -8501,7 +8280,6 @@ PMPS
       - ``2.0.0``, SLAC
 
 
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -8770,14 +8548,6 @@ SysDir
       - ``3.5.8.0``, System
 
 
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.5.8.0``, System
-
-
 
     * - unknown:plc_kfe_rix_vac
       -
@@ -8970,14 +8740,6 @@ SysFile
 
 
     * - unknown:plc_kfe_gatt
-      -
-
-      -
-
-      - ``3.5.9.0``, System
-
-
-    * - unknown:plc_kfe_gmd_vac
       -
 
       -
@@ -9187,7 +8949,6 @@ Tc2_BABasic
 
 
 
-
 Tc2_ControllerToolbox
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -9257,7 +9018,6 @@ Tc2_ControllerToolbox
       - ``*``, Beckhoff
 
       - ``3.4.3.0``, Beckhoff
-
 
 
 
@@ -9365,14 +9125,6 @@ Tc2_DataExchange
       -
 
       - ``3.3.2.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.3.5.0``, Beckhoff
 
 
 
@@ -9602,14 +9354,6 @@ Tc2_EtherCAT
       - ``3.3.13.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.3.15.0``, Beckhoff
-
-
 
     * - unknown:plc_kfe_rix_vac
       -
@@ -9830,14 +9574,6 @@ Tc2_IoFunctions
       - ``3.3.11.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.3.13.0``, Beckhoff
-
-
 
     * - unknown:plc_kfe_rix_vac
       -
@@ -10044,14 +9780,6 @@ Tc2_Math
 
 
     * - unknown:plc_kfe_gatt
-      -
-
-      -
-
-      - ``3.3.1.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
       -
 
       -
@@ -10329,7 +10057,6 @@ Tc2_MC2
       - ``3.3.42.0``, Beckhoff
 
 
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -10545,7 +10272,6 @@ Tc2_ModbusRTU
 
 
 
-
 Tc2_ModbusSrv
 ^^^^^^^^^^^^^
 
@@ -10651,14 +10377,6 @@ Tc2_ModbusSrv
 
 
     * - unknown:plc_kfe_gatt
-      -
-
-      -
-
-      - ``3.3.2.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
       -
 
       -
@@ -10933,14 +10651,6 @@ Tc2_SerialCom
       -
 
       - ``3.3.6.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.3.7.0``, Beckhoff
 
 
 
@@ -11360,14 +11070,6 @@ Tc2_Standard
       - ``3.3.3.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -11611,7 +11313,6 @@ Tc2_SUPS
       - Library
       - Placeholder
       - Resolution
-
 
 
 
@@ -11949,14 +11650,6 @@ Tc2_System
       - ``3.4.24.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -12277,7 +11970,6 @@ Tc2_SystemCX
 
 
 
-
 Tc2_TcpIp
 ^^^^^^^^^
 
@@ -12376,14 +12068,6 @@ Tc2_TcpIp
 
 
     * - unknown:plc_kfe_gatt
-      -
-
-      -
-
-      - ``3.3.6.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
       -
 
       -
@@ -12661,14 +12345,6 @@ Tc2_Utilities
       - ``3.3.41.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -12919,7 +12595,6 @@ Tc3_DynamicMemory
 
 
 
-
 Tc3_EventLogger
 ^^^^^^^^^^^^^^^
 
@@ -13023,14 +12698,6 @@ Tc3_EventLogger
       -
 
       - ``3.1.22.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.1.24.0``, Beckhoff
 
 
 
@@ -13204,14 +12871,6 @@ Tc3_Interfaces
       - ``3.4.3.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
-
-
 
     * - unknown:plc_kfe_rix_vac
       -
@@ -13372,7 +13031,6 @@ Tc3_IPCDiag
 
 
 
-
 Tc3_JsonXml
 ^^^^^^^^^^^
 
@@ -13476,14 +13134,6 @@ Tc3_JsonXml
       - ``*``, Beckhoff
 
       - ``3.3.6.0``, Beckhoff
-
-
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``3.3.14.0``, Beckhoff
 
 
 
@@ -13861,14 +13511,6 @@ Tc3_Module
       - ``3.3.21.0``, Beckhoff
 
 
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      - ``*``, Beckhoff
-
-      -
-
-
     * - unknown:plc_kfe_rix_vac
       -
 
@@ -14207,14 +13849,6 @@ TcUnit
       - ``1.0.1.0``, www.tcunit.org
 
 
-    * - unknown:plc_kfe_gmd_vac
-      -
-
-      -
-
-      - ``1.1.0.0``, www.tcunit.org
-
-
 
     * - unknown:plc_kfe_rix_vac
       -
@@ -14393,7 +14027,6 @@ UML Statechart Types
 
 
 
-
     * - unknown:qrix_motion
       -
 
@@ -14466,14 +14099,6 @@ Vacuum System Simulator Library
 
 
 
-
-
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      - ``*``, SLAC
-
-      - ``*``, SLAC
 
 
 
@@ -14594,7 +14219,6 @@ VisuDialogs
 
 
 
-
     * - unknown:SolidAttenuatorPLC
       -
 
@@ -14670,14 +14294,6 @@ VisuElemMeter
 
 
 
-
-
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      -
-
-      - ``*``, System
 
 
 
@@ -14781,14 +14397,6 @@ VisuElems
 
 
 
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      -
-
-      - ``*``, System
-
-
 
 
 
@@ -14888,14 +14496,6 @@ VisuElemsSpecialControls
 
 
 
-
-
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      -
-
-      - ``*``, System
 
 
 
@@ -14999,14 +14599,6 @@ VisuElemsWinControls
 
 
 
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      -
-
-      - ``*``, System
-
-
 
 
 
@@ -15106,14 +14698,6 @@ VisuElemTextEditor
 
 
 
-
-
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      -
-
-      - ``*``, System
 
 
 
@@ -15234,7 +14818,6 @@ visuinputs
 
 
 
-
     * - unknown:SolidAttenuatorPLC
       -
 
@@ -15310,14 +14893,6 @@ VisuNativeControl
 
 
 
-
-
-    * - unknown:plc_kfe_gmd_vac_sim
-      -
-
-      -
-
-      - ``*``, System
 
 
 
@@ -15424,7 +14999,6 @@ VisuSymbols
 
 
 
-
     * - unknown:SolidAttenuatorPLC
       - ``3.5.10.0``, System
 
@@ -15465,7 +15039,6 @@ VisuUserMgmt
       - ``*``, System
 
       -
-
 
 
 
