@@ -391,6 +391,8 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis 39 AT3K2-SOLID-MMS-Y-01
     * - Axis 40
       - Axis 40 AT3K2-SOLID-MMS-Y-02
+    * - Axis 41
+      - Axis 41 SP2K2-TXAS-YAG-MMS-FOCUS
 
 unknown
 -------
