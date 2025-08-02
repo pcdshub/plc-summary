@@ -171,7 +171,7 @@ and other issues.
       - true
 
     * - unknown
-      - 3.1.4026.15
+      - 3.1.4026.17
       - 
 
     * - unknown
@@ -3934,14 +3934,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.4.2`` SLAC
+      - ``2.12.0`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``3.0.14`` SLAC
+      - ``3.4.1`` SLAC
 
     * - Tc2_MC2
       -
@@ -3978,12 +3978,19 @@ Version `unknown <>`_ - `Documentation <>`_
 
       -
 
+    * - lcls-twincat-common-components
+      -
+
+      - ``*`` SLAC
+
+      - ``3.10.0`` SLAC
+
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
-      - ``1.6.0`` SLAC
+      - ``4.2.0`` SLAC
 
     * - lcls-twincat-physics
       -
@@ -3991,13 +3998,6 @@ Version `unknown <>`_ - `Documentation <>`_
       - ``*`` SLAC
 
       - ``*`` SLAC
-
-    * - lcls2-cc-lib
-      -
-
-      - ``*`` SLAC
-
-      - ``1.1.2`` SLAC
 
 
 unknown: xpp_jjslit_motion
@@ -6516,7 +6516,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.4.2``, SLAC
+      - ``2.12.0``, SLAC
 
 
     * - unknown:lfe_optics
@@ -7063,6 +7063,13 @@ lcls-twincat-common-components
 
 
 
+    * - unknown:lfe_motion
+      -
+
+      - ``*``, SLAC
+
+      - ``3.10.0``, SLAC
+
 
 
 
@@ -7312,7 +7319,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.6.0``, SLAC
+      - ``4.2.0``, SLAC
 
 
     * - unknown:lfe_optics
@@ -7764,13 +7771,6 @@ lcls2-cc-lib
 
 
 
-    * - unknown:lfe_motion
-      -
-
-      - ``*``, SLAC
-
-      - ``1.1.2``, SLAC
-
 
     * - unknown:lfe_optics
       -
@@ -8205,7 +8205,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.14``, SLAC
+      - ``3.4.1``, SLAC
 
 
     * - unknown:lfe_optics

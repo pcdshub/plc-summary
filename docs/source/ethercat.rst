@@ -44015,7 +44015,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                                       <td width="75%">RTDSL0-MPA-EL2008
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit RTDSL0
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -44036,7 +44038,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                                       <td width="75%">RTDSL0-MPA-EL1008
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit RTDSL0
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -44565,7 +44569,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                                       <td width="75%">IM1L0-EL7342
                                       </td>
-                                      <td>        </td>
+                                      <td>            <b>
+                                            SyncUnit IM1L0
+                                          </b>        </td>
                                     </tr>
                                     <tr>
                                       <td>
@@ -44822,7 +44828,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                 </td>
                                                 <td width="75%">IM2L0-EL7342
                                                 </td>
-                                                <td>        </td>
+                                                <td>            <b>
+                                                      SyncUnit IM2L0
+                                                    </b>        </td>
                                               </tr>
                                               <tr>
                                                 <td>
