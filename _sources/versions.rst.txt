@@ -115,7 +115,7 @@ and other issues.
       - true
 
     * - unknown
-      - 3.1.4024.53
+      - 3.1.4026.17
       - true
 
     * - unknown
@@ -2536,13 +2536,6 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.9.2.0`` Beckhoff
 
-    * - Tc3_DynamicMemory
-      -
-
-      -
-
-      - ``1.1.4.0`` Beckhoff
-
     * - Tc3_EventLogger
       -
 
@@ -2555,7 +2548,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` Beckhoff
 
-      - ``1.2.1.0`` Beckhoff
+      - ``1.2.2.0`` Beckhoff
 
     * - Tc3_JsonXml
       -
@@ -12515,86 +12508,6 @@ Tc2_Utilities
 
 
 
-Tc3_DynamicMemory
-^^^^^^^^^^^^^^^^^
-
-.. list-table::
-    :header-rows: 1
-
-    * - Project
-      - Library
-      - Placeholder
-      - Resolution
-
-
-
-
-
-
-
-
-
-
-
-
-    * - unknown:lcls_dream_motion
-      -
-
-      -
-
-      - ``1.1.4.0``, Beckhoff
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tc3_EventLogger
 ^^^^^^^^^^^^^^^
 
@@ -12978,7 +12891,7 @@ Tc3_IPCDiag
 
       - ``*``, Beckhoff
 
-      - ``1.2.1.0``, Beckhoff
+      - ``1.2.2.0``, Beckhoff
 
 
 
