@@ -5075,7 +5075,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``0.7.0`` SLAC
+      - ``0.9.0`` SLAC
 
     * - lcls2-cc-lib
       -
@@ -7598,7 +7598,7 @@ lcls-twincat-optics
 
       - ``*``, SLAC
 
-      - ``0.7.0``, SLAC
+      - ``0.9.0``, SLAC
 
 
 

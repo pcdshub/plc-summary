@@ -57663,7 +57663,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=75:
                                       </td>
-                                      <td width="75%">Term 75 (EL3202-0010)
+                                      <td width="75%">EL3202-0010-YUP-YDWN
                                       </td>
                                       <td>            <b>
                                             SyncUnit MR1K1
@@ -57686,7 +57686,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=76:
                                       </td>
-                                      <td width="75%">Term 76 (EL3202-0010)
+                                      <td width="75%">EL3202-0010-XUP-XDWN
                                       </td>
                                       <td>            <b>
                                             SyncUnit MR1K1
