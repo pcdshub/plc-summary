@@ -68568,9 +68568,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=4:
+                    ID=40:
                   </td>
-                  <td width="75%">LAMP_PLC_E04_EL6692
+                  <td width="75%">LAMP_PLC_E04_EL6695
                   </td>
                   <td>        </td>
                 </tr>
@@ -68578,7 +68578,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td>
                             </td>
                   <td colspan="2">
-                    EL6692 EtherCAT Bridge terminal (Primary)
+                    EL6695 EtherCAT Bridge terminal (Primary)
                   </td>
                 </tr>
               </table>
@@ -69557,6 +69557,27 @@ Version `unknown <>`_ - `Documentation <>`_
               </table>
                 </summary>
                 <ul>
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=95:
+                            </td>
+                            <td width="75%">VCN_1_VAT590
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              590 - All-metal variable leak valve
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
 
                       <li>
                         <details open>
