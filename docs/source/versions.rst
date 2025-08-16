@@ -2275,7 +2275,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.4.2`` SLAC
+      - ``2.4.5`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -6846,7 +6846,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.4.2``, SLAC
+      - ``2.4.5``, SLAC
 
 
 
