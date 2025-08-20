@@ -255,7 +255,7 @@ and other issues.
       - 
 
     * - unknown
-      - 3.1.4024.35
+      - 3.1.4026.17
       - true
 
 
@@ -6160,21 +6160,21 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.8.1`` SLAC
+      - ``2.12.0`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.3.1`` SLAC
+      - ``2.4.5`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       -
 
-      - ``1.2.2`` SLAC
+      - ``1.3.3`` SLAC
 
     * - PMPS
       -
@@ -6281,13 +6281,6 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.1.33.0`` Beckhoff
 
-    * - Tc3_Interfaces
-      -
-
-      -
-
-      - ``3.4.3.0`` Beckhoff
-
     * - Tc3_JsonXml
       -
 
@@ -6314,7 +6307,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``4.1.1`` SLAC
+      - ``4.2.0`` SLAC
 
 
 By Library
@@ -6789,7 +6782,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.8.1``, SLAC
+      - ``2.12.0``, SLAC
 
 
     * - unknown:VonHamos01
@@ -7002,7 +6995,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.1``, SLAC
+      - ``2.4.5``, SLAC
 
 
 
@@ -7501,7 +7494,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.1.1``, SLAC
+      - ``4.2.0``, SLAC
 
 
 
@@ -8090,7 +8083,7 @@ LCLSVacuumSerialDriverLib
 
       -
 
-      - ``1.2.2``, SLAC
+      - ``1.3.3``, SLAC
 
 
 
@@ -12844,13 +12837,6 @@ Tc3_Interfaces
 
 
 
-
-    * - unknown:txi_sxr_vac
-      -
-
-      -
-
-      - ``3.4.3.0``, Beckhoff
 
 
 
