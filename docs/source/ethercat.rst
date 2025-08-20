@@ -51981,7 +51981,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=169:
                                       </td>
-                                      <td width="75%">EXT_E2_EL3046
+                                      <td width="75%">EXT_E2_EL3064
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -52916,6 +52916,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                             <td colspan="2">
                               EP2624-0002 4Ch. Relay Output, NO (125V AC / 30V DC)
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=221:
+                            </td>
+                            <td width="75%">FEE_L0S21-1_EP3_EP2338-0002
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EP2338-0002 8 Ch. Dig. Input/Output 24V, 0,5A, M12
                             </td>
                           </tr>
                         </table>
