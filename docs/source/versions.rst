@@ -3551,6 +3551,13 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``3.4.26.0`` Beckhoff
 
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.54.0`` Beckhoff
+
     * - Tc3_Module
       -
 
@@ -4130,7 +4137,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.8.1`` SLAC
+      - ``2.6.0`` SLAC
 
     * - LCLS Vacuum
       -
@@ -4151,7 +4158,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.0.14`` SLAC
+      - ``3.0.1`` SLAC
 
     * - SysFile
       -
@@ -6659,7 +6666,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.8.1``, SLAC
+      - ``2.6.0``, SLAC
 
 
 
@@ -8313,7 +8320,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.0.14``, SLAC
+      - ``3.0.1``, SLAC
 
 
 
@@ -12259,6 +12266,13 @@ Tc2_Utilities
 
       - ``3.3.41.0``, Beckhoff
 
+
+    * - unknown:lcls-plc-txi-sxr-motion
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.3.54.0``, Beckhoff
 
 
     * - unknown:lcls_dream_motion
