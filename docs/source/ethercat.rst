@@ -49801,15 +49801,17 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td width="10%">
                     ID=3:
                   </td>
-                  <td width="75%">MRCO_PLC_E04_EL6692
+                  <td width="75%">MRCO_PLC_E04_EL6695
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit EL6695_TMO
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
                             </td>
                   <td colspan="2">
-                    EL6692 EtherCAT Bridge terminal (Primary)
+                    EL6695 EtherCAT Bridge terminal (Primary)
                   </td>
                 </tr>
               </table>
