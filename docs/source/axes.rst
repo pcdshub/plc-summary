@@ -636,6 +636,12 @@ Version `unknown <>`_ - `Documentation <>`_
       - M7_GSJN-MMS-Y
     * - Axis 8
       - M8_GSJN-MMS-Z
+    * - Axis 9
+      - M9_DREAM_DGPD_MMT_Y
+    * - Axis 10
+      - M10_DREAM_DGPD_MMT_X
+    * - Axis 11
+      - M11_DREAM_DGPD_MMT_RET
 
 unknown
 -------
