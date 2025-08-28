@@ -235,7 +235,7 @@ and other issues.
       - 
 
     * - unknown
-      - 3.1.4024.35
+      - 3.1.4026.17
       - true
 
     * - unknown
@@ -2448,7 +2448,7 @@ Version `unknown <>`_ - `Documentation <>`_
     * - PMPS
       -
 
-      -
+      - ``*`` SLAC
 
       - ``3.4.1`` SLAC
 
@@ -2583,7 +2583,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``4.2.0`` SLAC
+      - ``1.0.0`` SLAC
 
 
 unknown: MFX_BE_LENS_INTERLOCK
@@ -5547,18 +5547,18 @@ Version `unknown <>`_ - `Documentation <>`_
       - Resolution
 
     * - LCLS General
-      - ``2.8.2`` SLAC
-
       -
 
-      - ``2.8.2`` SLAC
+      - ``*`` SLAC
+
+      - ``2.12.0`` SLAC
 
     * - PMPS
-      - ``3.3.0`` SLAC
+      - ``3.4.1`` SLAC
 
       -
 
-      - ``3.3.0`` SLAC
+      - ``3.4.1`` SLAC
 
     * - Tc2_MC2
       -
@@ -5605,16 +5605,16 @@ Version `unknown <>`_ - `Documentation <>`_
     * - TcUnit
       -
 
-      -
+      - ``*`` www.tcunit.org
 
-      - ``1.0.1.0`` www.tcunit.org
+      - ``1.3.1`` www.tcunit.org
 
     * - lcls-twincat-common-components
       -
 
       - ``*`` SLAC
 
-      -
+      - ``3.10.0`` SLAC
 
     * - lcls-twincat-motion
       - ``4.2.0`` SLAC
@@ -5628,7 +5628,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``0.8.0`` SLAC
+      - ``0.9.0`` SLAC
 
 
 unknown: ArbiterPLC
@@ -6174,14 +6174,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.4.5`` SLAC
-
-    * - LCLSVacuumSerialDriverLib
-      -
-
-      -
-
-      - ``1.3.3`` SLAC
+      - ``0.0.0.4026`` SLAC
 
     * - PMPS
       -
@@ -6751,11 +6744,11 @@ LCLS General
 
 
     * - unknown:tmo_optics
-      - ``2.8.2``, SLAC
-
       -
 
-      - ``2.8.2``, SLAC
+      - ``*``, SLAC
+
+      - ``2.12.0``, SLAC
 
 
 
@@ -7002,7 +6995,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.4.5``, SLAC
+      - ``0.0.0.4026``, SLAC
 
 
 
@@ -7118,7 +7111,7 @@ lcls-twincat-common-components
 
       - ``*``, SLAC
 
-      -
+      - ``3.10.0``, SLAC
 
 
 
@@ -7294,7 +7287,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.2.0``, SLAC
+      - ``1.0.0``, SLAC
 
 
     * - unknown:lcls_plc_bergmann_kohzu
@@ -7617,7 +7610,7 @@ lcls-twincat-optics
 
       - ``*``, SLAC
 
-      - ``0.8.0``, SLAC
+      - ``0.9.0``, SLAC
 
 
 
@@ -8085,13 +8078,6 @@ LCLSVacuumSerialDriverLib
 
 
 
-    * - unknown:txi_sxr_vac
-      -
-
-      -
-
-      - ``1.3.3``, SLAC
-
 
 
 
@@ -8178,7 +8164,7 @@ PMPS
     * - unknown:lcls_dream_motion
       -
 
-      -
+      - ``*``, SLAC
 
       - ``3.4.1``, SLAC
 
@@ -8384,11 +8370,11 @@ PMPS
 
 
     * - unknown:tmo_optics
-      - ``3.3.0``, SLAC
+      - ``3.4.1``, SLAC
 
       -
 
-      - ``3.3.0``, SLAC
+      - ``3.4.1``, SLAC
 
 
 
@@ -13855,9 +13841,9 @@ TcUnit
     * - unknown:tmo_optics
       -
 
-      -
+      - ``*``, www.tcunit.org
 
-      - ``1.0.1.0``, www.tcunit.org
+      - ``1.3.1``, www.tcunit.org
 
 
 
