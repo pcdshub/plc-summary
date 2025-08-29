@@ -4984,7 +4984,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
+      - ``4.2.0`` SLAC
 
 
 unknown: rixs_optics
@@ -7362,7 +7362,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``4.2.0``, SLAC
 
 
 
