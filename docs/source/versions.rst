@@ -172,7 +172,7 @@ and other issues.
 
     * - unknown
       - 3.1.4026.17
-      - 
+      - true
 
     * - unknown
       - 3.1.4024.20
@@ -3997,7 +3997,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``*`` SLAC
+      - ``0.0.0`` SLAC
 
 
 unknown: xpp_jjslit_motion
@@ -7682,7 +7682,7 @@ lcls-twincat-physics
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``0.0.0``, SLAC
 
 
 

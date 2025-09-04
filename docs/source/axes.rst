@@ -1216,6 +1216,22 @@ Version `unknown <>`_ - `Documentation <>`_
       - DIODE HORIZ X
     * - Axis 54
       - DIODE VERT Y
+    * - Axis 55
+      - EM3L0-X-M55
+    * - Axis 56
+      - EM3L0-Y-M56
+    * - Axis 57
+      - Axis 57 IM5L0-PPM-MMS
+    * - Axis 58
+      - AL1L0-REF-MMS-M58
+    * - Axis 59
+      - SL3L0-BOTTOM-M59
+    * - Axis 60
+      - SL3L0-TOP-M60
+    * - Axis 61
+      - SL3L0-SOUTH-M61
+    * - Axis 62
+      - SL3L0-NORTH-M62
 
 unknown
 -------
