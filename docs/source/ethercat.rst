@@ -34084,7 +34084,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=114:
                                                           </td>
-                                                          <td width="75%">Beamblock Y (EL7041)
+                                                          <td width="75%">FZP Y (EL7041)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
@@ -34107,7 +34107,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=115:
                                                           </td>
-                                                          <td width="75%">Beam X/Beam Y Enc (EL5042)
+                                                          <td width="75%">FZP XY Enc (EL5042)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
@@ -34130,7 +34130,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=116:
                                                           </td>
-                                                          <td width="75%">Beamblock X (EL7041)
+                                                          <td width="75%">FZP X (EL7041)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
@@ -34153,7 +34153,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=117:
                                                           </td>
-                                                          <td width="75%">Beamblock Z (EL7041)
+                                                          <td width="75%">FZP Z (EL7041)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
@@ -34176,7 +34176,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=118:
                                                           </td>
-                                                          <td width="75%">Beam Z Enc (EL5042)
+                                                          <td width="75%">FZP Z Enc (EL5042)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit hot connect
@@ -73616,9 +73616,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
-                                                            ID=266:
+                                                            ID=277:
                                                           </td>
-                                                          <td width="75%">K2S18 _EL2794_E7
+                                                          <td width="75%">K2S18_EL1004_E7
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -73626,7 +73626,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td>
                                                                     </td>
                                                           <td colspan="2">
-                                                            EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
                                                           </td>
                                                         </tr>
                                                       </table>
@@ -73637,9 +73637,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
-                                                            ID=267:
+                                                            ID=278:
                                                           </td>
-                                                          <td width="75%">K2S18 _EL3174-0002_E9
+                                                          <td width="75%">K2S18_EL2004_E8
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
@@ -73647,7 +73647,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td>
                                                                     </td>
                                                           <td colspan="2">
-                                                            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
                                                           </td>
                                                         </tr>
                                                       </table>
@@ -73658,9 +73658,30 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
-                                                            ID=283:
+                                                            ID=279:
                                                           </td>
-                                                          <td width="75%">K2S18 _EL9011_E10
+                                                          <td width="75%">K2S18_EL6021_E9
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL6021 Interface (RS422/485)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=297:
+                                                          </td>
+                                                          <td width="75%">Term 297 (EL9011)
                                                           </td>
                                                           <td>        </td>
                                                         </tr>

@@ -734,11 +734,11 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Axis 29
       - RCI RX
     * - Axis 30
-      - Beam Y
+      - FZP Y
     * - Axis 31
-      - Beam X
+      - FZP X
     * - Axis 32
-      - Beam Z
+      - FZP Z
     * - Axis 33
       - Camera X
     * - Axis 34
