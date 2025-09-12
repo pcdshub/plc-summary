@@ -3274,7 +3274,7 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Tc2_Math
       -
 
-      -
+      - ``*`` Beckhoff
 
       - ``3.3.1.0`` Beckhoff
 
@@ -5873,7 +5873,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.4.3`` SLAC
+      - ``2.4.5`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
@@ -6893,7 +6893,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.4.3``, SLAC
+      - ``2.4.5``, SLAC
 
 
     * - unknown:plc_kfe_vac
@@ -9703,7 +9703,7 @@ Tc2_Math
     * - unknown:KFEArbiter
       -
 
-      -
+      - ``*``, Beckhoff
 
       - ``3.3.1.0``, Beckhoff
 
