@@ -4431,7 +4431,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.3.0`` SLAC
+      - ``2.4.5`` SLAC
 
     * - PMPS
       - ``3.2.0`` SLAC
@@ -6944,7 +6944,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.0``, SLAC
+      - ``2.4.5``, SLAC
 
 
     * - unknown:plc_mrco_vac
