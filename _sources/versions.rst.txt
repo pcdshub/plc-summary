@@ -5287,26 +5287,12 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``1.1.0.0`` www.tcunit.org
 
-    * - UML Statechart Types
-      -
-
-      - ``4.1.1.0`` 3S
-
-      - ``4.1.1.0`` 3S
-
     * - lcls-twincat-motion
       -
 
       - ``*`` SLAC
 
       - ``4.1.1`` SLAC
-
-    * - lcls-twincat-optics
-      -
-
-      - ``*`` SLAC
-
-      - ``0.8.0`` SLAC
 
 
 unknown: las_bts
@@ -7584,13 +7570,6 @@ lcls-twincat-optics
 
 
 
-
-    * - unknown:qrix_motion
-      -
-
-      - ``*``, SLAC
-
-      - ``0.8.0``, SLAC
 
 
     * - unknown:rixs_optics
@@ -13925,13 +13904,6 @@ UML Statechart Types
 
 
 
-
-    * - unknown:qrix_motion
-      -
-
-      - ``4.1.1.0``, 3S
-
-      - ``4.1.1.0``, 3S
 
 
 
