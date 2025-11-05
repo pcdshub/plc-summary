@@ -34032,6 +34032,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=125:
+                                                          </td>
+                                                          <td width="75%">FZP LED(EL2004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=130:
                                                           </td>
                                                           <td width="75%">Term 129 (EL9011)
