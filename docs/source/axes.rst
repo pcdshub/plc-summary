@@ -393,6 +393,16 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis 40 AT3K2-SOLID-MMS-Y-02
     * - Axis 41
       - Axis 41 SP2K2-TXAS-YAG-MMS-FOCUS
+    * - Axis 42
+      - Axis 42 SP2K2-TXAS-DET-MMS-X
+    * - Axis 43
+      - Axis 43 SP2K2-TXAS-DET-MMS-Y
+    * - Axis 44
+      - Axis 44 SP2K2-TXAS-DET-MMS-Z
+    * - Axis 45
+      - Axis 45 SP2K2-TXAS-DET-MMS-RY
+    * - Axis 46
+      - Axis 46 Piranha Rotation
 
 unknown
 -------
@@ -637,11 +647,21 @@ Version `unknown <>`_ - `Documentation <>`_
     * - Axis 8
       - M8_GSJN-MMS-Z
     * - Axis 9
-      - M9_DREAM_DGPD_MMT_Y
+      - M9_DGPD-MMT-RET
     * - Axis 10
-      - M10_DREAM_DGPD_MMT_X
+      - M10_DGPD-MMT-X
     * - Axis 11
-      - M11_DREAM_DGPD_MMT_RET
+      - M11_DGPD-MMT-Y
+    * - Axis 12
+      - M12_DGPD-MMT-Z
+    * - Axis 13
+      - M13_SL3K4-MMT-X1
+    * - Axis 14
+      - M14_SL3K4-MMT-X2
+    * - Axis 15
+      - M15_SL3K4-MMT-Y1
+    * - Axis 16
+      - M16_SL3K4-MMT-Y2
 
 unknown
 -------
@@ -1232,6 +1252,8 @@ Version `unknown <>`_ - `Documentation <>`_
       - SL3L0-SOUTH-M61
     * - Axis 62
       - SL3L0-NORTH-M62
+    * - Axis 63
+      - PF2L0-Y-M63
 
 unknown
 -------
@@ -1419,49 +1441,49 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis Name
 
     * - Axis 1
-      - Axis 1
+      - Axis 1 POLYCAP-DET-Z
     * - Axis 2
-      - Axis 2
+      - Axis 2 POLYCAP-CRY-N-SWI
     * - Axis 3
-      - Axis 3
+      - Axis 3 POLYCAP-CRY-N-X
     * - Axis 4
-      - Axis 4
+      - Axis 4 POLYCAP-CRY-N-ROT
     * - Axis 5
-      - Axis 5
+      - Axis 5 POLYCAP-CRY-N-Y
     * - Axis 6
-      - Axis 6
+      - Axis 6 POLYCAP-PC-N-X
     * - Axis 7
-      - Axis 7
+      - Axis 7 POLYCAP-PC-N-Z
     * - Axis 8
-      - Axis 8
+      - Axis 8 POLYCAP-PC-N-Y
     * - Axis 9
-      - Axis 9
+      - Axis 9 POLYCAP-CRY-S-SWI
     * - Axis 10
-      - Axis 10
+      - Axis 10 POLYCAP-CRY-S-X
     * - Axis 11
-      - Axis 11
+      - Axis 11 POLYCAP-CRY-M-SWI
     * - Axis 12
-      - Axis 12
+      - Axis 12 POLYCAP-CRY-M-X
     * - Axis 13
-      - Axis 13
+      - Axis 13 POLYCAP-CRY-S-ROT
     * - Axis 14
-      - Axis 14
+      - Axis 14 POLYCAP-CRY-S-Y
     * - Axis 15
-      - Axis 15
+      - Axis 15 POLYCAP-CRY-M-ROT
     * - Axis 16
-      - Axis 16
+      - Axis 16 POLYCAP-CRY-M-Y
     * - Axis 17
-      - Axis 17
+      - Axis 17 POLYCAP-PC-S-X
     * - Axis 18
-      - Axis 18
+      - Axis 18 POLYCAP-PC-S-Z
     * - Axis 19
-      - Axis 19
+      - Axis 19 POLYCAP-PC-M-X
     * - Axis 20
-      - Axis 20
+      - Axis 20 POLYCAP-PC-M-Z
     * - Axis 21
-      - Axis 21
+      - Axis 21 POLYCAP-PC-S-Y
     * - Axis 22
-      - Axis 22
+      - Axis 22 POLYCAP-PC-M-Y
 
 unknown
 -------

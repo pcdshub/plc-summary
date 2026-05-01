@@ -1639,119 +1639,6 @@ Version `unknown <>`_ - `Documentation <>`_
             <table width="100%">
       <tr>
         <td width="10%">
-          ID=47:
-        </td>
-        <td width="75%">B940_K4S20_EK0  (EK1100)
-        </td>
-        <td>        </td>
-      </tr>
-      <tr>
-        <td>
-                  </td>
-        <td colspan="2">
-          EK1100 EtherCAT Coupler (2A E-Bus)
-        </td>
-      </tr>
-    </table>
-      </summary>
-      <ul>
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=48:
-                  </td>
-                  <td width="75%">K4S20-E1-FSV (EL1004)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL1004 4Ch. Dig. Input 24V, 3ms
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=49:
-                  </td>
-                  <td width="75%">K4S20-E2-FSV (EL2202)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL2202 2Ch. Dig. Output 24V, 0.5A
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=50:
-                  </td>
-                  <td width="75%">K4S20-E3-FSV (EL2202)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL2202 2Ch. Dig. Output 24V, 0.5A
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=51:
-                  </td>
-                  <td width="75%">K4S20-E4-FSV (EK1110)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EK1110 EtherCAT extension
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-      </ul>
-    </details>
-  </li>
-
-
-
-
-      <li>
-    <details open>
-      <summary>
-            <table width="100%">
-      <tr>
-        <td width="10%">
           ID=63:
         </td>
         <td width="75%">TMO_K4S6_DRL_01 (EK1100)
@@ -2197,7 +2084,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">K4S6_01_E21 (EL1124)
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit K4-S6-DRL-01-part-terminal
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -2218,7 +2107,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">Term 119 (EL9410)
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit K4-S6-DRL-01-part-terminal
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -2239,7 +2130,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">K4S6_01_E22_IP1 (EL1004)
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit K4-S6-DRL-01-part-terminal
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -2260,7 +2153,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">K4S6_01_E23_IP1 (EL2794)
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit K4-S6-DRL-01-part-terminal
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -5913,29 +5808,6 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=26:
-                  </td>
-                  <td width="75%">EL2022_01_10
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                                <b>
-                        Disabled
-                      </b>        </td>
-                  <td colspan="2">
-                    EL2022 2Ch. Dig. Output 24V, 2A
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
                     ID=71:
                   </td>
                   <td width="75%">PMPS_FFO (EL2202)
@@ -5975,30 +5847,9 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
             <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=27:
-                  </td>
-                  <td width="75%">EL6695_01_11
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                                <b>
-                        Disabled
-                      </b>        </td>
-                  <td colspan="2">
-                    EL6695 EtherCAT Bridge terminal (Primary)
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
+              <details open>
+                <summary>
+                      <table width="100%">
                 <tr>
                   <td width="10%">
                     ID=73:
@@ -6015,29 +5866,253 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                 </tr>
               </table>
-            </li>
+                </summary>
+                <ul>
+
+                      <li>
+                        <details open>
+                          <summary>
+                                <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=189:
+                            </td>
+                            <td width="75%">R20_DRL_03 (EK1100)
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EK1100 EtherCAT Coupler (2A E-Bus)
+                            </td>
+                          </tr>
+                        </table>
+                          </summary>
+                          <ul>
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=190:
+                                      </td>
+                                      <td width="75%">R20_DRL_03_E1_MKS937B(EL9505)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9505 Power supply terminal 5V
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
 
 
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=28:
-                  </td>
-                  <td width="75%">EL6695_01_12
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                                <b>
-                        Disabled
-                      </b>        </td>
-                  <td colspan="2">
-                    EL6695 EtherCAT Bridge terminal (Primary)
-                  </td>
-                </tr>
-              </table>
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=191:
+                                      </td>
+                                      <td width="75%">R20_DRL_03_E2_MKS937B (EL1124)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=192:
+                                      </td>
+                                      <td width="75%">R20_DRL_03_E3_MKS937B (EL1124)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=255:
+                                      </td>
+                                      <td width="75%">R20_DRL_03_E4 (EL9011)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9011 End Terminal
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+                          </ul>
+                        </details>
+                      </li>
+
+
+                      <li>
+                        <details open>
+                          <summary>
+                                <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=193:
+                            </td>
+                            <td width="75%">B940_009_R08_DRL_07 (EK1100)
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EK1100 EtherCAT Coupler (2A E-Bus)
+                            </td>
+                          </tr>
+                        </table>
+                          </summary>
+                          <ul>
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=194:
+                                      </td>
+                                      <td width="75%">B940_009_R08_DRL_07_E1 (EL2794)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=195:
+                                      </td>
+                                      <td width="75%">B940_009_R08_DRL_07_E2 (EL3064)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL3064 4Ch. Ana. Input 0-10V
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=196:
+                                      </td>
+                                      <td width="75%">B940_009_R08_DRL_07_E3 (EL9505)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9505 Power supply terminal 5V
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=197:
+                                      </td>
+                                      <td width="75%">B940_009_R08_DRL_07_E4 (EL1124)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=256:
+                                      </td>
+                                      <td width="75%">B940_009_R08_DRL_07_E5 (EL9011)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9011 End Terminal
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+                          </ul>
+                        </details>
+                      </li>
+
+                </ul>
+              </details>
             </li>
 
 
@@ -6066,29 +6141,6 @@ Version `unknown <>`_ - `Documentation <>`_
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=29:
-                  </td>
-                  <td width="75%">EL6695_01_13
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                                <b>
-                        Disabled
-                      </b>        </td>
-                  <td colspan="2">
-                    EL6695 EtherCAT Bridge terminal (Primary)
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
                     ID=75:
                   </td>
                   <td width="75%">Term 75 (EK1122)
@@ -6100,29 +6152,6 @@ Version `unknown <>`_ - `Documentation <>`_
                             </td>
                   <td colspan="2">
                     EK1122 2 port EtherCAT junction
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=30:
-                  </td>
-                  <td width="75%">EL6695_01_14
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                                <b>
-                        Disabled
-                      </b>        </td>
-                  <td colspan="2">
-                    EL6695 EtherCAT Bridge terminal (Primary)
                   </td>
                 </tr>
               </table>
@@ -6798,6 +6827,125 @@ Version `unknown <>`_ - `Documentation <>`_
                             </td>
                   <td colspan="2">
                     EL9011 End Terminal
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+      </ul>
+    </details>
+  </li>
+
+
+
+
+      <li>
+    <details open>
+      <summary>
+            <table width="100%">
+      <tr>
+        <td width="10%">
+          ID=242:
+        </td>
+        <td width="75%">B940_K4S20_EK0 (EK1100)
+        </td>
+        <td>        </td>
+      </tr>
+      <tr>
+        <td>
+                  </td>
+        <td colspan="2">
+          EK1100 EtherCAT Coupler (2A E-Bus)
+        </td>
+      </tr>
+    </table>
+      </summary>
+      <ul>
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=243:
+                  </td>
+                  <td width="75%">B940_K4S20_E1 (EL1004)
+                  </td>
+                  <td>            <b>
+                        SyncUnit FEE K4 Section
+                      </b>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL1004 4Ch. Dig. Input 24V, 3ms
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=244:
+                  </td>
+                  <td width="75%">B940_K4S20_E2 (EL2202)
+                  </td>
+                  <td>            <b>
+                        SyncUnit FEE K4 Section
+                      </b>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL2202 2Ch. Dig. Output 24V, 0.5A
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=245:
+                  </td>
+                  <td width="75%">B940_K4S20_E3 (EL2202)
+                  </td>
+                  <td>            <b>
+                        SyncUnit FEE K4 Section
+                      </b>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL2202 2Ch. Dig. Output 24V, 0.5A
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=246:
+                  </td>
+                  <td width="75%">Term 246 (EK1110)
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EK1110 EtherCAT extension
                   </td>
                 </tr>
               </table>
@@ -18489,7 +18637,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E1 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18510,7 +18660,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E2 (EL5042)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18531,7 +18683,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E3 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18552,7 +18706,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E4 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18573,7 +18729,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E5 (EL5042)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18594,7 +18752,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E6 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18615,7 +18775,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E7 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18636,7 +18798,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E8 (EL5042)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18657,7 +18821,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E9 (EL3202)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18678,7 +18844,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-02-E10 (EL3202)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18747,7 +18915,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E1(EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18768,7 +18938,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E2 (EL5042)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18789,7 +18961,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E3 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18810,7 +18984,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E4 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18831,7 +19007,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E5 (EL5042)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18852,7 +19030,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E6 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18873,7 +19053,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E7 (EL7047)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18894,7 +19076,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E8 (EL5112)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18915,7 +19099,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E9 (EL7037)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18936,7 +19122,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E10 (EL7037)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18957,7 +19145,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E11 (EL7037)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18978,7 +19168,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E12 (EL9505)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -18999,7 +19191,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E13 (EL1124)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -19020,7 +19214,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">K2S18-DRL-03-E14 (EL1124)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit TXAS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -25490,9 +25686,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                 <li>
-                                  <details open>
-                                    <summary>
-                                          <table width="100%">
+                                      <table width="100%">
                                     <tr>
                                       <td width="10%">
                                         ID=42:
@@ -25509,447 +25703,6 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                                     </tr>
                                   </table>
-                                    </summary>
-                                    <ul>
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=105:
-                                                </td>
-                                                <td width="75%">VLS_EP1 (EP6002-0002)
-                                                </td>
-                                                <td>            <b>
-                                                      SyncUnit VLS
-                                                    </b>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EP6002-0002 Interface (RS232/422/485)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=106:
-                                                </td>
-                                                <td width="75%">VLS_EP2 (EP2338-0001)
-                                                </td>
-                                                <td>            <b>
-                                                      SyncUnit VLS
-                                                    </b>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EP2338-0001 8 Ch. Dig. Input/Output 24V, 0,5A, M8
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=107:
-                                                </td>
-                                                <td width="75%">VLS_EP3 (EP2339-0021)
-                                                </td>
-                                                <td>            <b>
-                                                      SyncUnit VLS
-                                                    </b>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EP2339-0021 16 Ch. Dig. Input/Output 24V, 0,5A, M8
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=108:
-                                                </td>
-                                                <td width="75%">VLS_EP4 (EP2624-0002)
-                                                </td>
-                                                <td>            <b>
-                                                      SyncUnit VLS
-                                                    </b>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EP2624-0002 4Ch. Relay Output, NO (125V AC / 30V DC)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=109:
-                                                </td>
-                                                <td width="75%">VLS_EP5 (EP3174-0002)
-                                                </td>
-                                                <td>            <b>
-                                                      SyncUnit VLS
-                                                    </b>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EP3174-0002 4Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-
-                                          <li>
-                                            <details open>
-                                              <summary>
-                                                    <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=118:
-                                                </td>
-                                                <td width="75%">RCC_EK0 (EK1100)
-                                                </td>
-                                                <td>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  EK1100 EtherCAT Coupler (2A E-Bus)
-                                                </td>
-                                              </tr>
-                                            </table>
-                                              </summary>
-                                              <ul>
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=119:
-                                                          </td>
-                                                          <td width="75%">RCC_E1 (EL1004)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=120:
-                                                          </td>
-                                                          <td width="75%">RCC_E2 (EL2004)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=121:
-                                                          </td>
-                                                          <td width="75%">RCC_E3 (EL1004)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=122:
-                                                          </td>
-                                                          <td width="75%">RCC_E4 (EL1004)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=123:
-                                                          </td>
-                                                          <td width="75%">RCC_E5 (EL2004)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=124:
-                                                          </td>
-                                                          <td width="75%">RCC_E6 (EL1004)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1004 4Ch. Dig. Input 24V, 3ms
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=125:
-                                                          </td>
-                                                          <td width="75%">RCC_E7 (EL3314)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3314 4Ch. Ana. Input Thermocouple (TC)
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=126:
-                                                          </td>
-                                                          <td width="75%">RCC_E8 (EL2794)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=127:
-                                                          </td>
-                                                          <td width="75%">RCC_E9 (EL9505)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9505 Power supply terminal 5V
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=128:
-                                                          </td>
-                                                          <td width="75%">RCC_E10 (EL1124)
-                                                          </td>
-                                                          <td>            <b>
-                                                                SyncUnit Recirculation
-                                                              </b>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL1124 4Ch. Dig. Input 5V, 10µs, Sensor Power
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=143:
-                                                          </td>
-                                                          <td width="75%">Term 143 (EL3174-0002)
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-
-                                                    <li>
-                                                          <table width="100%">
-                                                        <tr>
-                                                          <td width="10%">
-                                                            ID=138:
-                                                          </td>
-                                                          <td width="75%">RCC_E11 (EL9011)
-                                                          </td>
-                                                          <td>        </td>
-                                                        </tr>
-                                                        <tr>
-                                                          <td>
-                                                                    </td>
-                                                          <td colspan="2">
-                                                            EL9011 End Terminal
-                                                          </td>
-                                                        </tr>
-                                                      </table>
-                                                    </li>
-
-                                              </ul>
-                                            </details>
-                                          </li>
-
-
-                                          <li>
-                                                <table width="100%">
-                                              <tr>
-                                                <td width="10%">
-                                                  ID=5:
-                                                </td>
-                                                <td width="75%">RCC_GPI (901P)
-                                                </td>
-                                                <td>            <b>
-                                                      SyncUnit Recirculation
-                                                    </b>        </td>
-                                              </tr>
-                                              <tr>
-                                                <td>
-                                                          </td>
-                                                <td colspan="2">
-                                                  901P
-                                                </td>
-                                              </tr>
-                                            </table>
-                                          </li>
-
-                                    </ul>
-                                  </details>
                                 </li>
 
 
@@ -26028,7 +25781,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E2 (EL1004)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26049,7 +25804,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E3 (EL2794)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26070,7 +25827,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E4 (EL6021)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26091,7 +25850,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E5 (EL1004)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26112,7 +25873,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E6 (EL2004)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26129,11 +25892,34 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=37:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E6B (EL1004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=157:
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E9 (EL3174-0002)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26154,7 +25940,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E10 (EL9505)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26175,7 +25963,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           </td>
                                                           <td width="75%">SVLS_PR01 E11 (EL1124)
                                                           </td>
-                                                          <td>        </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -26192,11 +25982,34 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
-                                                            ID=161:
+                                                            ID=5:
                                                           </td>
-                                                          <td width="75%">SVLS_PR01 E12 (EL6695)
+                                                          <td width="75%">SVLS_PR01 E12 (EL6021)
                                                           </td>
                                                           <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL6021 Interface (RS422/485)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=161:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E13 (EL6695)
+                                                          </td>
+                                                          <td>            <b>
+                                                                SyncUnit SVLS
+                                                              </b>        </td>
                                                         </tr>
                                                         <tr>
                                                           <td>
@@ -30065,6 +29878,48 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
+                                        ID=65:
+                                      </td>
+                                      <td width="75%">K4S8_DRL_04_E18_EL2794
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=66:
+                                      </td>
+                                      <td width="75%">K4S8_DRL_04_E19_EL6001
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL6001 Interface (RS232)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
                                         ID=64:
                                       </td>
                                       <td width="75%">K4S8_DRL_04_E18_EL9011
@@ -31059,7 +30914,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td width="10%">
                     ID=2:
                   </td>
-                  <td width="75%">R19_DRL_02_EL2202
+                  <td width="75%">PMPS_FFO
                   </td>
                   <td>        </td>
                 </tr>
@@ -31101,7 +30956,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td width="10%">
                     ID=9:
                   </td>
-                  <td width="75%">R19_DRL_02_E3_EL6695
+                  <td width="75%">PMPS_PRE
                   </td>
                   <td>        </td>
                 </tr>
@@ -31468,19 +31323,17 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=37:
+                                        ID=42:
                                       </td>
                                       <td width="75%">B950-100H1-R02-PNL-01_E2
                                       </td>
-                                      <td>            <b>
-                                            SyncUnit SmarAct
-                                          </b>        </td>
+                                      <td>        </td>
                                     </tr>
                                     <tr>
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EL1002 2Ch. Dig. Input 24V, 3ms
+                                        EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
                                       </td>
                                     </tr>
                                   </table>
@@ -31516,7 +31369,7 @@ Version `unknown <>`_ - `Documentation <>`_
                             <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=45:
+                              ID=44:
                             </td>
                             <td width="75%">TMO-DREAM-SMARACT-03
                             </td>
@@ -31524,9 +31377,7 @@ Version `unknown <>`_ - `Documentation <>`_
                           </tr>
                           <tr>
                             <td>
-                                          <b>
-                                  Disabled
-                                </b>        </td>
+                                      </td>
                             <td colspan="2">
                               MCS2-3C
                             </td>
@@ -31536,48 +31387,6 @@ Version `unknown <>`_ - `Documentation <>`_
 
                 </ul>
               </details>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=39:
-                  </td>
-                  <td width="75%">B940_009_R19_DRL_02_E5_ EL6695
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL6695 EtherCAT Bridge terminal (Primary)
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=42:
-                  </td>
-                  <td width="75%">Term 42 (EL9011)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EL9011 End Terminal
-                  </td>
-                </tr>
-              </table>
             </li>
 
       </ul>
@@ -34512,7 +34321,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -34535,7 +34346,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -34558,7 +34371,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -34581,7 +34396,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -34604,7 +34421,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -34627,7 +34446,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -34650,7 +34471,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -34673,7 +34496,9 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                          </td>
+                                                              <b>
+                                                      Disabled
+                                                    </b>        </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -47298,6 +47123,169 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                                     <li>
+                                                      <details open>
+                                                        <summary>
+                                                              <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=296:
+                                                          </td>
+                                                          <td width="75%">X3 PF2L0-GBS (EK1100)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EK1100 EtherCAT Coupler (2A E-Bus)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                        </summary>
+                                                        <ul>
+
+                                                              <li>
+                                                                    <table width="100%">
+                                                                  <tr>
+                                                                    <td width="10%">
+                                                                      ID=297:
+                                                                    </td>
+                                                                    <td width="75%">PF2L0-EL7047-E1
+                                                                    </td>
+                                                                    <td>            <b>
+                                                                          SyncUnit PF2L0
+                                                                        </b>        </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td>
+                                                                              </td>
+                                                                    <td colspan="2">
+                                                                      EL7047 1Ch. Stepper motor output stage (50V, 5A)
+                                                                    </td>
+                                                                  </tr>
+                                                                </table>
+                                                              </li>
+
+
+                                                              <li>
+                                                                    <table width="100%">
+                                                                  <tr>
+                                                                    <td width="10%">
+                                                                      ID=298:
+                                                                    </td>
+                                                                    <td width="75%">PF2L0-EL5042-E2
+                                                                    </td>
+                                                                    <td>            <b>
+                                                                          SyncUnit PF2L0
+                                                                        </b>        </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td>
+                                                                              </td>
+                                                                    <td colspan="2">
+                                                                      EL5042 2Ch. BiSS-C Encoder
+                                                                    </td>
+                                                                  </tr>
+                                                                </table>
+                                                              </li>
+
+
+                                                              <li>
+                                                                    <table width="100%">
+                                                                  <tr>
+                                                                    <td width="10%">
+                                                                      ID=329:
+                                                                    </td>
+                                                                    <td width="75%">PF2L0-EL2004-E3
+                                                                    </td>
+                                                                    <td>            <b>
+                                                                          SyncUnit PF2L0
+                                                                        </b>        </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td>
+                                                                              </td>
+                                                                    <td colspan="2">
+                                                                      EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                                    </td>
+                                                                  </tr>
+                                                                </table>
+                                                              </li>
+
+
+                                                              <li>
+                                                                    <table width="100%">
+                                                                  <tr>
+                                                                    <td width="10%">
+                                                                      ID=330:
+                                                                    </td>
+                                                                    <td width="75%">PF2L0-EL1084-E4
+                                                                    </td>
+                                                                    <td>            <b>
+                                                                          SyncUnit PF2L0
+                                                                        </b>        </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td>
+                                                                              </td>
+                                                                    <td colspan="2">
+                                                                      EL1084 4Ch. Dig. Input 24V, 3ms, negative
+                                                                    </td>
+                                                                  </tr>
+                                                                </table>
+                                                              </li>
+
+
+                                                              <li>
+                                                                    <table width="100%">
+                                                                  <tr>
+                                                                    <td width="10%">
+                                                                      ID=331:
+                                                                    </td>
+                                                                    <td width="75%">PF2L0-EL3202-0010-E5
+                                                                    </td>
+                                                                    <td>            <b>
+                                                                          SyncUnit PF2L0
+                                                                        </b>        </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td>
+                                                                              </td>
+                                                                    <td colspan="2">
+                                                                      EL3202-0010 2Ch. Ana. Input PT100 (RTD), High Precision
+                                                                    </td>
+                                                                  </tr>
+                                                                </table>
+                                                              </li>
+
+
+                                                              <li>
+                                                                    <table width="100%">
+                                                                  <tr>
+                                                                    <td width="10%">
+                                                                      ID=374:
+                                                                    </td>
+                                                                    <td width="75%">PF2L0-EL9011-E6
+                                                                    </td>
+                                                                    <td>        </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td>
+                                                                              </td>
+                                                                    <td colspan="2">
+                                                                      EL9011 End Terminal
+                                                                    </td>
+                                                                  </tr>
+                                                                </table>
+                                                              </li>
+
+                                                        </ul>
+                                                      </details>
+                                                    </li>
+
+
+                                                    <li>
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
@@ -51687,7 +51675,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">PMPS_PRE
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit PMPS
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -53103,12 +53093,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                 <li>
-                                      <table width="100%">
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=178:
+                                        ID=187:
                                       </td>
-                                      <td width="75%">EXT_E12_EK1122
+                                      <td width="75%">EXT_E11_EK1122
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -53116,10 +53108,37 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td>
                                                 </td>
                                       <td colspan="2">
-                                        EK1122-0080 2 port EtherCAT junction (Fast Hot Connect)
+                                        EK1122 2 port EtherCAT junction
                                       </td>
                                     </tr>
                                   </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=188:
+                                                </td>
+                                                <td width="75%">XPP-LODCM-PLC (EL6695)
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit LODCM
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL6695 EtherCAT Bridge terminal (Secondary)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+                                    </ul>
+                                  </details>
                                 </li>
 
 
@@ -54364,264 +54383,6 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                             <td colspan="2">
                               EP2338-0002 8 Ch. Dig. Input/Output 24V, 0,5A, M12
-                            </td>
-                          </tr>
-                        </table>
-                      </li>
-
-
-                      <li>
-                        <details open>
-                          <summary>
-                                <table width="100%">
-                          <tr>
-                            <td width="10%">
-                              ID=239:
-                            </td>
-                            <td width="75%">B950-101W-R03-DRL-01 (EK1100)
-                            </td>
-                            <td>        </td>
-                          </tr>
-                          <tr>
-                            <td>
-                                      </td>
-                            <td colspan="2">
-                              EK1100 EtherCAT Coupler (2A E-Bus)
-                            </td>
-                          </tr>
-                        </table>
-                          </summary>
-                          <ul>
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=240:
-                                      </td>
-                                      <td width="75%">XPP_EL2794_00_01
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=241:
-                                      </td>
-                                      <td width="75%">XPP_EL3064_00_02
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL3064 4Ch. Ana. Input 0-10V
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=242:
-                                      </td>
-                                      <td width="75%">XPP_EL1004_00_03
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL1004 4Ch. Dig. Input 24V, 3ms
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=243:
-                                      </td>
-                                      <td width="75%">XPP_EL3064_00_04
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL3064 4Ch. Ana. Input 0-10V
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=244:
-                                      </td>
-                                      <td width="75%">XPP_EL3064_00_05
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL3064 4Ch. Ana. Input 0-10V
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=245:
-                                      </td>
-                                      <td width="75%">XPP_EL2794_00_06
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL2794 4Ch. Dig. Output 24V AC/DC, 2A, short-circuit-proof
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=246:
-                                      </td>
-                                      <td width="75%">XPP_EL1004_00_07
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL1004 4Ch. Dig. Input 24V, 3ms
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=247:
-                                      </td>
-                                      <td width="75%">XPP_EL2004_00_08
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL2004 4Ch. Dig. Output 24V, 0.5A
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-
-                                <li>
-                                      <table width="100%">
-                                    <tr>
-                                      <td width="10%">
-                                        ID=268:
-                                      </td>
-                                      <td width="75%">Term 268 (EL9011)
-                                      </td>
-                                      <td>        </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                                </td>
-                                      <td colspan="2">
-                                        EL9011 End Terminal
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </li>
-
-                          </ul>
-                        </details>
-                      </li>
-
-
-                      <li>
-                            <table width="100%">
-                          <tr>
-                            <td width="10%">
-                              ID=265:
-                            </td>
-                            <td width="75%">XRT_EP2624_00_01
-                            </td>
-                            <td>        </td>
-                          </tr>
-                          <tr>
-                            <td>
-                                      </td>
-                            <td colspan="2">
-                              EP2624-0002 4Ch. Relay Output, NO (125V AC / 30V DC)
-                            </td>
-                          </tr>
-                        </table>
-                      </li>
-
-
-                      <li>
-                            <table width="100%">
-                          <tr>
-                            <td width="10%">
-                              ID=266:
-                            </td>
-                            <td width="75%">XRT_EP3174_00_02
-                            </td>
-                            <td>        </td>
-                          </tr>
-                          <tr>
-                            <td>
-                                      </td>
-                            <td colspan="2">
-                              EP3174-0002 4Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable
                             </td>
                           </tr>
                         </table>
@@ -56709,7 +56470,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td width="10%">
                     ID=2:
                   </td>
-                  <td width="75%">Term 2 (EL7031)
+                  <td width="75%">POLYCAP1-EL7031-E1
                   </td>
                   <td>        </td>
                 </tr>
@@ -56772,7 +56533,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td width="10%">
                     ID=5:
                   </td>
-                  <td width="75%">Term 5 (EL1088)
+                  <td width="75%">POLYCAP1-EL1088-E4
                   </td>
                   <td>        </td>
                 </tr>
@@ -56877,7 +56638,7 @@ Version `unknown <>`_ - `Documentation <>`_
                   <td width="10%">
                     ID=10:
                   </td>
-                  <td width="75%">Term 10 (EL1088)
+                  <td width="75%">POLYCAP1-EL1088-E9
                   </td>
                   <td>        </td>
                 </tr>
@@ -56986,7 +56747,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=15:
                                       </td>
-                                      <td width="75%">Term 15 (EL1088)
+                                      <td width="75%">POLYCAP2-EL1088-E3
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -57091,7 +56852,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=20:
                                       </td>
-                                      <td width="75%">Term 20 (EL1088)
+                                      <td width="75%">POLYCAP2-EL1088-E8
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -57217,7 +56978,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=26:
                                       </td>
-                                      <td width="75%">Term 26 (EL1088)
+                                      <td width="75%">POLYCAP2-EL1088-E14
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -57322,7 +57083,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=31:
                                       </td>
-                                      <td width="75%">Term 31 (EL1088)
+                                      <td width="75%">POLYCAP2-EL1088-E19
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -73463,6 +73224,27 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=106:
+                                                          </td>
+                                                          <td width="75%">EL3174-0002_05_13
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=282:
                                                           </td>
                                                           <td width="75%">Term 282 (EL9011)
@@ -73732,6 +73514,69 @@ Version `unknown <>`_ - `Documentation <>`_
                                                                     </td>
                                                           <td colspan="2">
                                                             EL6021 Interface (RS422/485)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=24:
+                                                          </td>
+                                                          <td width="75%">K2S18_EL9184_E10
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9184 Potential Connection, 8 x 24V, 8 x Ground
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=26:
+                                                          </td>
+                                                          <td width="75%">K2S18_EL3174-0002_E11
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=105:
+                                                          </td>
+                                                          <td width="75%">K2S18_EL9070_E12
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9070 Shield terminal
                                                           </td>
                                                         </tr>
                                                       </table>
