@@ -388,3 +388,132 @@
 [submodule "plcs/lcls-plc-txi-hxr-optics"]
 	path = plcs/lcls-plc-txi-hxr-optics
 	url = https://github.com/pcdshub/lcls-plc-txi-hxr-optics
+[submodule "plcs/lcls-plc-cxi-sample-delivery"]
+	path = plcs/lcls-plc-cxi-sample-delivery
+	url = https://github.com/pcdshub/lcls-plc-cxi-sample-delivery
+[submodule "plcs/lcls-plc-cxi-usr-motion"]
+	path = plcs/lcls-plc-cxi-usr-motion
+	url = https://github.com/pcdshub/lcls-plc-cxi-usr-motion
+[submodule "plcs/lcls-plc-e727-motion"]
+	path = plcs/lcls-plc-e727-motion
+	url = https://github.com/pcdshub/lcls-plc-e727-motion
+[submodule "plcs/lcls-plc-hxr-gon"]
+	path = plcs/lcls-plc-hxr-gon
+	url = https://github.com/pcdshub/lcls-plc-hxr-gon
+[submodule "plcs/lcls-plc-hxr-polycap"]
+	path = plcs/lcls-plc-hxr-polycap
+	url = https://github.com/pcdshub/lcls-plc-hxr-polycap
+[submodule "plcs/lcls-plc-hxr-vhs"]
+	path = plcs/lcls-plc-hxr-vhs
+	url = https://github.com/pcdshub/lcls-plc-hxr-vhs
+[submodule "plcs/lcls-plc-icl-sample-delivery"]
+	path = plcs/lcls-plc-icl-sample-delivery
+	url = https://github.com/pcdshub/lcls-plc-icl-sample-delivery
+[submodule "plcs/lcls-plc-kfe-n2"]
+	path = plcs/lcls-plc-kfe-n2
+	url = https://github.com/pcdshub/lcls-plc-kfe-n2
+[submodule "plcs/lcls-plc-lodcm-fat"]
+	path = plcs/lcls-plc-lodcm-fat
+	url = https://github.com/pcdshub/lcls-plc-lodcm-fat
+[submodule "plcs/lcls-plc-lps-02"]
+	path = plcs/lcls-plc-lps-02
+	url = https://github.com/pcdshub/lcls-plc-lps-02
+[submodule "plcs/lcls-plc-mec-be-lens-interlock"]
+	path = plcs/lcls-plc-mec-be-lens-interlock
+	url = https://github.com/pcdshub/lcls-plc-mec-be-lens-interlock
+[submodule "plcs/lcls-plc-mec-motion"]
+	path = plcs/lcls-plc-mec-motion
+	url = https://github.com/pcdshub/lcls-plc-mec-motion
+[submodule "plcs/lcls-plc-mfx-bsm"]
+	path = plcs/lcls-plc-mfx-bsm
+	url = https://github.com/pcdshub/lcls-plc-mfx-bsm
+[submodule "plcs/lcls-plc-mfx-sample-delivery"]
+	path = plcs/lcls-plc-mfx-sample-delivery
+	url = https://github.com/pcdshub/lcls-plc-mfx-sample-delivery
+[submodule "plcs/lcls-plc-mfx-vac"]
+	path = plcs/lcls-plc-mfx-vac
+	url = https://github.com/pcdshub/lcls-plc-mfx-vac
+[submodule "plcs/lcls-plc-mfx-vac-backup"]
+	path = plcs/lcls-plc-mfx-vac-backup
+	url = https://github.com/pcdshub/lcls-plc-mfx-vac-backup
+[submodule "plcs/lcls-plc-motion-abstraction-sample"]
+	path = plcs/lcls-plc-motion-abstraction-sample
+	url = https://github.com/pcdshub/lcls-plc-motion-abstraction-sample
+[submodule "plcs/lcls-plc-rix-sample-delivery"]
+	path = plcs/lcls-plc-rix-sample-delivery
+	url = https://github.com/pcdshub/lcls-plc-rix-sample-delivery
+[submodule "plcs/lcls-plc-rixs-svls-motion"]
+	path = plcs/lcls-plc-rixs-svls-motion
+	url = https://github.com/pcdshub/lcls-plc-rixs-svls-motion
+[submodule "plcs/lcls-plc-rix-xpfs"]
+	path = plcs/lcls-plc-rix-xpfs
+	url = https://github.com/pcdshub/lcls-plc-rix-xpfs
+[submodule "plcs/lcls-plc-smartactmcs2-motion"]
+	path = plcs/lcls-plc-smartactmcs2-motion
+	url = https://github.com/pcdshub/lcls-plc-smartactmcs2-motion
+[submodule "plcs/lcls-plc-tmo-mbes-motion"]
+	path = plcs/lcls-plc-tmo-mbes-motion
+	url = https://github.com/pcdshub/lcls-plc-tmo-mbes-motion
+[submodule "plcs/lcls-plc-tmo-mbes-vac"]
+	path = plcs/lcls-plc-tmo-mbes-vac
+	url = https://github.com/pcdshub/lcls-plc-tmo-mbes-vac
+[submodule "plcs/lcls-plc-txi-dccm"]
+	path = plcs/lcls-plc-txi-dccm
+	url = https://github.com/pcdshub/lcls-plc-txi-dccm
+[submodule "plcs/lcls-plc-txi-sxr-motion"]
+	path = plcs/lcls-plc-txi-sxr-motion
+	url = https://github.com/pcdshub/lcls-plc-txi-sxr-motion
+[submodule "plcs/lcls-plc-ued-sample-delivery"]
+	path = plcs/lcls-plc-ued-sample-delivery
+	url = https://github.com/pcdshub/lcls-plc-ued-sample-delivery
+[submodule "plcs/lcls-plc-xcs-fpms"]
+	path = plcs/lcls-plc-xcs-fpms
+	url = https://github.com/pcdshub/lcls-plc-xcs-fpms
+[submodule "plcs/lcls-plc-xcs-sample-delivery"]
+	path = plcs/lcls-plc-xcs-sample-delivery
+	url = https://github.com/pcdshub/lcls-plc-xcs-sample-delivery
+[submodule "plcs/lcls-plc-xpp-atds"]
+	path = plcs/lcls-plc-xpp-atds
+	url = https://github.com/pcdshub/lcls-plc-xpp-atds
+[submodule "plcs/lcls-plc-xpp-granite-mot"]
+	path = plcs/lcls-plc-xpp-granite-mot
+	url = https://github.com/pcdshub/lcls-plc-xpp-granite-mot
+[submodule "plcs/lcls-plc-xpp-lodcm"]
+	path = plcs/lcls-plc-xpp-lodcm
+	url = https://github.com/pcdshub/lcls-plc-xpp-lodcm
+[submodule "plcs/lcls-plc-xpp-pulsepicker-motion"]
+	path = plcs/lcls-plc-xpp-pulsepicker-motion
+	url = https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion
+[submodule "plcs/lcls-plc-xpp-tfs"]
+	path = plcs/lcls-plc-xpp-tfs
+	url = https://github.com/pcdshub/lcls-plc-xpp-tfs
+[submodule "plcs/lcls-plc-xpp-vac"]
+	path = plcs/lcls-plc-xpp-vac
+	url = https://github.com/pcdshub/lcls-plc-xpp-vac
+[submodule "plcs/lcls-plc-xrt-vacuum"]
+	path = plcs/lcls-plc-xrt-vacuum
+	url = https://github.com/pcdshub/lcls-plc-xrt-vacuum
+[submodule "support/lcls-twincat-device-abstraction"]
+	path = support/lcls-twincat-device-abstraction
+	url = https://github.com/pcdshub/lcls-twincat-device-abstraction
+[submodule "support/lcls-twincat-he-satt"]
+	path = support/lcls-twincat-he-satt
+	url = https://github.com/pcdshub/lcls-twincat-he-satt
+[submodule "support/lcls-twincat-math"]
+	path = support/lcls-twincat-math
+	url = https://github.com/pcdshub/lcls-twincat-math
+[submodule "support/lcls-twincat-motion-abstraction"]
+	path = support/lcls-twincat-motion-abstraction
+	url = https://github.com/pcdshub/lcls-twincat-motion-abstraction
+[submodule "support/lcls-twincat-motion-synchronous"]
+	path = support/lcls-twincat-motion-synchronous
+	url = https://github.com/pcdshub/lcls-twincat-motion-synchronous
+[submodule "support/lcls-twincat-review"]
+	path = support/lcls-twincat-review
+	url = https://github.com/pcdshub/lcls-twincat-review
+[submodule "support/lcls-twincat-telemetry"]
+	path = support/lcls-twincat-telemetry
+	url = https://github.com/pcdshub/lcls-twincat-telemetry
+[submodule "plcs/lcls-plc-xpp-motion"]
+	path = plcs/lcls-plc-xpp-motion
+	url = https://github.com/pcdshub/lcls-plc-xpp-motion
