@@ -4,6 +4,551 @@ Axes by Project
 This summary was generated |today|.
 
 
+pcdshub/lcls-plc-cxi-sample-delivery
+------------------------------------
+
+Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/01916bdcd23af951f2ecb408955586b5db06a191>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-e727-motion
+----------------------------
+
+Version `4b110cf <https://github.com/pcdshub/lcls-plc-e727-motion/tree/4b110cfbebdd20b46a6e6dc30bdbf4134ee30b76>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-e727-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-e727-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 34
+      - E-727-M1
+
+pcdshub/lcls-plc-hxr-gon
+------------------------
+
+Version `v1.0.0-3-g205ee93 <https://github.com/pcdshub/lcls-plc-hxr-gon/tree/205ee93c59b5319c1e65c60dffff507dea303aeb>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-hxr-gon>`_
+
+.. list-table:: pcdshub/lcls-plc-hxr-gon Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - BASE_H
+    * - Axis 2
+      - BASE_V
+    * - Axis 3
+      - TH
+    * - Axis 4
+      - 2TH
+    * - Axis 5
+      - CHI
+    * - Axis 6
+      - Axis 6
+    * - Axis 7
+      - Axis 7
+    * - Axis 8
+      - Axis 8
+
+pcdshub/lcls-plc-hxr-vhs
+------------------------
+
+Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-hxr-vhs/tree/d728a582bb4034599b908fab123d111ae260d06a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-hxr-vhs>`_
+
+.. list-table:: pcdshub/lcls-plc-hxr-vhs Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1 - CR
+    * - Axis 2
+      - M2 - CRM1
+    * - Axis 3
+      - M3 - CRM2
+    * - Axis 4
+      - M4 - CRM3
+    * - Axis 5
+      - M5 - CRM4
+    * - Axis 6
+      - M6 - CRR1
+    * - Axis 7
+      - M7 - CRR2
+    * - Axis 8
+      - M8 - CRR3
+    * - Axis 9
+      - M9 - CRR4
+    * - Axis 10
+      - M10 - CRT1
+    * - Axis 11
+      - M11 - CRT2
+    * - Axis 12
+      - M12 - CRT3
+    * - Axis 13
+      - M13 - CRT4
+    * - Axis 14
+      - M14 - PRX
+    * - Axis 15
+      - M15 - PRY
+
+pcdshub/lcls-plc-icl-sample-delivery
+------------------------------------
+
+Version `781f30c <https://github.com/pcdshub/lcls-plc-icl-sample-delivery/tree/781f30c01c36149ff5a0a69e73f0625f858d2ad6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-icl-sample-delivery>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-kfe-n2
+-----------------------
+
+Version `v1.1.0 <https://github.com/pcdshub/lcls-plc-kfe-n2/tree/5d63f8164e79d3a2c15dce01606cfd548acc67e2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-kfe-n2>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-lps-02
+-----------------------
+
+Version `v2.0.0 <https://github.com/pcdshub/lcls-plc-lps-02/tree/af10199d0eab4820bbb28877b49a1f181d6949e5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lps-02>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-mec-motion
+---------------------------
+
+Version `v1.1.1~1 <https://github.com/pcdshub/lcls-plc-mec-motion/tree/841189fd0b9ae8ae9c632b173163504bf93a3ea4>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-mec-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-mec-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1 - Horizontal Gap
+    * - Axis 2
+      - M2 - Vertical Gap
+    * - Axis 3
+      - M3 - Horizontal Offset
+    * - Axis 4
+      - M4 - Vertical Offset
+    * - Axis 5
+      - M5 - MPI_X
+    * - Axis 6
+      - M6 - MPI_Y
+    * - Axis 7
+      - M7 - MPI_Z
+
+pcdshub/lcls-plc-mfx-bsm
+------------------------
+
+Version `c0583a5 <https://github.com/pcdshub/lcls-plc-mfx-bsm/tree/c0583a5d03f2d98a881b74ebb0ef81a2574e13a8>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-mfx-bsm>`_
+
+.. list-table:: pcdshub/lcls-plc-mfx-bsm Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis_Y_Scanning
+    * - Axis 2
+      - Axis_Z_Scanning
+    * - Axis 3
+      - Axis_X_Rotation
+    * - Axis 4
+      - Axis_Y_Centering
+    * - Axis 5
+      - Axis_Z_Centering
+    * - Axis 6
+      - Axis_X_Coarse
+    * - Axis 7
+      - Axis_DC1_Spare
+    * - Axis 8
+      - Axis_DC2_Spare
+    * - Axis 9
+      - Axis_X_Scanning
+    * - Axis 10
+      - Axis_Servo_Spare
+
+pcdshub/lcls-plc-mfx-sample-delivery
+------------------------------------
+
+Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-mfx-sample-delivery/tree/bfd18925f85b3079c9d23f08fade0c40f6e9c8db>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-mfx-sample-delivery>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-mfx-vac-backup
+-------------------------------
+
+Version `14367c6 <https://github.com/pcdshub/lcls-plc-mfx-vac-backup/tree/14367c697f1c6f22c75d3429a821f75ee5140613>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-mfx-vac-backup>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-motion-abstraction-sample
+------------------------------------------
+
+Version `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/75184a81a8e33a533369c400e8bb098b0bbd6a63>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
+
+.. list-table:: pcdshub/lcls-plc-motion-abstraction-sample Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1
+    * - Axis 2
+      - Axis 2
+    * - Axis 3
+      - Axis 3
+    * - Axis 4
+      - Axis 4
+    * - Axis 5
+      - Axis 5
+    * - Axis 6
+      - Axis 6
+    * - Axis 7
+      - Axis 7
+    * - Axis 8
+      - Axis 8
+    * - Axis 9
+      - Axis 9
+    * - Axis 10
+      - Axis 10
+
+pcdshub/lcls-plc-rix-sample-delivery
+------------------------------------
+
+Version `v1.3.0-4-ge325e99 <https://github.com/pcdshub/lcls-plc-rix-sample-delivery/tree/e325e99de9fe38f7924960bb17bc91ffd7518337>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rix-sample-delivery>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-rixs-svls-motion
+---------------------------------
+
+Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion/tree/3bde2993e43d31e954fad1b5a8be74d3dc9382c6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-svls-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-rixs-svls-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1_DET_Y_Angle
+    * - Axis 2
+      - M2_DET_Z
+    * - Axis 3
+      - M3_GRA_Y
+    * - Axis 8
+      - M8_Det_Y_H
+    * - Axis 9
+      - ExternalSetpointGenerator_Test1
+    * - Axis 10
+      - ExternalSetpointGenerator_Test2
+    * - Axis 11
+      - HControllerDetAngle_Test1
+    * - Axis 12
+      - HControllerDetH_Test1
+
+pcdshub/lcls-plc-smartactmcs2-motion
+------------------------------------
+
+Version `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5538da62e6a531905417be711d426ac55d671401>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-smartactmcs2-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-smartactmcs2-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1-PMPS
+    * - Axis 2
+      - M2-PTP
+    * - Axis 3
+      - M3-STATE
+
+pcdshub/lcls-plc-tmo-mbes-vac
+-----------------------------
+
+Version `V1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/5d977afeb59bd2e42065d0e1f7daff4f29cb7f3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-vac>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-txi-dccm
+-------------------------
+
+Version `f08f8da <https://github.com/pcdshub/lcls-plc-txi-dccm/tree/f08f8da554a808346182712fbb07bdd696f333f1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-dccm>`_
+
+.. list-table:: pcdshub/lcls-plc-txi-dccm Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - DCCM-th1-M1
+    * - Axis 2
+      - DCCM-th2-M2
+    * - Axis 3
+      - DCCM-tx-M3
+    * - Axis 4
+      - DCCM-txd-M4
+    * - Axis 5
+      - DCCM-tyd-M5
+    * - Axis 6
+      - DCCM-th1-M1_encoder
+    * - Axis 7
+      - DCCM-th2-M2_encoder
+    * - Axis 8
+      - DCCM-tx-M3_encoder
+    * - Axis 9
+      - DCCM-txd-M4_encoder
+    * - Axis 10
+      - DCCM-tyd-M5_encoder
+
+pcdshub/lcls-plc-txi-sxr-motion
+-------------------------------
+
+Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da49568c616e9cc3929869d96698b68e99336e68>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-txi-sxr-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-txi-sxr-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1 AL1K3-L2SI-MMS
+    * - Axis 2
+      - Axis 2  AT2K2-SOLID-MMS-01
+    * - Axis 3
+      - Axis 3  AT2K2-SOLID-MMS-02
+    * - Axis 4
+      - Axis 4  AT2K2-SOLID-MMS-03
+    * - Axis 5
+      - Axis 5  AT2K2-SOLID-MMS-04
+    * - Axis 6
+      - SL1K3-BOTTOM-M6
+    * - Axis 7
+      - SL1K3-TOP-M7
+    * - Axis 8
+      - SL1K3-NORTH-M8
+    * - Axis 9
+      - SL1K3-SOUTH-M9
+
+pcdshub/lcls-plc-ued-sample-delivery
+------------------------------------
+
+Version `828aa1f <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/828aa1fd49107d61e962b555e1ed4e93173076db>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-xcs-fpms
+-------------------------
+
+Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-fpms/tree/6957fe20fdc62ee3ebb47a8bac4324c001b01b01>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xcs-fpms>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-xcs-sample-delivery
+------------------------------------
+
+Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f976c5bd1416678118cd8f74c8ebfe5cf8dd43a5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xcs-sample-delivery>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-xpp-lodcm
+--------------------------
+
+Version `1d3d003 <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/1d3d003adee515bd4b09fb3566996fdc74ea0c6a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-lodcm>`_
+
+.. list-table:: pcdshub/lcls-plc-xpp-lodcm Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Axis 1 SP1L2-LODCM-MMS-T1Ty
+    * - Axis 2
+      - Axis 2 SP1L2-LODCM-MMS-T2Ty1
+    * - Axis 3
+      - Axis 3 SP1L2-LODCM-MMS-T2Ty2
+    * - Axis 4
+      - Axis 4 SP1L2-LODCM-MMS-T1Tx
+    * - Axis 5
+      - Axis 5 SP1L2-LODCM-MMS-T1Ry
+    * - Axis 6
+      - Axis 6 SP1L2-LODCM-MMS-T1Tp
+    * - Axis 7
+      - Axis 7 SP1L2-LODCM-MMS-T1Rp
+    * - Axis 8
+      - Axis 8 SP1L2-LODCM-MMS-D1Ry
+    * - Axis 9
+      - Axis 9 SP1L2-LODCM-MMS-D1Ty
+    * - Axis 10
+      - Axis 10 SP1L2-LODCM-MMS-T2Tz
+    * - Axis 11
+      - Axis 11 SP1L2-LODCM-MMS-T2Ry
+    * - Axis 12
+      - Axis 12 SP1L2-LODCM-MMS-T2Tn
+    * - Axis 13
+      - Axis 13 SP1L2-LODCM-MMS-T2Tp
+    * - Axis 14
+      - Axis 14 SP1L2-LODCM-MMS-T2Rp
+    * - Axis 15
+      - Axis 15 SP1L2-LODCM-MMS-D2Tx
+    * - Axis 16
+      - Axis 16 SP1L2-LODCM-MMS-D2Ty
+
+pcdshub/lcls-plc-xpp-motion
+---------------------------
+
+Version `v1.0.0-20-g18cb53f <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/18cb53fd3ffae46bbe952e3992b697375efb78fd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-xpp-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - EM1L2-X-M1
+    * - Axis 2
+      - EM1L2-Y-M2
+    * - Axis 3
+      - EM2L2-X-M3
+    * - Axis 4
+      - EM2L2-Y-M4
+    * - Axis 5
+      - IM1L2-Y-M5
+    * - Axis 6
+      - IM2L2-Y-M6
+    * - Axis 7
+      - PF2L2-Y-M7
+    * - Axis 8
+      - PF2L2-Z-M8
+    * - Axis 9
+      - TM1L2-X-M9
+    * - Axis 10
+      - TM1L2-Y-M10
+    * - Axis 11
+      - SL1L2-SOUTH-M11
+    * - Axis 12
+      - SL1L2-BOTTOM-M12
+    * - Axis 13
+      - SL1L2-NORTH-M13
+    * - Axis 14
+      - SL1L2-TOP-M14
+    * - Axis 15
+      - SL2L2-BOTTOM-M15
+    * - Axis 16
+      - SL2L2-TOP-M16
+    * - Axis 17
+      - SL2L2-SOUTH-M17
+    * - Axis 18
+      - SL2L2-NORTH-M18
+    * - Axis 19
+      - AT1L2-SOLID-MMS-01-M19
+    * - Axis 20
+      - AT1L2-SOLID-MMS-02-M20
+    * - Axis 21
+      - AT1L2-SOLID-MMS-03-M21
+    * - Axis 22
+      - AT1L2-SOLID-MMS-04-M22
+    * - Axis 23
+      - PF1L2-X-M23
+    * - Axis 24
+      - PF1L2-Y-M24
+
+pcdshub/lcls-plc-xpp-pulsepicker-motion
+---------------------------------------
+
+Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e9d64c2197a5cd167420e2f37a0f6173cd9d82dc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-xpp-pulsepicker-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - Spindle
+    * - Axis 2
+      - X
+    * - Axis 3
+      - Y
+    * - Axis 4
+      - Axis 4
+
+pcdshub/lcls-plc-xpp-tfs
+------------------------
+
+Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141679772ef55565e04aa496e42a9d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+
+.. list-table:: pcdshub/lcls-plc-xpp-tfs Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - M1-T1x
+    * - Axis 2
+      - M2-T2y
+    * - Axis 3
+      - M3-T3x
+    * - Axis 4
+      - M4-T4y
+    * - Axis 5
+      - M5-T5y
+    * - Axis 6
+      - M6-T6z
+    * - Axis 7
+      - M7-1D1y
+    * - Axis 8
+      - M8-1D2y
+    * - Axis 9
+      - M9-1D1x
+    * - Axis 10
+      - M10-1D2x
+    * - Axis 11
+      - M11-2D1
+    * - Axis 12
+      - M12-2D2
+    * - Axis 13
+      - M13-2D3
+    * - Axis 14
+      - M14-2D4
+    * - Axis 15
+      - M15-2D5
+    * - Axis 16
+      - M16-2D6
+    * - Axis 17
+      - M17-2D7
+    * - Axis 18
+      - M18-2D8
+
+pcdshub/lcls-plc-xpp-vac
+------------------------
+
+Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/7282b31354f43eef2319c9d6750995ec9cc7f631>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
+
+No NC axes.
+
+pcdshub/lcls-plc-xrt-vacuum
+---------------------------
+
+Version `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/f6af5d20fda29ad363e574718dd14fb4b5ea8886>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
+
+No NC axes.
+
 unknown
 -------
 
