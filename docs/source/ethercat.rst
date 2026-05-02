@@ -37118,7 +37118,9 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                 <li>
-                                      <table width="100%">
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
                                     <tr>
                                       <td width="10%">
                                         ID=42:
@@ -37135,6 +37137,115 @@ Version `unknown <>`_ - `Documentation <>`_
                                       </td>
                                     </tr>
                                   </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=108:
+                                                </td>
+                                                <td width="75%">VLS_EP1 (EP6002-0002)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EP6002-0002 Interface (RS232/422/485)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=109:
+                                                </td>
+                                                <td width="75%">VLS_EP2 (EP2338-0001)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EP2338-0001 8 Ch. Dig. Input/Output 24V, 0,5A, M8
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=110:
+                                                </td>
+                                                <td width="75%">VLS_EP3 (EP2339-0021)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EP2339-0021 16 Ch. Dig. Input/Output 24V, 0,5A, M8
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=111:
+                                                </td>
+                                                <td width="75%">VLS_EP4 (EP2624-0002)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EP2624-0002 4Ch. Relay Output, NO (125V AC / 30V DC)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=112:
+                                                </td>
+                                                <td width="75%">VLS_EP5 (EP3174-0002)
+                                                </td>
+                                                <td>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EP3174-0002 4Ch. Ana. Input +/-10V, 0-10V, 0/4-20mA configurable
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+                                    </ul>
+                                  </details>
                                 </li>
 
 
@@ -45753,9 +45864,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -45778,9 +45887,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -45803,9 +45910,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -45828,9 +45933,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-1002 1Ch. Stepper motor output stage (50V, 1.5A)
                                                 </td>
@@ -45853,9 +45956,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -45878,9 +45979,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -45903,9 +46002,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
@@ -45928,9 +46025,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                               </tr>
                                               <tr>
                                                 <td>
-                                                              <b>
-                                                      Disabled
-                                                    </b>        </td>
+                                                          </td>
                                                 <td colspan="2">
                                                   EP7041-3102 1Ch. Stepper motor output stage (50V, 5A)
                                                 </td>
