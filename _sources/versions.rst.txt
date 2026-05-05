@@ -7850,7 +7850,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``3.7.1`` SLAC
+      - ``3.9.0`` SLAC
 
     * - SysDir
       -
@@ -11819,7 +11819,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.7.1``, SLAC
+      - ``3.9.0``, SLAC
 
 
     * - unknown:cvmi_motion
