@@ -80482,6 +80482,125 @@ Version `unknown <>`_ - `Documentation <>`_
 
 
                                 <li>
+                                  <details open>
+                                    <summary>
+                                          <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=21:
+                                      </td>
+                                      <td width="75%">Term 21 (EK1122)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EK1122 2 port EtherCAT junction
+                                      </td>
+                                    </tr>
+                                  </table>
+                                    </summary>
+                                    <ul>
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=26:
+                                                </td>
+                                                <td width="75%">plc-xpp-lodcm
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit LODCM
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL6695 EtherCAT Bridge terminal (Secondary)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=27:
+                                                </td>
+                                                <td width="75%">plc-xpp-vac
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit XPP
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL6695 EtherCAT Bridge terminal (Secondary)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=32:
+                                                </td>
+                                                <td width="75%">plc-xpp-motion
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit XPP
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL6695 EtherCAT Bridge terminal (Secondary)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+
+                                          <li>
+                                                <table width="100%">
+                                              <tr>
+                                                <td width="10%">
+                                                  ID=33:
+                                                </td>
+                                                <td width="75%">plc-xrt-vac
+                                                </td>
+                                                <td>            <b>
+                                                      SyncUnit XRT
+                                                    </b>        </td>
+                                              </tr>
+                                              <tr>
+                                                <td>
+                                                          </td>
+                                                <td colspan="2">
+                                                  EL6695 EtherCAT Bridge terminal (Secondary)
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </li>
+
+                                    </ul>
+                                  </details>
+                                </li>
+
+
+                                <li>
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
@@ -80614,7 +80733,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">plc-lfe-vacuum
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit lfe
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -80635,7 +80756,9 @@ Version `unknown <>`_ - `Documentation <>`_
                   </td>
                   <td width="75%">plc-lfe-gem
                   </td>
-                  <td>        </td>
+                  <td>            <b>
+                        SyncUnit lfe
+                      </b>        </td>
                 </tr>
                 <tr>
                   <td>
@@ -80729,7 +80852,9 @@ Version `unknown <>`_ - `Documentation <>`_
                             </td>
                             <td width="75%">plc-txi-lfe-vacuum
                             </td>
-                            <td>        </td>
+                            <td>            <b>
+                                  SyncUnit txi
+                                </b>        </td>
                           </tr>
                           <tr>
                             <td>
@@ -80751,7 +80876,7 @@ Version `unknown <>`_ - `Documentation <>`_
                             <td width="75%">plc-xrt-homs
                             </td>
                             <td>            <b>
-                                  SyncUnit alt
+                                  SyncUnit XRT
                                 </b>        </td>
                           </tr>
                           <tr>
