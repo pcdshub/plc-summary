@@ -85,7 +85,7 @@ This summary was generated |today|.
       - `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141679772ef55565e04aa496e42a9d>`_
       - `pcdshub/lcls-plc-xpp-tfs Docs <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
     * - `pcdshub/lcls-plc-xpp-vac <https://github.com/pcdshub/lcls-plc-xpp-vac>`_
-      - `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/7282b31354f43eef2319c9d6750995ec9cc7f631>`_
+      - `8235410 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/8235410632d5ea3a6951867698ac729d42d1228f>`_
       - `pcdshub/lcls-plc-xpp-vac Docs <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
     * - `pcdshub/lcls-plc-xrt-vacuum <https://github.com/pcdshub/lcls-plc-xrt-vacuum>`_
       - `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/f6af5d20fda29ad363e574718dd14fb4b5ea8886>`_

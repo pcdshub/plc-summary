@@ -10276,7 +10276,7 @@ Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141
 pcdshub/lcls-plc-xpp-vac
 ------------------------
 
-Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/7282b31354f43eef2319c9d6750995ec9cc7f631>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
+Version `8235410 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/8235410632d5ea3a6951867698ac729d42d1228f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
 
 .. raw:: html
 
