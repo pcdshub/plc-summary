@@ -37546,9 +37546,93 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <table width="100%">
                                                         <tr>
                                                           <td width="10%">
+                                                            ID=43:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E13 (EL9410)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL9410 E-Bus Power Supplier  (Diagnostics)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=46:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E14 (EL1004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL1004 4Ch. Dig. Input 24V, 3ms
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=48:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E15 (EL2004)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL2004 4Ch. Dig. Output 24V, 0.5A
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
+                                                            ID=49:
+                                                          </td>
+                                                          <td width="75%">SVLS_PR01 E16 (EL6021)
+                                                          </td>
+                                                          <td>        </td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td>
+                                                                    </td>
+                                                          <td colspan="2">
+                                                            EL6021 Interface (RS422/485)
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                    </li>
+
+
+                                                    <li>
+                                                          <table width="100%">
+                                                        <tr>
+                                                          <td width="10%">
                                                             ID=161:
                                                           </td>
-                                                          <td width="75%">SVLS_PR01 E13 (EL6695)
+                                                          <td width="75%">SVLS_PR01 E17 (EL6695)
                                                           </td>
                                                           <td>            <b>
                                                                 SyncUnit SVLS
@@ -37571,7 +37655,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                                           <td width="10%">
                                                             ID=175:
                                                           </td>
-                                                          <td width="75%">SVLS_PR01 E13 (EL9011)
+                                                          <td width="75%">SVLS_PR01 E17 (EL9011)
                                                           </td>
                                                           <td>        </td>
                                                         </tr>
