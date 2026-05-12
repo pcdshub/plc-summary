@@ -1752,7 +1752,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `828aa1f <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/828aa1fd49107d61e962b555e1ed4e93173076db>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `b47bcd7 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b47bcd7db591c928fba042376a9334decb0dd13a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 .. list-table:: pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
     :header-rows: 1
@@ -1767,14 +1767,21 @@ Version `828aa1f <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/8
 
       - ``*`` SLAC
 
-      - ``2.10.0`` SLAC
+      - ``2.12.0`` SLAC
+
+    * - LCLS Sample Delivery
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
 
     * - LCLS Vacuum
       -
 
       - ``*`` SLAC
 
-      - ``2.3.3`` SLAC
+      - ``2.4.5`` SLAC
 
     * - Tc2_Standard
       -
@@ -1796,13 +1803,6 @@ Version `828aa1f <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/8
       - ``*`` Beckhoff
 
       - ``3.3.21.0`` Beckhoff
-
-    * - lcls-twincat-sample-delivery
-      -
-
-      - ``*`` SLAC
-
-      - ``1.0.0`` SLAC
 
 
 pcdshub/lcls-plc-xcs-fpms: XCS_FPMS
@@ -8978,7 +8978,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.10.0``, SLAC
+      - ``2.12.0``, SLAC
 
 
     * - pcdshub/lcls-plc-hxr-vhs:plc_vhs_01
@@ -9240,6 +9240,13 @@ LCLS Sample Delivery
 
 
 
+    * - pcdshub/lcls-plc-ued-sample-delivery:PLC_UED_SDS
+      -
+
+      - ``*``, SLAC
+
+      - ``2.0.0``, SLAC
+
 
 
 
@@ -9491,7 +9498,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.3``, SLAC
+      - ``2.4.5``, SLAC
 
 
 
@@ -10766,13 +10773,6 @@ lcls-twincat-sample-delivery
 
 
 
-
-    * - pcdshub/lcls-plc-ued-sample-delivery:PLC_UED_SDS
-      -
-
-      - ``*``, SLAC
-
-      - ``1.0.0``, SLAC
 
 
 

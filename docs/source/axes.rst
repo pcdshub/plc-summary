@@ -345,7 +345,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery
 ------------------------------------
 
-Version `828aa1f <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/828aa1fd49107d61e962b555e1ed4e93173076db>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `b47bcd7 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b47bcd7db591c928fba042376a9334decb0dd13a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 No NC axes.
 
