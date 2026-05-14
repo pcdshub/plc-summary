@@ -273,6 +273,38 @@ Version `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5
     * - Axis 3
       - M3-STATE
 
+pcdshub/lcls-plc-tmo-mbes-motion
+--------------------------------
+
+Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c8541f5a6f4ca5c00dfcdaedd6ea4e87051ec6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-tmo-mbes-motion Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - MBES-MAG-MMS-X
+    * - Axis 2
+      - MBES-MAG-MMS-Y
+    * - Axis 3
+      - MBES-MAG-MMS-Z
+    * - Axis 4
+      - MBES-GJ-MMS-X
+    * - Axis 5
+      - MBES-GJ-MMS-Y
+    * - Axis 6
+      - MBES-GJ-MMS-Z
+    * - Axis 7
+      - MBES-GN-MMS-X
+    * - Axis 8
+      - MBES-GN-MMS-Y
+    * - Axis 9
+      - MBES-GN-MMS-Z
+    * - Axis 10
+      - MBES-SP-MMS-X
+
 pcdshub/lcls-plc-tmo-mbes-vac
 -----------------------------
 
@@ -948,6 +980,8 @@ Version `unknown <>`_ - `Documentation <>`_
       - Axis 45 SP2K2-TXAS-DET-MMS-RY
     * - Axis 46
       - Axis 46 Piranha Rotation
+    * - Axis 47
+      - Axis 47 VLS-SLITS
 
 unknown
 -------
