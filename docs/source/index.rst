@@ -54,6 +54,9 @@ This summary was generated |today|.
     * - `pcdshub/lcls-plc-smartactmcs2-motion <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion>`_
       - `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5538da62e6a531905417be711d426ac55d671401>`_
       - `pcdshub/lcls-plc-smartactmcs2-motion Docs <https://pcdshub.github.io/lcls-plc-smartactmcs2-motion>`_
+    * - `pcdshub/lcls-plc-tmo-mbes-motion <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion>`_
+      - `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c8541f5a6f4ca5c00dfcdaedd6ea4e87051ec6>`_
+      - `pcdshub/lcls-plc-tmo-mbes-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
     * - `pcdshub/lcls-plc-tmo-mbes-vac <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac>`_
       - `V1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/5d977afeb59bd2e42065d0e1f7daff4f29cb7f3f>`_
       - `pcdshub/lcls-plc-tmo-mbes-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-mbes-vac>`_

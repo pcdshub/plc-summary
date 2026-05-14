@@ -82,6 +82,10 @@ and other issues.
       - 3.1.4026.17
       - true
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion
+      - 3.1.4026.17
+      - 
+
     * - pcdshub/lcls-plc-tmo-mbes-vac
       - 3.1.4026.17
       - 
@@ -1432,6 +1436,174 @@ Version `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5
       - ``*`` SLAC
 
       - ``1.0.0`` SLAC
+
+
+pcdshub/lcls-plc-tmo-mbes-motion: MBES_MOTION
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c8541f5a6f4ca5c00dfcdaedd6ea4e87051ec6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
+
+.. list-table:: pcdshub/lcls-plc-tmo-mbes-motion: MBES_MOTION
+    :header-rows: 1
+
+    * - Dependency
+      - Library
+      - Placeholder
+      - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.12.0`` SLAC
+
+    * - PMPS
+      -
+
+      -
+
+      - ``3.9.0`` SLAC
+
+    * - SysDir
+      -
+
+      -
+
+      - ``3.5.17.0`` System
+
+    * - SysFile
+      -
+
+      -
+
+      - ``3.5.17.0`` System
+
+    * - Tc2_EtherCAT
+      -
+
+      -
+
+      - ``3.6.2.0`` Beckhoff
+
+    * - Tc2_IoFunctions
+      -
+
+      -
+
+      - ``3.4.5.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      -
+
+      - ``3.3.69.0`` Beckhoff
+
+    * - Tc2_Math
+      -
+
+      -
+
+      - ``3.5.1.0`` Beckhoff
+
+    * - Tc2_ModbusSrv
+      -
+
+      -
+
+      - ``3.5.1.0`` Beckhoff
+
+    * - Tc2_SerialCom
+      -
+
+      -
+
+      - ``3.4.6.0`` Beckhoff
+
+    * - Tc2_Standard
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.5.0`` Beckhoff
+
+    * - Tc2_System
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.9.1.0`` Beckhoff
+
+    * - Tc2_TcpIp
+      -
+
+      -
+
+      - ``3.4.2.0`` Beckhoff
+
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.9.2.0`` Beckhoff
+
+    * - Tc3_DynamicMemory
+      -
+
+      -
+
+      - ``1.1.4.0`` Beckhoff
+
+    * - Tc3_EventLogger
+      -
+
+      -
+
+      - ``3.3.13.0`` Beckhoff
+
+    * - Tc3_IPCDiag
+      -
+
+      -
+
+      - ``1.2.2.0`` Beckhoff
+
+    * - Tc3_JsonXml
+      -
+
+      -
+
+      - ``3.4.7.0`` Beckhoff
+
+    * - Tc3_Module
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.4.5.0`` Beckhoff
+
+    * - TcUnit
+      -
+
+      -
+
+      - ``1.3.1`` www.tcunit.org
+
+    * - lcls-twincat-math
+      -
+
+      -
+
+      - ``1.0.0`` SLAC
+
+    * - lcls-twincat-motion
+      -
+
+      - ``*`` SLAC
+
+      - ``4.4.0`` SLAC
 
 
 pcdshub/lcls-plc-tmo-mbes-vac: plc_mbes_vac
@@ -8564,6 +8736,7 @@ L2SI Vacuum Library
 
 
 
+
     * - unknown:plc_lfe_gem
       -
 
@@ -8772,6 +8945,14 @@ LCLS General
       - ``*``, SLAC
 
       - ``*``, SLAC
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      - ``*``, SLAC
+
+      - ``2.12.0``, SLAC
 
 
 
@@ -9240,6 +9421,7 @@ LCLS Sample Delivery
 
 
 
+
     * - pcdshub/lcls-plc-ued-sample-delivery:PLC_UED_SDS
       -
 
@@ -9348,6 +9530,7 @@ LCLS Vacuum
       - ``*``, SLAC
 
       - ``2.5.0``, SLAC
+
 
 
 
@@ -9726,6 +9909,7 @@ lcls-twincat-common-components
 
 
 
+
     * - unknown:tmo_motion
       -
 
@@ -9776,6 +9960,7 @@ lcls-twincat-he-satt
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -9918,6 +10103,14 @@ lcls-twincat-math
 
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``1.0.0``, SLAC
 
 
 
@@ -10164,6 +10357,14 @@ lcls-twincat-motion
       - ``*``, SLAC
 
       - ``*``, SLAC
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      - ``*``, SLAC
+
+      - ``4.4.0``, SLAC
 
 
 
@@ -10510,6 +10711,7 @@ lcls-twincat-optics
 
 
 
+
     * - unknown:rixs_optics
       -
 
@@ -10680,6 +10882,7 @@ lcls-twincat-physics
 
 
 
+
     * - unknown:txi_hxr_motion
       -
 
@@ -10719,6 +10922,7 @@ lcls-twincat-sample-delivery
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -10825,6 +11029,7 @@ lcls2-cc-lib
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -10981,6 +11186,7 @@ LCLS_MotionAbstraction
 
 
 
+
     * - pcdshub/lcls-plc-motion-abstraction-sample:motion_abstraction_sample
       -
 
@@ -11065,6 +11271,7 @@ LCLS_OOPMotion
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -11214,6 +11421,7 @@ LCLS_Tc_DevAbs
 
 
 
+
     * - pcdshub/lcls-plc-motion-abstraction-sample:motion_abstraction_sample
       -
 
@@ -11298,6 +11506,7 @@ lcls_twincat_motion_synchronous
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -11495,6 +11704,7 @@ lcls_twincat_telemetry
 
 
 
+
     * - pcdshub/lcls-plc-xpp-motion:xpp_motion
       -
 
@@ -11517,6 +11727,7 @@ LCLSVacuumLib
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -11647,6 +11858,7 @@ LCLSVacuumSerialDriverLib
       - ``*``, SLAC
 
       - ``1.2.2``, SLAC
+
 
 
 
@@ -11940,6 +12152,14 @@ PMPS
       - ``*``, SLAC
 
       - ``*``, SLAC
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.9.0``, SLAC
 
 
 
@@ -12335,6 +12555,14 @@ SysDir
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.5.17.0``, System
+
+
 
 
 
@@ -12595,6 +12823,14 @@ SysFile
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.5.17.0``, System
+
+
 
 
 
@@ -12835,6 +13071,7 @@ Tc2_BABasic
 
 
 
+
     * - unknown:opcpa_lps_plc_01
       -
 
@@ -12968,6 +13205,7 @@ Tc2_ControllerToolbox
 
 
 
+
     * - unknown:plc_kfe_gatt
       -
 
@@ -13081,6 +13319,7 @@ Tc2_DataExchange
       -
 
       - ``3.3.5.0``, Beckhoff
+
 
 
 
@@ -13339,6 +13578,14 @@ Tc2_EtherCAT
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.6.2.0``, Beckhoff
 
 
 
@@ -13657,6 +13904,14 @@ Tc2_IoFunctions
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.4.5.0``, Beckhoff
+
+
 
 
 
@@ -13922,6 +14177,14 @@ Tc2_Math
 
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.5.1.0``, Beckhoff
 
 
 
@@ -14231,6 +14494,14 @@ Tc2_MC2
       -
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.3.69.0``, Beckhoff
 
 
 
@@ -14544,6 +14815,7 @@ Tc2_MC2_Drive
 
 
 
+
     * - pcdshub/lcls-plc-mfx-bsm:mfx_bsm
       -
 
@@ -14647,6 +14919,7 @@ Tc2_ModbusRTU
       - ``*``, Beckhoff
 
       - ``3.4.2.0``, Beckhoff
+
 
 
 
@@ -14808,6 +15081,14 @@ Tc2_ModbusSrv
 
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.5.1.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
@@ -15054,6 +15335,7 @@ Tc2_NC
 
 
 
+
     * - pcdshub/lcls-plc-motion-abstraction-sample:motion_abstraction_sample
       -
 
@@ -15223,6 +15505,14 @@ Tc2_SerialCom
       -
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.4.6.0``, Beckhoff
 
 
 
@@ -15679,6 +15969,14 @@ Tc2_Standard
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.4.5.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
@@ -16270,6 +16568,7 @@ Tc2_SUPS
 
 
 
+
     * - unknown:SDSPLC
       - ``3.3.6.0``, Beckhoff
 
@@ -16493,6 +16792,14 @@ Tc2_System
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.9.1.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
@@ -17114,6 +17421,7 @@ Tc2_SystemCX
 
 
 
+
 Tc2_TcpIp
 ^^^^^^^^^
 
@@ -17195,6 +17503,14 @@ Tc2_TcpIp
 
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.4.2.0``, Beckhoff
 
 
 
@@ -17527,6 +17843,14 @@ Tc2_Utilities
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.9.2.0``, Beckhoff
+
+
 
 
     * - pcdshub/lcls-plc-mfx-bsm:mfx_bsm
@@ -17843,6 +18167,14 @@ Tc3_DynamicMemory
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``1.1.4.0``, Beckhoff
+
+
 
 
 
@@ -18010,6 +18342,14 @@ Tc3_EventLogger
 
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.3.13.0``, Beckhoff
 
 
 
@@ -18244,6 +18584,7 @@ Tc3_Interfaces
 
 
 
+
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
       -
 
@@ -18420,6 +18761,14 @@ Tc3_IPCDiag
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``1.2.2.0``, Beckhoff
+
+
 
 
 
@@ -18587,6 +18936,14 @@ Tc3_JsonXml
 
 
 
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``3.4.7.0``, Beckhoff
 
 
 
@@ -18966,6 +19323,14 @@ Tc3_Module
       - ``*``, Beckhoff
 
       -
+
+
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.4.5.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
@@ -19564,6 +19929,14 @@ TcUnit
 
 
 
+    * - pcdshub/lcls-plc-tmo-mbes-motion:MBES_MOTION
+      -
+
+      -
+
+      - ``1.3.1``, www.tcunit.org
+
+
 
 
 
@@ -19860,6 +20233,7 @@ UML Statechart Types
 
 
 
+
     * - unknown:XCS_PER_PLC
       -
 
@@ -19885,6 +20259,7 @@ Vacuum System Simulator Library
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -20073,6 +20448,7 @@ VisuDialogs
 
 
 
+
     * - unknown:SolidAttenuatorPLC
       -
 
@@ -20111,6 +20487,7 @@ VisuElem3DPath
       - Library
       - Placeholder
       - Resolution
+
 
 
 
@@ -20255,6 +20632,7 @@ VisuElemMeter
 
 
 
+
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
       -
 
@@ -20385,6 +20763,7 @@ VisuElems
       - ``3.5.10.40``, System
 
       -
+
 
 
 
@@ -20523,6 +20902,7 @@ VisuElemsSpecialControls
 
 
 
+
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
       -
 
@@ -20653,6 +21033,7 @@ VisuElemsWinControls
       - ``3.5.10.40``, System
 
       -
+
 
 
 
@@ -20791,6 +21172,7 @@ VisuElemTextEditor
 
 
 
+
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
       -
 
@@ -20925,6 +21307,7 @@ visuinputs
 
 
 
+
     * - pcdshub/lcls-plc-mfx-vac-backup:MFX-PLC
       -
 
@@ -21048,6 +21431,7 @@ VisuNativeControl
       - ``3.5.10.40``, System
 
       -
+
 
 
 
@@ -21216,6 +21600,7 @@ VisuSymbols
 
 
 
+
     * - unknown:SolidAttenuatorPLC
       - ``3.5.10.0``, System
 
@@ -21265,6 +21650,7 @@ VisuUserMgmt
       - ``*``, System
 
       -
+
 
 
 
