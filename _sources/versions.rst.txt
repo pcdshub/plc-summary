@@ -2246,7 +2246,7 @@ Version `1d3d003 <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/1d3d003adee
 pcdshub/lcls-plc-xpp-motion: xpp_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.0-20-g18cb53f <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/18cb53fd3ffae46bbe952e3992b697375efb78fd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
+Version `v1.2.0~1 <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/98d0f02de9ecd19764630d08424790f24a2ed672>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-motion: xpp_motion
     :header-rows: 1
@@ -2331,7 +2331,7 @@ Version `v1.0.0-20-g18cb53f <https://github.com/pcdshub/lcls-plc-xpp-motion/tree
 
       - ``*`` SLAC
 
-      - ``1.0.0`` SLAC
+      - ``1.1.0`` SLAC
 
     * - lcls-twincat-motion
       -
@@ -10050,7 +10050,7 @@ lcls-twincat-he-satt
 
       - ``*``, SLAC
 
-      - ``1.0.0``, SLAC
+      - ``1.1.0``, SLAC
 
 
 
