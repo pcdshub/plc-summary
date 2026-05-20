@@ -7151,7 +7151,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery
 ------------------------------------
 
-Version `b47bcd7 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b47bcd7db591c928fba042376a9334decb0dd13a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c3f5af677c8ccaffc97a4ac60cedfee0b95b23ae>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 .. raw:: html
 

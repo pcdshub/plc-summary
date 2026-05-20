@@ -1924,7 +1924,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `b47bcd7 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b47bcd7db591c928fba042376a9334decb0dd13a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c3f5af677c8ccaffc97a4ac60cedfee0b95b23ae>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 .. list-table:: pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
     :header-rows: 1
@@ -1946,7 +1946,7 @@ Version `b47bcd7 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b
 
       - ``*`` SLAC
 
-      - ``2.0.0`` SLAC
+      - ``2.1.0`` SLAC
 
     * - LCLS Vacuum
       -
@@ -9427,7 +9427,7 @@ LCLS Sample Delivery
 
       - ``*``, SLAC
 
-      - ``2.0.0``, SLAC
+      - ``2.1.0``, SLAC
 
 
 
