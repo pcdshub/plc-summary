@@ -67,7 +67,7 @@ This summary was generated |today|.
       - `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da49568c616e9cc3929869d96698b68e99336e68>`_
       - `pcdshub/lcls-plc-txi-sxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-sxr-motion>`_
     * - `pcdshub/lcls-plc-ued-sample-delivery <https://github.com/pcdshub/lcls-plc-ued-sample-delivery>`_
-      - `b47bcd7 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b47bcd7db591c928fba042376a9334decb0dd13a>`_
+      - `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c3f5af677c8ccaffc97a4ac60cedfee0b95b23ae>`_
       - `pcdshub/lcls-plc-ued-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
     * - `pcdshub/lcls-plc-xcs-fpms <https://github.com/pcdshub/lcls-plc-xcs-fpms>`_
       - `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-fpms/tree/6957fe20fdc62ee3ebb47a8bac4324c001b01b01>`_
