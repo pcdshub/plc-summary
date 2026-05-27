@@ -2442,7 +2442,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs: xpp_tfs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141679772ef55565e04aa496e42a9d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `5be2738 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/5be27389e81a9181ff715464cb36d9c026129854>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-tfs: xpp_tfs
     :header-rows: 1
@@ -2451,6 +2451,48 @@ Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141
       - Library
       - Placeholder
       - Resolution
+
+    * - LCLS General
+      -
+
+      - ``*`` SLAC
+
+      - ``2.12.0`` SLAC
+
+    * - LCLS_MotionAbstraction
+      -
+
+      - ``*`` SLAC
+
+      - ``0.0.1`` SLAC
+
+    * - LCLS_Tc_DevAbs
+      -
+
+      - ``*`` SLAC
+
+      - ``0.0.1`` SLAC
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      - ``3.9.0`` SLAC
+
+    * - Tc2_EtherCAT
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.6.2.0`` Beckhoff
+
+    * - Tc2_MC2
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.3.69.0`` Beckhoff
 
     * - Tc2_Standard
       -
@@ -2472,13 +2514,6 @@ Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141
       - ``*`` Beckhoff
 
       - ``3.4.5.0`` Beckhoff
-
-    * - lcls-twincat-motion
-      -
-
-      - ``*`` SLAC
-
-      - ``4.4.0`` SLAC
 
 
 pcdshub/lcls-plc-xpp-vac: plc_xpp_vac
@@ -4403,14 +4438,14 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``2.3.0`` SLAC
+      - ``2.4.5`` SLAC
 
     * - LCLSVacuumSerialDriverLib
       -
 
       - ``*`` SLAC
 
-      - ``1.2.2`` SLAC
+      - ``1.3.3`` SLAC
 
     * - PMPS
       -
@@ -9346,6 +9381,13 @@ LCLS General
 
 
 
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, SLAC
+
+      - ``2.12.0``, SLAC
+
 
     * - pcdshub/lcls-plc-xrt-vacuum:xrt_vacuum
       -
@@ -9665,7 +9707,7 @@ LCLS Vacuum
 
       - ``*``, SLAC
 
-      - ``2.3.0``, SLAC
+      - ``2.4.5``, SLAC
 
 
     * - unknown:PLC_TMO_VAC
@@ -10618,13 +10660,6 @@ lcls-twincat-motion
 
 
 
-    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
-      -
-
-      - ``*``, SLAC
-
-      - ``4.4.0``, SLAC
-
 
 
 
@@ -11258,6 +11293,13 @@ LCLS_MotionAbstraction
       - ``0.0.0``, SLAC
 
 
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, SLAC
+
+      - ``0.0.1``, SLAC
+
 
 
 
@@ -11492,6 +11534,13 @@ LCLS_Tc_DevAbs
 
       - ``0.0.1``, SLAC
 
+
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, SLAC
+
+      - ``0.0.1``, SLAC
 
 
 
@@ -11970,7 +12019,7 @@ LCLSVacuumSerialDriverLib
 
       - ``*``, SLAC
 
-      - ``1.2.2``, SLAC
+      - ``1.3.3``, SLAC
 
 
     * - unknown:PLC_TMO_VAC
@@ -12461,6 +12510,13 @@ PMPS
       - ``3.9.0``, SLAC
 
 
+
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, SLAC
+
+      - ``3.9.0``, SLAC
 
 
     * - pcdshub/lcls-plc-xrt-vacuum:xrt_vacuum
@@ -13818,6 +13874,13 @@ Tc2_EtherCAT
       -
 
 
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.6.2.0``, Beckhoff
+
 
 
 
@@ -14775,6 +14838,13 @@ Tc2_MC2
 
       -
 
+
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.3.69.0``, Beckhoff
 
 
 
