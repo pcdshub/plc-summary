@@ -522,7 +522,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs
 ------------------------
 
-Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141679772ef55565e04aa496e42a9d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `5be2738 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/5be27389e81a9181ff715464cb36d9c026129854>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-tfs Axes
     :header-rows: 1
@@ -531,25 +531,25 @@ Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141
       - Axis Name
 
     * - Axis 1
-      - M1-T1x
+      - M1-Tx1
     * - Axis 2
-      - M2-T2y
+      - M2-Ty1
     * - Axis 3
-      - M3-T3x
+      - M3-Tx2
     * - Axis 4
-      - M4-T4y
+      - M4-Ty2
     * - Axis 5
-      - M5-T5y
+      - M5-Ty3
     * - Axis 6
-      - M6-T6z
+      - M6-Tz
     * - Axis 7
-      - M7-1D1y
+      - M7-1DHy
     * - Axis 8
-      - M8-1D2y
+      - M8-1DVy
     * - Axis 9
-      - M9-1D1x
+      - M9-1DHx
     * - Axis 10
-      - M10-1D2x
+      - M10-1DVx
     * - Axis 11
       - M11-2D1
     * - Axis 12
@@ -566,6 +566,10 @@ Version `983d5fa <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/983d5faf31141
       - M17-2D7
     * - Axis 18
       - M18-2D8
+    * - Axis 19
+      - M19-SP1L2-LODCM-MMS-D2Ty
+    * - Axis 20
+      - M20-SP1L2-LODCM-MMS-D1Ty-PINK
 
 pcdshub/lcls-plc-xpp-vac
 ------------------------
