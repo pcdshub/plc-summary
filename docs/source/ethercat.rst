@@ -7833,6 +7833,716 @@ Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f9
     </ul>
 
 
+pcdshub/lcls-plc-xpp-atds
+-------------------------
+
+Version `91d7a79 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/91d7a79c138b49a1788059618e4358a9c503b75c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
+
+.. raw:: html
+
+    <ul class="tree">
+
+
+
+
+      <li>
+    <details open>
+      <summary>
+            <table width="100%">
+      <tr>
+        <td width="10%">
+          ID=1:
+        </td>
+        <td width="75%">ATDS-DRL-01
+        </td>
+        <td>        </td>
+      </tr>
+      <tr>
+        <td>
+                  </td>
+        <td colspan="2">
+          EK1200-5000 EtherCAT Power supply (2A E-Bus)
+        </td>
+      </tr>
+    </table>
+      </summary>
+      <ul>
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=2:
+                  </td>
+                  <td width="75%">EL7062_01_01_BaseX_BaseY
+                  </td>
+                  <td>            <b>
+                        SyncUnit motors
+                      </b>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=3:
+                  </td>
+                  <td width="75%">EL5042_01_02_BaseX_BaseY
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL5042 2Ch. BiSS-C Encoder
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=4:
+                  </td>
+                  <td width="75%">EL7062_01_04_BaseTheta_Z
+                  </td>
+                  <td>            <b>
+                        SyncUnit motors
+                      </b>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=5:
+                  </td>
+                  <td width="75%">EL5042_01_05_BaseTheta_Z
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL5042 2Ch. BiSS-C Encoder
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=6:
+                  </td>
+                  <td width="75%">EL3174_01_06
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL3174-0002 4Ch. Ana. Input +/-10V, +/-20mA 16 Bit, Isolated Channels
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=7:
+                  </td>
+                  <td width="75%">EL4134_01_07
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL4134 4Ch. Ana. Output -10/+10V, 16bit
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=8:
+                  </td>
+                  <td width="75%">EL6070
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL6070 1Ch. Licensing-Terminal
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+              <details open>
+                <summary>
+                      <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=9:
+                  </td>
+                  <td width="75%">EK1122_01_02
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EK1122 2 port EtherCAT junction
+                  </td>
+                </tr>
+              </table>
+                </summary>
+                <ul>
+
+                      <li>
+                        <details open>
+                          <summary>
+                                <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=10:
+                            </td>
+                            <td width="75%">ATDS-DRL-02
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EK1100 EtherCAT Coupler (2A E-Bus)
+                            </td>
+                          </tr>
+                        </table>
+                          </summary>
+                          <ul>
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=11:
+                                      </td>
+                                      <td width="75%">EL7062_02_01_Y_X
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=12:
+                                      </td>
+                                      <td width="75%">EL5042_02_02_Y_X
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL5042 2Ch. BiSS-C Encoder
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=13:
+                                      </td>
+                                      <td width="75%">EL7062_02_03_Eta_Kappa
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=14:
+                                      </td>
+                                      <td width="75%">EL5042_02_04_Eta_Kappa
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL5042 2Ch. BiSS-C Encoder
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=15:
+                                      </td>
+                                      <td width="75%">EL7062_02_06_Phi_SamX
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=16:
+                                      </td>
+                                      <td width="75%">EL5042_02_07_Phi
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL5042 2Ch. BiSS-C Encoder
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=46:
+                                      </td>
+                                      <td width="75%">EL1084_02_08_SamX_SamY_Lim
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1084 4Ch. Dig. Input 24V, 3ms, negative
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=47:
+                                      </td>
+                                      <td width="75%">EL1084_02_09_SamZ_Lim
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1084 4Ch. Dig. Input 24V, 3ms, negative
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=17:
+                                      </td>
+                                      <td width="75%">EL7062_02_10_SamY_SamZ
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=18:
+                                      </td>
+                                      <td width="75%">EL9410_02_11
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9410 E-Bus Power Supplier  (Diagnostics)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=19:
+                                      </td>
+                                      <td width="75%">EL7062_02_12_USR1_USR2
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=20:
+                                      </td>
+                                      <td width="75%">EL1429_02_13
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1429 16Ch. Dig. Input 24V, 3ms, positive/negative
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=21:
+                                      </td>
+                                      <td width="75%">EL7062_02_14_USR3_USR4
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=27:
+                                      </td>
+                                      <td width="75%">Term 27 (EL9011)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9011 End Terminal
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+                          </ul>
+                        </details>
+                      </li>
+
+
+                      <li>
+                        <details open>
+                          <summary>
+                                <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=22:
+                            </td>
+                            <td width="75%">ATDS-DRL-03
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              EK1100 EtherCAT Coupler (2A E-Bus)
+                            </td>
+                          </tr>
+                        </table>
+                          </summary>
+                          <ul>
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=23:
+                                      </td>
+                                      <td width="75%">EL7062_03_01
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=24:
+                                      </td>
+                                      <td width="75%">EL1429_03_03
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL1429 16Ch. Dig. Input 24V, 3ms, positive/negative
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=25:
+                                      </td>
+                                      <td width="75%">EL7062_03_04
+                                      </td>
+                                      <td>            <b>
+                                            SyncUnit motors
+                                          </b>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=28:
+                                      </td>
+                                      <td width="75%">Term 28 (EL9011)
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL9011 End Terminal
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+                          </ul>
+                        </details>
+                      </li>
+
+                </ul>
+              </details>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=26:
+                  </td>
+                  <td width="75%">EL6695_01_09
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL6695 EtherCAT Bridge terminal (Primary)
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=29:
+                  </td>
+                  <td width="75%">Term 29 (EL9011)
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL9011 End Terminal
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+      </ul>
+    </details>
+  </li>
+
+
+    </ul>
+
+
 pcdshub/lcls-plc-xpp-lodcm
 --------------------------
 

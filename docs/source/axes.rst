@@ -395,6 +395,42 @@ Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f9
 
 No NC axes.
 
+pcdshub/lcls-plc-xpp-atds
+-------------------------
+
+Version `91d7a79 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/91d7a79c138b49a1788059618e4358a9c503b75c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
+
+.. list-table:: pcdshub/lcls-plc-xpp-atds Axes
+    :header-rows: 1
+
+    * - Axis ID
+      - Axis Name
+
+    * - Axis 1
+      - BASE_X
+    * - Axis 2
+      - BASE_Y
+    * - Axis 3
+      - BASE_THETA
+    * - Axis 4
+      - Z
+    * - Axis 5
+      - Y
+    * - Axis 6
+      - X
+    * - Axis 7
+      - Eta
+    * - Axis 8
+      - Kappa
+    * - Axis 9
+      - Phi
+    * - Axis 10
+      - sam_x
+    * - Axis 11
+      - sam_y
+    * - Axis 12
+      - sam_z
+
 pcdshub/lcls-plc-xpp-lodcm
 --------------------------
 
