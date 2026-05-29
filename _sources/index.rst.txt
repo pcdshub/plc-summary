@@ -75,6 +75,9 @@ This summary was generated |today|.
     * - `pcdshub/lcls-plc-xcs-sample-delivery <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery>`_
       - `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f976c5bd1416678118cd8f74c8ebfe5cf8dd43a5>`_
       - `pcdshub/lcls-plc-xcs-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-xcs-sample-delivery>`_
+    * - `pcdshub/lcls-plc-xpp-atds <https://github.com/pcdshub/lcls-plc-xpp-atds>`_
+      - `91d7a79 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/91d7a79c138b49a1788059618e4358a9c503b75c>`_
+      - `pcdshub/lcls-plc-xpp-atds Docs <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
     * - `pcdshub/lcls-plc-xpp-lodcm <https://github.com/pcdshub/lcls-plc-xpp-lodcm>`_
       - `1d3d003 <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/1d3d003adee515bd4b09fb3566996fdc74ea0c6a>`_
       - `pcdshub/lcls-plc-xpp-lodcm Docs <https://pcdshub.github.io/lcls-plc-xpp-lodcm>`_
