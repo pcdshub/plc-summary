@@ -94,7 +94,7 @@ This summary was generated |today|.
       - `e05a276 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/e05a27631f5e797d87bacd756b52c1fb26918515>`_
       - `pcdshub/lcls-plc-xpp-vac Docs <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
     * - `pcdshub/lcls-plc-xrt-vacuum <https://github.com/pcdshub/lcls-plc-xrt-vacuum>`_
-      - `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/f6af5d20fda29ad363e574718dd14fb4b5ea8886>`_
+      - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/c1a29797a0ff2fc292df45fce33d8ad1c4cb6787>`_
       - `pcdshub/lcls-plc-xrt-vacuum Docs <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
     * - ` <>`_
       - `unknown <>`_

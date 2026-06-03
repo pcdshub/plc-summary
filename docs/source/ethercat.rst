@@ -12309,7 +12309,7 @@ Version `e05a276 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/e05a27631f5e7
 pcdshub/lcls-plc-xrt-vacuum
 ---------------------------
 
-Version `v1.0.4~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/f6af5d20fda29ad363e574718dd14fb4b5ea8886>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
+Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/c1a29797a0ff2fc292df45fce33d8ad1c4cb6787>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
 
 .. raw:: html
 
