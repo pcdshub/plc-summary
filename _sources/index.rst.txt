@@ -88,13 +88,13 @@ This summary was generated |today|.
       - `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e9d64c2197a5cd167420e2f37a0f6173cd9d82dc>`_
       - `pcdshub/lcls-plc-xpp-pulsepicker-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
     * - `pcdshub/lcls-plc-xpp-tfs <https://github.com/pcdshub/lcls-plc-xpp-tfs>`_
-      - `5be2738 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/5be27389e81a9181ff715464cb36d9c026129854>`_
+      - `59046f4 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/59046f46656102ec8748c5832d0e651f5e0ce62d>`_
       - `pcdshub/lcls-plc-xpp-tfs Docs <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
     * - `pcdshub/lcls-plc-xpp-vac <https://github.com/pcdshub/lcls-plc-xpp-vac>`_
-      - `e05a276 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/e05a27631f5e797d87bacd756b52c1fb26918515>`_
+      - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/cafbd90645757ec7cc564135bb6701ae2765c33d>`_
       - `pcdshub/lcls-plc-xpp-vac Docs <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
     * - `pcdshub/lcls-plc-xrt-vacuum <https://github.com/pcdshub/lcls-plc-xrt-vacuum>`_
-      - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/c1a29797a0ff2fc292df45fce33d8ad1c4cb6787>`_
+      - `v2.0.1~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/418a2648c50826b778ed9f6bc141a932082fd5ae>`_
       - `pcdshub/lcls-plc-xrt-vacuum Docs <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
     * - ` <>`_
       - `unknown <>`_

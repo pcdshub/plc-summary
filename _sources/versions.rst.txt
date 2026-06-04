@@ -2488,7 +2488,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs: xpp_tfs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `5be2738 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/5be27389e81a9181ff715464cb36d9c026129854>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `59046f4 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/59046f46656102ec8748c5832d0e651f5e0ce62d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-tfs: xpp_tfs
     :header-rows: 1
@@ -2554,6 +2554,13 @@ Version `5be2738 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/5be27389e81a9
 
       - ``3.9.1.0`` Beckhoff
 
+    * - Tc2_Utilities
+      -
+
+      - ``*`` Beckhoff
+
+      - ``3.9.2.0`` Beckhoff
+
     * - Tc3_Module
       -
 
@@ -2565,7 +2572,7 @@ Version `5be2738 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/5be27389e81a9
 pcdshub/lcls-plc-xpp-vac: plc_xpp_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `e05a276 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/e05a27631f5e797d87bacd756b52c1fb26918515>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
+Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/cafbd90645757ec7cc564135bb6701ae2765c33d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-vac: plc_xpp_vac
     :header-rows: 1
@@ -2621,7 +2628,7 @@ Version `e05a276 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/e05a27631f5e7
 pcdshub/lcls-plc-xrt-vacuum: plc_xrt_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/c1a29797a0ff2fc292df45fce33d8ad1c4cb6787>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
+Version `v2.0.1~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/418a2648c50826b778ed9f6bc141a932082fd5ae>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
 
 .. list-table:: pcdshub/lcls-plc-xrt-vacuum: plc_xrt_vac
     :header-rows: 1
@@ -18300,6 +18307,13 @@ Tc2_Utilities
       - ``3.9.2.0``, Beckhoff
 
 
+
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, Beckhoff
+
+      - ``3.9.2.0``, Beckhoff
 
 
 
