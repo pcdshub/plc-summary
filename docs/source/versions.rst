@@ -88,7 +88,7 @@ and other issues.
 
     * - pcdshub/lcls-plc-tmo-mbes-vac
       - 3.1.4026.17
-      - 
+      - true
 
     * - pcdshub/lcls-plc-txi-dccm
       - 3.1.4024.35
@@ -1613,7 +1613,7 @@ Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c854
 pcdshub/lcls-plc-tmo-mbes-vac: plc_mbes_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `V1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/5d977afeb59bd2e42065d0e1f7daff4f29cb7f3f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-vac>`_
+Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/0f21b6f6411e82642339e03f32731cc178209623>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-mbes-vac: plc_mbes_vac
     :header-rows: 1
@@ -2075,7 +2075,7 @@ Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f9
 pcdshub/lcls-plc-xpp-atds: lcls_plc_xpp_atds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `91d7a79 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/91d7a79c138b49a1788059618e4358a9c503b75c>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
+Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/816cf329dec1a343280819027e2a2627c30635f6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-atds: lcls_plc_xpp_atds
     :header-rows: 1
@@ -2292,7 +2292,7 @@ Version `1d3d003 <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/1d3d003adee
 pcdshub/lcls-plc-xpp-motion: xpp_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.2.0~1 <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/98d0f02de9ecd19764630d08424790f24a2ed672>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
+Version `v1.0.0-32-g34398ac <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/34398ac5482934b880ee9aa4b675634353f6ed91>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-motion: xpp_motion
     :header-rows: 1
@@ -2488,7 +2488,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs: xpp_tfs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `59046f4 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/59046f46656102ec8748c5832d0e651f5e0ce62d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `v0.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f369d444574dfa36bc305598fa75f20c8ec8e548>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-tfs: xpp_tfs
     :header-rows: 1
@@ -2505,19 +2505,19 @@ Version `59046f4 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/59046f4665610
 
       - ``2.12.0`` SLAC
 
-    * - LCLS_MotionAbstraction
-      -
-
-      - ``*`` SLAC
-
-      - ``0.0.1`` SLAC
-
     * - LCLS_Tc_DevAbs
       -
 
       - ``*`` SLAC
 
-      - ``0.0.1`` SLAC
+      - ``2.0.1`` SLAC
+
+    * - LCLS_Tc_Motion
+      -
+
+      - ``*`` SLAC
+
+      - ``2.0.0`` SLAC
 
     * - PMPS
       -
@@ -11367,13 +11367,6 @@ LCLS_MotionAbstraction
       - ``0.0.0``, SLAC
 
 
-    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
-      -
-
-      - ``*``, SLAC
-
-      - ``0.0.1``, SLAC
-
 
 
 LCLS_OOPMotion
@@ -11616,7 +11609,115 @@ LCLS_Tc_DevAbs
 
       - ``*``, SLAC
 
-      - ``0.0.1``, SLAC
+      - ``2.0.1``, SLAC
+
+
+
+LCLS_Tc_Motion
+^^^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * - pcdshub/lcls-plc-xpp-tfs:xpp_tfs
+      -
+
+      - ``*``, SLAC
+
+      - ``2.0.0``, SLAC
 
 
 
