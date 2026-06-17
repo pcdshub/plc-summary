@@ -7,7 +7,7 @@ This summary was generated |today|.
 pcdshub/lcls-plc-cxi-sample-delivery
 ------------------------------------
 
-Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/01916bdcd23af951f2ecb408955586b5db06a191>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
+Version `2e3b000 <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/2e3b000eb9fd8892fd5ea1c1eb5f47f0add55e92>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
 
 .. raw:: html
 
@@ -72,152 +72,6 @@ Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/0
             <table width="100%">
       <tr>
         <td width="10%">
-          ID=20:
-        </td>
-        <td width="75%">SC3 (EP9128-0021)
-        </td>
-        <td>        </td>
-      </tr>
-      <tr>
-        <td>
-                      <b>
-              Disabled
-            </b>        </td>
-        <td colspan="2">
-          EP9128-0021 8x EtherCAT junction
-        </td>
-      </tr>
-    </table>
-      </summary>
-      <ul>
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=17:
-                  </td>
-                  <td width="75%">Box 15 (EP9128-1021)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EP9128-1021 8x EtherCAT junction - Dev A
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=18:
-                  </td>
-                  <td width="75%">Box 16 (EP9128-2021)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EP9128-2021 8x EtherCAT junction - Dev B
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-      </ul>
-    </details>
-  </li>
-
-
-
-
-      <li>
-    <details open>
-      <summary>
-            <table width="100%">
-      <tr>
-        <td width="10%">
-          ID=28:
-        </td>
-        <td width="75%">SC1 (EP9128-0021)
-        </td>
-        <td>        </td>
-      </tr>
-      <tr>
-        <td>
-                      <b>
-              Disabled
-            </b>        </td>
-        <td colspan="2">
-          EP9128-0021 8x EtherCAT junction
-        </td>
-      </tr>
-    </table>
-      </summary>
-      <ul>
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=14:
-                  </td>
-                  <td width="75%">Box 20 (EP9128-1021)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EP9128-1021 8x EtherCAT junction - Dev A
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
-                    ID=25:
-                  </td>
-                  <td width="75%">Box 21 (EP9128-2021)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EP9128-2021 8x EtherCAT junction - Dev B
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-      </ul>
-    </details>
-  </li>
-
-
-
-
-      <li>
-    <details open>
-      <summary>
-            <table width="100%">
-      <tr>
-        <td width="10%">
           ID=31:
         </td>
         <td width="75%">SC2 (EP9128-0021)
@@ -239,9 +93,9 @@ Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/0
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=22:
+                    ID=64:
                   </td>
-                  <td width="75%">Box 22 (EP9128-1021)
+                  <td width="75%">Term 64 (EP9128-1021)
                   </td>
                   <td>        </td>
                 </tr>
@@ -260,9 +114,80 @@ Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/0
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=23:
+                    ID=66:
                   </td>
-                  <td width="75%">Box 23 (EP9128-2021)
+                  <td width="75%">Term 66 (EP9128-2021)
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EP9128-2021 8x EtherCAT junction - Dev B
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+      </ul>
+    </details>
+  </li>
+
+
+
+
+      <li>
+    <details open>
+      <summary>
+            <table width="100%">
+      <tr>
+        <td width="10%">
+          ID=71:
+        </td>
+        <td width="75%">Box 71 (EP9128-0021)
+        </td>
+        <td>        </td>
+      </tr>
+      <tr>
+        <td>
+                  </td>
+        <td colspan="2">
+          EP9128-0021 8x EtherCAT junction
+        </td>
+      </tr>
+    </table>
+      </summary>
+      <ul>
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=72:
+                  </td>
+                  <td width="75%">Term 72 (EP9128-1021)
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EP9128-1021 8x EtherCAT junction - Dev A
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=73:
+                  </td>
+                  <td width="75%">Term 73 (EP9128-2021)
                   </td>
                   <td>        </td>
                 </tr>
@@ -4274,7 +4199,7 @@ Version `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5
 pcdshub/lcls-plc-tmo-mbes-motion
 --------------------------------
 
-Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c8541f5a6f4ca5c00dfcdaedd6ea4e87051ec6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
+Version `v1.0.0-5-g2c62612 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/2c6261228f85634a41b7cbb7baf03e0a3f007ed9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
 
 .. raw:: html
 
@@ -7174,7 +7099,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery
 ------------------------------------
 
-Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c3f5af677c8ccaffc97a4ac60cedfee0b95b23ae>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `0c85efc <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/0c85efcea2b5321a3e6341f8029800bde80e4cc3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 .. raw:: html
 
@@ -7365,27 +7290,6 @@ Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=19:
-                  </td>
-                  <td width="75%">BR (EP1111-0000)
-                  </td>
-                  <td>        </td>
-                </tr>
-                <tr>
-                  <td>
-                            </td>
-                  <td colspan="2">
-                    EP1111-0000 ID-Switch
-                  </td>
-                </tr>
-              </table>
-            </li>
-
-
-            <li>
-                  <table width="100%">
-                <tr>
-                  <td width="10%">
                     ID=20:
                   </td>
                   <td width="75%">BR Valves (EP2338-0001)
@@ -7474,7 +7378,7 @@ Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c
                             <td width="10%">
                               ID=26:
                             </td>
-                            <td width="75%">Box 26 (EP2338-0001)
+                            <td width="75%">RCC_NEW (EP2338-0001)
                             </td>
                             <td>        </td>
                           </tr>
@@ -7495,7 +7399,7 @@ Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c
                             <td width="10%">
                               ID=27:
                             </td>
-                            <td width="75%">4PortVICI Serial (EP6002-0002)
+                            <td width="75%">VICI Serial (EP6002-0002)
                             </td>
                             <td>        </td>
                           </tr>
@@ -10667,7 +10571,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs
 ------------------------
 
-Version `v0.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f369d444574dfa36bc305598fa75f20c8ec8e548>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f622e40e5de709f6b2851007acf469b58e6439dd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. raw:: html
 
