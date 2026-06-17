@@ -10,7 +10,7 @@ This summary was generated |today|.
       - Version
       - Documentation
     * - `pcdshub/lcls-plc-cxi-sample-delivery <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery>`_
-      - `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/01916bdcd23af951f2ecb408955586b5db06a191>`_
+      - `2e3b000 <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/2e3b000eb9fd8892fd5ea1c1eb5f47f0add55e92>`_
       - `pcdshub/lcls-plc-cxi-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
     * - `pcdshub/lcls-plc-e727-motion <https://github.com/pcdshub/lcls-plc-e727-motion>`_
       - `4b110cf <https://github.com/pcdshub/lcls-plc-e727-motion/tree/4b110cfbebdd20b46a6e6dc30bdbf4134ee30b76>`_
@@ -55,7 +55,7 @@ This summary was generated |today|.
       - `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5538da62e6a531905417be711d426ac55d671401>`_
       - `pcdshub/lcls-plc-smartactmcs2-motion Docs <https://pcdshub.github.io/lcls-plc-smartactmcs2-motion>`_
     * - `pcdshub/lcls-plc-tmo-mbes-motion <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion>`_
-      - `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c8541f5a6f4ca5c00dfcdaedd6ea4e87051ec6>`_
+      - `v1.0.0-5-g2c62612 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/2c6261228f85634a41b7cbb7baf03e0a3f007ed9>`_
       - `pcdshub/lcls-plc-tmo-mbes-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
     * - `pcdshub/lcls-plc-tmo-mbes-vac <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac>`_
       - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/0f21b6f6411e82642339e03f32731cc178209623>`_
@@ -67,7 +67,7 @@ This summary was generated |today|.
       - `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da49568c616e9cc3929869d96698b68e99336e68>`_
       - `pcdshub/lcls-plc-txi-sxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-sxr-motion>`_
     * - `pcdshub/lcls-plc-ued-sample-delivery <https://github.com/pcdshub/lcls-plc-ued-sample-delivery>`_
-      - `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c3f5af677c8ccaffc97a4ac60cedfee0b95b23ae>`_
+      - `0c85efc <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/0c85efcea2b5321a3e6341f8029800bde80e4cc3>`_
       - `pcdshub/lcls-plc-ued-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
     * - `pcdshub/lcls-plc-xcs-fpms <https://github.com/pcdshub/lcls-plc-xcs-fpms>`_
       - `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-fpms/tree/6957fe20fdc62ee3ebb47a8bac4324c001b01b01>`_
@@ -88,7 +88,7 @@ This summary was generated |today|.
       - `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e9d64c2197a5cd167420e2f37a0f6173cd9d82dc>`_
       - `pcdshub/lcls-plc-xpp-pulsepicker-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
     * - `pcdshub/lcls-plc-xpp-tfs <https://github.com/pcdshub/lcls-plc-xpp-tfs>`_
-      - `v0.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f369d444574dfa36bc305598fa75f20c8ec8e548>`_
+      - `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f622e40e5de709f6b2851007acf469b58e6439dd>`_
       - `pcdshub/lcls-plc-xpp-tfs Docs <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
     * - `pcdshub/lcls-plc-xpp-vac <https://github.com/pcdshub/lcls-plc-xpp-vac>`_
       - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/cafbd90645757ec7cc564135bb6701ae2765c33d>`_

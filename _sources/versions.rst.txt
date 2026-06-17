@@ -84,7 +84,7 @@ and other issues.
 
     * - pcdshub/lcls-plc-tmo-mbes-motion
       - 3.1.4026.17
-      - 
+      - true
 
     * - pcdshub/lcls-plc-tmo-mbes-vac
       - 3.1.4026.17
@@ -388,7 +388,7 @@ By PLC Project
 pcdshub/lcls-plc-cxi-sample-delivery: sample_delivery
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/01916bdcd23af951f2ecb408955586b5db06a191>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
+Version `2e3b000 <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/2e3b000eb9fd8892fd5ea1c1eb5f47f0add55e92>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
 
 .. list-table:: pcdshub/lcls-plc-cxi-sample-delivery: sample_delivery
     :header-rows: 1
@@ -403,28 +403,28 @@ Version `01916bd <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/0
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.2.0`` Beckhoff
 
     * - Tc2_System
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.4.24.0`` Beckhoff
 
     * - Tc3_Module
       -
 
       - ``*`` Beckhoff
 
-      -
+      - ``3.3.18.0`` Beckhoff
 
     * - lcls-twincat-sample-delivery
       -
 
       - ``*`` SLAC
 
-      - ``*`` SLAC
+      - ``1.0.0`` SLAC
 
 
 pcdshub/lcls-plc-e727-motion: E727
@@ -1445,7 +1445,7 @@ Version `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5
 pcdshub/lcls-plc-tmo-mbes-motion: MBES_MOTION
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/95c8541f5a6f4ca5c00dfcdaedd6ea4e87051ec6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
+Version `v1.0.0-5-g2c62612 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/2c6261228f85634a41b7cbb7baf03e0a3f007ed9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-tmo-mbes-motion: MBES_MOTION
     :header-rows: 1
@@ -1928,7 +1928,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `c3f5af6 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/c3f5af677c8ccaffc97a4ac60cedfee0b95b23ae>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `0c85efc <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/0c85efcea2b5321a3e6341f8029800bde80e4cc3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 .. list-table:: pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
     :header-rows: 1
@@ -2488,7 +2488,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs: xpp_tfs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v0.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f369d444574dfa36bc305598fa75f20c8ec8e548>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f622e40e5de709f6b2851007acf469b58e6439dd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-tfs: xpp_tfs
     :header-rows: 1
@@ -11096,7 +11096,7 @@ lcls-twincat-sample-delivery
 
       - ``*``, SLAC
 
-      - ``*``, SLAC
+      - ``1.0.0``, SLAC
 
 
 
@@ -16561,7 +16561,7 @@ Tc2_Standard
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.2.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-icl-sample-delivery:sample_delivery
@@ -17393,7 +17393,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.4.24.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-icl-sample-delivery:sample_delivery
@@ -19947,7 +19947,7 @@ Tc3_Module
 
       - ``*``, Beckhoff
 
-      -
+      - ``3.3.18.0``, Beckhoff
 
 
     * - pcdshub/lcls-plc-icl-sample-delivery:sample_delivery
