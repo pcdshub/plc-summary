@@ -538,7 +538,7 @@ Version `v1.0.0-32-g34398ac <https://github.com/pcdshub/lcls-plc-xpp-motion/tree
 pcdshub/lcls-plc-xpp-pulsepicker-motion
 ---------------------------------------
 
-Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e9d64c2197a5cd167420e2f37a0f6173cd9d82dc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
+Version `50fb494 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/50fb4943167b63a2a003a57deaf3acf67a32d489>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-pulsepicker-motion Axes
     :header-rows: 1
@@ -553,7 +553,19 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
     * - Axis 3
       - Y
     * - Axis 4
-      - Axis 4
+      - X_Test
+    * - Axis 5
+      - Y_Test
+    * - Axis 6
+      - Axis_HomeToCenter_Test1
+    * - Axis 7
+      - Axis_HomeToCenter_Test2
+    * - Axis 8
+      - Axis_HomeToCenter_Test3
+    * - Axis 9
+      - Axis_HomeToCenter_Test4
+    * - Axis 10
+      - Axis_HomeToCenter_Test5
 
 pcdshub/lcls-plc-xpp-tfs
 ------------------------

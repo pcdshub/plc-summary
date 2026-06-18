@@ -2404,7 +2404,7 @@ Version `v1.0.0-32-g34398ac <https://github.com/pcdshub/lcls-plc-xpp-motion/tree
 pcdshub/lcls-plc-xpp-pulsepicker-motion: xpp_pulsepicker_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e9d64c2197a5cd167420e2f37a0f6173cd9d82dc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
+Version `50fb494 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/50fb4943167b63a2a003a57deaf3acf67a32d489>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-pulsepicker-motion: xpp_pulsepicker_motion
     :header-rows: 1
@@ -2419,14 +2419,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
-
-    * - LCLS_OOPMotion
-      -
-
-      -
-
-      - ``1.0.0`` SLAC
+      - ``0.0.1`` SLAC
 
     * - LCLS_Tc_DevAbs
       -
@@ -2434,6 +2427,13 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
       - ``*`` SLAC
 
       - ``0.0.1`` SLAC
+
+    * - LCLS_Tc_MotSync
+      -
+
+      - ``*`` SLAC
+
+      -
 
     * - Tc2_EtherCAT
       -
@@ -2476,13 +2476,6 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
       - ``*`` www.tcunit.org
 
       -
-
-    * - lcls_twincat_motion_synchronous
-      -
-
-      - ``*`` SLAC
-
-      - ``0.0.0`` SLAC
 
 
 pcdshub/lcls-plc-xpp-tfs: xpp_tfs
@@ -11364,7 +11357,7 @@ LCLS_MotionAbstraction
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``0.0.1``, SLAC
 
 
 
@@ -11480,13 +11473,6 @@ LCLS_OOPMotion
 
       - ``1.0.0``, SLAC
 
-
-    * - pcdshub/lcls-plc-xpp-pulsepicker-motion:xpp_pulsepicker_motion
-      -
-
-      -
-
-      - ``1.0.0``, SLAC
 
 
 
@@ -11721,6 +11707,114 @@ LCLS_Tc_Motion
 
 
 
+LCLS_Tc_MotSync
+^^^^^^^^^^^^^^^
+
+.. list-table::
+    :header-rows: 1
+
+    * - Project
+      - Library
+      - Placeholder
+      - Resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * - pcdshub/lcls-plc-xpp-pulsepicker-motion:xpp_pulsepicker_motion
+      -
+
+      - ``*``, SLAC
+
+      -
+
+
+
+
 lcls_twincat_motion_synchronous
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -11825,13 +11919,6 @@ lcls_twincat_motion_synchronous
 
 
 
-
-    * - pcdshub/lcls-plc-xpp-pulsepicker-motion:xpp_pulsepicker_motion
-      -
-
-      - ``*``, SLAC
-
-      - ``0.0.0``, SLAC
 
 
 
