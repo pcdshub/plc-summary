@@ -10422,7 +10422,7 @@ Version `v1.0.0-32-g34398ac <https://github.com/pcdshub/lcls-plc-xpp-motion/tree
 pcdshub/lcls-plc-xpp-pulsepicker-motion
 ---------------------------------------
 
-Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e9d64c2197a5cd167420e2f37a0f6173cd9d82dc>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
+Version `50fb494 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/50fb4943167b63a2a003a57deaf3acf67a32d489>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
 
 .. raw:: html
 
@@ -10458,19 +10458,17 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=3:
+                    ID=2:
                   </td>
-                  <td width="75%">XY
+                  <td width="75%">Dongle
                   </td>
                   <td>        </td>
                 </tr>
                 <tr>
                   <td>
-                                <b>
-                        Disabled
-                      </b>        </td>
+                            </td>
                   <td colspan="2">
-                    EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                    EL6070 1Ch. Licensing-Terminal
                   </td>
                 </tr>
               </table>
@@ -10481,7 +10479,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=2:
+                    ID=3:
                   </td>
                   <td width="75%">Spindle
                   </td>
@@ -10504,7 +10502,28 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
                   <td width="10%">
                     ID=4:
                   </td>
-                  <td width="75%">Term 4 (EL9505)
+                  <td width="75%">XY
+                  </td>
+                  <td>        </td>
+                </tr>
+                <tr>
+                  <td>
+                            </td>
+                  <td colspan="2">
+                    EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                  </td>
+                </tr>
+              </table>
+            </li>
+
+
+            <li>
+                  <table width="100%">
+                <tr>
+                  <td width="10%">
+                    ID=5:
+                  </td>
+                  <td width="75%">Term 5 (EL9505)
                   </td>
                   <td>        </td>
                 </tr>
@@ -10523,7 +10542,7 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=5:
+                    ID=6:
                   </td>
                   <td width="75%">Trigger
                   </td>
@@ -10544,9 +10563,9 @@ Version `e9d64c2 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
                   <table width="100%">
                 <tr>
                   <td width="10%">
-                    ID=6:
+                    ID=7:
                   </td>
-                  <td width="75%">Term 6 (EL9011)
+                  <td width="75%">Term 7 (EL9011)
                   </td>
                   <td>        </td>
                 </tr>
