@@ -1081,7 +1081,7 @@ Version `14367c6 <https://github.com/pcdshub/lcls-plc-mfx-vac-backup/tree/14367c
 pcdshub/lcls-plc-motion-abstraction-sample: motion_abstraction_sample
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/75184a81a8e33a533369c400e8bb098b0bbd6a63>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
+Version `b4b61ad <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/b4b61ad42f6f1568482f10fbc2317a7e2eabe67f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
 
 .. list-table:: pcdshub/lcls-plc-motion-abstraction-sample: motion_abstraction_sample
     :header-rows: 1
@@ -1098,19 +1098,26 @@ Version `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/
 
       -
 
-    * - LCLS_MotionAbstraction
-      -
-
-      - ``*`` SLAC
-
-      -
-
     * - LCLS_Tc_DevAbs
       -
 
       - ``*`` SLAC
 
-      - ``0.0.0`` SLAC
+      - ``2.0.1`` SLAC
+
+    * - LCLS_Tc_Motion
+      -
+
+      - ``*`` SLAC
+
+      -
+
+    * - PMPS
+      -
+
+      - ``*`` SLAC
+
+      -
 
     * - Tc2_MC2
       -
@@ -4932,7 +4939,7 @@ Version `unknown <>`_ - `Documentation <>`_
 
       - ``*`` SLAC
 
-      - ``1.0.0`` SLAC
+      - ``4.5.1`` SLAC
 
 
 unknown: MFX_BE_LENS_INTERLOCK
@@ -10400,7 +10407,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``1.0.0``, SLAC
+      - ``4.5.1``, SLAC
 
 
     * - unknown:lcls_plc_bergmann_kohzu
@@ -11288,13 +11295,6 @@ LCLS_MotionAbstraction
 
 
 
-    * - pcdshub/lcls-plc-motion-abstraction-sample:motion_abstraction_sample
-      -
-
-      - ``*``, SLAC
-
-      -
-
 
 
 
@@ -11523,7 +11523,7 @@ LCLS_Tc_DevAbs
 
       - ``*``, SLAC
 
-      - ``0.0.0``, SLAC
+      - ``2.0.1``, SLAC
 
 
 
@@ -11639,6 +11639,13 @@ LCLS_Tc_Motion
 
 
 
+
+    * - pcdshub/lcls-plc-motion-abstraction-sample:motion_abstraction_sample
+      -
+
+      - ``*``, SLAC
+
+      -
 
 
 
@@ -12497,6 +12504,13 @@ PMPS
       - ``2.2.3``, SLAC
 
 
+
+    * - pcdshub/lcls-plc-motion-abstraction-sample:motion_abstraction_sample
+      -
+
+      - ``*``, SLAC
+
+      -
 
 
 

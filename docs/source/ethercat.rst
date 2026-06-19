@@ -3502,7 +3502,7 @@ Version `14367c6 <https://github.com/pcdshub/lcls-plc-mfx-vac-backup/tree/14367c
 pcdshub/lcls-plc-motion-abstraction-sample
 ------------------------------------------
 
-Version `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/75184a81a8e33a533369c400e8bb098b0bbd6a63>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
+Version `b4b61ad <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/b4b61ad42f6f1568482f10fbc2317a7e2eabe67f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
 
 .. raw:: html
 
@@ -44239,7 +44239,7 @@ Version `unknown <>`_ - `Documentation <>`_
                             <td width="10%">
                               ID=35:
                             </td>
-                            <td width="75%">Term 35 (EK1100)
+                            <td width="75%">B950-100H1-R02-PNL-01
                             </td>
                             <td>        </td>
                           </tr>
@@ -44258,9 +44258,51 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <table width="100%">
                                     <tr>
                                       <td width="10%">
-                                        ID=36:
+                                        ID=39:
                                       </td>
                                       <td width="75%">B950-100H1-R02-PNL-01_E1
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL5042 2Ch. BiSS-C Encoder
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=40:
+                                      </td>
+                                      <td width="75%">B950-100H1-R02-PNL-01_E2
+                                      </td>
+                                      <td>        </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                                </td>
+                                      <td colspan="2">
+                                        EL7062-0000 2Ch. Stepper motor output stage (48V, 3A)
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </li>
+
+
+                                <li>
+                                      <table width="100%">
+                                    <tr>
+                                      <td width="10%">
+                                        ID=36:
+                                      </td>
+                                      <td width="75%">B950-100H1-R02-PNL-01_E3
                                       </td>
                                       <td>            <b>
                                             SyncUnit SmarAct
@@ -44283,7 +44325,7 @@ Version `unknown <>`_ - `Documentation <>`_
                                       <td width="10%">
                                         ID=42:
                                       </td>
-                                      <td width="75%">B950-100H1-R02-PNL-01_E2
+                                      <td width="75%">B950-100H1-R02-PNL-01_E4
                                       </td>
                                       <td>        </td>
                                     </tr>
@@ -44327,9 +44369,51 @@ Version `unknown <>`_ - `Documentation <>`_
                             <table width="100%">
                           <tr>
                             <td width="10%">
-                              ID=44:
+                              ID=43:
                             </td>
                             <td width="75%">TMO-DREAM-SMARACT-03
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              MCS2-3C
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=45:
+                            </td>
+                            <td width="75%">TMO-DREAM-SMARACT-04
+                            </td>
+                            <td>        </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                      </td>
+                            <td colspan="2">
+                              MCS2-3C
+                            </td>
+                          </tr>
+                        </table>
+                      </li>
+
+
+                      <li>
+                            <table width="100%">
+                          <tr>
+                            <td width="10%">
+                              ID=46:
+                            </td>
+                            <td width="75%">TMO-DREAM-SMARACT-05
                             </td>
                             <td>        </td>
                           </tr>

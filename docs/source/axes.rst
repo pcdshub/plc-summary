@@ -191,7 +191,7 @@ No NC axes.
 pcdshub/lcls-plc-motion-abstraction-sample
 ------------------------------------------
 
-Version `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/75184a81a8e33a533369c400e8bb098b0bbd6a63>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
+Version `b4b61ad <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/b4b61ad42f6f1568482f10fbc2317a7e2eabe67f>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
 
 .. list-table:: pcdshub/lcls-plc-motion-abstraction-sample Axes
     :header-rows: 1
@@ -200,23 +200,23 @@ Version `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/
       - Axis Name
 
     * - Axis 1
-      - Axis 1
+      - D1_Axis_1
     * - Axis 2
-      - Axis 2
+      - D1_Axis_2
     * - Axis 3
-      - Axis 3
+      - D1_Axis_3
     * - Axis 4
-      - Axis 4
+      - D1_Axis_4
     * - Axis 5
-      - Axis 5
+      - D2_Axis_1
     * - Axis 6
-      - Axis 6
+      - D2_Axis_2
     * - Axis 7
-      - Axis 7
+      - D2_Axis_3
     * - Axis 8
-      - Axis 8
+      - D3_Axis_1
     * - Axis 9
-      - Axis 9
+      - D3_Axis_2
     * - Axis 10
       - Axis 10
 
