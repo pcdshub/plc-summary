@@ -43,7 +43,7 @@ This summary was generated |today|.
       - `14367c6 <https://github.com/pcdshub/lcls-plc-mfx-vac-backup/tree/14367c697f1c6f22c75d3429a821f75ee5140613>`_
       - `pcdshub/lcls-plc-mfx-vac-backup Docs <https://pcdshub.github.io/lcls-plc-mfx-vac-backup>`_
     * - `pcdshub/lcls-plc-motion-abstraction-sample <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample>`_
-      - `75184a8 <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/75184a81a8e33a533369c400e8bb098b0bbd6a63>`_
+      - `b4b61ad <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/b4b61ad42f6f1568482f10fbc2317a7e2eabe67f>`_
       - `pcdshub/lcls-plc-motion-abstraction-sample Docs <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
     * - `pcdshub/lcls-plc-rix-sample-delivery <https://github.com/pcdshub/lcls-plc-rix-sample-delivery>`_
       - `v1.3.0-4-ge325e99 <https://github.com/pcdshub/lcls-plc-rix-sample-delivery/tree/e325e99de9fe38f7924960bb17bc91ffd7518337>`_
