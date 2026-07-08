@@ -75,7 +75,7 @@ and other issues.
       - true
 
     * - pcdshub/lcls-plc-rixs-svls-motion
-      - 3.1.4026.15
+      - 3.1.4026.17
       - true
 
     * - pcdshub/lcls-plc-smartactmcs2-motion
@@ -549,7 +549,7 @@ Version `v1.0.0-3-g205ee93 <https://github.com/pcdshub/lcls-plc-hxr-gon/tree/205
 pcdshub/lcls-plc-hxr-vhs: plc_vhs_01
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-hxr-vhs/tree/d728a582bb4034599b908fab123d111ae260d06a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-hxr-vhs>`_
+Version `R2.0.0 <https://github.com/pcdshub/lcls-plc-hxr-vhs/tree/c8eb618cd5a484b34233a884d1c3acbf67ae4564>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-hxr-vhs>`_
 
 .. list-table:: pcdshub/lcls-plc-hxr-vhs: plc_vhs_01
     :header-rows: 1
@@ -717,7 +717,7 @@ Version `v1.1.0 <https://github.com/pcdshub/lcls-plc-kfe-n2/tree/5d63f8164e79d3a
 pcdshub/lcls-plc-lps-02: lcls_plc_lps_02
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.0.0 <https://github.com/pcdshub/lcls-plc-lps-02/tree/af10199d0eab4820bbb28877b49a1f181d6949e5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lps-02>`_
+Version `v2.0.0-2-g43bdce2 <https://github.com/pcdshub/lcls-plc-lps-02/tree/43bdce285183ac2350855662ad07a37e339892e9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-lps-02>`_
 
 .. list-table:: pcdshub/lcls-plc-lps-02: lcls_plc_lps_02
     :header-rows: 1
@@ -1221,7 +1221,7 @@ Version `v1.3.0-4-ge325e99 <https://github.com/pcdshub/lcls-plc-rix-sample-deliv
 pcdshub/lcls-plc-rixs-svls-motion: SVLS_MOT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion/tree/3bde2993e43d31e954fad1b5a8be74d3dc9382c6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-svls-motion>`_
+Version `v1.2.0~1 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion/tree/bd5bc3a59d5b234fcdf0f144d47546c0e31582c1>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-rixs-svls-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-rixs-svls-motion: SVLS_MOT
     :header-rows: 1
@@ -1236,14 +1236,14 @@ Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion
 
       - ``*`` SLAC
 
-      - ``2.11.0`` SLAC
+      - ``2.12.0`` SLAC
 
     * - PMPS
       -
 
       - ``*`` SLAC
 
-      - ``3.3.0`` SLAC
+      - ``3.4.1`` SLAC
 
     * - SysDir
       -
@@ -1271,21 +1271,21 @@ Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion
 
       -
 
-      - ``3.4.4.0`` Beckhoff
+      - ``3.4.5.0`` Beckhoff
 
     * - Tc2_MC2
       -
 
       - ``*`` Beckhoff
 
-      - ``3.3.65.0`` Beckhoff
+      - ``3.3.69.0`` Beckhoff
 
     * - Tc2_Math
       -
 
       -
 
-      - ``3.4.4.0`` Beckhoff
+      - ``3.5.1.0`` Beckhoff
 
     * - Tc2_ModbusSrv
       -
@@ -1313,7 +1313,7 @@ Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion
 
       - ``*`` Beckhoff
 
-      - ``3.6.4.0`` Beckhoff
+      - ``3.9.1.0`` Beckhoff
 
     * - Tc2_TcpIp
       -
@@ -1329,33 +1329,26 @@ Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion
 
       - ``3.9.2.0`` Beckhoff
 
-    * - Tc3_DynamicMemory
-      -
-
-      -
-
-      - ``1.1.4.0`` Beckhoff
-
     * - Tc3_EventLogger
       -
 
       -
 
-      - ``3.3.11.0`` Beckhoff
+      - ``3.3.13.0`` Beckhoff
 
     * - Tc3_IPCDiag
       -
 
       -
 
-      - ``1.2.1.0`` Beckhoff
+      - ``1.2.2.0`` Beckhoff
 
     * - Tc3_JsonXml
       -
 
       -
 
-      - ``3.4.5.0`` Beckhoff
+      - ``3.4.7.0`` Beckhoff
 
     * - Tc3_Module
       -
@@ -1383,7 +1376,7 @@ Version `v1.1.0-5-g3bde299 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion
 
       - ``*`` SLAC
 
-      - ``4.2.0`` SLAC
+      - ``4.4.0`` SLAC
 
 
 pcdshub/lcls-plc-smartactmcs2-motion: smartactmcs2
@@ -1935,7 +1928,7 @@ Version `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da495
 pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `0c85efc <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/0c85efcea2b5321a3e6341f8029800bde80e4cc3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
+Version `b2c8af0 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b2c8af0c383f4fadbeb5f07b5af66d9c03424fe2>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-ued-sample-delivery>`_
 
 .. list-table:: pcdshub/lcls-plc-ued-sample-delivery: PLC_UED_SDS
     :header-rows: 1
@@ -2033,7 +2026,7 @@ Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-fpms/tree/6957fe20fdc62
 pcdshub/lcls-plc-xcs-sample-delivery: sample-delivery
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f976c5bd1416678118cd8f74c8ebfe5cf8dd43a5>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xcs-sample-delivery>`_
+Version `v1.0.0-2-g1ba1b3d <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/1ba1b3d53f8dcb7e8453ddfe206f593d253a6d16>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xcs-sample-delivery>`_
 
 .. list-table:: pcdshub/lcls-plc-xcs-sample-delivery: sample-delivery
     :header-rows: 1
@@ -2082,7 +2075,7 @@ Version `v1.0.0 <https://github.com/pcdshub/lcls-plc-xcs-sample-delivery/tree/f9
 pcdshub/lcls-plc-xpp-atds: lcls_plc_xpp_atds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/816cf329dec1a343280819027e2a2627c30635f6>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
+Version `c4a6aee <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/c4a6aee55a2b326fc095a91058e75db196f86268>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-atds>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-atds: lcls_plc_xpp_atds
     :header-rows: 1
@@ -2124,7 +2117,7 @@ Version `v1.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-atds/tree/816cf329dec
 pcdshub/lcls-plc-xpp-lodcm: xpp_lodcm
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `1d3d003 <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/1d3d003adee515bd4b09fb3566996fdc74ea0c6a>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-lodcm>`_
+Version `abbc01c <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/abbc01ce3b60cebeb1c378f29c44e724b818d214>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-lodcm>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-lodcm: xpp_lodcm
     :header-rows: 1
@@ -2299,7 +2292,7 @@ Version `1d3d003 <https://github.com/pcdshub/lcls-plc-xpp-lodcm/tree/1d3d003adee
 pcdshub/lcls-plc-xpp-motion: xpp_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v1.0.0-32-g34398ac <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/34398ac5482934b880ee9aa4b675634353f6ed91>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
+Version `v1.0.0-34-ga6f85ce <https://github.com/pcdshub/lcls-plc-xpp-motion/tree/a6f85ce4e4b1241937b91c234c78463fc0d829de>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-motion: xpp_motion
     :header-rows: 1
@@ -2411,7 +2404,7 @@ Version `v1.0.0-32-g34398ac <https://github.com/pcdshub/lcls-plc-xpp-motion/tree
 pcdshub/lcls-plc-xpp-pulsepicker-motion: xpp_pulsepicker_motion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `50fb494 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/50fb4943167b63a2a003a57deaf3acf67a32d489>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
+Version `e572d56 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e572d56473e5709322aeb4d229901afd1dc7530b>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-pulsepicker-motion: xpp_pulsepicker_motion
     :header-rows: 1
@@ -2572,7 +2565,7 @@ Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f622e40e5de7
 pcdshub/lcls-plc-xpp-vac: plc_xpp_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/cafbd90645757ec7cc564135bb6701ae2765c33d>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
+Version `1899601 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/1899601f242b98cc276808754da71be11b1ea0f9>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-vac>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-vac: plc_xpp_vac
     :header-rows: 1
@@ -2628,7 +2621,7 @@ Version `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/cafbd9064575
 pcdshub/lcls-plc-xrt-vacuum: plc_xrt_vac
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version `v2.0.1~1 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/418a2648c50826b778ed9f6bc141a932082fd5ae>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
+Version `8355295 <https://github.com/pcdshub/lcls-plc-xrt-vacuum/tree/835529562152aef8836ad11ed59c52a405c33ab3>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xrt-vacuum>`_
 
 .. list-table:: pcdshub/lcls-plc-xrt-vacuum: plc_xrt_vac
     :header-rows: 1
@@ -9348,7 +9341,7 @@ LCLS General
 
       - ``*``, SLAC
 
-      - ``2.11.0``, SLAC
+      - ``2.12.0``, SLAC
 
 
     * - unknown:tmo_motion
@@ -10633,7 +10626,7 @@ lcls-twincat-motion
 
       - ``*``, SLAC
 
-      - ``4.2.0``, SLAC
+      - ``4.4.0``, SLAC
 
 
     * - unknown:tmo_motion
@@ -12712,7 +12705,7 @@ PMPS
 
       - ``*``, SLAC
 
-      - ``3.3.0``, SLAC
+      - ``3.4.1``, SLAC
 
 
     * - unknown:tmo_motion
@@ -14399,7 +14392,7 @@ Tc2_IoFunctions
 
       -
 
-      - ``3.4.4.0``, Beckhoff
+      - ``3.4.5.0``, Beckhoff
 
 
     * - unknown:tmo_motion
@@ -14675,7 +14668,7 @@ Tc2_Math
 
       -
 
-      - ``3.4.4.0``, Beckhoff
+      - ``3.5.1.0``, Beckhoff
 
 
     * - unknown:tmo_motion
@@ -15042,7 +15035,7 @@ Tc2_MC2
 
       - ``*``, Beckhoff
 
-      - ``3.3.65.0``, Beckhoff
+      - ``3.3.69.0``, Beckhoff
 
 
     * - unknown:tmo_motion
@@ -17558,7 +17551,7 @@ Tc2_System
 
       - ``*``, Beckhoff
 
-      - ``3.6.4.0``, Beckhoff
+      - ``3.9.1.0``, Beckhoff
 
 
     * - unknown:tmo_motion
@@ -18622,13 +18615,6 @@ Tc3_DynamicMemory
 
 
 
-    * - pcdshub/lcls-plc-rixs-svls-motion:SVLS_MOT
-      -
-
-      -
-
-      - ``1.1.4.0``, Beckhoff
-
 
 
 
@@ -18896,7 +18882,7 @@ Tc3_EventLogger
 
       -
 
-      - ``3.3.11.0``, Beckhoff
+      - ``3.3.13.0``, Beckhoff
 
 
     * - unknown:tmo_motion
@@ -19224,7 +19210,7 @@ Tc3_IPCDiag
 
       -
 
-      - ``1.2.1.0``, Beckhoff
+      - ``1.2.2.0``, Beckhoff
 
 
 
@@ -19479,7 +19465,7 @@ Tc3_JsonXml
 
       -
 
-      - ``3.4.5.0``, Beckhoff
+      - ``3.4.7.0``, Beckhoff
 
 
     * - unknown:tmo_motion
