@@ -10,34 +10,34 @@ This summary was generated |today|.
       - Version
       - Documentation
     * - `pcdshub/lcls-plc-cxi-sample-delivery <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery>`_
-      - `2e3b000 <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/2e3b000eb9fd8892fd5ea1c1eb5f47f0add55e92>`_
+      - `83050ea <https://github.com/pcdshub/lcls-plc-cxi-sample-delivery/tree/83050ea65c74c402e0ec5c268ede673d6d724451>`_
       - `pcdshub/lcls-plc-cxi-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-cxi-sample-delivery>`_
     * - `pcdshub/lcls-plc-e727-motion <https://github.com/pcdshub/lcls-plc-e727-motion>`_
       - `4b110cf <https://github.com/pcdshub/lcls-plc-e727-motion/tree/4b110cfbebdd20b46a6e6dc30bdbf4134ee30b76>`_
       - `pcdshub/lcls-plc-e727-motion Docs <https://pcdshub.github.io/lcls-plc-e727-motion>`_
     * - `pcdshub/lcls-plc-hxr-gon <https://github.com/pcdshub/lcls-plc-hxr-gon>`_
-      - `v1.0.0-3-g205ee93 <https://github.com/pcdshub/lcls-plc-hxr-gon/tree/205ee93c59b5319c1e65c60dffff507dea303aeb>`_
+      - `v1.0.0-5-gcb3a155 <https://github.com/pcdshub/lcls-plc-hxr-gon/tree/cb3a15589c31a82257974332ab55deec1505f51a>`_
       - `pcdshub/lcls-plc-hxr-gon Docs <https://pcdshub.github.io/lcls-plc-hxr-gon>`_
     * - `pcdshub/lcls-plc-hxr-vhs <https://github.com/pcdshub/lcls-plc-hxr-vhs>`_
       - `R2.0.0 <https://github.com/pcdshub/lcls-plc-hxr-vhs/tree/c8eb618cd5a484b34233a884d1c3acbf67ae4564>`_
       - `pcdshub/lcls-plc-hxr-vhs Docs <https://pcdshub.github.io/lcls-plc-hxr-vhs>`_
     * - `pcdshub/lcls-plc-icl-sample-delivery <https://github.com/pcdshub/lcls-plc-icl-sample-delivery>`_
-      - `781f30c <https://github.com/pcdshub/lcls-plc-icl-sample-delivery/tree/781f30c01c36149ff5a0a69e73f0625f858d2ad6>`_
+      - `d49ea2f <https://github.com/pcdshub/lcls-plc-icl-sample-delivery/tree/d49ea2f31a43634261f6566eb996eaa448573cba>`_
       - `pcdshub/lcls-plc-icl-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-icl-sample-delivery>`_
     * - `pcdshub/lcls-plc-kfe-n2 <https://github.com/pcdshub/lcls-plc-kfe-n2>`_
-      - `v1.1.0 <https://github.com/pcdshub/lcls-plc-kfe-n2/tree/5d63f8164e79d3a2c15dce01606cfd548acc67e2>`_
+      - `v1.1.0-2-g1caa946 <https://github.com/pcdshub/lcls-plc-kfe-n2/tree/1caa946a298a5bc9eee80aed8b7c378152be3e6c>`_
       - `pcdshub/lcls-plc-kfe-n2 Docs <https://pcdshub.github.io/lcls-plc-kfe-n2>`_
     * - `pcdshub/lcls-plc-lps-02 <https://github.com/pcdshub/lcls-plc-lps-02>`_
       - `v2.0.0-2-g43bdce2 <https://github.com/pcdshub/lcls-plc-lps-02/tree/43bdce285183ac2350855662ad07a37e339892e9>`_
       - `pcdshub/lcls-plc-lps-02 Docs <https://pcdshub.github.io/lcls-plc-lps-02>`_
     * - `pcdshub/lcls-plc-mec-motion <https://github.com/pcdshub/lcls-plc-mec-motion>`_
-      - `v1.1.1~1 <https://github.com/pcdshub/lcls-plc-mec-motion/tree/841189fd0b9ae8ae9c632b173163504bf93a3ea4>`_
+      - `v1.0.1-20-g8554bb1 <https://github.com/pcdshub/lcls-plc-mec-motion/tree/8554bb139b2ae7742a197a19d5b8903a78b32264>`_
       - `pcdshub/lcls-plc-mec-motion Docs <https://pcdshub.github.io/lcls-plc-mec-motion>`_
     * - `pcdshub/lcls-plc-mfx-bsm <https://github.com/pcdshub/lcls-plc-mfx-bsm>`_
-      - `c0583a5 <https://github.com/pcdshub/lcls-plc-mfx-bsm/tree/c0583a5d03f2d98a881b74ebb0ef81a2574e13a8>`_
+      - `ff13bd4 <https://github.com/pcdshub/lcls-plc-mfx-bsm/tree/ff13bd40658d5ebe91d87b9c2540019d4b2a5151>`_
       - `pcdshub/lcls-plc-mfx-bsm Docs <https://pcdshub.github.io/lcls-plc-mfx-bsm>`_
     * - `pcdshub/lcls-plc-mfx-sample-delivery <https://github.com/pcdshub/lcls-plc-mfx-sample-delivery>`_
-      - `v1.0.0 <https://github.com/pcdshub/lcls-plc-mfx-sample-delivery/tree/bfd18925f85b3079c9d23f08fade0c40f6e9c8db>`_
+      - `v1.0.0-2-ge48bdd8 <https://github.com/pcdshub/lcls-plc-mfx-sample-delivery/tree/e48bdd864d07d8c8d53f79d13c29b417de5e055d>`_
       - `pcdshub/lcls-plc-mfx-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-mfx-sample-delivery>`_
     * - `pcdshub/lcls-plc-mfx-vac-backup <https://github.com/pcdshub/lcls-plc-mfx-vac-backup>`_
       - `14367c6 <https://github.com/pcdshub/lcls-plc-mfx-vac-backup/tree/14367c697f1c6f22c75d3429a821f75ee5140613>`_
@@ -46,7 +46,7 @@ This summary was generated |today|.
       - `b4b61ad <https://github.com/pcdshub/lcls-plc-motion-abstraction-sample/tree/b4b61ad42f6f1568482f10fbc2317a7e2eabe67f>`_
       - `pcdshub/lcls-plc-motion-abstraction-sample Docs <https://pcdshub.github.io/lcls-plc-motion-abstraction-sample>`_
     * - `pcdshub/lcls-plc-rix-sample-delivery <https://github.com/pcdshub/lcls-plc-rix-sample-delivery>`_
-      - `v1.3.0-4-ge325e99 <https://github.com/pcdshub/lcls-plc-rix-sample-delivery/tree/e325e99de9fe38f7924960bb17bc91ffd7518337>`_
+      - `v1.3.0-6-g429924a <https://github.com/pcdshub/lcls-plc-rix-sample-delivery/tree/429924aa4dbfad4e2ddd13f008659b0aaced345e>`_
       - `pcdshub/lcls-plc-rix-sample-delivery Docs <https://pcdshub.github.io/lcls-plc-rix-sample-delivery>`_
     * - `pcdshub/lcls-plc-rixs-svls-motion <https://github.com/pcdshub/lcls-plc-rixs-svls-motion>`_
       - `v1.2.0~1 <https://github.com/pcdshub/lcls-plc-rixs-svls-motion/tree/bd5bc3a59d5b234fcdf0f144d47546c0e31582c1>`_
@@ -55,16 +55,16 @@ This summary was generated |today|.
       - `5538da6 <https://github.com/pcdshub/lcls-plc-smartactmcs2-motion/tree/5538da62e6a531905417be711d426ac55d671401>`_
       - `pcdshub/lcls-plc-smartactmcs2-motion Docs <https://pcdshub.github.io/lcls-plc-smartactmcs2-motion>`_
     * - `pcdshub/lcls-plc-tmo-mbes-motion <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion>`_
-      - `v1.0.0-5-g2c62612 <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/2c6261228f85634a41b7cbb7baf03e0a3f007ed9>`_
+      - `v1.0.0-7-g1ff0cdd <https://github.com/pcdshub/lcls-plc-tmo-mbes-motion/tree/1ff0cddddd36f8e4a17f4615d6d40d1e623fbb9a>`_
       - `pcdshub/lcls-plc-tmo-mbes-motion Docs <https://pcdshub.github.io/lcls-plc-tmo-mbes-motion>`_
     * - `pcdshub/lcls-plc-tmo-mbes-vac <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac>`_
-      - `v2.0.0~1 <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/0f21b6f6411e82642339e03f32731cc178209623>`_
+      - `V1.0.0-22-g0c3f3ef <https://github.com/pcdshub/lcls-plc-tmo-mbes-vac/tree/0c3f3ef4723c77c825741b0baddfbf05cb40fc4f>`_
       - `pcdshub/lcls-plc-tmo-mbes-vac Docs <https://pcdshub.github.io/lcls-plc-tmo-mbes-vac>`_
     * - `pcdshub/lcls-plc-txi-dccm <https://github.com/pcdshub/lcls-plc-txi-dccm>`_
       - `f08f8da <https://github.com/pcdshub/lcls-plc-txi-dccm/tree/f08f8da554a808346182712fbb07bdd696f333f1>`_
       - `pcdshub/lcls-plc-txi-dccm Docs <https://pcdshub.github.io/lcls-plc-txi-dccm>`_
     * - `pcdshub/lcls-plc-txi-sxr-motion <https://github.com/pcdshub/lcls-plc-txi-sxr-motion>`_
-      - `v2.1.1~1 <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/da49568c616e9cc3929869d96698b68e99336e68>`_
+      - `v1.2.3-24-g0d7499e <https://github.com/pcdshub/lcls-plc-txi-sxr-motion/tree/0d7499e2bdd9eadbfbdd3ae64c9f47323295f0eb>`_
       - `pcdshub/lcls-plc-txi-sxr-motion Docs <https://pcdshub.github.io/lcls-plc-txi-sxr-motion>`_
     * - `pcdshub/lcls-plc-ued-sample-delivery <https://github.com/pcdshub/lcls-plc-ued-sample-delivery>`_
       - `b2c8af0 <https://github.com/pcdshub/lcls-plc-ued-sample-delivery/tree/b2c8af0c383f4fadbeb5f07b5af66d9c03424fe2>`_
