@@ -88,7 +88,7 @@ This summary was generated |today|.
       - `e572d56 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tree/e572d56473e5709322aeb4d229901afd1dc7530b>`_
       - `pcdshub/lcls-plc-xpp-pulsepicker-motion Docs <https://pcdshub.github.io/lcls-plc-xpp-pulsepicker-motion>`_
     * - `pcdshub/lcls-plc-xpp-tfs <https://github.com/pcdshub/lcls-plc-xpp-tfs>`_
-      - `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f622e40e5de709f6b2851007acf469b58e6439dd>`_
+      - `8cb67f9 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/8cb67f9514049d7512795fa07f64e2bed8bb8b38>`_
       - `pcdshub/lcls-plc-xpp-tfs Docs <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
     * - `pcdshub/lcls-plc-xpp-vac <https://github.com/pcdshub/lcls-plc-xpp-vac>`_
       - `1899601 <https://github.com/pcdshub/lcls-plc-xpp-vac/tree/1899601f242b98cc276808754da71be11b1ea0f9>`_

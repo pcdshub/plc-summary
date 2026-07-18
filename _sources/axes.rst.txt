@@ -570,7 +570,7 @@ Version `e572d56 <https://github.com/pcdshub/lcls-plc-xpp-pulsepicker-motion/tre
 pcdshub/lcls-plc-xpp-tfs
 ------------------------
 
-Version `v1.1.0~1 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/f622e40e5de709f6b2851007acf469b58e6439dd>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
+Version `8cb67f9 <https://github.com/pcdshub/lcls-plc-xpp-tfs/tree/8cb67f9514049d7512795fa07f64e2bed8bb8b38>`_ - `Documentation <https://pcdshub.github.io/lcls-plc-xpp-tfs>`_
 
 .. list-table:: pcdshub/lcls-plc-xpp-tfs Axes
     :header-rows: 1
